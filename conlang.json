@@ -44,6 +44,11 @@
         "la": "장소 / 시간"
     },
     "Verb": {
+        "Setting-Verb": {
+            "N1": "모든 형용사는 동사로 취급하며 'Verb'에 동사와 함께 기록된다.",
+            "N2": "동사는 'use'의 '1', '2', '3' 규칙 중 하나를 사용할 때는 서술형이다. example: Ele otor aes(사람이 질주하다/사람이 달리다)",
+            "N3": "동사는 명사 앞에 오면 명사를 수식한다. 단, (Tense/Status)는 다음과 같이 적용된다. '(Tense/Status) Verb Noun'. example: Atar aes ele(질주하는 사람/달리는 사람)"
+        },
         "aeg": { "meaning": "이동하다", "use": { "1": "주체 (Tense/Status) Aeg", "2": "주체 (Tense/Status) ti [목적지] Aeg", "3": "주체 (Tense/Status) fa [출발지] ti [목적지] su [수단] Aeg"}, "example": "Im otor fa maum ti slum su ful aeg -> 나는 공장에서 침실로 비행기를 타고 이동한다." },
         "aete": { "meaning": "교육하다", "use": { "1": "주체 (Tense/Status) Aete", "2": "주체 (Tense/Status) ti [대상] Aete", "3": "주체 (Tense/Status) ti [대상] su [내용/매체] Aete" } },
         "aewa": { "meaning": "대기하다", "use": { "1": "주체 (Tense/Status) Aewa", "2": "주체 (Tense/Status) ti [대상] Aewa", "3": "주체 (Tense/Status) ti [대상] la [장소] Aewa" } },
@@ -53,7 +58,7 @@
         "aep": { "meaning": "여가를 즐기다", "use": { "1": "주체 (Tense/Status) Aep", "2": "주체 (Tense/Status) ti [활동내용] Aep", "3": "주체 (Tense/Status) ti [활동내용] la [장소] Aep" } },
         "aeup": { "meaning": "가압하다", "use": { "1": "주체 (Tense/Status) Aeup", "2": "주체 (Tense/Status) ti [대상] Aeup", "3": "주체 (Tense/Status) ti [대상] su [압력정도/도구] Aeup" } },
         "aec": { "meaning": "폐쇄하다", "use": { "1": "주체 (Tense/Status) Aec", "2": "주체 (Tense/Status) ti [대상] Aec", "3": "주체 (Tense/Status) ti [대상] su [수단/도구] Aec" } },
-        "aes": { "meaning": "질주하다", "use": { "1": "주체 (Tense/Status) Aes", "2": "주체 (Tense/Status) ti [목적지] Aes", "3": "주체 (Tense/Status) fa [경로] ti [목적지] Aes" } },
+        "aes": { "meaning": "질주하다(달리다)", "use": { "1": "주체 (Tense/Status) Aes", "2": "주체 (Tense/Status) ti [목적지] Aes", "3": "주체 (Tense/Status) fa [경로] ti [목적지] Aes" } },
         "aet": { "meaning": "투척하다", "use": { "1": "주체 (Tense/Status) Aet", "2": "주체 (Tense/Status) ti [물건] Aet", "3": "주체 (Tense/Status) su [물건] ti [목표물] Aet" } },
         "aek": { "meaning": "보살피다", "use": { "1": "주체 (Tense/Status) Aek", "2": "주체 (Tense/Status) ti [대상] Aek", "3": "주체 (Tense/Status) ti [대상] su [방식/도구] Aek" } },
         "aeir": { "meaning": "돕다", "use": { "1": "주체 (Tense/Status) Aeir", "2": "주체 (Tense/Status) ti [대상] Aeir", "3": "주체 (Tense/Status) ti [대상] su [수단] Aeir" } },
@@ -94,7 +99,8 @@
         "aezo": { "meaning": "소리 지르다", "use": { "1": "주체 (Tense/Status) Aezo", "2": "주체 (Tense/Status) ti [청자] Aezo", "3": "주체 (Tense/Status) ti [청자] su [내용] Aezo" } },
         "aels": { "meaning": "속삭이다", "use": { "1": "주체 (Tense/Status) Aels", "2": "주체 (Tense/Status) ti [청자] Aels", "3": "주체 (Tense/Status) ti [청자] su [내용] Aels" } },
         "aelc": { "meaning": "의사소통하다", "use": { "1": "주체 (Tense/Status) Aelc", "2": "주체 (Tense/Status) ti [상대] Aelc", "3": "주체 (Tense/Status) ti [상대] su [주제] Aelc" } },
-        "aesk": { "meaning": "질문하다", "use": { "1": "주체 (Tense/Status) Aesk", "2": "주체 (Tense/Status) ti [대상] Aesk", "3": "주체 (Tense/Status) ti [대상] su [질문내용] Aesk" } }
+        "aesk": { "meaning": "질문하다", "use": { "1": "주체 (Tense/Status) Aesk", "2": "주체 (Tense/Status) ti [대상] Aesk", "3": "주체 (Tense/Status) ti [대상] su [질문내용] Aesk" } },
+        "aetuat": { "meaning": "빠르다", "use": { "1": "주체 (Tense/Status) aetuat", "2": "주체 (Tense/Status) ti [기준] aetuat", "3": "주체 (Tense/Status) su [수단/수치] aetuat"}}
     },
     "Suffix": {
         "-io":"동사 자체를 추상 명사로 변환.",

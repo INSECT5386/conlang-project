@@ -1,0 +1,380 @@
+{
+    "Im": {
+        "type": "대명사",
+        "meaning": "나"
+    },
+    "Um": {
+        "type": "대명사",
+        "meaning": "너"
+    },
+    "Uim": {
+        "type": "대명사",
+        "meaning": "우리"
+    },
+    "Em": {
+        "type": "대명사",
+        "meaning": "그"
+    },
+    "Am": {
+        "type": "대명사",
+        "meaning": "그녀"
+    },
+    "Utm": {
+        "type": "대명사",
+        "meaning": "그것"
+    },
+    "Otm": {
+        "type": "대명사",
+        "meaning": "저것"
+    },
+    "Atm": {
+        "type": "대명사",
+        "meaning": "이것"
+    },
+    "(Tense/Status)": {
+        "utur": { "meaning": "미래 시제" },
+        "utar": { "meaning": "과거 시제" },
+        "otor": { "meaning": "현재" },
+        "atar": { "meaning": "진형형" }
+    },
+    "Maker": {
+        "ti": "목적지 / 대상",
+        "fa": "출발지 / 원천",
+        "su": "수단 / 도구 / 재료",
+        "la": "장소 / 시간"
+    },
+    "Verb": {
+        "aeg": { "meaning": "이동", "use": { "1": "주체 (Tense/Status) Aeg", "2": "주체 (Tense/Status) ti [목적지] Aeg", "3": "주체 (Tense/Status) fa [출발지] ti [목적지] su [수단] Aeg"}, "example": "Im otor fa maum ti slum su ful aeg -> 나는 공장에서 침실로 비행기를 타고 이동한다." },
+        "aete": { "meaning": "교육", "use": { "1": "주체 (Tense/Status) Aete", "2": "주체 (Tense/Status) ti [대상] Aete", "3": "주체 (Tense/Status) ti [대상] su [내용/매체] Aete" } },
+        "aewa": { "meaning": "대기", "use": { "1": "주체 (Tense/Status) Aewa", "2": "주체 (Tense/Status) ti [대상] Aewa", "3": "주체 (Tense/Status) ti [대상] la [장소] Aewa" } },
+        "aeta": { "meaning": "사육", "use": { "1": "주체 (Tense/Status) Aeta", "2": "주체 (Tense/Status) ti [대상] Aeta", "3": "주체 (Tense/Status) ti [대상] su [수단/사료] Aeta" } },
+        "aefo": { "meaning": "수리", "use": { "1": "주체 (Tense/Status) Aefo", "2": "주체 (Tense/Status) ti [대상] Aefo", "3": "주체 (Tense/Status) ti [대상] su [도구] la [장소] Aefo" } },
+        "aef": { "meaning": "비행", "use": { "1": "주체 (Tense/Status) Aef", "2": "주체 (Tense/Status) ti [목적지] Aef", "3": "주체 (Tense/Status) fa [경로/출발] ti [목적지] Aef" } },
+        "aep": { "meaning": "여가", "use": { "1": "주체 (Tense/Status) Aep", "2": "주체 (Tense/Status) ti [활동내용] Aep", "3": "주체 (Tense/Status) ti [활동내용] la [장소] Aep" } },
+        "aeup": { "meaning": "가압", "use": { "1": "주체 (Tense/Status) Aeup", "2": "주체 (Tense/Status) ti [대상] Aeup", "3": "주체 (Tense/Status) ti [대상] su [압력정도/도구] Aeup" } },
+        "aec": { "meaning": "폐쇄", "use": { "1": "주체 (Tense/Status) Aec", "2": "주체 (Tense/Status) ti [대상] Aec", "3": "주체 (Tense/Status) ti [대상] su [수단/도구] Aec" } },
+        "aes": { "meaning": "질주", "use": { "1": "주체 (Tense/Status) Aes", "2": "주체 (Tense/Status) ti [목적지] Aes", "3": "주체 (Tense/Status) fa [경로] ti [목적지] Aes" } },
+        "aet": { "meaning": "투척", "use": { "1": "주체 (Tense/Status) Aet", "2": "주체 (Tense/Status) ti [물건] Aet", "3": "주체 (Tense/Status) su [물건] ti [목표물] Aet" } },
+        "aek": { "meaning": "보살핌", "use": { "1": "주체 (Tense/Status) Aek", "2": "주체 (Tense/Status) ti [대상] Aek", "3": "주체 (Tense/Status) ti [대상] su [방식/도구] Aek" } },
+        "aeir": { "meaning": "조력", "use": { "1": "주체 (Tense/Status) Aeir", "2": "주체 (Tense/Status) ti [대상] Aeir", "3": "주체 (Tense/Status) ti [대상] su [수단] Aeir" } },
+        "aegr": { "meaning": "추종/추적", "use": { "1": "주체 (Tense/Status) Aegr", "2": "주체 (Tense/Status) ti [대상] Aegr", "3": "주체 (Tense/Status) ti [대상] fa [경로/기점] Aegr" } },
+        "aetir": { "meaning": "모방", "use": { "1": "주체 (Tense/Status) Aetir", "2": "주체 (Tense/Status) ti [대상] Aetir", "3": "주체 (Tense/Status) ti [대상] su [행위/방식] Aetir" } },
+        "aetu": { "meaning": "주입", "use": { "1": "주체 (Tense/Status) Aetu", "2": "주체 (Tense/Status) ti [내용/물질] Aetu", "3": "주체 (Tense/Status) su [내용] ti [대상] Aetu" } },
+        "aelu": { "meaning": "낙하", "use": { "1": "주체 (Tense/Status) Aelu", "2": "주체 (Tense/Status) ti [지점] Aelu", "3": "주체 (Tense/Status) fa [출발점] ti [지점] Aelu" } },
+        "aei": { "meaning": "도약", "use": { "1": "주체 (Tense/Status) Aei", "2": "주체 (Tense/Status) ti [목표높이] Aei", "3": "주체 (Tense/Status) fa [지면] ti [목표높이] Aei" } },
+        "aeal": { "meaning": "음용", "use": { "1": "주체 (Tense/Status) Aeal", "2": "주체 (Tense/Status) ti [액체] Aeal", "3": "주체 (Tense/Status) ti [액체] su [도구] Aeal" } },
+        "aem": { "meaning": "대면", "use": { "1": "주체 (Tense/Status) Aem", "2": "주체 (Tense/Status) ti [대상] Aem", "3": "주체 (Tense/Status) ti [대상] la [장소] Aem" } },
+        "aema": { "meaning": "제작", "use": { "1": "주체 (Tense/Status) Aema", "2": "주체 (Tense/Status) ti [결과물] Aema", "3": "주체 (Tense/Status) ti [결과물] su [재료] Aema" } },
+        "aetou": { "meaning": "접촉", "use": { "1": "주체 (Tense/Status) Aetou", "2": "주체 (Tense/Status) ti [대상] Aetou", "3": "주체 (Tense/Status) ti [대상] la [부위/장소] Aetou" } },
+        "aer": { "meaning": "섭취", "use": { "1": "주체 (Tense/Status) Aer", "2": "주체 (Tense/Status) ti [음식] Aer", "3": "주체 (Tense/Status) ti [음식] su [도구] Aer" } },
+        "aeze": { "meaning": "수령", "use": { "1": "주체 (Tense/Status) Aeze", "2": "주체 (Tense/Status) ti [물건/신호] Aeze", "3": "주체 (Tense/Status) fa [발신자] ti [물건/신호] Aeze" } },
+        "aelo": { "meaning": "시청/관찰", "use": { "1": "주체 (Tense/Status) Aelo", "2": "주체 (Tense/Status) ti [대상] Aelo", "3": "주체 (Tense/Status) ti [대상] su [도구] Aelo" } },
+        "aebo": { "meaning": "파괴", "use": { "1": "주체 (Tense/Status) Aebo", "2": "주체 (Tense/Status) ti [대상] Aebo", "3": "주체 (Tense/Status) ti [대상] su [수단] Aebo" } },
+        "aeop": { "meaning": "기립", "use": { "1": "주체 (Tense/Status) Aeop", "2": "주체 (Tense/Status) la [장소] Aeop", "3": "주체 (Tense/Status) fa [지면] la [장소] Aeop" } },
+        "aeso": { "meaning": "은폐", "use": { "1": "주체 (Tense/Status) Aeso", "2": "주체 (Tense/Status) ti [대상] Aeso", "3": "주체 (Tense/Status) ti [대상] la [장소] Aeso" } },
+        "aelit": { "meaning": "휴식", "use": { "1": "주체 (Tense/Status) Aelit", "2": "주체 (Tense/Status) la [시간] Aelit", "3": "주체 (Tense/Status) la [시간/장소] Aelit" } },
+        "aetur": { "meaning": "식재", "use": { "1": "주체 (Tense/Status) Aetur", "2": "주체 (Tense/Status) ti [식물] Aetur", "3": "주체 (Tense/Status) ti [식물] la [토양] Aetur" } },
+        "aeur": { "meaning": "착석", "use": { "1": "주체 (Tense/Status) Aeur", "2": "주체 (Tense/Status) ti [좌석] Aeur", "3": "주체 (Tense/Status) fa [이전위치] ti [좌석] Aeur" } },
+        "aeun": { "meaning": "비존재", "use": { "1": "주체 (Tense/Status) Aeun", "2": "주체 (Tense/Status) la [장소] Aeun", "3": "주체 (Tense/Status) la [시간/장소] Aeun" } },
+        "aein": { "meaning": "존재", "use": { "1": "주체 (Tense/Status) Aein", "2": "주체 (Tense/Status) la [장소] Aein", "3": "주체 (Tense/Status) la [시간/장소] Aein" } },
+        "aecr": { "meaning": "개방", "use": { "1": "주체 (Tense/Status) Aecr", "2": "주체 (Tense/Status) ti [대상] Aecr", "3": "주체 (Tense/Status) ti [대상] su [수단] Aecr" } },
+        "aeol": { "meaning": "착용", "use": { "1": "주체 (Tense/Status) Aeol", "2": "주체 (Tense/Status) ti [의복/장비] Aeol", "3": "주체 (Tense/Status) la [부위] ti [의복/장비] Aeol" } },
+        "aesl": { "meaning": "취침", "use": { "1": "주체 (Tense/Status) Aesl", "2": "주체 (Tense/Status) la [시간] Aesl", "3": "주체 (Tense/Status) la [시간/장소] Aesl" } },
+        "aekir": { "meaning": "성장", "use": { "1": "주체 (Tense/Status) Aekir", "2": "주체 (Tense/Status) ti [목표치] Aekir", "3": "주체 (Tense/Status) fa [현재치] ti [목표치] Aekir" } },
+        "aeku": { "meaning": "절단", "use": { "1": "주체 (Tense/Status) Aeku", "2": "주체 (Tense/Status) ti [대상] Aeku", "3": "주체 (Tense/Status) ti [대상] su [도구] Aeku" } },
+        "aeca": { "meaning": "파지", "use": { "1": "주체 (Tense/Status) Aeca", "2": "주체 (Tense/Status) ti [대상] Aeca", "3": "주체 (Tense/Status) ti [대상] su [강도/도구] Aeca" } },
+        "aeki": { "meaning": "제공", "use": { "1": "주체 (Tense/Status) Aeki", "2": "주체 (Tense/Status) ti [대상] Aeki", "3": "주체 (Tense/Status) ti [대상] su [물건] Aeki" } },
+        "aeba": { "meaning": "사망", "use": { "1": "주체 (Tense/Status) Aeba", "2": "주체 (Tense/Status) fa [원인] Aeba", "3": "주체 (Tense/Status) fa [원인] la [장소] Aeba" } },
+        "aena": { "meaning": "생존", "use": { "1": "주체 (Tense/Status) Aena", "2": "주체 (Tense/Status) la [환경] Aena", "3": "주체 (Tense/Status) la [환경/시간] Aena" } },
+        "aetat": { "meaning": "포획", "use": { "1": "주체 (Tense/Status) Aetat", "2": "주체 (Tense/Status) ti [대상] Aetat", "3": "주체 (Tense/Status) ti [대상] su [도구] Aetat" } },
+        "aesa": { "meaning": "발화", "use": { "1": "주체 (Tense/Status) Aesa", "2": "주체 (Tense/Status) ti [청자] Aesa", "3": "주체 (Tense/Status) ti [청자] su [내용] Aesa" } },
+        "aees": { "meaning": "독해", "use": { "1": "주체 (Tense/Status) Aees", "2": "주체 (Tense/Status) ti [텍스트] Aees", "3": "주체 (Tense/Status) ti [텍스트] su [매체] Aees" } },
+        "aeer": { "meaning": "작성", "use": { "1": "주체 (Tense/Status) Aeer", "2": "주체 (Tense/Status) ti [내용] Aeer", "3": "주체 (Tense/Status) ti [내용] su [도구] Aeer" } },
+        "aeli": { "meaning": "청취", "use": { "1": "주체 (Tense/Status) Aeli", "2": "주체 (Tense/Status) ti [소리] Aeli", "3": "주체 (Tense/Status) ti [소리] su [도구/매체] Aeli" } },
+        "aezo": { "meaning": "고성", "use": { "1": "주체 (Tense/Status) Aezo", "2": "주체 (Tense/Status) ti [청자] Aezo", "3": "주체 (Tense/Status) ti [청자] su [내용] Aezo" } },
+        "aels": { "meaning": "귓속말", "use": { "1": "주체 (Tense/Status) Aels", "2": "주체 (Tense/Status) ti [청자] Aels", "3": "주체 (Tense/Status) ti [청자] su [내용] Aels" } },
+        "aelc": { "meaning": "의사소통", "use": { "1": "주체 (Tense/Status) Aelc", "2": "주체 (Tense/Status) ti [상대] Aelc", "3": "주체 (Tense/Status) ti [상대] su [주제] Aelc" } },
+        "aesk": { "meaning": "질문", "use": { "1": "주체 (Tense/Status) Aesk", "2": "주체 (Tense/Status) ti [대상] Aesk", "3": "주체 (Tense/Status) ti [대상] su [질문내용] Aesk" } }
+    },
+    "Suffix": {
+        "-io":"동사 자체를 추상 명사로 변환.",
+        "-er":"행위자.",
+        "-ea":"행위를 당하는 자",
+        "-ul": "도구/물건",
+        "-um": "장소"
+    },
+    "Noun": {
+        "Setting-Noun": {
+            "N1": "명사는 맨 앞의 ae를 생략한다.",
+            "N2": "동사로 파생이 불가능한 명사(불, 물 등) 은 무조건 -le로 끝난다."
+        },
+        "root(aef)": {
+            "fio": "비행/항공",
+            "fer": "비행기 조종자(=파일럿)",
+            "ful": "비행기",
+            "fum": "활주로/공항"
+        },
+        "root(aete)": {
+            "teio": "교육",
+            "teer": "선생님",
+            "teea": "학생",
+            "teul": "교과서"
+        },
+        "root(aefo)":{
+            "foio": "수리",
+            "foul": "수리 도구",
+            "foum": "서비스 센터"
+        },
+        "root(aesl)":{
+            "slio": "수면",
+            "slul": "침구",
+            "slum": "침실"
+        },
+        "root(aer)":{
+            "rio": "식사",
+            "rer": "식객",
+            "rul": "수저/식기",
+            "rum": "식당"
+        },
+        "root(aep)":{
+            "pio": "놀이",
+            "per": "놀이꾼",
+            "pul": "장난감",
+            "pum": "놀이터/놀이공원"
+        },
+        "root(aeta)":{
+            "taio": "사육",
+            "taer": "사육자",
+            "taea": "사육 당하는 것(길들여진 동물)",
+            "taul": "사육 도구",
+            "taum": "사육장",
+            "tatee": "사냥감/포획된 것"
+        },
+        "root(aec)":{
+            "cio": "폐쇠",
+            "cul": "폐쇠 도구(자물쇠)",
+            "cum": "폐쇠 구역"
+        },
+        "root(aeg)":{
+            "gio": "산책/조깅",
+            "ger": "걷는 자",
+            "gum": "걷는 곳(산책로/공원)"
+        },
+        "root(aetir)":{
+            "tirio": "모방/모조",
+            "tirer": "모방자(베끼는 자)",
+            "tirul": "가품/모조품"
+        },
+        "root(aeer)": {
+            "erio": "작성",
+            "erer": "작가"
+        },
+        "root(aewa)": {
+            "waio": "대기/기다림",
+            "waer": "대기자",
+            "waum": "대기실/정류장"
+        },
+        "root(aeup)": {
+            "upio": "가압/압박",
+            "upul": "압축기/펌프",
+            "upum": "압력실"
+        },
+        "root(aes)": {
+            "sio": "질주/레이싱",
+            "ser": "주자(러너)/레이서",
+            "sul": "경주차/스포츠카",
+            "sum": "트랙/경기장"
+        },
+        "root(aet)": {
+            "tio": "투척/발사",
+            "ter": "투수/발사자",
+            "tul": "투사체/미사일/공"
+        },
+        "root(aek)": {
+            "kio": "보살핌/복지",
+            "ker": "보호자/간병인",
+            "kea": "피보호자(어린이, 환자 등)",
+            "kum": "보호소/요양원"
+        },
+        "root(aeir)": {
+            "irio": "조력/지원",
+            "irer": "조력자/서포터",
+            "irul": "보조기구"
+        },
+        "root(aegr)": {
+            "grio": "추적/추종",
+            "grer": "추적자/팬(Follower)",
+            "grul": "추적기(GPS 등)"
+        },
+        "root(aetu)": {
+            "tuio": "주입/삽입",
+            "tuer": "주입기(사람)",
+            "tuul": "주사기/깔때기"
+        },
+        "root(aelu)": {
+            "luio": "낙하/추락",
+            "luer": "낙하자",
+            "luul": "낙하산",
+            "luum": "낙하지점"
+        },
+        "root(aei)": {
+            "iio": "도약/점프",
+            "ier": "도약자",
+            "iul": "트램펄린/발판"
+        },
+        "root(aeal)": {
+            "alio": "음용",
+            "aler": "음용자",
+            "alul": "컵/빨대/음료수",
+            "alum": "급수대"
+        },
+        "root(aem)": {
+            "mio": "대면/미팅",
+            "mer": "참석자",
+            "mum": "회의실/접견실"
+        },
+        "root(aema)": {
+            "maio": "제작/제조",
+            "maer": "제작자/엔지니어",
+            "maul": "제품/작품",
+            "maum": "공장/작업실"
+        },
+        "root(aetou)": {
+            "touio": "접촉/연락",
+            "touul": "센서/터치패드"
+        },
+        "root(aeze)": {
+            "zeio": "수령/수신",
+            "zeer": "수신자",
+            "zeul": "수신기/안테나"
+        },
+        "root(aelo)": {
+            "loio": "시청/관찰",
+            "loer": "관람객/관찰자",
+            "loul": "망원경/모니터",
+            "loum": "관측소/전망대"
+        },
+        "root(aebo)": {
+            "boio": "파괴/철거",
+            "boer": "파괴자",
+            "boul": "무기/망치/분쇄기",
+            "boum": "폐기장",
+            "boutarum": "유적"
+        },
+        "root(aeop)": {
+            "opio": "기립",
+            "opul": "받침대/스탠드"
+        },
+        "root(aeso)": {
+            "soio": "은폐/잠행",
+            "soul": "은폐막/위장망",
+            "soum": "은신처"
+        },
+        "root(aelit)": {
+            "litio": "휴식",
+            "litum": "휴게소/쉼터"
+        },
+        "root(aetur)": {
+            "turio": "식재/농경",
+            "turer": "농부/정원사",
+            "turul": "모종/삽",
+            "turum": "농장/화단"
+        },
+        "root(aeur)": {
+            "urio": "착석",
+            "urul": "의자/좌석"
+        },
+        "root(aein)": {
+            "inio": "존재",
+            "inea": "존재하는 것(생물/객체)"
+        },
+        "root(aecr)": {
+            "crio": "개방",
+            "crul": "열쇠/오프너"
+        },
+        "root(aeol)": {
+            "olio": "착용",
+            "olul": "옷/장비"
+        },
+        "root(aekir)": {
+            "kirio": "성장/발전",
+            "kirul": "비료/촉진제"
+        },
+        "root(aeku)": {
+            "kuio": "절단",
+            "kuul": "칼/가위"
+        },
+        "root(aeca)": {
+            "caio": "파지/파지법",
+            "caul": "손잡이/집게"
+        },
+        "root(aeki)": {
+            "kiio": "제공/기부",
+            "kier": "기부자/공급자",
+            "kiea": "수혜자",
+            "kiul": "보급품/선물"
+        },
+        "root(aeba)": {
+            "baio": "사망",
+            "baum": "무덤/장례식장"
+        },
+        "root(aena)": {
+            "naio": "생존",
+            "naer": "생존자",
+            "naul": "생존도구(서바이벌 키트)",
+            "nauturer": "후손",
+            "nautarer": "조상"
+        },
+        "root(aetat)": {
+            "tatio": "포획",
+            "tater": "사냥꾼",
+            "tatea": "사냥감",
+            "tatul": "그물/덫"
+        },
+        "root(aesa)": {
+            "aesaio": "언어/말하기",
+            "aeser": "화자",
+            "aesul": "확성기/마이크"
+        },
+        "root(aees)": {
+            "esio": "독해/읽기",
+            "eser": "독자"
+        },
+        "root(aeli)": {
+            "lilio": "청취",
+            "lilier": "청취자",
+            "liliul": "헤드셋/이어폰"
+        },
+        "root(aezo)": {
+            "zoio": "고성/외침",
+            "zoer": "소리치는 자"
+        },
+        "root(aels)": {
+            "lsio": "속삭임",
+            "lser": "속삭이는 자"
+        },
+        "root(aelc)": {
+            "lcio": "대화/소통",
+            "lcer": "대화 상대"
+        },
+        "root(aesk)": {
+            "skio": "질문/질의",
+            "sker": "질문자",
+            "skea": "답변자/피질문자"
+        },
+        "roob(basic)": {
+            "sulle": "불",
+            "ogle": "흙",
+            "olle": "물",
+            "anole": "바람",
+            "tenle": "번개/전기",
+            "ogole": "산",
+            "sle": "하늘",
+            "cle": "우주",
+            "evle": "강",
+            "onvle": "바다",
+            "ondle": "호수",
+            "ele": "사람"
+        }
+    }
+}

@@ -35,7 +35,8 @@
         "utur": { "meaning": "미래 시제" },
         "utar": { "meaning": "과거 시제" },
         "otor": { "meaning": "현재" },
-        "atar": { "meaning": "진형형" }
+        "atar": { "meaning": "진형형" },
+        "eter": { "meaning": "(Tense/Status)를 적용하지 않는다."}
     },
     "Maker": {
         "ti": "목적지 / 대상",
@@ -47,7 +48,8 @@
         "Setting-Verb": {
             "N1": "모든 형용사는 동사로 취급하며 'Verb'에 동사와 함께 기록된다.",
             "N2": "동사는 'use'의 '1', '2', '3' 규칙 중 하나를 사용할 때는 서술형이다. example: Ele otor aes(사람이 질주하다/사람이 달리다)",
-            "N3": "동사는 명사 앞에 오면 명사를 수식한다. 단, (Tense/Status)는 다음과 같이 적용된다. '(Tense/Status) Verb Noun'. example: Atar aes ele(질주하는 사람/달리는 사람)"
+            "N3": "'나는 빠르다'와 같은 문장은 'Im eter aetuat'와 같이 'eter'를 사용한다.",
+            "N4": "동사는 명사 앞에 오면 명사를 수식하고, 명사 뒤에는 항상 쉼표를 붙여 구분한다. 단, (Tense/Status)는 다음과 같이 적용된다. '(Tense/Status) Verb Noun,'. example: Atar aes ele, eter aetuat (질주하는 사람/달리는 사람은 빠르다.)"
         },
         "aeg": { "meaning": "이동하다", "use": { "1": "주체 (Tense/Status) Aeg", "2": "주체 (Tense/Status) ti [목적지] Aeg", "3": "주체 (Tense/Status) fa [출발지] ti [목적지] su [수단] Aeg"}, "example": "Im otor fa maum ti slum su ful aeg -> 나는 공장에서 침실로 비행기를 타고 이동한다." },
         "aete": { "meaning": "교육하다", "use": { "1": "주체 (Tense/Status) Aete", "2": "주체 (Tense/Status) ti [대상] Aete", "3": "주체 (Tense/Status) ti [대상] su [내용/매체] Aete" } },

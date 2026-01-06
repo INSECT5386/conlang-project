@@ -60,7 +60,7 @@
             "이것": {
                 "주격": {"Atj": "이것은/이것이"},
                 "소유격": {"Atje": "이것의"},
-                "목적격": {"Otji": "이것을"}                
+                "목적격": {"Atji": "이것을"}                
             },
             "이것들": {
                 "주격": {"Atjr": "이것들은/이것들이"},
@@ -89,7 +89,7 @@
             "N3": "'나는 빠르다'와 같은 문장은 'Im eter aetuat'와 같이 'eter'를 사용한다.",
             "N4": "동사는 명사 앞에 오면 명사를 수식하고, 명사 뒤에는 항상 쉼표를 붙여 구분한다. 단, (Tense/Status)는 다음과 같이 적용된다. '(Tense/Status) Verb Noun,'. 'Otor aec ele : 폐쇄하는 사람', 'Atar aec ele : 폐쇄하고 있는 사람', 'Utar aec ele : 폐쇄한 사람', 'Utur aec ele : 폐쇄할 사람', 'Eter aec ele : 폐쇄적인 사람'"
         },
-        "aeg": { "meaning": "이동하다", "use": { "1": "주체 (Tense/Status) Aeg", "2": "주체 (Tense/Status) ti [목적지] Aeg", "3": "주체 (Tense/Status) fa [출발지] ti [목적지] su [수단] Aeg"}, "example": "Im otor fa maum ti slum su ful aeg -> 나는 공장에서 침실로 비행기를 타고 이동한다." },
+        "aeg": { "meaning": "이동하다", "use": { "1": "주체 (Tense/Status) Aeg", "2": "주체 (Tense/Status) ti [목적지] Aeg", "3": "주체 (Tense/Status) fa [출발지] ti [목적지] su [수단] Aeg"}, "example": "Oj otor fa maum ti slum su ful aeg -> 나는 공장에서 침실로 비행기를 타고 이동한다." },
         "aete": { "meaning": "교육하다", "use": { "1": "주체 (Tense/Status) Aete", "2": "주체 (Tense/Status) ti [대상] Aete", "3": "주체 (Tense/Status) ti [대상] su [내용/매체] Aete" } },
         "aewa": { "meaning": "대기하다", "use": { "1": "주체 (Tense/Status) Aewa", "2": "주체 (Tense/Status) ti [대상] Aewa", "3": "주체 (Tense/Status) ti [대상] la [장소] Aewa" } },
         "aeta": { "meaning": "사육하다", "use": { "1": "주체 (Tense/Status) Aeta", "2": "주체 (Tense/Status) ti [대상] Aeta", "3": "주체 (Tense/Status) ti [대상] su [수단/사료] Aeta" } },

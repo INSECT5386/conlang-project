@@ -2,7 +2,7 @@
 * **규칙 및 예시**
 1. 접미사 없이 사용된 서술어가 아닌 단어는 '그 단어 뜻을 당한 무언가'으로 해석하지만, 주어가 존재하는 구문 형태의 단어라면 적용하지 않는다.
 * 1. rin pon : 적용 대상임
-* 2. mostayaho rin : 적용하지 않음
+* 2. ertayaho rin : 적용하지 않음
 * 3. merinhar : 적용하지 않음
 * 4. tahoron : 적용 대상임
 2. 목적어가 생략되었다면, 목적어는 주어와 같은 것으로 해석한다.
@@ -65,8 +65,8 @@
 | 접두사 | mi- | 몰래, 강제로 |
 | | ci- | 다시 |
 | | ni- | 하고 싶다, 의도, 욕구 |
-| | ya- | 을 하지 않다 |
-| 접미사 | -s | 을 되돌리다 |
+| | ya | 을 하지 않다 |
+| | ru | 을 되돌리다 |
 | 전치사 | ot | 에 대하여, 에 대한 |
 | | co | ~으로부터, ~에서부터 (출발) |
 | | te | ~까지 (도착) |
@@ -79,10 +79,10 @@
 | 기본형 | 변형 | 뜻 |
 | --- | --- | --- |
 | ta | | 시작하다, 굴리다, 접두사형 : 을 하려고 시도하다 |
-| | tas | 중단하다, 포기하다, 미루다 |
+| | ruta | 중단하다, 포기하다, 미루다 |
 | ho | | 죽이다, 부수다, 끝내다, 접두사형 : 을 끝내다, (규칙2 : ~가 자멸하다) |
 | | taho | 공격하다, (규칙2 : ~가 자해하다) |
-| | hos | 복구하다, 복원하다 |
+| | ruho | 복구하다, 복원하다 |
 | | yaho | 살려두다, 부수지 않다, (규칙2 : ~가 살다, ~가 살아있다) |
 | | yahonoi ~ | ~을 살리는 건물 / 문장형 |
 | | ~yahoham | ~의 수명 |
@@ -111,8 +111,8 @@
 | | horen | 공중에 고정하다, 맹세하다 |
 | | tahoron | (무언가를 박기 위해) 찌르다 |
 | | cihoron | 다시 고정하다, 다시 박다 / (약속을) 수정하다 |
-| | horons | (고정된 것을) 빼내다, 뽑다 / (약속을) 없애다, 취소하다 |
-| | rons | 반사하다, 돌려주다 |
+| | ruhoron | (고정된 것을) 빼내다, 뽑다 / (약속을) 없애다, 취소하다 |
+| | ruron | 반사하다, 돌려주다 |
 | | renron | 만들다, 탄생시키다 |
 | | renciron | 수정하다, 대체하다, 변환하다 |
 | | renciron pon | 느끼다, 생각하다, 인식하다 |
@@ -125,11 +125,11 @@
 | | raancos | 굽다 |
 | | tonrencos | 항성, 별 |
 | hon | | 분리하다, 떼어내다, 관련 없게 만들다, 풀다 |
-| | hons | 결합시키다, 연결하다, 관련 있게 만들다, 묶다 |
+| | ruhon | 결합시키다, 연결하다, 관련 있게 만들다, 묶다 |
 | | tahon | 자르다, 베다 |
 | | rintahon | 날카롭다 |
 | | ruantahon | 무디다 |
-| | tahons | 봉합하다, 용접하다 |
+| | rutahon | 봉합하다, 용접하다 |
 | | huan | 긁다, 갈다, 할퀴다 |
 | | erhuan | 손톱, 발톱 |
 | | rinhuan | 거칠다 |
@@ -138,18 +138,18 @@
 | poc | | 꺾다, 부러뜨리다, 접다, 이기다, (규칙1 : 꺾인 것, 기울어진 것) |
 | | ertapoc | 관절 |
 | | tapoc | 구부리다, 곡선으로 만들다, 도전하다, (규칙1 : 구부러진 것, 굴곡진 것) |
-| | tapocs | 곧게 펴다, 직선으로 만들다, 돕다, (규칙1 : 곧은 것, 평평한 것) |
-| | ruuntapocs | 바닥 |
-| | raantapocs | 천장 |
-| | roentapocs | 앞면, 보이는 벽 |
-| | raintapocs | 뒷면, 보이지 않는 벽 |
+| | rutapoc | 곧게 펴다, 직선으로 만들다, 돕다, (규칙1 : 곧은 것, 평평한 것) |
+| | ruunrutapoc | 바닥 |
+| | raanrutapoc | 천장 |
+| | roenrutapoc | 앞면, 보이는 벽 |
+| | rainrutapoc | 뒷면, 보이지 않는 벽 |
 | pon | | 기억하다, 알다, (규칙2 : ~의 자아) |
 | | erpon | 습관 |
-| | pons | 잊다, 지우다, 삭제하다, (규칙2 : ~가 기억/자아를 잃다) |
+| | rupon | 잊다, 지우다, 삭제하다, (규칙2 : ~가 기억/자아를 잃다) |
 | | tapon | 배우다, 연구하다 |
 | | yapon | 모르다 |
 | sor | | 얼리다, (규칙1: 얼음, 차가운 것) |
-| | sors | 녹이다 |
+| | rusor | 녹이다 |
 | cod | | 삼키다, 먹다, (규칙2 : ~가 자가포식하다) |
 | | moscod | 입-목구멍 |
 | | tacod | 씹다, 깨물다 |
@@ -179,24 +179,24 @@
 | son | | 쌓다, 모으다, 누적시키다 |
 | | sonnoi ~ | ~을 모으는, 보관하는 건물 |
 | | sonham ~ | ~을 사냥하는, 채집하는 장소, 시간 |
-| | sons | 퍼뜨리다, 분산시키다 |
+| | ruson | 퍼뜨리다, 분산시키다 |
 | hum | | 감염시키다, (규칙1 : 감염된 것, 다친 것) |
-| | hums | 치료하다, (규칙1 : 치료된 것, 건강한 것) |
+| | ruhum | 치료하다, (규칙1 : 치료된 것, 건강한 것) |
 | | tahum | 오염시키다, (규칙1 : 더러운 것)  |
-| | tahums | 씻기다, 닦다, (규칙1 : 깨끗한 것) |
+| | rutahum | 씻기다, 닦다, (규칙1 : 깨끗한 것) |
 | par | | 휘두르다, 흔들다, 지배하다, 사용하다, 노동시키다, (규칙2 : ~가 자유의지를 가지다) |
 | | parnoi ~ | ~을 운영하는 건물 |
 | | parham ~ | ~을 운영하는 시간 |
 | | tapar | 잡다, 쥐다, 가지다 |
 | | ertapar | 손, 발 |
-| | tapars | 버리다, 놓다, (규칙2 : ~가 범죄를 저지르다) |
+| | rutapar | 버리다, 놓다, (규칙2 : ~가 범죄를 저지르다) |
 | | citapar | 되찾다, 회수하다 |
 | | mitapar | 훔치다, 빼앗다, 납치하다 |
 | | mipar | (노예, 식민지로) 만들다, 착취하다 |
 | | tamipar | (권리, 권력을) 빼앗으려하다, 침략하다 |
-| | pars | 해고하다, 해임하다 |
+| | rupar | 해고하다, 해임하다 |
 | mon | | 키우다, 성장시키다, (규칙1 : 큰 것, 성체) |
-| | mon tapocs | 넓히다, (규칙1 : 넓은 것) |
+| | mon rutapoc | 넓히다, (규칙1 : 넓은 것) |
 | | mon coroen terain | 늘이다, (규칙1 : 긴 것, 줄) |
 ### 숫자
 * **한 손의 손가락 5개와 그것 사이의 공간 4개 그리고 손바닥 하나까지 총 10개 사용하며, 10개를 전부 사용할 때마다 반대쪽 손의 손가락 5개, 그것 사이의 공각 4개 그리고 손바닥 하나에 하나씩 배치한다.**
@@ -240,4 +240,4 @@
 ---
 | 활용법 | 예문 |
 | --- | --- |
-| 기록적 활용 | meham, 'piho hampi' otapar a 'pitaho me' otamipar taharyahomeham. un tipiho pipar tahar un, tipimirintahar pon ot 'X' (어느 날, 'piho hampi'의 전사들이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들을 다스리는 지성체를 죽이고 'X'에 대한 것을 타하르들의 안에 강제로 가르쳤다.) tini mu tinipar tiham. tipirenron piparnoi mipar un, tahar mu mipar. (그 이유는 그들이 그 땅을 가지고 싶기 때문이었다. 그들은 식민지를 운영하는 건물을 만들었고, 타하르들은 노예였다.) tipimitapar hampoorl. tini mu taharrinrenron 'rencui'. 'rencui' mu tahartapar a tontaho me. tirinho hampi un, tirenron cnai. ipan, rencuiyahoham mu yamon coroen terain. (그들은 모든 금속을 빼앗았다. 그 이유는 타하르들이 번개를 만들 수도 있기 때문이다. '번개'는 타하르들의 '사물이 어떤 것을 공격하다(무기)'이다. 그것은 모든 것을 죽일 수 있었고 그것은 소리를 만들었다. 하지만, '번개'의 수명은 짧았다.) cimeham, tahartapars ot X. taharrinnoi tapars a poorl mu taharsonnoi cuicod. (다른 어떤 날, 타하르들은 X에 대한 범죄를 저질렀다. 타하르들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.) |
+| 기록적 활용 | meham, 'piho hampi' otapar a 'pitaho me' otamipar taharyahomeham. un tipiho pipar tahar un, tipimirintahar pon ot 'X' (어느 날, 'piho hampi'의 전사들이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들을 다스리는 지성체를 죽이고 'X'에 대한 것을 타하르들의 안에 강제로 가르쳤다.) tini mu tinipar tiham. tipirenron piparnoi mipar un, tahar mu mipar. (그 이유는 그들이 그 땅을 가지고 싶기 때문이었다. 그들은 식민지를 운영하는 건물을 만들었고, 타하르들은 노예였다.) tipimitapar hampoorl. tini mu taharrinrenron 'rencui'. 'rencui' mu tahartapar a tontaho me. tirinho hampi un, tirenron cnai. ipan, rencuiyahoham mu yamon coroen terain. (그들은 모든 금속을 빼앗았다. 그 이유는 타하르들이 번개를 만들 수도 있기 때문이다. '번개'는 타하르들의 '사물이 어떤 것을 공격하다(무기)'이다. 그것은 모든 것을 죽일 수 있었고 그것은 소리를 만들었다. 하지만, '번개'의 수명은 짧았다.) cimeham, taharrutapar ot X. taharrinnoi rutapar a poorl mu taharsonnoi cuicod. (다른 어떤 날, 타하르들은 X에 대한 범죄를 저질렀다. 타하르들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.) |

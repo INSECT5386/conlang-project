@@ -88,6 +88,7 @@
 | | rucita | 복원하다, 복구하다 |
 | | rucitanoi ~ | ~을 복구하는/복원하는 건물 / 문장형 |
 | | yaruta | 살려두다, 유지시키다, 지속시키다, (규칙2 : ~가 살아있다, ~가 살다) |
+| | yarutanoi ~ | ~을 살리는/지속시키는 건물 |
 | | ~yarutaham | ~의 수명 |
 | | tayaruta | 감싸다, 보호하다 |
 | | tontayaho rin | 옷, 갑옷 |

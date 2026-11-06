@@ -150,6 +150,7 @@
 | | moscod | 입-목구멍 |
 | | tacod | 씹다, 깨물다 |
 | | mostacod | 이빨, 치아 |
+| | cod irio | 숨 쉬다 |
 | har | | 보다 |
 | | merinhar | 시각, 어떤 것이 볼 수 있다 |
 | | meruanhar | 시각 장애, 어떤 것이 볼 수 없다 |

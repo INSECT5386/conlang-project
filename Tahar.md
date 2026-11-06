@@ -30,7 +30,7 @@
 * SVham O
 * * S가 O를 V하는 시간, 장소
   * S가 ham에/에서 O를 V하다
-* SV(-aa-, -uu-, -ua, -i-, -e-) O
+* SV(-aa-, -uu-, -ua, -i-, -e-, -oe-, -ai-) O
 * * S가 O를 V하는 ()의 장소
   * S가 ()의 장소에/에서 O를 V하다
 ## 품사별 단어

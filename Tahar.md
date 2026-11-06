@@ -56,7 +56,7 @@
 | | na | 이것, 가깝다 |
 | | ti | 그것, 저것, 멀다 |
 | | me | 어떤 것 |
-| | mos | 몸, 신체 |
+| | er | 몸, 신체 |
 | | ham | 접두사형 : 모든 것, 전체 / 접미사형 : 배경, 시공간 / tahar의 최초신 |
 | | noi | 건물, 장기적인 장소 |
 | | ton | 사물 |
@@ -89,7 +89,7 @@
 | | tayaho | 감싸다, 보호하다 |
 | | tontayaho rin | 옷, 갑옷 |
 | | tontayaho rain | 방패, 엄폐물 |
-| | mostayaho rin | 피부, 가죽 |
+| | ertayaho rin | 피부, 가죽 |
 | | tayahonoi ~ | ~을 보호하는 건물 |
 | | tayahoham ~ | ~을 보호하는 시간 |
 | | ciyaho | 부활시키다, 되살리다, (규칙2 : ~가 부활하다, ~가 되살아나다) |
@@ -100,12 +100,12 @@
 | | ruun | 내려놓다, (규칙1 : 낮은 것, 아래쪽의 것) |
 | | ren | 공중에 배치하다, 매달다, (규칙1 : 공중의 것, 하늘의 것), (규칙2 : 날다, 매달리다) |
 | | roen | 자랑하다, 앞에 놓다, (규칙1 : 앞쪽의 것) |
-| | mosroen | 얼굴 |
+| | erroen | 얼굴 |
 | | rain | 숨기다, 뒤에 놓다, (규칙1 : 뒤쪽의 것) |
-| | mosrain | 등 |
-| | mosren | 날개 |
+| | errain | 등 |
+| | erren | 날개 |
 | | taren | 뛰다, 도약하다 |
-| | mostaren | 팔, 다리 |
+| | ertaren | 팔, 다리 |
 | | mirin | 가두다, 격리하다 / 제한하다 |
 | | horon | 고정하다, 박다 / 약속하다 | 
 | | horen | 공중에 고정하다, 맹세하다 |
@@ -116,7 +116,7 @@
 | | renron | 만들다, 탄생시키다 |
 | | renciron | 수정하다, 대체하다, 변환하다 |
 | | renciron pon | 느끼다, 생각하다, 인식하다 |
-| | mosrenciron pon | 뇌, 영혼 |
+| | errenciron pon | 뇌, 영혼 |
 | | rin pon | 가르치다 |
 | | raan pon | 기록하다 |
 | | ruunrees | 묻다 |
@@ -131,12 +131,12 @@
 | | ruantahon | 무디다 |
 | | rutahon | 봉합하다, 용접하다 |
 | | huan | 긁다, 갈다, 할퀴다 |
-| | moshuan | 손톱, 발톱 |
+| | erhuan | 손톱, 발톱 |
 | | rinhuan | 거칠다 |
 | | ruanhuan | 매끄럽다 |
 | | hin | 파다, 뚫다, 열다 |
 | poc | | 꺾다, 부러뜨리다, 접다, 이기다, (규칙1 : 꺾인 것, 기울어진 것) |
-| | mostapoc | 관절 |
+| | ertapoc | 관절 |
 | | tapoc | 구부리다, 곡선으로 만들다, 도전하다, (규칙1 : 구부러진 것, 굴곡진 것) |
 | | rutapoc | 곧게 펴다, 직선으로 만들다, 돕다, (규칙1 : 곧은 것, 평평한 것) |
 | | ruunrutapoc | 바닥 |
@@ -144,7 +144,7 @@
 | | roenrutapoc | 앞면, 보이는 벽 |
 | | rainrutapoc | 뒷면, 보이지 않는 벽 |
 | pon | | 기억하다, 알다, (규칙2 : ~의 자아) |
-| | mospon | 습관 |
+| | erpon | 습관 |
 | | rupon | 잊다, 지우다, 삭제하다, (규칙2 : ~가 기억/자아를 잃다) |
 | | tapon | 배우다, 연구하다 |
 | | yapon | 모르다 |
@@ -153,20 +153,20 @@
 | cod | | 삼키다, 먹다, (규칙2 : ~가 자가포식하다) |
 | | moscod | 입-목구멍 |
 | | tacod | 씹다, 깨물다 |
-| | mostacod | 이빨, 치아 |
+| | ertacod | 이빨, 치아 |
 | | cod irio | 숨 쉬다 |
 | har | | 보다 |
 | | merinhar | 시각, 어떤 것이 볼 수 있다 |
 | | meruanhar | 시각 장애, 어떤 것이 볼 수 없다 |
-| | mostahar | 눈알 |
+| | ertahar | 눈알 |
 | | har cnai | 듣다 |
 | | merinhar cnai | 청각, 어떤 것이 들을 수 있다 |
 | | meruanhar cnai | 청각 장애, 어떤 것이 들을 수 없다 |
-| | moshar cnai | 귀 |
+| | erhar cnai | 귀 |
 | | har irio | 맡다 |
 | | merinhar irio | 후각, 어떤 것이 맡을 수 있다 |
 | | meruanhar irio | 후각 장애, 어떤 것이 맡을 수 없다 |
-| | moshar irio | 코 |
+| | erhar irio | 코 |
 | | harnoi ~ | ~을 보는 건물 / 문장형 |
 | | tahar | 비추다, 밝히다, (규칙1 : 밝은 것, 흰 것, 비추어진 것), (규칙2 : ~가 빛나다) |
 | | taharnoi ~ | ~을 비추는 건물 / 문장형 |
@@ -175,7 +175,7 @@
 | | taher | 앉히다, 눕히다 (규칙2 : 앉다, 눕다) |
 | | huur | 올려다보다, 존경하다 |
 | | tahuur | 세우다 (규칙2 : ~가 서다) |
-| | mostahuur | 뼈 |
+| | ertahuur | 뼈 |
 | son | | 쌓다, 모으다, 누적시키다 |
 | | sonnoi ~ | ~을 모으는, 보관하는 건물 |
 | | sonham ~ | ~을 사냥하는, 채집하는 장소, 시간 |
@@ -188,7 +188,7 @@
 | | parnoi ~ | ~을 운영하는 건물 |
 | | parham ~ | ~을 운영하는 시간 |
 | | tapar | 잡다, 쥐다, 가지다 |
-| | mostapar | 손, 발 |
+| | ertapar | 손, 발 |
 | | rutapar | 버리다, 놓다, (규칙2 : ~가 범죄를 저지르다) |
 | | citapar | 되찾다, 회수하다 |
 | | mitapar | 훔치다, 빼앗다, 납치하다 |

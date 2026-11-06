@@ -157,7 +157,7 @@
 | har | | 보다 |
 | | merinhar | 시각, 어떤 것이 볼 수 있다 |
 | | meruanhar | 시각 장애, 어떤 것이 볼 수 없다 |
-| | ertahar | 눈알 |
+| | erhar | 눈알 |
 | | har cnai | 듣다 |
 | | merinhar cnai | 청각, 어떤 것이 들을 수 있다 |
 | | meruanhar cnai | 청각 장애, 어떤 것이 들을 수 없다 |

@@ -87,7 +87,7 @@
 | | ~yahoham | ~의 수명 |
 | | tayaho | 감싸다, 보호하다 |
 | | tontayaho rin | 옷, 갑옷 |
-| | tontayaho tam | 방패 |
+| | tontayaho tam | 방패, 엄폐물 |
 | | mostayaho rin | 피부, 가죽 |
 | | tayahonoi ~ | ~을 보호하는 건물 |
 | | tayahoham ~ | ~을 보호하는 시간 |

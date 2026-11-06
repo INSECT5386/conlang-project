@@ -86,7 +86,8 @@
 | | yahonoi ~ | ~을 살리는 건물 / 문장형 |
 | | ~yahoham | ~의 수명 |
 | | tayaho | 감싸다, 보호하다 |
-| | tayaho rin | 옷, 갑옷 |
+| | tontayaho rin | 옷, 갑옷 |
+| | tontayaho tam | 방패 |
 | | mostayaho rin | 피부, 가죽 |
 | | tayahonoi ~ | ~을 보호하는 건물 |
 | | tayahoham ~ | ~을 보호하는 시간 |

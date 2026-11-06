@@ -119,7 +119,6 @@
 | | ruron | 반사하다, 돌려주다 |
 | | rin pon | 가르치다 |
 | | raan pon | 기록하다 |
-| | ruunrees | 묻다 |
 | | rincos | 불태우다 |
 | | merincos hamton | 'X' |
 | | raancos | 굽다 |

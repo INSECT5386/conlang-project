@@ -86,9 +86,10 @@
 | | ruta | 끝내다, 없애다, 접두사형 : 을 끝내다, (규칙2 : ~가 자멸하다) |
 | | taruta | 공격하다, (규칙2 : ~가 자해하다) |
 | | rucita | 복원하다, 복구하다 |
-| | rucitanoi ~ | ~을 복구하는/살리는 건물 / 문장형 |
-| | ~taham | ~의 수명 |
-| | tayaho | 감싸다, 보호하다 |
+| | rucitanoi ~ | ~을 복구하는/복원하는 건물 / 문장형 |
+| | yaruta | 살려두다, 유지시키다, 지속시키다, (규칙2 : ~가 살아있다, ~가 살다) |
+| | ~yarutaham | ~의 수명 |
+| | tayaruta | 감싸다, 보호하다 |
 | | tontayaho rin | 옷, 갑옷 |
 | | tontayaho rain | 방패, 엄폐물 |
 | | ertayaho rin | 피부, 가죽 |

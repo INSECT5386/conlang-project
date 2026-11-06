@@ -20,16 +20,16 @@
 * **tini mu [A]**
 * 이유는 [A]이다
 * **문장 구조**
-* S cV O
+* SV O
 * * O를 V하는 S
   * S가 O를 V하다
-* S cVnoi O
+* SVnoi O
 * * S가 O를 V하는 건물
   * S가 noi에/에서 O를 V하다
-* S cVham O
+* SVham O
 * * S가 O를 V하는 시간, 장소
   * S가 ham에/에서 O를 V하다
-* S cV(-aa-, -uu-, -ua, -i-, -e-) O
+* SV(-aa-, -uu-, -ua, -i-, -e-) O
 * * S가 O를 V하는 ()의 장소
   * S가 ()의 장소에/에서 O를 V하다
 ## 품사별 단어

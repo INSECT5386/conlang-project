@@ -81,20 +81,20 @@
 | ta | | 시작하다, 탄생시키다, 접두사형 : 을 하려고 시도하다, (규칙2 : ~가 자연발생하다) |
 | | yata | 미루다, 포기하다 |
 | | cita | 다시 시작하다, 수정하다, 대체하다, 변환하다 |
+| | rucita | 복원하다, 복구하다 |
+| | rucitanoi ~ | ~을 복구하는/복원하는 건물 / 문장형 |
 | | cita pon | 느끼다, 생각하다, 인식하다 |
 | | ercita pon | 뇌, 영혼 |
-| | ruta | 끝내다, 없애다, (~가 자멸하다) |
-| | taruta | 공격하다, (규칙2 : ~가 자해하다) |
-| | rucita | 복원하다, 복구하다 |
-| | ruta rin | 퍼뜨리다, 분산시키다 |
-| | rucitanoi ~ | ~을 복구하는/복원하는 건물 / 문장형 |
-| | yaruta | 살려두다, 지속시키다, (규칙2 : ~가 살아있다, ~가 살다) |
-| | yaruta rin | 모으다, 누적시키다 |
-| | yarutanoi rin ot ~ | ~을 모으는/보관하는 건물 |
-| | yarutaham rin ot ~ | ~을 사냥하는, 채집하는 장소/시간 |
-| | yarutanoi ~ | ~을 살리는/지속시키는 건물 |
-| | ~yarutaham | ~의 수명 |
-| | ciyaruta | 부활시키다, 되살리다, (규칙2 : ~가 부활하다, ~가 되살아나다) |
+| ho | | 끝내다, 없애다, (~가 자멸하다) |
+| | taho | 공격하다, (규칙2 : ~가 자해하다) |
+| | ho rin | 퍼뜨리다, 분산시키다 |
+| | yaho | 살려두다, 지속시키다, (규칙2 : ~가 살아있다, ~가 살다) |
+| | yaho rin | 모으다, 누적시키다 |
+| | yahonoi rin ot ~ | ~을 모으는/보관하는 건물 |
+| | yahoham rin ot ~ | ~을 사냥하는, 채집하는 장소/시간 |
+| | yahonoi ~ | ~을 살리는/지속시키는 건물 |
+| | ~yahoham | ~의 수명 |
+| | ciyaho | 부활시키다, 되살리다, (규칙2 : ~가 부활하다, ~가 되살아나다) |
 | ron | | 배치하다 |
 | | rin | 넣다, 참여시키다, (규칙1 : 내부의 것), 접두사형 : 기능을 추가하다, 할 수 있다, (규칙2 : ~가 영향을 주다, 개입하다) |
 | | ruan | 꺼내다, 퇴출하다, (규칙1 : 외부의 것), 접두사형 : 기능을 제거하다, 할 수 없다, 장애 |
@@ -238,4 +238,4 @@
 ---
 | 활용법 | 예문 |
 | --- | --- |
-| 기록적 활용 | meham, 'piho hampi' otapar a 'pitaho me' otamipar taharyahomeham. un tipiho pipar tahar un, tipimirintahar pon ot 'X' (어느 날, 'piho hampi'의 전사들이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들을 다스리는 지성체를 죽이고 'X'에 대한 것을 타하르들의 안에 강제로 가르쳤다.) tini mu tinipar tiham. tipita piparnoi mipar un, tahar mu mipar. (그 이유는 그들이 그 땅을 가지고 싶기 때문이었다. 그들은 식민지를 운영하는 건물을 만들었고, 타하르들은 노예였다.) tipimitapar hampoorl. tini mu taharrinta 'rencui'. 'rencui' mu tahartapar a tontaho me. tirinho hampi un, tita cnai. ipan, rencuiyahoham mu yamon coroen terain. (그들은 모든 금속을 빼앗았다. 그 이유는 타하르들이 번개를 만들 수도 있기 때문이다. '번개'는 타하르들의 '사물이 어떤 것을 공격하다(무기)'이다. 그것은 모든 것을 죽일 수 있었고 그것은 소리를 만들었다. 하지만, '번개'의 수명은 짧았다.) cimeham, taharrutapar ot X. taharrinnoi rutapar a poorl mu taharyarutanoi rin ot cuicod. (다른 어떤 날, 타하르들은 X에 대한 범죄를 저질렀다. 타하르들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.) |
+| 기록적 활용 | meham, 'piho hampi' otapar a 'pitaho me' otamipar taharyahomeham. un tipiho pipar tahar un, tipimirintahar pon ot 'X' (어느 날, 'piho hampi'의 전사들이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들을 다스리는 지성체를 죽이고 'X'에 대한 것을 타하르들의 안에 강제로 가르쳤다.) tini mu tinipar tiham. tipita piparnoi mipar un, tahar mu mipar. (그 이유는 그들이 그 땅을 가지고 싶기 때문이었다. 그들은 식민지를 운영하는 건물을 만들었고, 타하르들은 노예였다.) tipimitapar hampoorl. tini mu taharrinta 'rencui'. 'rencui' mu tahartapar a tontaho me. tirinho hampi un, tita cnai. ipan, rencuiyahoham mu yamon coroen terain. (그들은 모든 금속을 빼앗았다. 그 이유는 타하르들이 번개를 만들 수도 있기 때문이다. '번개'는 타하르들의 '사물이 어떤 것을 공격하다(무기)'이다. 그것은 모든 것을 죽일 수 있었고 그것은 소리를 만들었다. 하지만, '번개'의 수명은 짧았다.) cimeham, taharrutapar ot X. taharrinnoi rutapar a poorl mu taharyahonoi rin ot cuicod. (다른 어떤 날, 타하르들은 X에 대한 범죄를 저질렀다. 타하르들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.) |

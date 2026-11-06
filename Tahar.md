@@ -88,7 +88,7 @@
 | | ~yahoham | ~의 수명 |
 | | tayaho | 감싸다, 보호하다 |
 | | tontayaho rin | 옷, 갑옷 |
-| | tontayaho tam | 방패, 엄폐물 |
+| | tontayaho rain | 방패, 엄폐물 |
 | | mostayaho rin | 피부, 가죽 |
 | | tayahonoi ~ | ~을 보호하는 건물 |
 | | tayahoham ~ | ~을 보호하는 시간 |
@@ -197,7 +197,7 @@
 | | rupar | 해고하다, 해임하다 |
 | mon | | 키우다, 성장시키다, (규칙1 : 큰 것, 성체) |
 | | mon rutapoc | 넓히다, (규칙1 : 넓은 것) |
-| | mon conin tetam | 늘이다, (규칙1 : 긴 것, 줄) |
+| | mon corain teroen | 늘이다, (규칙1 : 긴 것, 줄) |
 ### 숫자
 * **한 손의 손가락 5개와 그것 사이의 공간 4개 그리고 손바닥 하나까지 총 10개 사용하며, 10개를 전부 사용할 때마다 반대쪽 손의 손가락 5개, 그것 사이의 공각 4개 그리고 손바닥 하나에 하나씩 배치한다.**
 * 0: yaton
@@ -234,10 +234,10 @@
 * poorlsai : 비행기, 비행물체
 * poorlalii rineele : 잠수함
 * poorlalii raaneele : 배
-* conin tetam : 길이
+* coroen terain : 길이
 * coruun tenaham : 깊이
 * conaham teraan : 높이
 ---
 | 활용법 | 예문 |
 | --- | --- |
-| 기록적 활용 | meham, 'piho hampi' otapar a 'pitaho me' otamipar taharyahomeham. un tipiho pipar tahar un, tipimirintahar pon ot 'X' (어느 날, 'piho hampi'의 전사들이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들을 다스리는 지성체를 죽이고 'X'에 대한 것을 타하르들의 안에 강제로 가르쳤다.) tini mu tinipar tiham. tipirenron piparnoi mipar un, tahar mu mipar. (그 이유는 그들이 그 땅을 가지고 싶기 때문이었다. 그들은 식민지를 운영하는 건물을 만들었고, 타하르들은 노예였다.) tipimitapar hampoorl. tini mu taharrinrenron 'rencui'. 'rencui' mu tahartapar a tontaho me. tirinho hampi un, tirenron cnai. ipan, rencuiyahoham mu yamon conin tetam. (그들은 모든 금속을 빼앗았다. 그 이유는 타하르들이 번개를 만들 수도 있기 때문이다. '번개'는 타하르들의 '사물이 어떤 것을 공격하다(무기)'이다. 그것은 모든 것을 죽일 수 있었고 그것은 소리를 만들었다. 하지만, '번개'의 수명은 짧았다.) cimeham, taharrutapar ot X. taharrinnoi rutapar a poorl mu taharsonnoi cuicod. (다른 어떤 날, 타하르들은 X에 대한 범죄를 저질렀다. 타하르들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.) |
+| 기록적 활용 | meham, 'piho hampi' otapar a 'pitaho me' otamipar taharyahomeham. un tipiho pipar tahar un, tipimirintahar pon ot 'X' (어느 날, 'piho hampi'의 전사들이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들을 다스리는 지성체를 죽이고 'X'에 대한 것을 타하르들의 안에 강제로 가르쳤다.) tini mu tinipar tiham. tipirenron piparnoi mipar un, tahar mu mipar. (그 이유는 그들이 그 땅을 가지고 싶기 때문이었다. 그들은 식민지를 운영하는 건물을 만들었고, 타하르들은 노예였다.) tipimitapar hampoorl. tini mu taharrinrenron 'rencui'. 'rencui' mu tahartapar a tontaho me. tirinho hampi un, tirenron cnai. ipan, rencuiyahoham mu yamon corain teroen. (그들은 모든 금속을 빼앗았다. 그 이유는 타하르들이 번개를 만들 수도 있기 때문이다. '번개'는 타하르들의 '사물이 어떤 것을 공격하다(무기)'이다. 그것은 모든 것을 죽일 수 있었고 그것은 소리를 만들었다. 하지만, '번개'의 수명은 짧았다.) cimeham, taharrutapar ot X. taharrinnoi rutapar a poorl mu taharsonnoi cuicod. (다른 어떤 날, 타하르들은 X에 대한 범죄를 저질렀다. 타하르들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.) |

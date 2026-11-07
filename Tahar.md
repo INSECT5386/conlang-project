@@ -256,7 +256,7 @@
 * yehay : 어떤 시간, 어떤 곳
 * rencui : 번개
 * cuicot : 열매
-* aliicot : 해산물
+* ariicot : 해산물
 * cuinoi : 목제 건물
 * reesnoi : 흙집
 * rin a ton : 가구, 실내 사물

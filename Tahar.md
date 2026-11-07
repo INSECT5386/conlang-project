@@ -215,7 +215,7 @@
 * 9 : yaruta
 * 10 : soc
 * **활용**
-* 15 : soc un mon
+* 15 : soc un yon
 * 36 : sochuur un ruan
 * 100 : hay
 * 279 : hayhin un socsar un yaruta

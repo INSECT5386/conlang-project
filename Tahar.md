@@ -153,6 +153,7 @@
 | | rusor | 녹이다 |
 | cod | | 삼키다, 먹다, (규칙2 : ~가 자가포식하다) |
 | | cod ruan | 핥다 |
+| | ercod ruan | 혀 |
 | | ercod | 입-목구멍 |
 | | tacod | 씹다, 깨물다 |
 | | ertacod | 이빨, 치아 |

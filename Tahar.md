@@ -242,7 +242,7 @@
 * yesar : 어떤 방법
 * yehay : 어떤 시간, 어떤 곳
 * rencui : 번개
-* cuicod : 열매
+* cuicot : 열매
 * aliicod : 해산물
 * cuinoi : 목제 건물
 * reesnoi : 흙집

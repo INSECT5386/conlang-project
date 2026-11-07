@@ -15,9 +15,9 @@
 * * 'ronhay + 동사' : 어떤 행위를 해야하는 의무
 * **[--] a [A]**
 * [--]의 속성/기능을 가진 [A]
-* **[A] mu [B]**
+* **[A] os [B]**
 * [A]는 [B]이다
-* **tini mu [A]**
+* **tini os [A]**
 * 이유는 [A]이다
 * **문장 구조**
 * SV O
@@ -28,7 +28,7 @@
   * S가 noi에/에서 O를 V하다
 * SVhay O
 * * S가 O를 V하는 시간, 장소
-  * S가 ham에/에서 O를 V하다
+  * S가 hay에/에서 O를 V하다
 * SV(-aa-, -uu-, -ua, -i-, -e-, -oe-, -ai-) O
 * * S가 O를 V하는 ()의 장소
   * S가 ()의 장소에/에서 O를 V하다
@@ -115,8 +115,8 @@
 | | taren | 뛰다, 도약하다 |
 | | ertaren | 팔, 다리 |
 | | yirin | 가두다, 격리하다 / 제한하다 |
-| | ronhay | Ham에 배치하다, 고정하다, 박다 / 약속하다 | 
-| | renhay | Ham의 위에 배치하다, 공중에 고정하다, 맹세하다 |
+| | ronhay | Hay에 배치하다, 고정하다, 박다 / 약속하다 | 
+| | renhay | Hay의 위에 배치하다, 공중에 고정하다, 맹세하다 |
 | | cironhay | 다시 고정하다, 다시 박다 / 약속을 수정하다 |
 | | ruronhay | 고정된 것을 빼내다, 뽑다 / 약속을 없애다 |
 | | rin son | 가르치다 |
@@ -240,4 +240,4 @@
 ---
 | 활용법 | 예문 |
 | --- | --- |
-| 기록적 활용 | yehay, 'siruta haysi' otasar a 'sitaruta ye' otayisar taharyarutayehay. un tisiruta sisar tahar un, tisiyirintahar son ot 'X' (어느 날, '모든 지성체를 죽이는 자들'의 전사들이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들을 다스리는 지성체를 죽이고 'X'에 대한 것을 타하르들의 안에 강제로 가르쳤다.) tini mu tinisar tihay. tisita sisarnoi yisar un, tahar mu yisar. (그 이유는 그들이 그 땅을 가지고 싶기 때문이었다. 그들은 식민지를 운영하는 건물을 만들었고, 타하르들은 노예였다.) tisiyitasar haysoorl. tini mu taharrinta 'rencui'. 'rencui' mu tahartasar a tontaruta ye. tirinruta haysi. un, tita cnai. isan, rencuiyarutahay mu yayon coroen terain. (그들은 모든 금속을 빼앗았다. 그 이유는 타하르들이 번개를 만들 수도 있기 때문이다. '번개'는 타하르들의 '사물이 어떤 것을 공격하다(무기)'이다. 그것은 모든 것을 죽일 수 있었고 그것은 소리를 만들었다. 하지만, '번개'의 수명은 짧았다.) ciyehay, taharrutasar ot X. taharrinnoi rutasar a soorl mu taharyarutanoi rin ot cuicod. (다른 어떤 날, 타하르들은 X에 대한 범죄를 저질렀다. 타하르들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.) |
+| 기록적 활용 | yehay, 'siruta haysi' otasar a 'sitaruta ye' otayisar taharyarutayehay. un tisiruta sisar tahar un, tisiyirintahar son ot 'X' (어느 날, '모든 지성체를 죽이는 자들'의 전사들이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들을 다스리는 지성체를 죽이고 'X'에 대한 것을 타하르들의 안에 강제로 가르쳤다.) tini os tinisar tihay. tisita sisarnoi yisar un, tahar os yisar. (그 이유는 그들이 그 땅을 가지고 싶기 때문이었다. 그들은 식민지를 운영하는 건물을 만들었고, 타하르들은 노예였다.) tisiyitasar haysoorl. tini os taharrinta 'rencui'. 'rencui' os tahartasar a tontaruta ye. tirinruta haysi. un, tita cnai. isan, rencuiyarutahay os yayon coroen terain. (그들은 모든 금속을 빼앗았다. 그 이유는 타하르들이 번개를 만들 수도 있기 때문이다. '번개'는 타하르들의 '사물이 어떤 것을 공격하다(무기)'이다. 그것은 모든 것을 죽일 수 있었고 그것은 소리를 만들었다. 하지만, '번개'의 수명은 짧았다.) ciyehay, taharrutasar ot X. taharrinnoi rutasar a soorl os taharyarutanoi rin ot cuicod. (다른 어떤 날, 타하르들은 X에 대한 범죄를 저질렀다. 타하르들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.) |

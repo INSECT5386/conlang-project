@@ -251,7 +251,7 @@
 * 10000 : hayron
 * 1000000 : haytaren
 ### 기초 합성어
-* napi : 나
+* nasi : 나
 * yeni : 어떤 이유
 * yesar : 어떤 방법
 * yehay : 어떤 시간, 어떤 곳

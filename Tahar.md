@@ -59,15 +59,15 @@
 | | -uu- | 아래, 더 낮은 것 |
 | | -oe- | 앞 |
 | | -ai- | 뒤 |
-| 범용사 | eele | 물 |
+| 범용사 | toor | 물 |
 | | cos | 불, 뜨겁다 |
 | | rees | (건조한) 흙, 먼지 |
 | | sor | 얼음, 차갑다 |
 | | cui | 나무 |
-| | eloo | 산 |
-| | soorl | 금속 |
+| | roo | 산 |
+| | soos | 금속 |
 | | sai | 조류, 새 |
-| | alii | 어류, 물고기 |
+| | arii | 어류, 물고기 |
 | | cnai | 소리, 파동 |
 | | irio | 냄새, 공기 |
 | | na | 이것, 가깝다 |
@@ -248,17 +248,17 @@
 * cuinoi : 목제 건물
 * reesnoi : 흙집
 * rin a ton : 가구, 실내 사물
-* eelerees : 진흙
-* raancos a eelerees : 벽돌
-* soorlsai : 비행기, 비행물체
-* soorlalii rineele : 잠수함
-* soorlalii raaneele : 배
+* toorrees : 진흙
+* raancos a toorrees : 벽돌
+* soossai : 비행기, 비행물체
+* soosarii rineele : 잠수함
+* soosarii raaneele : 배
 * coroen terain : 길이
 * coruun tenahay : 깊이
 * conahay teraan : 높이
 ---
 | 활용법 | 예문 |
 | --- | --- |
-| 기록적 활용 | yehay, 'siruta haysi' otasar a 'sitaruta ye' otaneesar taharyarutayehay. un tisiruta sisar tahar un, tisineerintahar son ot 'X' (어느 날, '모든 지성체를 죽이는 자들'의 전사들이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들을 다스리는 지성체를 죽이고 'X'에 대한 것을 타하르들의 안에 강제로 가르쳤다.) tini os tinisar tihay. tisita sisarnoi neesar un, tahar os neesar. (그 이유는 그들이 그 땅을 가지고 싶기 때문이었다. 그들은 식민지를 운영하는 건물을 만들었고, 타하르들은 노예였다.) tisineetasar haysoorl. tini os taharrinta 'rencui'. 'rencui' os tahartasar a tontaruta ye. tirinruta haysi. un, tita cnai. isan, rencuiyarutahay os yayon coroen terain. (그들은 모든 금속을 빼앗았다. 그 이유는 타하르들이 번개를 만들 수도 있기 때문이다. '번개'는 타하르들의 '사물이 어떤 것을 공격하다(무기)'이다. 그것은 모든 것을 죽일 수 있었고 그것은 소리를 만들었다. 하지만, '번개'의 수명은 짧았다.) ciyehay, taharrutasar ot X. taharrinnoi rutasar a soorl os taharyarutanoi rin ot cuicot. (다른 어떤 날, 타하르들은 X에 대한 범죄를 저질렀다. 타하르들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.) |
+| 기록적 활용 | yehay, 'siruta haysi' otasar a 'sitaruta ye' otaneesar taharyarutayehay. un tisiruta sisar tahar un, tisineerintahar son ot 'X' (어느 날, '모든 지성체를 죽이는 자들'의 전사들이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들을 다스리는 지성체를 죽이고 'X'에 대한 것을 타하르들의 안에 강제로 가르쳤다.) tini os tinisar tihay. tisita sisarnoi neesar un, tahar os neesar. (그 이유는 그들이 그 땅을 가지고 싶기 때문이었다. 그들은 식민지를 운영하는 건물을 만들었고, 타하르들은 노예였다.) tisineetasar haysoos. tini os taharrinta 'rencui'. 'rencui' os tahartasar a tontaruta ye. tirinruta haysi. un, tita cnai. isan, rencuiyarutahay os yayon coroen terain. (그들은 모든 금속을 빼앗았다. 그 이유는 타하르들이 번개를 만들 수도 있기 때문이다. '번개'는 타하르들의 '사물이 어떤 것을 공격하다(무기)'이다. 그것은 모든 것을 죽일 수 있었고 그것은 소리를 만들었다. 하지만, '번개'의 수명은 짧았다.) ciyehay, taharrutasar ot X. taharrinnoi rutasar a soos os taharyarutanoi rin ot cuicot. (다른 어떤 날, 타하르들은 X에 대한 범죄를 저질렀다. 타하르들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.) |
 | 문학적 활용 | Siyaronhaysuan ye. Sironhaysin ti.(어떤 것을 아는 척하지 않아야 한다. 그것을 이해해야한다.) |
 | 조건문 | In yecot ruan ot sor orun, titasar a ercod ruan orinruhonsor. (만약, 어떤 것이 얼음을 핥으면, 그것의 혀가 얼음에 붙을 수도 있다) |

@@ -29,7 +29,7 @@
 1. -tasar a ~ : -의 소유인 ~
 * 1. tisitasar a cuicot : (tisi, 그 지성체)[주어] + (tasar a, 가진 것인)[소유격] + (cuicot, 과일)[대상] -> 그 지성체가 가진 것인 과일, 그 지성체의 과일
 * 1. tahartasar a rencui : (tahar, 타하르족) + (tasar a, 가진 것인)[소유격] + (rencui, 번개)[대상] -> 타하르가 가진 것인 번개, 타하르의 번개
-2. [X] a [Y] : [X]의 속성을 가진 [Y]
+2. - a ~ : -의 속성을 가진 ~
 * 1. rin a ton : (rin a, 안에 배치된)[속성격] + (ton, 사물)[대상] -> 안에 배치된 사물, 가구
 * 2. harnoi, yon rutasoc a tihay : (harnoi ~, ~를 보는 건물)[장소] + (yon rutasoc a, 넓은)[속성격] + (tihay, 세상)[대상] -> 넓은 세상을 보는 곳
 * **'도구와 행위자'에 대한 사고 방식**

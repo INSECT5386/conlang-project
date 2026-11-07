@@ -252,8 +252,8 @@
 * toorrees : 진흙
 * raancos a toorrees : 벽돌
 * soossai : 비행기, 비행물체
-* soosarii rineele : 잠수함
-* soosarii raaneele : 배
+* soosarii rintoor : 잠수함
+* soosarii raantoor : 배
 * coroen terain : 길이
 * coruun tenahay : 깊이
 * conahay teraan : 높이

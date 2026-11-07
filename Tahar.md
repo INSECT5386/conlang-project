@@ -61,7 +61,7 @@
 | | ton | 사물 |
 | | si | 주관적 경험이 있는 것 |
 | | nu | 주변 환경에 적응하는 것 |
-| 접두사 | yi- | 몰래, 강제로 |
+| 접두사 | nee- | 몰래, 강제로 |
 | | ci- | 다시 |
 | | ni- | 하고 싶다, 의도, 욕구 |
 | | ya | 을 하지 않다 |
@@ -114,7 +114,7 @@
 | | erren | 날개 |
 | | taren | 뛰다, 도약하다 |
 | | ertaren | 팔, 다리 |
-| | yirin | 가두다, 격리하다 / 제한하다 |
+| | neerin | 가두다, 격리하다 / 제한하다 |
 | | ronhay | Hay에 배치하다, 고정하다, 박다 / 약속하다 | 
 | | renhay | Hay의 위에 배치하다, 공중에 고정하다, 맹세하다 |
 | | cironhay | 다시 고정하다, 다시 박다 / 약속을 수정하다 |
@@ -153,7 +153,7 @@
 | | rusor | 녹이다 |
 | cod | | 삼키다, 먹다, (규칙2 : ~가 자가포식하다) |
 | | cod ruan | 핥다 |
-| | moscod | 입-목구멍 |
+| | ercod | 입-목구멍 |
 | | tacod | 씹다, 깨물다 |
 | | ertacod | 이빨, 치아 |
 | | cod irio | 숨 쉬다 |
@@ -191,9 +191,9 @@
 | | ertasar | 손, 발 |
 | | rutasar | 버리다, 놓다, (규칙2 : ~가 범죄를 저지르다) |
 | | citasar | 되찾다, 회수하다 |
-| | yitasar | 훔치다, 빼앗다, 납치하다 |
-| | yisar | (노예, 식민지로) 만들다, 착취하다 |
-| | tayisar | (권리, 권력을) 빼앗으려하다, 침략하다 |
+| | neetasar | 훔치다, 빼앗다, 납치하다 |
+| | neesar | (노예, 식민지로) 만들다, 착취하다 |
+| | taneesar | (권리, 권력을) 빼앗으려하다, 침략하다 |
 | | rusar | 해고하다, 해임하다 |
 | yon | | 키우다, 성장시키다, (규칙1 : 큰 것, 성체) |
 | | yon rutasoc | 넓히다, (규칙1 : 넓은 것) |
@@ -205,7 +205,7 @@
 * 2 : hin
 * 3 : huur
 * 4 : rin
-* 5 : mon
+* 5 : yon
 * 6 : ruan
 * 7 : sar
 * 8 : rain
@@ -240,4 +240,4 @@
 ---
 | 활용법 | 예문 |
 | --- | --- |
-| 기록적 활용 | yehay, 'siruta haysi' otasar a 'sitaruta ye' otayisar taharyarutayehay. un tisiruta sisar tahar un, tisiyirintahar son ot 'X' (어느 날, '모든 지성체를 죽이는 자들'의 전사들이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들을 다스리는 지성체를 죽이고 'X'에 대한 것을 타하르들의 안에 강제로 가르쳤다.) tini os tinisar tihay. tisita sisarnoi yisar un, tahar os yisar. (그 이유는 그들이 그 땅을 가지고 싶기 때문이었다. 그들은 식민지를 운영하는 건물을 만들었고, 타하르들은 노예였다.) tisiyitasar haysoorl. tini os taharrinta 'rencui'. 'rencui' os tahartasar a tontaruta ye. tirinruta haysi. un, tita cnai. isan, rencuiyarutahay os yayon coroen terain. (그들은 모든 금속을 빼앗았다. 그 이유는 타하르들이 번개를 만들 수도 있기 때문이다. '번개'는 타하르들의 '사물이 어떤 것을 공격하다(무기)'이다. 그것은 모든 것을 죽일 수 있었고 그것은 소리를 만들었다. 하지만, '번개'의 수명은 짧았다.) ciyehay, taharrutasar ot X. taharrinnoi rutasar a soorl os taharyarutanoi rin ot cuicod. (다른 어떤 날, 타하르들은 X에 대한 범죄를 저질렀다. 타하르들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.) |
+| 기록적 활용 | yehay, 'siruta haysi' otasar a 'sitaruta ye' otayisar taharyarutayehay. un tisiruta sisar tahar un, tisineerintahar son ot 'X' (어느 날, '모든 지성체를 죽이는 자들'의 전사들이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들을 다스리는 지성체를 죽이고 'X'에 대한 것을 타하르들의 안에 강제로 가르쳤다.) tini os tinisar tihay. tisita sisarnoi neesar un, tahar os neesar. (그 이유는 그들이 그 땅을 가지고 싶기 때문이었다. 그들은 식민지를 운영하는 건물을 만들었고, 타하르들은 노예였다.) tisineetasar haysoorl. tini os taharrinta 'rencui'. 'rencui' os tahartasar a tontaruta ye. tirinruta haysi. un, tita cnai. isan, rencuiyarutahay os yayon coroen terain. (그들은 모든 금속을 빼앗았다. 그 이유는 타하르들이 번개를 만들 수도 있기 때문이다. '번개'는 타하르들의 '사물이 어떤 것을 공격하다(무기)'이다. 그것은 모든 것을 죽일 수 있었고 그것은 소리를 만들었다. 하지만, '번개'의 수명은 짧았다.) ciyehay, taharrutasar ot X. taharrinnoi rutasar a soorl os taharyarutanoi rin ot cuicod. (다른 어떤 날, 타하르들은 X에 대한 범죄를 저질렀다. 타하르들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.) |

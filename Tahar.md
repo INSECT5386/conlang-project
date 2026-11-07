@@ -2,8 +2,8 @@
 * **규칙 및 예시**
 1. 접미사 없이 사용된 서술어가 아닌 단어는 '그 단어 뜻을 당한 무언가'으로 해석하지만, 주어가 존재하는 구문 형태의 단어라면 적용하지 않는다.
 * 1. rin son : 적용 대상임
-* 2. merinhar : 적용하지 않음
-* 3. taronham : 적용 대상임
+* 2. yerinhar : 적용하지 않음
+* 3. taronhay : 적용 대상임
 2. 목적어가 생략되었다면, 목적어는 주어와 같은 것으로 해석한다.
 * **'도구와 행위자'에 대한 사고 방식**
 * * 어떤 것이 부적합하게 생겼더라도 일을 해냈다면, '~하는 도구', '~하는 자' 이다.
@@ -12,7 +12,7 @@
 * 별도의 시제는 존재하지 않으며, 문맥으로 시간을 구분함.
 * * 'rin + 동사': 어떤 행동을 할 가능성이나 권한
 * * 'ni + 동사': 어떤 용도가 있거나 원하는 것이 있지만 아직 일을 하지 못한 것
-* * 'ronham + 동사' : 어떤 행위를 해야하는 의무
+* * 'ronhay + 동사' : 어떤 행위를 해야하는 의무
 * **[--] a [A]**
 * [--]의 속성/기능을 가진 [A]
 * **[A] mu [B]**
@@ -26,7 +26,7 @@
 * SVnoi O
 * * S가 O를 V하는 건물
   * S가 noi에/에서 O를 V하다
-* SVham O
+* SVhay O
 * * S가 O를 V하는 시간, 장소
   * S가 ham에/에서 O를 V하다
 * SV(-aa-, -uu-, -ua, -i-, -e-, -oe-, -ai-) O
@@ -54,14 +54,14 @@
 | | irio | 냄새, 공기 |
 | | na | 이것, 가깝다 |
 | | ti | 그것, 저것, 멀다 |
-| | me | 어떤 것 |
+| | ye | 어떤 것 |
 | | er | 몸, 신체 |
-| | ham | 접두사형 : 모든 것, 전체 / 접미사형 : 배경, 시공간 / tahar의 최초신 |
+| | hay | 접두사형 : 모든 것, 전체 / 접미사형 : 배경, 시공간 / tahar의 최초신 |
 | | noi | 건물, 장기적인 장소 |
 | | ton | 사물 |
 | | si | 주관적 경험이 있는 것 |
 | | nu | 주변 환경에 적응하는 것 |
-| 접두사 | mi- | 몰래, 강제로 |
+| 접두사 | yi- | 몰래, 강제로 |
 | | ci- | 다시 |
 | | ni- | 하고 싶다, 의도, 욕구 |
 | | ya | 을 하지 않다 |
@@ -90,9 +90,9 @@
 | | yaruta | 살려두다, 지속시키다, (규칙2 : ~가 살아있다, ~가 살다) |
 | | yaruta rin | 모으다, 누적시키다 |
 | | yarutanoi rin ot ~ | ~을 모으는/보관하는 건물 |
-| | yarutaham rin ot ~ | ~을 사냥하는, 채집하는 장소/시간 |
+| | yarutahay rin ot ~ | ~을 사냥하는, 채집하는 장소/시간 |
 | | yarutanoi ~ | ~을 살리는/지속시키는 건물 |
-| | ~yarutaham | ~의 수명 |
+| | ~yarutahay | ~의 수명 |
 | | ciyaruta | 부활시키다, 되살리다, (규칙2 : ~가 부활하다, ~가 되살아나다) |
 | ron | | 배치하다 |
 | | rin | 넣다, 참여시키다, (규칙1 : 내부의 것), 접두사형 : 기능을 추가하다, 할 수 있다, (규칙2 : ~가 영향을 주다, 개입하다) |
@@ -110,19 +110,19 @@
 | | tonrain | 방패, 엄폐물 |
 | | tonrain rin | 옷, 갑옷 |
 | | rainnoi ~ | ~을 보호하는/숨기는 건물 |
-| | rainham ~ | ~을 보호하는/숨기는 시간 |
+| | rainhay ~ | ~을 보호하는/숨기는 시간 |
 | | erren | 날개 |
 | | taren | 뛰다, 도약하다 |
 | | ertaren | 팔, 다리 |
-| | mirin | 가두다, 격리하다 / 제한하다 |
-| | ronham | Ham에 배치하다, 고정하다, 박다 / 약속하다 | 
-| | renham | Ham의 위에 배치하다, 공중에 고정하다, 맹세하다 |
-| | cironham | 다시 고정하다, 다시 박다 / 약속을 수정하다 |
-| | ruronham | 고정된 것을 빼내다, 뽑다 / 약속을 없애다 |
+| | yirin | 가두다, 격리하다 / 제한하다 |
+| | ronhay | Ham에 배치하다, 고정하다, 박다 / 약속하다 | 
+| | renhay | Ham의 위에 배치하다, 공중에 고정하다, 맹세하다 |
+| | cironhay | 다시 고정하다, 다시 박다 / 약속을 수정하다 |
+| | ruronhay | 고정된 것을 빼내다, 뽑다 / 약속을 없애다 |
 | | rin son | 가르치다 |
 | | raan son | 기록하다 |
 | | rincos | 불태우다 |
-| | merincos hamton | 'X' |
+| | yerincos hayton | 'X' |
 | | raancos | 굽다 |
 | | tonrencos | 항성, 별 |
 | hon | | 분리하다, 떼어내다, 관련 없게 만들다, 풀다 |
@@ -160,21 +160,21 @@
 | | cuad | 체외 흡수 |
 | | cid | 체내 흡수 |
 | har | | 보다 |
-| | merinhar | 시각, 어떤 것이 볼 수 있다 |
-| | meruanhar | 시각 장애, 어떤 것이 볼 수 없다 |
+| | yerinhar | 시각, 어떤 것이 볼 수 있다 |
+| | yeruanhar | 시각 장애, 어떤 것이 볼 수 없다 |
 | | erhar | 눈알 |
 | | har cnai | 듣다 |
-| | merinhar cnai | 청각, 어떤 것이 들을 수 있다 |
-| | meruanhar cnai | 청각 장애, 어떤 것이 들을 수 없다 |
+| | yerinhar cnai | 청각, 어떤 것이 들을 수 있다 |
+| | yeruanhar cnai | 청각 장애, 어떤 것이 들을 수 없다 |
 | | erhar cnai | 귀 |
 | | har irio | 맡다 |
-| | merinhar irio | 후각, 어떤 것이 맡을 수 있다 |
-| | meruanhar irio | 후각 장애, 어떤 것이 맡을 수 없다 |
+| | yerinhar irio | 후각, 어떤 것이 맡을 수 있다 |
+| | yeruanhar irio | 후각 장애, 어떤 것이 맡을 수 없다 |
 | | erhar irio | 코 |
 | | harnoi ~ | ~을 보는 건물 / 문장형 |
 | | tahar | 비추다, 밝히다, (규칙1 : 밝은 것, 흰 것, 비추어진 것), (규칙2 : ~가 빛나다) |
 | | taharnoi ~ | ~을 비추는 건물 / 문장형 |
-| | taharham ~ | ~을 비추는 시간, ~의 낮 / 문장형 |
+| | taharhay ~ | ~을 비추는 시간, ~의 낮 / 문장형 |
 | | her | 내려다보다, 무시하다 |
 | | taher | 앉히다, 눕히다 (규칙2 : 앉다, 눕다) |
 | | huur | 올려다보다, 존경하다 |
@@ -186,14 +186,14 @@
 | | rutahum | 씻기다, 닦다, (규칙1 : 깨끗한 것) |
 | sar | | 휘두르다, 흔들다, 지배하다, 사용하다, 노동시키다, (규칙2 : ~가 자유의지를 가지다) |
 | | sarnoi ~ | ~을 운영하는 건물 |
-| | sarham ~ | ~을 운영하는 시간 |
+| | sarhay ~ | ~을 운영하는 시간 |
 | | tasar | 잡다, 쥐다, 가지다 |
 | | ertasar | 손, 발 |
 | | rutasar | 버리다, 놓다, (규칙2 : ~가 범죄를 저지르다) |
 | | citasar | 되찾다, 회수하다 |
-| | mitasar | 훔치다, 빼앗다, 납치하다 |
-| | misar | (노예, 식민지로) 만들다, 착취하다 |
-| | tamisar | (권리, 권력을) 빼앗으려하다, 침략하다 |
+| | yitasar | 훔치다, 빼앗다, 납치하다 |
+| | yisar | (노예, 식민지로) 만들다, 착취하다 |
+| | tayisar | (권리, 권력을) 빼앗으려하다, 침략하다 |
 | | rusar | 해고하다, 해임하다 |
 | mon | | 키우다, 성장시키다, (규칙1 : 큰 것, 성체) |
 | | mon rutasoc | 넓히다, (규칙1 : 넓은 것) |
@@ -208,21 +208,21 @@
 * 5 : mon
 * 6 : ruan
 * 7 : sar
-* 8 : tam
+* 8 : rain
 * 9 : yaruta
 * 10 : soc
 * **활용**
 * 15 : soc un mon
 * 36 : sochuur un ruan
-* 100 : ham
-* 279 : hamhin un socsar un son
-* 10000 : hamron
-* 1000000 : hamtaren
+* 100 : hay
+* 279 : hayhin un socsar un yaruta
+* 10000 : hayron
+* 1000000 : haytaren
 ### 기초 합성어
 * napi : 나
-* meni : 어떤 이유
-* mesar : 어떤 방법
-* meham : 어떤 시간, 어떤 곳
+* yeni : 어떤 이유
+* yesar : 어떤 방법
+* yehay : 어떤 시간, 어떤 곳
 * rencui : 번개
 * cuicod : 열매
 * aliicod : 해산물
@@ -235,9 +235,9 @@
 * soorlalii rineele : 잠수함
 * soorlalii raaneele : 배
 * coroen terain : 길이
-* coruun tenaham : 깊이
-* conaham teraan : 높이
+* coruun tenahay : 깊이
+* conahay teraan : 높이
 ---
 | 활용법 | 예문 |
 | --- | --- |
-| 기록적 활용 | meham, 'siruta hamsi' otasar a 'sitaruta me' otamisar taharyarutameham. un tisiruta sisar tahar un, tisimirintahar son ot 'X' (어느 날, '모든 지성체를 죽이는 자들'의 전사들이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들을 다스리는 지성체를 죽이고 'X'에 대한 것을 타하르들의 안에 강제로 가르쳤다.) tini mu tinisar tiham. tisita sisarnoi misar un, tahar mu misar. (그 이유는 그들이 그 땅을 가지고 싶기 때문이었다. 그들은 식민지를 운영하는 건물을 만들었고, 타하르들은 노예였다.) tisimitasar hamsoorl. tini mu taharrinta 'rencui'. 'rencui' mu tahartasar a tontaruta me. tirinruta hamsi. un, tita cnai. isan, rencuiyarutaham mu yamon coroen terain. (그들은 모든 금속을 빼앗았다. 그 이유는 타하르들이 번개를 만들 수도 있기 때문이다. '번개'는 타하르들의 '사물이 어떤 것을 공격하다(무기)'이다. 그것은 모든 것을 죽일 수 있었고 그것은 소리를 만들었다. 하지만, '번개'의 수명은 짧았다.) cimeham, taharrutasar ot X. taharrinnoi rutasar a soorl mu taharyarutanoi rin ot cuicod. (다른 어떤 날, 타하르들은 X에 대한 범죄를 저질렀다. 타하르들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.) |
+| 기록적 활용 | yehay, 'siruta haysi' otasar a 'sitaruta ye' otayisar taharyarutayehay. un tisiruta sisar tahar un, tisiyirintahar son ot 'X' (어느 날, '모든 지성체를 죽이는 자들'의 전사들이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들을 다스리는 지성체를 죽이고 'X'에 대한 것을 타하르들의 안에 강제로 가르쳤다.) tini mu tinisar tihay. tisita sisarnoi yisar un, tahar mu yisar. (그 이유는 그들이 그 땅을 가지고 싶기 때문이었다. 그들은 식민지를 운영하는 건물을 만들었고, 타하르들은 노예였다.) tisiyitasar haysoorl. tini mu taharrinta 'rencui'. 'rencui' mu tahartasar a tontaruta ye. tirinruta haysi. un, tita cnai. isan, rencuiyarutahay mu yamon coroen terain. (그들은 모든 금속을 빼앗았다. 그 이유는 타하르들이 번개를 만들 수도 있기 때문이다. '번개'는 타하르들의 '사물이 어떤 것을 공격하다(무기)'이다. 그것은 모든 것을 죽일 수 있었고 그것은 소리를 만들었다. 하지만, '번개'의 수명은 짧았다.) ciyehay, taharrutasar ot X. taharrinnoi rutasar a soorl mu taharyarutanoi rin ot cuicod. (다른 어떤 날, 타하르들은 X에 대한 범죄를 저질렀다. 타하르들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.) |

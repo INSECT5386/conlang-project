@@ -238,7 +238,7 @@
 * 4 : rin
 * 5 : yon
 * 6 : ruan
-* 7 : sar
+* 7 : sa
 * 8 : rain
 * 9 : yaruta
 * 10 : soc
@@ -246,20 +246,20 @@
 * 15 : soc un yon
 * 36 : sochuur un ruan
 * 100 : hay
-* 279 : hayhin un socsar un yaruta
+* 279 : hayhin un socsa un yaruta
 * 10000 : hayron
 * 1000000 : haytaren
 ### 기초 합성어
 * nasi : 나
-* yeni : 어떤 이유
-* yesar : 어떤 방법
-* yehay : 어떤 시간, 어떤 곳
+* nyni : 어떤 이유
+* nysa : 어떤 방법
+* nyhay : 어떤 시간, 어떤 곳
 * rencui : 번개
 * cuicot : 열매
 * ariicot : 해산물
-* cuinoi : 목제 건물
-* reesnoi : 흙집
-* rin a ton : 가구, 실내 사물
+* cuiny : 목제 건물
+* reesny : 흙집
+* rin a er : 가구, 실내 사물
 * toorrees : 진흙
 * raancos a toorrees : 벽돌
 * soossai : 비행기, 비행물체

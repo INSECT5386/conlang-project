@@ -191,6 +191,9 @@
 | | cuat | 체외 흡수 |
 | | cit | 체내 흡수 |
 | har | | 보다 |
+| | erhar yayon | 현미경 |
+| | erhar ti a er | 망원경 |
+| | erhar na a er | 돋보기 |
 | | nyrinhar | 시각, 어떤 것이 볼 수 있다 |
 | | nyruanhar | 시각 장애, 어떤 것이 볼 수 없다 |
 | | sahar | 눈알 |

@@ -164,12 +164,12 @@
 | | ruantahon | 무디다 |
 | | rutahon | 봉합하다, 용접하다 |
 | | huan | 긁다, 갈다, 할퀴다 |
-| | erhuan | 손톱, 발톱 |
+| | sahuan | 손톱, 발톱 |
 | | rinhuan | 거칠다 |
 | | ruanhuan | 매끄럽다 |
 | | hin | 파다, 뚫다, 열다 |
 | soc | | 꺾다, 부러뜨리다, 접다, 이기다, (규칙1 : 꺾인 것, 기울어진 것) |
-| | ertasoc | 관절 |
+| | satasoc | 관절 |
 | | tasoc | 구부리다, 곡선으로 만들다, 도전하다, (규칙1 : 구부러진 것, 굴곡진 것) |
 | | rutasoc | 곧게 펴다, 직선으로 만들다, 돕다, (규칙1 : 곧은 것, 평평한 것) |
 | | ruunrutasoc | 바닥 |
@@ -177,40 +177,40 @@
 | son | | 기억하다, 알다, (규칙2 : ~의 자아) |
 | | sin | 이해하다 |
 | | suan | 아는 척하다 |
-| | erson | 습관 |
+| | sason | 습관 |
 | | ruson | 잊다, 지우다, 삭제하다, (규칙2 : ~가 기억/자아를 잃다) |
 | | tason | 배우다, 연구하다 |
 | | yason | 모르다 |
 | cot | | 삼키다, 먹다, (규칙2 : ~가 자가포식하다) |
 | | cot ruan | 핥다 |
-| | ercot ruan | 혀 |
-| | ercot | 입-목구멍 |
+| | sacot ruan | 혀 |
+| | sacot | 입-목구멍 |
 | | tacot | 씹다, 깨물다 |
-| | ertacot | 이빨, 치아 |
+| | satacot | 이빨, 치아 |
 | | cot irio | 숨 쉬다 |
 | | cuat | 체외 흡수 |
 | | cit | 체내 흡수 |
 | har | | 보다 |
-| | yerinhar | 시각, 어떤 것이 볼 수 있다 |
-| | yeruanhar | 시각 장애, 어떤 것이 볼 수 없다 |
-| | erhar | 눈알 |
+| | nyrinhar | 시각, 어떤 것이 볼 수 있다 |
+| | nyruanhar | 시각 장애, 어떤 것이 볼 수 없다 |
+| | sahar | 눈알 |
 | | har nai | 듣다 |
-| | yerinhar nai | 청각, 어떤 것이 들을 수 있다 |
-| | yeruanhar nai | 청각 장애, 어떤 것이 들을 수 없다 |
-| | erhar nai | 귀 |
+| | nyrinhar nai | 청각, 어떤 것이 들을 수 있다 |
+| | nyruanhar nai | 청각 장애, 어떤 것이 들을 수 없다 |
+| | sahar nai | 귀 |
 | | har irio | 맡다 |
-| | yerinhar irio | 후각, 어떤 것이 맡을 수 있다 |
-| | yeruanhar irio | 후각 장애, 어떤 것이 맡을 수 없다 |
-| | erhar irio | 코 |
-| | harnoi ~ | ~을 보는 건물 / 문장형 |
+| | nyrinhar irio | 후각, 어떤 것이 맡을 수 있다 |
+| | nyruanhar irio | 후각 장애, 어떤 것이 맡을 수 없다 |
+| | sahar irio | 코 |
+| | harny ~ | ~을 보는 건물 / 문장형 |
 | | tahar | 비추다, 밝히다, (규칙1 : 밝은 것, 흰 것, 비추어진 것), (규칙2 : ~가 빛나다) |
-| | taharnoi ~ | ~을 비추는 건물 / 문장형 |
+| | taharny ~ | ~을 비추는 건물 / 문장형 |
 | | taharhay ~ | ~을 비추는 시간, ~의 낮 / 문장형 |
 | | her | 내려다보다, 무시하다 |
 | | taher | 앉히다, 눕히다 (규칙2 : 앉다, 눕다) |
 | | huur | 올려다보다, 존경하다 |
 | | tahuur | 세우다 (규칙2 : ~가 서다) |
-| | ertahuur | 뼈 |
+| | satahuur | 뼈 |
 | non | | 감염시키다, (규칙1 : 감염된 것, 다친 것) |
 | | runon | 치료하다, (규칙1 : 치료된 것, 건강한 것) |
 | | tanon | 오염시키다, (규칙1 : 더러운 것)  |

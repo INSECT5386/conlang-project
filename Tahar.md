@@ -110,21 +110,20 @@
 | --- | --- | --- |
 | ta | | 시작하다, 탄생시키다, 접두사형 : 을 하려고 시도하다, (규칙1 : 창조물, 자식), (규칙2 : ~가 자연발생하다) |
 | | sita ~ | ~의 창조자, ~의 부모 |
-| | nuta | (지성체가 아닌) 부모, 창조자 |
 | | yata | 미루다, 포기하다 |
 | | cita | 다시 시작하다, 수정하다, 대체하다, 변환하다 |
 | | rucita | 복원하다, 복구하다 |
-| | rucitanoi ~ | ~을 복구하는/복원하는 건물 |
+| | rucitanny ~ | ~을 복구하는/복원하는 건물 |
 | | cita son | 느끼다, 생각하다, 인식하다 |
-| | ercita son | 뇌, 영혼 |
+| | sacita son | 뇌, 영혼 |
 | | ruta | 끝내다, 없애다, (~가 자멸하다) |
 | | taruta | 공격하다, (규칙2 : ~가 자해하다) |
 | | ruta rin | 퍼뜨리다, 분산시키다 |
 | | yaruta | 살려두다, 지속시키다, (규칙2 : ~가 살아있다, ~가 살다) |
 | | yaruta rin | 모으다, 누적시키다 |
-| | yarutanoi rin ot ~ | ~을 모으는/보관하는 건물 |
+| | yarutany rin ot ~ | ~을 모으는/보관하는 건물 |
 | | yarutahay rin ot ~ | ~을 사냥하는, 채집하는 장소/시간 |
-| | yarutanoi ~ | ~을 살리는/지속시키는 건물 |
+| | yarutany ~ | ~을 살리는/지속시키는 건물 |
 | | ~yarutahay | ~의 수명 |
 | | ciyaruta | 부활시키다, 되살리다, (규칙2 : ~가 부활하다, ~가 되살아나다) |
 | ron | | 배치하다 |
@@ -134,19 +133,19 @@
 | | ruun | 내려놓다, (규칙1 : 낮은 것, 아래쪽의 것) |
 | | ren | 공중에 배치하다, 매달다, (규칙1 : 공중의 것, 하늘의 것), (규칙2 : 날다, 매달리다) |
 | | roen | 앞에 놓다, 대항하다, (규칙1 : 앞쪽의 것) |
-| | erroen | 얼굴 |
-| | tonroen | 벽, 장애물 |
-| | erroen ruan | 살코기, 내장 |
+| | saroen | 얼굴 |
+| | erroen | 벽, 장애물 |
+| | saroen ruan | 살코기, 내장 |
 | | rain | 뒤에 놓다, 숨기다, 보호하다, (규칙1 : 뒤쪽의 것)
-| | errain rin | 피부, 가죽 |
-| | errain | 등 |
-| | tonrain | 방패, 엄폐물 |
-| | tonrain rin | 옷, 갑옷 |
-| | rainnoi ~ | ~을 보호하는/숨기는 건물 |
+| | sarain rin | 피부, 가죽 |
+| | sarain | 등 |
+| | errain | 방패, 엄폐물 |
+| | errain rin | 옷, 갑옷 |
+| | rainny ~ | ~을 보호하는/숨기는 건물 |
 | | rainhay ~ | ~을 보호하는/숨기는 시간 |
-| | erren | 날개 |
+| | saren | 날개 |
 | | taren | 뛰다, 도약하다 |
-| | ertaren | 팔, 다리 |
+| | sataren | 팔, 다리 |
 | | neerin | 가두다, 격리하다 / 제한하다 |
 | | ronhay | Hay에 배치하다, 고정하다, 박다 / 약속하다 | 
 | | renhay | Hay의 위에 배치하다, 공중에 고정하다, 맹세하다 |
@@ -155,9 +154,9 @@
 | | rin son | 가르치다 |
 | | raan son | 기록하다 |
 | | rincos | 불태우다 |
-| | yerincos hayton | 'X' |
+| | nyrincos hayer | 'X' |
 | | raancos | 굽다 |
-| | tonrencos | 항성, 별 |
+| | errencos | 항성, 별 |
 | hon | | 분리하다, 떼어내다, 관련 없게 만들다, 풀다 |
 | | ruhon | 결합시키다, 연결하다, 관련 있게 만들다, 묶다 |
 | | tahon | 자르다, 베다 |

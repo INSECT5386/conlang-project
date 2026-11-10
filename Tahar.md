@@ -181,12 +181,12 @@
   * cot irio : 숨 쉬다
   * cuat : 체외 흡수
   * cit : 체내 흡수
-| | yon coroen terain | 늘이다, (규칙1 : 긴 것, 줄) |
 * **yon**: 키우다, 성장시키다
   * 규칙1 : 큰 것, 성체
   * yon rutasoc : 넓히다
     * 규칙1 : 넓은 것
-  * yon coroen terain
+  * yon coroen terain : 늘이다
+    * 규칙1 : 긴 것
 ---
 | 동사 어근 | 변형 | 뜻 |
 | --- | --- | --- |

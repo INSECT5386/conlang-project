@@ -143,9 +143,10 @@
 | | cironhay | 다시 고정하다, 다시 박다 / 약속을 수정하다 |
 | | ruronhay | 고정된 것을 빼내다, 뽑다 / 약속을 없애다 |
 | | rin son | 가르치다 |
+| | rin nai | 말하다 |
 | | raan son | 기록하다 |
+| | raan nai | 녹음하다 |
 | | rincos | 불태우다 |
-| | nyrincos hayer | 'X' |
 | | raancos | 굽다 |
 | | errencos | 항성, 별 |
 | hon | | 분리하다, 떼어내다, 관련 없게 만들다, 풀다 |

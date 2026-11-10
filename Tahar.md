@@ -35,7 +35,7 @@
 * 2. ertaruta haysi : (er, 사물)[주어] + (taruta, 공격하다)[서술어] + (haysi, 모든 지성체)[목적어] -> 사물이 모든 지성체를 공격한다 = 모든 지성체를 공격하는 사물, 무기
 5. '주어', '동사', '목적어'의 배치는 무조건 '주어동사' 다음에 '목적어' 이며, '주어동사'는 주어를 동사 앞에 합성하는 형태이다. '주어'가 구문일 경우에는 3번 규칙에 따라 처리한다.
 * 1. (nasi, 나)[주어] + (cot, 먹다)[서술어] + (arii, 물고기)[목적어] -> (nasicot, 내가 먹는다) + (arii, 물고기) -> (nasicot arii, 내가 물고기를 먹는다)
-* 2. (sacita son, 영혼/뇌)[주어] + (son, 기억하다/알다)[서술어] + (Hay, tahar의 최초신) -> (sacita son oson, 영혼이 안다, 기억한다) + (Hay, tahar의 최고신) -> (sacita son oson Hay, 영혼이 tahar의 최고신을 안다, 기억한다)
+* 2. (sicita son, 그 자에게 뇌가 있다, 그 자의 뇌)[주어] + (son, 기억하다/알다)[서술어] + (Hay, tahar의 최초신) -> (sicita son oson, 그 자의 뇌가 안다, 기억한다) + (Hay, tahar의 최고신) -> (sicita son oson Hay, 그 자의 뇌가 tahar의 최고신을 안다, 기억한다)
 * **'a' 활용법**
 1. 'A'tasa a 'B' : 'A'의 소유인 'B'
 * 1. tisitasa a cuicot : (tisi, 그 지성체)[주어] + (tasa a, 가진 것인)[소유격] + (cuicot, 과일)[대상] -> 그 지성체가 가진 것인 과일, 그 지성체의 과일

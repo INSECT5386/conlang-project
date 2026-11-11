@@ -244,7 +244,6 @@
     * 규칙1 : 공중의 것, 하늘의 것
     * 규칙2 : 날다
       * 활용3 : X는 날 수 있는 기관이 있다
-    * renhay : Hay의 위에 배치하다, 공중에 고정하다, 맹세하다
     * taren : 밀다, 밀어내다
       활용3 : X는 밀어낼 수 있는 기관이 있다
       * 규칙2 : 뛰다, 도약하다
@@ -325,4 +324,6 @@
 | 구간 | 문장 |
 | --- | --- |
 | 1 | Nyhay, nysisany rin a si orintaruta ruan a si. titaneesa taharyarutanyhay. un, tisiruta siraansa tahar un, tisirintahar nai ot tisiraansa hayer. tini os tisitasa tihay. tisita sisany tahar. tisineetasa haysoos. tini os in taharta 'rencui' orun, taharrinruta hayer. un rencuita nai. isan, rencuiyarutahay os yayon. |
-| 2 | Cinyhay, taharrinny rutasa a soos os taharyaruta rin a cuicot. |
+| 2 | Cinyhay, taharrinny rutasa a soos os taharyaruta rin a cuicot. tihay, sisaronhay sihar neesa os taharyarutanyhay. tuh, nysihar neesa orutasany 'coscuitanon haysa ti' os taharrainny soos a taharyarutany rin a cuicot. cosciyaruta. un, tirincos tiny. |
+| 2-1 | nytaharneerin tisihar neesa. tuh, nysita rin a haysi oruta titahar un, tisiruanny tihar neesa os nyneerinny hayrutasa. |
+| 2-2 | Siraincoshay tiny, taharrenti tisihar os ertahuur. un, taharronhayny ti os hayrincos. un, tahartata rencui. |

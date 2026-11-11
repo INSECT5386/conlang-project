@@ -298,9 +298,9 @@
 ---
 | 구간 | 문장 |
 | --- | --- |
-| 1 | Nyhay, nysisany rin a si orintaruta ruan a si. titaneesa taharyarutanyhay. un, tisiruta siraansa tahar un, tisirintahar nai a tisiraansa hayer. tini os tisinitasa tihay. tisita sisany tahar. tisineetasa haysoos. tini os in taharta 'rencui' orun, taharrinruta hayer. isan, rencuiyarutahay os yayon. |
-| 번역-1 | 어느날, 어떤 지성체가 내부자들을 지배하는 건물의 외부자를 공격하는 기관. 그것이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들를 지배할 자격이 있는 자륵 죽였다. 그리고, 그들은 그들이 모든 사물(물리적인 것)을 지배할 자격이 있다고 말했다. 그 이유는 그들이 그 장소를 가지고 싶었기 때문이다. 그들은 그들이 타하르들을 지배하는 건물을 세웠다. 그들은 모든 금속을 빼앗았다. 그 이유는 만약 타하르들이 번개를 만든다면, 타하르들이 모든 것을 없앨 수도 있기 때문이다. 그리고, 하지만, 번개의 수명은 짧았다. |
-| 2 | Cinyhay, taharrinny rutasa a soos os taharyaruta rin a cuicot. tihay, sisa tahar oronhay sihar neesa os taharyarutanyhay. tuh, nysihar neesa orutasany 'coscuitanon haysa ti' os taharrainny soos a taharyarutany rin a cuicot. cosciyaruta. un, tirincos tiny. |
+| 1 | Nyhay, Nysanysi ny os rin, rintarutasiny si os ruan. saneetahaynyti haynytaruyaharta. un, tarusiti raansahartasi un, rinhartanaisi raansahaysi. tini os satanihaysi. tanysi nysahartasi. sataneesooshaysi. tini os tarencuiharta orun, rinrutahayharta. isan, haytaruyarencui os yonya. |
+| 번역-1 | 어느날, 어떤 지성체가 내부자들을 지배하는 건물의 외부자를 공격하는 기관. 그것이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들를 지배할 자격이 있는 자를 죽였다. 그리고, 그들은 그들이 모든 것을 지배할 자격이 있다고 말했다. 그 이유는 그들이 그 장소를 가지고 싶었기 때문이다. 그들은 그들이 타하르들을 지배하는 건물을 세웠다. 그들은 모든 금속을 빼앗았다. 그 이유는 만약 타하르들이 번개를 만든다면, 타하르들이 모든 것을 없앨 수도 있기 때문이다. 그리고, 하지만, 번개의 수명은 짧았다. |
+| 2 | Cinyhay, nyrinsataruhasoosharta os taruyacuicotharinharta. tihay, sahartasi hayronnysisi os nyhaytaruyaharta, nysi os harsaneesi. tuh, harsaneesi nysatarutisi os nyrainsoosharta os taruyacuicotharinharta. ti os nontahaycoscui satihay. taruyacicos. un, cosrinnyti. |
 | 번역-2 | 다시 어떤(다른) 날, 타하르들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다. 그 때, 타하르들을 지배하는 자들이 타하르들이 사는 곳으로 노예를 감시하는 자을 보냈다. 그런데, 어떤 노예 감시자가 '그것을 사용하는 모든 것을 오염시키는 불 나무'를 타하르들이 금속을 숨기는 과일 저장소에 버렸다. 불이 되살아났고, 그것은 그 건물을 불태웠다. |
 | 2-1 | Nytaharneerin tisihar neesa. tuh, nysita rin a haysi oruta titahar un, tisiruanny tihar neesa os nyneerinny hayrutasa. |
 | 번역-2-1 | 어떤 타하르들이 그 노예 감시자를 가두었다. 그런데, 모든 내부인을 지배하는 자가 그 타하르들을 죽였고 그 노예 감시자를 범죄를 저지른 모든 것을 가두는 건물에서 꺼냈다. |
@@ -308,3 +308,8 @@
 | 번역-2-2 | 그 자가 그 곳을 불태운 잔향이 남은 시간에, 타하르들은 그 노예 감시자를 기둥에 묶었고, 기둥을 모든 것이 스스로 불타는 곳에 박았다. 그리고, 타하르들은 번개를 만드는 것을 시도했다. |
 | 3 | Tisisany tahar oraintaharhay. haysa nyer ocot raancos a sarin un cuicot a toor. haysa un socyon un ta a tahar oneeruunsa. isan, tihayyataharhay os yon coroen terain. Tihay, nyerrentiny. un, tierruta soosrainny rin a tisisany tahar. nysirinhaysi nai a 'rencuirennany!'. sitaruta nyer oroenrain sisa tahar. isan, rencuicirentiny. |
 | 번역-3 | 그들이 타하르들을 지배하는 건물이 스스로를 비춘 잔상이 남은 시간에, 어떤 것을 지배하는 모든 자들이 구운 내장과 과일즙을 마셨다. 751명의 타하르들이 자신들을 강제로 노동시켜야 했다. 하지만, 그 곳의 밤은 길었다. 그 때, 어떤 것이 그곳을 향햐 날았다. 그리고, 그 사물은 그들이 타하르들을 지배하는 건물을 보호하는 철벽을 없앴다. 어떤 자가 모두에게 말했다. '번개가 이곳으로 날아온다!'. 전사들이 타하르들을 지배하는 자들을 보호하기 직전이었다. 하지만, 번개가 그 곳으로 다시 날아왔다. |
+
+
+
+. . un, . un, . .  . 
+Cinyhay,  Tihay,  . Tuh,  Ti os nontahaycoscui satihay.

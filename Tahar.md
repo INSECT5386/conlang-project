@@ -149,7 +149,7 @@
           * 규칙2 : 부활하다, 되살아나다
 * **sa**: 휘두르다, 흔들다, 지배하다, 사용하다, 노동시키다
   * 규칙1 : 신체
-  * 규칙2 : 자유의지를 가지다
+  * 규칙2 : 노동하다, 일하다
   * sany : 운영하는 건물
   * sahay : 운영하는 시간
   * rusa : 해고하다, 해임하다
@@ -331,5 +331,6 @@
 | 번역-2-1 | 어떤 타하르들이 그 노예 감시자를 가두었다. 그런데, 모든 내부인을 지배하는 자가 그 타하르들을 죽였고 그 노예 감시자를 범죄를 저지른 모든 것을 가두는 건물에서 꺼냈다. |
 | 2-2 | tisiraincoshay tiny, taharrenti tisihar neesa os ertahuur. un, taharroncuiny ertahuur os hayrincoshay. un, tahartata rencui. |
 | 번역-2-2 | 그 자가 그 곳을 불태운 잔향이 남은 시간에, 타하르들은 그 노예 감시자를 기둥에 묶었고, 기둥을 모든 것이 스스로 불타는 곳에 박았다. 그리고, 타하르들은 번개를 만드는 것을 시도했다. |
-| 3 | Tisisany tahar oraintaharhay. tisa nyer ocot raancos a sarin un cuicot a toor. haysa un socyon un ta a tahar oruunsa. isan, tisiyataharhay os yon coroen terain. |
+| 3 | Tisisany tahar oraintaharhay. haysa nyer ocot raancos a sarin un cuicot a toor. haysa un socyon un ta a tahar oneeruunsa. isan, tiyataharhay os yon coroen terain. |
+| 번역-3 | 그들이 타하르들을 지배하는 건물이 스스로를 비춘 잔상이 남은 시간에, 어떤 것을 지배하는 모든 자들이 구운 내장과 과일즙을 마셨다. 751명의 타하르들이 자신들을 강제로 노동시켜야 했다. 하지만, 그것의 밤은 길었다. |
 | 3-1 | Tihay, nyerrentiny. un, tierruta soosrainny rin a tisisany tahar. nysirinhaysi nai a 'rencuirennany!'. sitaruta nyer oroenrain sisa tahar. isan, rencuicirentiny. |

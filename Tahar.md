@@ -140,8 +140,8 @@
         * 규칙1 : 생존한 것, 지속된 것
         * 규칙2 : 살아있다, 살다
         * yaruta rin : 모으다, 누적시키다
-          * yarutany rin ot : 모으는/보관하는 건물
-          * yarutahay rin ot : 사냥하는/채집하는 장소/시간
+          * yarutany rin a : 모으는/보관하는 건물
+          * yarutahay rin a : 사냥하는/채집하는 장소/시간
         * yarutany : 살리는/지속시키는 건물
         * yarutahay : 살려두는 시간
           * 규칙2 : ~의 수명
@@ -324,4 +324,5 @@
 ---
 | 구간 | 문장 |
 | --- | --- |
-| 1 | Nyhay, nysisany rin a si orintaruta ruan a si. |
+| 1 | Nyhay, nysisany rin a si orintaruta ruan a si. titaneesa taharyarutanyhay. un, tisiruta siraansa tahar un, tisirintahar nai ot tisiraansa hayer. tini os tisitasa tihay. tisita sisany tahar. tisineetasa haysoos. tini os in taharta 'rencui' orun, taharrinruta hayer. un rencuita nai. isan, rencuiyarutahay os yayon. |
+| 2 | Cinyhay, taharrinny rutasa a soos os taharyaruta rin a cuicot. |

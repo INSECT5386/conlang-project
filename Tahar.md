@@ -294,7 +294,7 @@
 * toorrees : 진흙
 * toorrees os cosraan : 진흙이 불탄 것이다. 벽돌
 * soossai : 비행기, 비행물체
-* coroen terain : 길이
+* coroenterain : 길이
 ---
 | 구간 | 문장 |
 | --- | --- |

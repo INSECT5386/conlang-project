@@ -327,3 +327,5 @@
 | 2 | Cinyhay, taharrinny rutasa a soos os taharyaruta rin a cuicot. tihay, sisaronhay sihar neesa os taharyarutanyhay. tuh, nysihar neesa orutasany 'coscuitanon haysa ti' os taharrainny soos a taharyarutany rin a cuicot. cosciyaruta. un, tirincos tiny. |
 | 2-1 | Nytaharneerin tisihar neesa. tuh, nysita rin a haysi oruta titahar un, tisiruanny tihar neesa os nyneerinny hayrutasa. |
 | 2-2 | Siraincoshay tiny, taharrenti tisihar os ertahuur. un, taharronhayny ti os hayrincos. un, tahartata rencui. |
+| 3 | Tisisany tahar oraintaharhay. tisa nyer ocot raancos a sarin un cuicot a toor. haysa un socyon un ta a tahar oruunsa. isan, tisiyataharhay os yon coroen terain. |
+| 3-1 | Tihay, nyerrentiny. un, tierruta soosrainny rin a tisisany tahar. nysirinhaysi nai a 'rencuirennany!'. sitaruta nyer oroenrain sisa tahar. isan, rencuicirentiny. |

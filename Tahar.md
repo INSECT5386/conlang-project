@@ -329,6 +329,7 @@
 | 번역-2 | 다시 어떤(다른) 날, 타하르들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다. 그 때, 타하르들을 지배하는 자들이 타하르들이 사는 곳으로 노예를 감시하는 자을 보냈다. 그런데, 어떤 노예 감시자가 '그것을 사용하는 모든 것을 오염시키는 불 나무'를 타하르들이 금속을 숨기는 과일 저장소에 버렸다. 불이 되살아났고, 그것은 그 건물을 불태웠다. |
 | 2-1 | Nytaharneerin tisihar neesa. tuh, nysita rin a haysi oruta titahar un, tisiruanny tihar neesa os nyneerinny hayrutasa. |
 | 번역-2-1 | 어떤 타하르들이 그 노예 감시자를 가두었다. 그런데, 모든 내부인을 지배하는 자가 그 타하르들을 죽였고 그 노예 감시자를 범죄를 저지른 모든 것을 가두는 건물에서 꺼냈다. |
-| 2-2 | Siraincoshay tiny, taharrenti tisihar os ertahuur. un, taharronhayny ti os hayrincos. un, tahartata rencui. |
+| 2-2 | tisiraincoshay tiny, taharrenti tisihar neesa os ertahuur. un, taharroncuiny ertahuur os hayrincoshay. un, tahartata rencui. |
+| 번역-2-2 | 그 자가 그 곳을 불태운 잔향이 남은 시간에, 타하르들은 그 노예 감시자를 기둥에 묶었고, 기둥을 모든 것이 스스로 불타는 곳에 박았다. 그리고, 타하르들은 번개를 만드는 것을 시도했다. |
 | 3 | Tisisany tahar oraintaharhay. tisa nyer ocot raancos a sarin un cuicot a toor. haysa un socyon un ta a tahar oruunsa. isan, tisiyataharhay os yon coroen terain. |
 | 3-1 | Tihay, nyerrentiny. un, tierruta soosrainny rin a tisisany tahar. nysirinhaysi nai a 'rencuirennany!'. sitaruta nyer oroenrain sisa tahar. isan, rencuicirentiny. |

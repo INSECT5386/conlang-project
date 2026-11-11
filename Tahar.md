@@ -323,7 +323,8 @@
 ---
 | 구간 | 문장 |
 | --- | --- |
-| 1 | Nyhay, nysisany rin a si orintaruta ruan a si. titaneesa taharyarutanyhay. un, tisiruta siraansa tahar un, tisirintahar nai ot tisiraansa hayer. tini os tisitasa tihay. tisita sisany tahar. tisineetasa haysoos. tini os in taharta 'rencui' orun, taharrinruta hayer. un rencuita nai. isan, rencuiyarutahay os yayon. |
+| 1 | Nyhay, nysisany rin a si orintaruta ruan a si. titaneesa taharyarutanyhay. un, tisiruta siraansa tahar un, tisirintahar nai a tisiraansa hayer. tini os tisinitasa tihay. tisita sisany tahar. tisineetasa haysoos. tini os in taharta 'rencui' orun, taharrinruta hayer. isan, rencuiyarutahay os yayon. |
+| 번역-1 | 어느날, 어떤 지성체가 내부자들을 지배하는 건물의 외부자를 공격하는 기관. 그것이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들를 지배할 자격이 있는 자륵 죽였다. 그리고, 그들은 그들이 모든 사물(물리적인 것)을 지배할 자격이 있다고 말했다. 그 이유는 그들이 그 장소를 가지고 싶었기 때문이다. 그들은 그들이 타하르들을 지배하는 건물을 세웠다. 그들은 모든 금속을 빼앗았다. 그 이유는 만약 타하르들이 번개를 만든다면, 타하르들이 모든 것을 없앨 수도 있기 때문이다. 그리고, 하지만, 번개의 수명은 짧았다. |
 | 2 | Cinyhay, taharrinny rutasa a soos os taharyaruta rin a cuicot. tihay, sisaronhay sihar neesa os taharyarutanyhay. tuh, nysihar neesa orutasany 'coscuitanon haysa ti' os taharrainny soos a taharyarutany rin a cuicot. cosciyaruta. un, tirincos tiny. |
 | 2-1 | Nytaharneerin tisihar neesa. tuh, nysita rin a haysi oruta titahar un, tisiruanny tihar neesa os nyneerinny hayrutasa. |
 | 2-2 | Siraincoshay tiny, taharrenti tisihar os ertahuur. un, taharronhayny ti os hayrincos. un, tahartata rencui. |

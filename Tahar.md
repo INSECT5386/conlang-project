@@ -215,9 +215,9 @@
     * rutanon : 씻기다, 닦다
       * 규칙1 : 깨끗한 것
 * **ron**: 배치하다
-  * ronhay : Hay에 배치하다, 고정하다, 박다 / 약속하다
-    * cironhay : 다시 고정하다, 다시 박다 / 약속을 수정하다
-    * ruronhay : 고정된 것을 빼내다, 뽑다 / 약속을 없애다
+  * roncui : 고정하다, 박다 / 약속하다
+    * cironcui : 다시 고정하다, 다시 박다 / 약속을 수정하다
+    * ruroncui : 고정된 것을 빼내다, 뽑다 / 약속을 없애다
   * rin : 넣다, 참여시키다
     * 접두사형 : 기능을 추가하다, 할 수 있다
     * 규칙1 : 내부의 것
@@ -325,5 +325,5 @@
 | --- | --- |
 | 1 | Nyhay, nysisany rin a si orintaruta ruan a si. titaneesa taharyarutanyhay. un, tisiruta siraansa tahar un, tisirintahar nai ot tisiraansa hayer. tini os tisitasa tihay. tisita sisany tahar. tisineetasa haysoos. tini os in taharta 'rencui' orun, taharrinruta hayer. un rencuita nai. isan, rencuiyarutahay os yayon. |
 | 2 | Cinyhay, taharrinny rutasa a soos os taharyaruta rin a cuicot. tihay, sisaronhay sihar neesa os taharyarutanyhay. tuh, nysihar neesa orutasany 'coscuitanon haysa ti' os taharrainny soos a taharyarutany rin a cuicot. cosciyaruta. un, tirincos tiny. |
-| 2-1 | nytaharneerin tisihar neesa. tuh, nysita rin a haysi oruta titahar un, tisiruanny tihar neesa os nyneerinny hayrutasa. |
+| 2-1 | Nytaharneerin tisihar neesa. tuh, nysita rin a haysi oruta titahar un, tisiruanny tihar neesa os nyneerinny hayrutasa. |
 | 2-2 | Siraincoshay tiny, taharrenti tisihar os ertahuur. un, taharronhayny ti os hayrincos. un, tahartata rencui. |

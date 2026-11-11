@@ -298,7 +298,7 @@
 ---
 | 구간 | 문장 |
 | --- | --- |
-| 1 | Hayny, Nysanysi ny os rin, rintarutasinyti si os ruan. saneetahaynyti haynytaruyaharta. un, tarusiti raansahartasi un, rinhartanaisi raansahaysi. tini os satanihaysi. tanysi nysahartasi. sataneesooshaysi. tini os tarencuiharta orun, rinrutahayharta. isan, haytaruyarencui os yonya. |
+| 1 | Hayny, Nysanysi ny os rin, rintarutasinyti si os ruan. saneetahaynyti haynytaruyaharta. un, tarusiti raansahartasi un, hartarinnaisi raansahaysi. tini os satanihaysi. tanysi nysahartasi. sataneesooshaysi. tini os tarencuiharta orun, rinrutahayharta. isan, haytaruyarencui os yonya. |
 | 번역-1 | 어느날, 어떤 지성체가 내부자들을 지배하는 건물의 외부자를 공격하는 기관. 그것이 하르타들이 사는 어떤 곳을 침략했고, 그들은 하르타를 지배할 자격이 있는 자를 죽였다. 그리고, 그들은 그들이 모든 것을 지배할 자격이 있다고 말했다. 그 이유는 그들이 그 장소를 가지고 싶었기 때문이다. 그들은 그들이 하르타들을 지배하는 건물을 세웠다. 그들은 모든 금속을 빼앗았다. 그 이유는 만약 하르타들이 번개를 만든다면, 하르타들이 모든 것을 없앨 수도 있기 때문이다. 그리고, 하지만, 번개의 수명은 짧았다. |
 | 2 | Haynyci, nyrinsataruhasoosharta os taruyacuicotharinharta. tihay, sahartasi hayronsinysi os nyhaytaruyaharta, siny os harsaneesi. tuh, harsaneesi nysatarutisi os nyrainsoosharta os taruyacuicotharinharta. ti os nontahaycoscui satihay. taruyacicos. un, cosrinnyti. |
 | 번역-2 | 다시 어떤(다른) 날, 하르타들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다. 그 때, 하르타들을 지배하는 자들이 하르타들이 사는 곳으로 노예를 감시하는 자을 보냈다. 그런데, 어떤 노예 감시자가 '그것을 사용하는 모든 것을 오염시키는 불 나무'를 하르타들이 금속을 숨기는 과일 저장소에 버렸다. 불이 되살아났고, 그것은 그 건물을 불태웠다. |

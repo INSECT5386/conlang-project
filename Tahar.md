@@ -54,10 +54,11 @@
 * **3번 활용, 'rin'**
 1. 'rin'이 서술어 앞에 붙으면, '-할 수 있는 상태이다' 라고 해석하며, 체언이라면 '-할 수 있는 기관이 있다' 라고 해석한다.
 * 1. sirincot cuicot : 그는 과일을 먹을 수 있는 상태이다 (or) 그는 과일을 먹을 수 있는 기관이 있다
-2. '-할 수 있는 기관이 있다' 라고 해석하는 경우에는 신체 뿐만 아니라 어떤 역할을 할 수 있는 내부적이고 전체에 종속된 일부분으로도 해석할 수 있다.
+2. '-할 수 있는 기관이 있다' 라고 해석하는 경우에는 신체 뿐만 아니라 어떤 역할을 할 수 있는 내부적이고 전체에 종속된 일부분이 있다고 해석할 수 있다.
 * **4번 활용, 'ruan'**
 1. ruan'이 서술어 앞에 붙으면, '-할 수 없는 상태이다' 라고 해석하며, 체언이라면 '-할 수 있는 기관이 없다' 라고 해석한다.
 * 1. siruancot cuicot : 그는 과일을 먹을 수 없는 상태이다. (or) 그는 과일을 먹을 수 있는 기관이 없다
+2. '-할 수 있는 기관이 없다' 라고 해석하는 경우에는 신체 뿐만 아니라 어떤 역할을 할 수 있는 내부적이고 전체에 종속된 일부분이 없다고 해석할 수 있다.
 * **시제의 부재와 대체 요소**
 * 별도의 시제는 존재하지 않으며, 문맥으로 시간을 구분함.
 * * 'ni + 동사': 어떤 용도가 있거나 원하는 것이 있지만 아직 일을 하지 못한 것
@@ -321,6 +322,6 @@
 * soosarii raantoor : 배
 * coroen terain : 길이
 ---
-| 활용법 | 예문 |
+| 구간 | 문장 |
 | --- | --- |
-| 기록적 활용 | nyhay, 'siruta haysi' otasa a 'sitaruta nysi' otaneesa taharyarutanyhay. un tisiruta sisa tahar un, tisineerintahar son ot 'X' (어느 날, '모든 지성체를 죽이는 자들'의 전사들이 타하르들이 사는 어떤 곳을 침략했고, 그들은 타하르들을 다스리는 지성체를 죽이고 'X'에 대한 것을 타하르들의 안에 강제로 가르쳤다.) tini os tinitasa tihay. tisita sisany neesa un, tahar os neesa. (그 이유는 그들이 그 땅을 가지고 싶기 때문이었다. 그들은 식민지를 운영하는 건물을 만들었고, 타하르들은 노예였다.) tisineetasa haysoos. tini os taharrinta 'rencui'. 'rencui' os tahartasa a ertaruta nyer. tirinruta haysi. un, tita nai. isan, rencuiyarutahay os yayon coroen terain. (그들은 모든 금속을 빼앗았다. 그 이유는 타하르들이 번개를 만들 수도 있기 때문이다. '번개'는 타하르들의 '사물이 어떤 것을 공격하다(무기)'이다. 그것은 모든 것을 죽일 수 있었고 그것은 소리를 만들었다. 하지만, '번개'의 수명은 짧았다.) cinyhay, taharrutasa ot X. taharrinny rutasa a soos os taharyarutany rin ot cuicot. (다른 어떤 날, 타하르들은 X에 대한 범죄를 저질렀다. 타하르들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.) |
+| 1 | Nyhay, nysisany rin a si orintaruta ruan a si. |

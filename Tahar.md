@@ -71,7 +71,6 @@
 * * S가 O를 V하는 ()의 장소
   * S가 ()의 장소에/에서 O를 V하다
 * **상황 정정**
-* 'siruta haysi' 는 띄어쓰기 되었는데, 'taharrutasa' 같은 건 왜 붙여쓰기 인가? -> 'siruta haysi' 는 문장형(그 자가 모든 자를 죽인다) 이고, 'taharrutasa' 는 (타하르들이 범죄를 저질렀다)이기에 이미 목적어가 포함되어 있다.
 * 품사 구분 없나? -> 없다.
 * 내부 접사는 모음 교체인가? -> 그렇다
 * 'a' 로 연결된 것(raancos a toorrees, tisitasa a cuicot)은 단일 명사인가? -> 'raancos a toorrees'처럼 속성격으로 연결된 것은 단일명 사이며, 'tisitasa a cuicot'처럼 소유격으로 연결된 것은 단일 명사가 아니다.

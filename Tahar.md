@@ -297,12 +297,9 @@
 * soossai : 비행기, 비행물체
 * coroenterain : 길이
 ### 스토리
-Nyhay, sirin nysisany, siruan nyrintaruta. hartataruyanyhay tisaneeta un, harta siraansa titaru.
+Nyhay, sirin nysisany, siruan nyrintaruta. hartataruyanyhay tisaneeta un, harta siraansa titaru. tini os nahay tisisatani.
 
-tini os nahay tisisatani
-
-그 이유는 그들이 이 땅을 가지고 싶기 때문이었다
-
+그 이유는 그들이 이 땅을 가지고 싶기 때문이었다.
 어느날, 내부자를 지배하는 건물, 그것의 외부자를 공격하는 기관이 하르타들이 사는 어떤 곳을 침략했고, 그들은 하르타들을 지배할 자격을 가진 자를 죽였다.
 
 "Hay haynasiraansa" nai tisirinharta.

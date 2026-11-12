@@ -299,27 +299,47 @@
 ### 스토리
 Nyhay, sirin nysisany, siruan nyrintaruta. hartataruyanyhay tisaneeta un, harta siraansa titaru.
 
-"Hay haynasiraansa" nai tisirinharta.
-tini os tihay tisisatani.
+tini os nahay tisisatani
 
-harta sisany sita. un, haysois tisisataru.
-tini os in rencui hartata orun hay hartataru. isan, rencuitaruyahay os yonya.
+그 이유는 그들이 이 땅을 가지고 싶기 때문이었다
+
+어느날, 내부자를 지배하는 건물, 그것의 외부자를 공격하는 기관이 하르타들이 사는 어떤 곳을 침략했고, 그들은 하르타들을 지배할 자격을 가진 자를 죽였다.
+
+"Hay haynasiraansa" nai tisirinharta.
+harta sisany sita. un, haysoos tisisataru.
+tini os in rencui hartata orun hay hartarintaru
+
+"우리는 모든 것을 지배할 자격이 있다" 그들이 말했다.
+그들은 자신들이 하르타족을 다스리는 건물을 지었고, 모든 금속을 빼앗았다.
+그 이유는 만약 하르타들이 '번개'를 만든다면 그들이 모든 것을 없앨 수 있기 때문이었다.
 
 Nyhayci, soos os sataru hartarinny os cuicot rin hartataruyany.
 
+다시 어떤 날, 하르타들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.
+
 Tihay, harta sisa, sanee haysihar sironny os hartataruyanyhay.
+
+그 때, 하르타들을 지배하는 자들이 노예 감시자를 하르타들이 사는 곳에 배치했다.
 
 tuh, sanee nysihar, 'ti haysa coscuitanon' nysisataruny os soos hartarinny os cuicot rin hartataruyany.
 
-costaruyaci, tiny tirincos.
+그런데, 어떤 노예 감시자가 '그것을 사용하는 모든 것을 오염시키는 불 나무'를 하르타들이 철을 배치한 그들이 과일을 모으는 건물에 버렸다.
 
-sanee tisihar nyhartarinnee. tini os sataru ot cos.
+costaruyaci un, tiny tirincos.
+
+불이 되살아났고, 그것은 건물을 불태웠다.
+
+sanee tisihar nyhartarinnee. tini os tisisataru ot cos.
+
+어떤 하르타들은 그 노예 감시자를 가두었다. 이유는 불에 대해 그가 범죄를 저지른 것이었다.
 
 tuh, haysirin sisa, tiharta sitaru un, sanee tisihar siruanny os haysataru sirinneeny.
 
-tihayhartayahay, sanee tisihar hartarentoi, toihuurta.
+그런데, 모든 내부자를 지배하는 자가 그 하르타들을 죽이고, 범죄자를 가두는 건물에서 그 노예 감시자를 꺼냈다.
 
-un, toi hartaroncuiny os hayrincoshay.
+tihayhartayahay, sanee tisihar hartarentoi, toihuurta. un, toi hartaroncuiny os hayrincoshay
+
+그 때의 밤, 하르타들은 그 노예 감시자를 기둥에 매달았고 그것을 모든 것이 스스로 불타는 곳에 박았다.
 
 un, rencui hartatata.
 

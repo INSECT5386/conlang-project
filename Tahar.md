@@ -337,11 +337,10 @@ tuh, haysirin sisa, tiharta sitaru un, sanee tisihar siruanny os haysataru sirin
 
 그런데, 모든 내부자를 지배하는 자가 그 하르타들을 죽이고, 범죄자를 가두는 건물에서 그 노예 감시자를 꺼냈다.
 
-tihayhartayahay, sanee tisihar hartarentoi, toihuurta. un, toi hartaroncuiny os hayrincoshay
+tihayhartayahay, sanee tisihar hartarentoi, toihuurta. un, toi hartaroncuiny os hayrincoshay. un, rencui hartatata.
 
-그 때의 밤, 하르타들은 그 노예 감시자를 기둥에 매달았고 그것을 모든 것이 스스로 불타는 곳에 박았다.
 
-un, rencui hartatata.
+그 때의 밤, 하르타들은 그 노예 감시자를 기둥에 매달았고 그것을 모든 것이 스스로 불타는 곳에 박았다. 그리고, 하르타들은 번개를 만들려 시도했다.
 
 harta tisisany, nyrainhartahay,
 

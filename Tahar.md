@@ -340,25 +340,16 @@ tihayhartayahay, sanee tisihar hartarentoi, toihuurta. un, toi hartaroncuiny os 
 그 때의 밤, 하르타들은 그 노예 감시자를 기둥에 매달았고 그것을 모든 것이 스스로 불타는 곳에 박았다. 그리고, 하르타들은 번개를 만들려 시도했다.
 
 harta tisisany, tinyrainhartahay,
-
-하르타들을 지배하는 건물에서, 그곳의 낮의 잔상이 남은 시간에
-
 ny haysa, sarin os raancos un cuicottoor haycot.
-
-어떤 것을 지배하는 모든 것들이 구운 내장과 과일즙을 먹었다.
-
 harta os haysa un socyon un ta. hartaruunsanee. isan, tihayhartayahay os coroenterain yon.
-
-751명의 하르타들이 강제로 자신을 노동시켜야했다. 하지만, 그곳의 밤은 길었다.
-
 Tihay, nytoirentiny un, harta sisany rin soosrinrain titoitaru.
 
+하르타들을 지배하는 건물에서, 그곳의 낮의 잔상이 남은 시간에
+어떤 것을 지배하는 모든 것들이 구운 내장과 과일즙을 먹었다.
+751명의 하르타들이 강제로 자신을 노동시켜야했다. 하지만, 그곳의 밤은 길었다.
 그 때, 어떤 사물이 그 건물도 날아왔다, 그 사물은 하르타들을 지배하는 건물의 철벽을 부수었다.
 
 'Rencuirennany!' nai nysirinhaysi.
-
-"번개가 여기로 온다!" 어떤 자가 모두에게 말했다.
-
 toi sitaruta, ny haysa sirainta. isan, rencuirencitiny.
-
+"번개가 여기로 온다!" 어떤 자가 모두에게 말했다.
 사물을 공격하는 자들이 어떤 것을 지배하는 모든 것들을 보호하려 시도했다. 하지만, 번개가 그 곳으로 다시 날아왔다.

@@ -243,8 +243,8 @@
   * harta : 비추다, 밝히다
     * 규칙1 : 밝은 것, 흰 것, 비추어진 것
     * 규칙2 : 빛나다
-    * nyharta : 비추는 건물
-    * hayharta- : 비추는 시간, -의 낮
+    * hartany : 비추는 건물
+    * hartahay : 비추는 시간, -의 낮
   * her : 내려다보다. 무시하다
     * herta : 앉히다, 눕히다
       * 규칙2 : 앉다, 눕다
@@ -252,10 +252,10 @@
     * huurta : 세우다
       * 규칙2 : 서다
       * 활용2 : X는 Y를 세울 수 있는 기관이 있다
-  * nyhar : 보는 건물
-  * haryonyatoi : 사물이 작은 것을 보다, 현미경
-  * harnytoi ny os ti : 사물이 어떤 것을 본다 어떤 것은 멀다, 망원경
-  * harnytoi ny os na : 사물이 어떤 것을 본다 어떤 것은 가깝다, 돋보기
+  * harny : 보는 건물
+  * yonya toihar : 사물이 작은 것을 보다, 현미경
+  * ny os ti toihar : 사물이 어떤 것을 본다 어떤 것은 멀다, 망원경
+  * ny os na toihar : 사물이 어떤 것을 본다 어떤 것은 가깝다, 돋보기
   * harnai : 듣다
     * 활용2 : X는 들을 수 있는 기관이 있다
   * harrio : 맡다
@@ -263,7 +263,7 @@
 ---
 ### 숫자
 * **한 손의 손가락 5개와 그것 사이의 공간 4개 그리고 손바닥 하나까지 총 10개 사용하며, 10개를 전부 사용할 때마다 반대쪽 손의 손가락 5개, 그것 사이의 공각 4개 그리고 손바닥 하나에 하나씩 배치한다.**
-* 0: yaer
+* 0: toiya
 * 1 : ta
 * 2 : hin
 * 3 : huur
@@ -272,13 +272,13 @@
 * 6 : ruan
 * 7 : sa
 * 8 : rain
-* 9 : yaruta
+* 9 : taruya
 * 10 : soc
 * **활용**
 * 15 : soc un yon
 * 36 : sochuur un ruan
 * 100 : hay
-* 279 : hayhin un socsa un yaruta
+* 279 : hayhin un socsa un taruya
 * 10000 : hayron
 * 1000000 : haytaren
 ### 기초 합성어
@@ -289,11 +289,11 @@
 * rencui : 번개
 * cuicot : 열매
 * ariicot : 해산물
-* nycui : 목제 건물
-* nyrees : 흙집
+* cuiny : 목제 건물
+* reesny : 흙집
 * toi os rin : 가구, 실내 사물
 * toorrees : 진흙
-* toorrees os cosraan : 진흙이 불탄 것이다. 벽돌
+* toorrees os raancos : 진흙이 불탄 것이다. 벽돌
 * soossai : 비행기, 비행물체
 * coroenterain : 길이
 ---

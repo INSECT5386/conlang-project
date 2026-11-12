@@ -297,6 +297,7 @@
 * soossai : 비행기, 비행물체
 * coroenterain : 길이
 ---
+### 스토리
 Nyhay, sirin nysisany, siruan nyrintaruta. hartataruyanyhay tisaneeta un, harta siraansa titaru.
 "Hay haynasiraansa" nai tisirinharta.
 tini os tihay tisisatani.

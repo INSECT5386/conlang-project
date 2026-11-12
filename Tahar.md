@@ -296,20 +296,29 @@
 * toorrees os raancos : 진흙이 불탄 것이다. 벽돌
 * soossai : 비행기, 비행물체
 * coroenterain : 길이
----
 ### 스토리
 Nyhay, sirin nysisany, siruan nyrintaruta. hartataruyanyhay tisaneeta un, harta siraansa titaru.
+
 "Hay haynasiraansa" nai tisirinharta.
 tini os tihay tisisatani.
+
 harta sisany sita. un, haysois tisisataru.
 tini os in rencui hartata orun hay hartataru. isan, rencuitaruyahay os yonya.
+
 Nyhayci, soos os sataru hartarinny os cuicot rin hartataruyany.
+
 Tihay, harta sisa, sanee haysihar sironny os hartataruyanyhay.
+
 tuh, sanee nysihar, 'ti haysa coscuitanon' nysisataruny os soos hartarinny os cuicot rin hartataruyany.
+
 costaruyaci, tiny tirincos.
+
 sanee tisihar nyhartarinnee. tini os sataru ot cos.
+
 tuh, haysirin sisa, tiharta sitaru un, sanee tisihar siruanny os haysataru sirinneeny.
-tihayhartayahay, sanee tisihar hartarentoi, toihuurta. un, toi hartaroncuiny os hayrincoshay.
+
+tihayhartayahay, sanee tisihar hartarentoi, toihuurta.
+un, toi hartaroncuiny os hayrincoshay.
 un, rencui hartatata.
 
 그들이 하르타들을 지배하는 건물이 스스로를 비춘 잔상이 남은 시간에, 어떤 것을 지배하는 모든 자들이 구운 내장과 과일즙을 마셨다. 751명의 하르타들이 자신들을 강제로 노동시켜야 했다. 하지만, 그 곳의 밤은 길었다. 그 때, 어떤 것이 그곳을 향햐 날았다. 그리고, 그 사물은 그들이 하르타들을 지배하는 건물을 보호하는 철벽을 없앴다. 어떤 자가 모두에게 말했다. '번개가 이곳으로 날아온다!'. 전사들이 하르타들을 지배하는 자들을 보호하기 직전이었다. 하지만, 번개가 그 곳으로 다시 날아왔다.

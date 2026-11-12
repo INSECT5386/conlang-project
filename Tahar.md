@@ -303,7 +303,7 @@ Nyhay, sirin nysisany, siruan nyrintaruta. hartataruyanyhay tisaneeta un, harta 
 어느날, 내부자를 지배하는 건물, 그것의 외부자를 공격하는 기관이 하르타들이 사는 어떤 곳을 침략했고, 그들은 하르타들을 지배할 자격을 가진 자를 죽였다.
 
 "Hay haynasiraansa" nai tisirinharta.
-harta sisany sita. un, haysoos tisisataru.
+harta sisany sita. un, haysoos tisisatanee.
 tini os in rencui hartata orun hay hartarintaru
 
 "우리는 모든 것을 지배할 자격이 있다" 그들이 말했다.

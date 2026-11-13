@@ -281,7 +281,7 @@
   * tosci : 회상하다, 여운
   * hon tos : 고립감을 느끼다
   * non tos : 트라우마가 있다
-  * sonta tos : 궁금해하다
+  * ny reuru tos : 궁금해하다
   * her tos : 내려다 보이는 감정, 무력감
   * huur tos : 올려다 보이는 감정, 타인에 의한 우월감
 ---

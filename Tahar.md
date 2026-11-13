@@ -322,14 +322,14 @@
 * soossai : 비행기, 비행물체
 * coroenterain : 길이
 ### 스토리
-Nyhay, sirin nysisany, siruan nyrintaruta. hartataruyanyhay tisaneeta un, harta siraansa titaru. tini os nahay tisisatani.
+Nyhay, sirin nysisany, siruan nyrintaruta. hartaraintany tisaneeta un, harta siraansa titaru. titoes os nahay tisisatatoes.
 
 어느날, 내부자를 지배하는 건물, 그것의 외부자를 공격하는 기관이 하르타들이 사는 어떤 곳을 침략했고, 그들은 하르타들을 지배할 자격을 가진 자를 죽였다.
 그 이유는 그들이 이 땅을 가지고 싶기 때문이었다.
 
 "Hay haynasiraansa" nai tisirinharta.
 harta sisany sita. un, haysoos tisisatanee.
-tini os in rencui hartata orun hay hartarintaru
+titoes os in rencui hartata orun hay hartarintaru
 
 "우리는 모든 것을 지배할 자격이 있다" 그들이 말했다.
 그들은 자신들이 하르타족을 다스리는 건물을 지었고, 모든 금속을 빼앗았다.
@@ -339,7 +339,7 @@ Nyhayci, soos os sataru hartarinny os cuicot rin hartataruyany.
 
 다시 어떤 날, 하르타들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.
 
-Tihay, harta sisa, sanee haysihar sironny os hartataruyanyhay.
+Tihay, harta sisa, sanee haysihar sironny os hartaraintany.
 
 그 때, 하르타들을 지배하는 자들이 노예 감시자를 하르타들이 사는 곳에 배치했다.
 
@@ -351,7 +351,7 @@ costaruyaci un, tiny tirincos.
 
 불이 되살아났고, 그것은 건물을 불태웠다.
 
-sanee tisihar nyhartarinnee. tini os tisisataru ot cos.
+sanee tisihar nyhartarinnee. titoes os tisisataru ot cos.
 
 어떤 하르타들은 그 노예 감시자를 가두었다. 이유는 불에 대해 그가 범죄를 저지른 것이었다.
 

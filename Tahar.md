@@ -335,12 +335,10 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 
 
 1. 
-Sata os Soos
+Sata os SS sitacirin. isan, titarainhay os sochuur un ta. in tihaytaru orun, SS sisaya.
 In nytoi sataraan nysironsi orun, titoi sisaruun.
 In titoi sisaya orun, titoi haysata.
 
-
-1. 물리적 소유물을 화폐로 바꾸어 축적하는 것은 가능하지만, 가지고 있는 화폐는 사용 기간이 정해져있으며 그 이후까지 사
 
 1-1 : 돈을 다시 물리적인 소유물로 전환한다면, 해당 소유물은 3개월간 직접 관리해야하며, 그러하지 못한다면 공공 재산으로 귀속된다.
 2. 어떤 것에 기여하는 자는 기여한 만큼의 소유권을 인정받지만, 기여의 정도는 아래와 같이 판별한다.

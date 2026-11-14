@@ -285,19 +285,19 @@
 * 0: toiya
 * 1 : yra
 * 2 : yse
-* 3 : yhi
+* 3 : yha
 * 4 : yno
 * 5 : yca
 * 6 : ray
 * 7 : sey
-* 8 : hiy
+* 8 : hay
 * 9 : noy
 * 10 : cay
 * **활용**
 * 15 : cay un yca
-* 36 : cayyhi un ray
+* 36 : cayyha un ray
 * 100 : hi
-* 279 : hiyse un caysey un noy
+* 279 : hayse un caysey un noy
 * 10000 : hiron
 * 1000000 : hitaren
 ### 기초 합성어
@@ -305,7 +305,7 @@
 * nasi : 나
 * nytoes : 어떤 이유
 * nysa : 어떤 방법
-* nyhi : 어떤 시간, 어떤 곳
+* nyha : 어떤 시간, 어떤 곳
 * rencui : 번개
 * cuicot : 열매
 * cuiny : 목제 건물
@@ -327,7 +327,7 @@ Isan, nytoi nasisata. tuh, in titoi nasisaya orun, nasi os sisa.
 
 In nasi os sisa nasitarain orun, titoi nasisataruan.
 
-1. Sata os SS('Sarin Saicotrin' os Nytoi' hisitaci) sitacirin. isan, titarainhi os cayyhi un yra. in tihitaru orun, SS sisaya.
+1. Sata os SS('Sarin Saicotrin' os Nytoi' hisitaci) sitacirin. isan, titarainhi os cayyha un yra. in tihitaru orun, SS sisaya.
 - In nytoi sataraan nysiron ot si orun, titoi sisaruun. in titoi sisaya orun, titoi hisata.
 
 2. hisirin ot nytoi, titoi sisataraan. isan, in conanyteruun eca tisirin ot titoi os nyci orun, titoi sisataraan os nyci.

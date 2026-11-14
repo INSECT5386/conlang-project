@@ -345,7 +345,7 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 - In titoi tany (tisinonru, tisitaciru) orun, conanyteruun eca tisirin ot titoi os yonya.
 - In tisirintiny on coroenterain yonya orun, conanyteruun eca tisirin ot titoi os toiya. isan, titoi tany, SS sataraan nyrontisi.
 ---
-In ti hisa soosnyraan nysisaruun on nyhartayahi orun, ti soesaruun on rin os soosnysata soeharruunhay.
+In ti hisa soosnyraan nysisaruun on nyhartayahi orun, ti soesaruun on rin os soosnysata soeharruunhi.
 
 harta os hartaya taci nycisiharrin on tihi.
 

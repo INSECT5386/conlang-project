@@ -320,6 +320,7 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 - In titoi tani (toor tisiren, tisitaciru) orun, conaniteruun eca tisirintitoi os yonya.
 - In tisirintini on coroenterain yonya orun, conaniteruun eca tisirintitoi os toiya. isan, titoi tani, SS sataraan nirontisi.
 ---
+**2번 예문**
 Nihi, sirin nisisani, siruan nitarutarin. hartatarainni tisaneeta un, harta sisaraan titaru. titoes os nahi tisisatatoes.
 
 "Hay hinasisaraan" nai tisirinharta.

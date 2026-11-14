@@ -324,7 +324,7 @@
 ### 스토리
 #### 배경, 사고 방식
 Nytoi tisisata isan, In titoi tisisaya orun, 'tisi os titoi sisa' Harta(os nysitarainrees)reunruya.
-Isan, In tinoi tisisa orun, 'tisi os titoi sisata' Hartareun.
+Isan, In titoi tisisa orun, 'tisi os titoi sisata' Hartareun.
 
 In nytoi nasisata orun titoi nasisaruun. un nasi os titoi sisata.
 

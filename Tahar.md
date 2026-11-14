@@ -91,6 +91,7 @@
 | | ny | 접미사형 : 건물 / 접두사형 : 어떤 것 |
 | | toi | 사물 |
 | | si | 적응체 또는 지성체 |
+| | soe | 너 |
 | 접미사 | -nee | 몰래, 강제로 |
 | | -ci | 다시 |
 | | -ya | 을 하지 않다 |
@@ -341,3 +342,26 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 - In titoi tany (tisinonru, tisitaciru) orun, conanyteruun ot tisirintitoi os yonya.
 - In tisirintiny on coroenterain yonya orun, conanyteruun ot tisirintitoi os toiya. isan, titoi tany, SS sataraan nyrontisi.
 ---
+In ti haysa soosnyraan nysisaruun on nyhartayahay orun, ti soesaruun on rin os soosnysata soeharruunhay.
+
+Titoes os harta os hartaya taci nycisiharrin on tihay.
+
+나폴리탄 괴담은 이런 식임?
+"
+만약 자정 이후 엘레베이터를 사용해야 한다면, 엘레베이터 안이 보일 때만 사용해 주십시오. 그 시간엔 다른 것들 눈에는 어두운 것과 밝은 것이 서로 뒤바뀌어 보입니다. 
+엘레베이터에서 내리려는데, 문 밖 조명이 켜지지 않는다면, 절대 내리지 마십시오. 그들은 우리가 보는 것과 반대로 보고 있습니다.
+아파트 복도를 걸어야 한다면, 무조건 불이 켜져있을 때만 걷고, 전등이 나간 곳은 돌아서 가십시오.
+그들은 모든 것을 반대로 봅니다.
+아파트 복도를 걷던 중 반대편 복도에서 무언가 걷는 소리가 들리는데, 아무것도 보이지 않는다면, 그것은 기어오고 있는 겁니다.
+발소리가 가까워진다면 움직이기 시작하십시오. 그들은 소리마저 반대로 듣고 냅니다.
+실제론 멀리 떨어져있을 겁니다.
+발소리가 멀어진다면, 움직이지 마십시오. 
+아주 가까이 있을 겁니다. 
+만약 집에 있던 도중 경비실 또는 관리소에게서 방송이 나오는데 인터폰에서 남성 목소리가 나온다면, 경비원을 불러주십시오.
+현재 방송은 기계음성이며, 여성의 목소리에 가깝습니다.
+만약, 도착한 경비원이 불이 켜져있는데도 초인종을 찾지 못한다면, 절대 문을 열지 마십시오.
+그것입니다.
+우리 경비원의 명찰은 빨간색입니다.
+만약 도착한 경비원이 초록색 명찰을 차고 있다면, 그의 어깨와 옷을 유심히 관찰해보십시오.
+어깨가 이상하게 휘어있고, 흙먼지가 묻어있다면, 그것은 방금 전까지 복도를 기었을 겁니다.
+"

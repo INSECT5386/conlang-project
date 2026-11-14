@@ -163,12 +163,8 @@
   * 규칙1 : 큰 것, 성체
   * soctaru yon : 넓히다
     * 규칙1 : 넓은 것
-* **non** : 오염시키다
-  * 규칙1 : 더러운 것
-  * nonru : 씻기다, 닦다
-    * 규칙1 : 깨끗한 것
 * **ron**: 배치하다
-  * roncui : 고정하다, 박다 / 약속하다
+  * roncui : 고정하다, 박다, 매달다 / 약속하다
     * roncicui : 다시 고정하다, 다시 박다 / 약속을 수정하다
     * ronrucui : 고정된 것을 빼내다, 뽑다 / 약속을 없애다
   * -- sataraan -ron~ : -가 ~에게 -- 를 주다
@@ -199,9 +195,13 @@
   * ruun : 내려놓다
     * 접미사형 : ~해야 하는 상태이다
     * 규칙1 : 낮은 것, 아래쪽의 것
-  * ren : 공중에 배치하다, 매달다
+  * ren : 공중에 배치하다, 던지다
     * 규칙1 : 공중의 것, 하늘의 것
     * 규칙2 : 날다
+    * rees ren~ : ~을 오염시키다
+      * 규칙1 : 오염된/더러운 ~
+    * toor ren~ : ~을 씻기다
+      * 규칙1 : 씻겨진/깨끗한 ~
     * renta : 밀다, 밀어내다
       * 규칙2 : 뛰다, 도약하다
     * cosren : 항성, 별
@@ -265,7 +265,7 @@
   * tosya : 무감각하다
   * tosci : 회상하다, 여운
   * hon tos : 고립감을 느끼다
-  * non tos : 트라우마가 있다
+  * taruta tos : 트라우마가 있다
   * ni reunru tos : 궁금해하다
   * her tos : 내려다 보이는 감정, 무력감
   * huur tos : 올려다 보이는 감정, 타인에 의한 우월감
@@ -323,6 +323,6 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 2. hisirinnitoi, titoi sisataraan. isan, in conaniteruun eca tisirintitoi os nici orun, titoi sisataraan os nici.
 - In 'nisa' un 'nitoes' tisita orun, conaniteruun eca tisirintitoi os yon.
 - In titoi tisita orun, conaniteruun eca tisirintitoi os yon.
-- In titoi tani (tisinonru, tisitaciru) orun, conaniteruun eca tisirintitoi os yonya.
+- In titoi tani (toor tisiren, tisitaciru) orun, conaniteruun eca tisirintitoi os yonya.
 - In tisirintini on coroenterain yonya orun, conaniteruun eca tisirintitoi os toiya. isan, titoi tani, SS sataraan nirontisi.
 ---

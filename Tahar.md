@@ -42,12 +42,12 @@
 * 1. titoes os ~ : 그 이유는 ~이다
 * 2. tisa os ~ : 그 방법은 ~이다, ~처럼
 * **2번 활용, 'rin'**
-1. 'rin'이 서술어 앞에 붙으면, '-할 수 있는 상태이다' 라고 해석하며, 체언이라면 '-할 수 있는 기관이 있다' 라고 해석한다.
-* 1. cuicot sirincot : 그는 과일을 먹을 수 있는 상태이다 (or) 그는 과일을 먹을 수 있는 기관이 있다
+1. 'rin'이 서술어 뒤에 붙으면, '-할 수 있는 상태이다' 라고 해석하며, 체언이라면 '-할 수 있는 기관이 있다' 라고 해석한다.
+* 1. cuicot sicotrin : 그는 과일을 먹을 수 있는 상태이다 (or) 그는 과일을 먹을 수 있는 기관이 있다
 2. '-할 수 있는 기관이 있다' 라고 해석하는 경우에는 신체 뿐만 아니라 어떤 역할을 할 수 있는 내부적이고 전체에 종속된 일부분이 있다고 해석할 수 있다.
 * **3번 활용, 'ruan'**
-1. ruan'이 서술어 앞에 붙으면, '-할 수 없는 상태이다' 라고 해석하며, 체언이라면 '-할 수 있는 기관이 없다' 라고 해석한다.
-* 1. cuicot siruancot : 그는 과일을 먹을 수 없는 상태이다. (or) 그는 과일을 먹을 수 있는 기관이 없다
+1. ruan'이 서술어 뒤에 붙으면, '-할 수 없는 상태이다' 라고 해석하며, 체언이라면 '-할 수 있는 기관이 없다' 라고 해석한다.
+* 1. cuicot sicotruan : 그는 과일을 먹을 수 없는 상태이다. (or) 그는 과일을 먹을 수 있는 기관이 없다
 2. '-할 수 있는 기관이 없다' 라고 해석하는 경우에는 신체 뿐만 아니라 어떤 역할을 할 수 있는 내부적이고 전체에 종속된 일부분이 없다고 해석할 수 있다.
 * **시제의 부재와 대체 요소**
 * 별도의 시제는 존재하지 않으며, 문맥으로 시간을 구분하고, ron 계열과 tos 계열의 접사들로 대체됨.
@@ -120,6 +120,8 @@
       * 규칙2 : 거주하는 건물
     * tarainhay : 살리는/지속시키는 시간
       * 규칙2 : ~의 수명
+    * tarainci : 부활시키다, 되살리다
+      * 규칙2 : 부활하다, 되살아나다
   * taru : 끝내다, 없애다, ?에서 죽게 하다
     * 조건, 만약 ?가 공간이 아닌 사물이라면 : (질병) 치료하다
     * 규칙1 : 끝난 것, 없어진 것, 조건(치료된 것, 건강한 것)
@@ -221,7 +223,7 @@
     * 접미사형 : ~한 결과를 보존하다, ~한 잔상이 남아있다
     * 규칙1 : 뒤쪽의 것
     * 활용2 : X는 Y를 보호할 수 있는 기관이 있다
-      * -- rin -rinrain : -의 --로 이루어진 피부, 가죽
+      * -- rin -rainrin : -의 --로 이루어진 피부, 가죽
     * rainny : 보호하는/숨기는 건물
     * rainhay : 보호하는/숨기는 기간
   * reun : 묻다, 잊다, 모르다
@@ -319,14 +321,14 @@
 * soossai : 비행기, 비행물체
 * coroenterain : 길이
 ### 스토리
-Nyhay, sirin nysisany, siruan nyrintaruta. hartaraintany tisaneeta un, harta siraansa titaru. titoes os nahay tisisatatoes.
+Nyhay, sirin nysisany, siruan nyrintaruta. hartatarainny tisaneeta un, harta sisaraan titaru. titoes os nahay tisisatatoes.
 
 어느날, 내부자를 지배하는 건물, 그것의 외부자를 공격하는 기관이 하르타들이 사는 어떤 곳을 침략했고, 그들은 하르타들을 지배할 자격을 가진 자를 죽였다.
 그 이유는 그들이 이 땅을 가지고 싶기 때문이었다.
 
-"Hay haynasiraansa" nai tisirinharta.
+"Hay haynasisaraan" nai tisirinharta.
 harta sisany sita. un, haysoos tisisatanee.
-titoes os in rencui hartata orun hay hartarintaru
+titoes os in rencui hartata orun hay hartatarurin
 
 "우리는 모든 것을 지배할 자격이 있다" 그들이 말했다.
 그들은 자신들이 하르타족을 다스리는 건물을 지었고, 모든 금속을 빼앗았다.
@@ -336,7 +338,7 @@ Nyhayci, soos os sataru hartarinny os cuicot rin hartataruyany.
 
 다시 어떤 날, 하르타들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.
 
-Tihay, harta sisa, sanee haysihar sironny os hartaraintany.
+Tihay, harta sisa, sanee haysihar sironny os hartatarainny.
 
 그 때, 하르타들을 지배하는 자들이 노예 감시자를 하르타들이 사는 곳에 배치했다.
 
@@ -344,7 +346,7 @@ tuh, sanee nysihar, 'ti haysa coscuinon' nysisataruny os soos hartarinny os cuic
 
 그런데, 어떤 노예 감시자가 '그것을 사용하는 모든 것을 오염시키는 불 나무'를 하르타들이 철을 배치한 그들이 과일을 모으는 건물에 버렸다.
 
-costaruyaci un, tiny tirincos.
+costarainci un, tiny tirincos.
 
 불이 되살아났고, 그것은 건물을 불태웠다.
 
@@ -361,10 +363,10 @@ tihayhartayahay, sanee tisihar hartarentoi, toihuurta. un, toi hartaroncuiny os 
 
 그 때의 밤, 하르타들은 그 노예 감시자를 기둥에 매달았고 그것을 모든 것이 스스로 불타는 곳에 박았다. 그리고, 하르타들은 번개를 만들려 시도했다.
 
-harta tisisany, tinyrainhartahay,
+harta tisisany, tinyhartarainhay,
 ny haysa, sarin os raancos un cuicottoor haycot.
-harta os haysa un socyon un ta. hartaruunsanee. isan, tihayhartayahay os coroenterain yon.
-Tihay, nytoirentiny un, harta sisany rin soosrinrain titoitaru.
+harta os haysa un socyon un ta. hartasaneeruun. isan, tihayhartayahay os coroenterain yon.
+Tihay, nytoirentiny un, harta sisany rin soosrainrin titoitaru.
 
 하르타들을 지배하는 건물에서, 그곳의 낮의 잔상이 남은 시간에
 어떤 것을 지배하는 모든 것들이 구운 내장과 과일즙을 먹었다.

@@ -274,7 +274,7 @@
 * 5 : yca
 * 6 : ray
 * 7 : sey
-* 8 : hi
+* 8 : hay
 * 9 : noy
 * 10 : cay
 * **활용**
@@ -321,7 +321,6 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 - In tisirintini on coroenterain yonya orun, conaniteruun eca tisirintitoi os toiya. isan, titoi tani, SS sataraan nirontisi.
 ---
 **2번 예문**
-
 Nihi, sirin nisisani, siruan nitarutarin. hartatarainni tisaneeta un, harta sisaraan titaru. tihoerrain os nahi tisisatahoerrain.
 
 "Hay hinasisaraan" nai tisirinharta.

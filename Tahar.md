@@ -306,6 +306,7 @@
 * 10000 : hayron
 * 1000000 : haytaren
 ### 기초 합성어
+* nyci : 다시 어떤 것, 다른 것
 * nasi : 나
 * nytoes : 어떤 이유
 * nysa : 어떤 방법
@@ -334,6 +335,7 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 1. Sata os SS('Sarin Saicotrin' os Nytoi' hayhartataci) sitacirin. isan, titarainhay os sochuur un ta. in tihaytaru orun, SS sisaya.
 - In nytoi sataraan nysironsi orun, titoi sisaruun. in titoi sisaya orun, titoi haysata.
 
+2. haysirinnytoi, titoi sisataraan. isan, in conanyteruun ot tisirintitoi os nyci orun, titoi sisataraan os nyci.
 
 2. 어떤 것에 기여하는 자는 기여한 만큼의 소유권을 인정받지만, 기여의 정도는 아래와 같이 판별한다.
 2-1 : 해당 시스템 내부에서 만들어내고자 하는 목표에 직접적으로 참여한 경우와 해당 목표를 직접 만들어낸 경우, 가장 높은 기여도

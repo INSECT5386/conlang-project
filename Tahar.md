@@ -333,13 +333,12 @@ Isan, nytoi nasisata. tuh, in titoi nasisaya orun, nasi os sisa.
 
 In nasi os sisa nasitarain orun, titoi nasisataruan.
 
-**Sata**
-Sata os SS sitacirin. isan, titarainhay os sochuur un ta. in tihaytaru orun, SS sisaya.
-In nytoi sataraan nysironsi orun, titoi sisaruun.
-In titoi sisaya orun, titoi haysata.
+
+1. Sata os SS sitacirin. isan, titarainhay os sochuur un ta. in tihaytaru orun, SS sisaya.
+
+1-1. In nytoi sataraan nysironsi orun, titoi sisaruun. in titoi sisaya orun, titoi haysata.
 
 
-1-1 : 돈을 다시 물리적인 소유물로 전환한다면, 해당 소유물은 3개월간 직접 관리해야하며, 그러하지 못한다면 공공 재산으로 귀속된다.
 2. 어떤 것에 기여하는 자는 기여한 만큼의 소유권을 인정받지만, 기여의 정도는 아래와 같이 판별한다.
 2-1 : 해당 시스템 내부에서 만들어내고자 하는 목표에 직접적으로 참여한 경우와 해당 목표를 직접 만들어낸 경우, 가장 높은 기여도
 2-2 : 해당 시스템 내부에서 만들어내고자 하는 목표를 위해 일한 자, 높은 기여도

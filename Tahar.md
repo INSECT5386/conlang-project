@@ -289,21 +289,21 @@
 ### 숫자
 * **한 손의 손가락 5개와 그것 사이의 공간 4개 그리고 손바닥 하나까지 총 10개 사용하며, 10개를 전부 사용할 때마다 반대쪽 손의 손가락 5개, 그것 사이의 공각 4개 그리고 손바닥 하나에 하나씩 배치한다.**
 * 0: toiya
-* 1 : ta
-* 2 : hin
-* 3 : huur
-* 4 : rin
-* 5 : yon
-* 6 : ruan
-* 7 : sa
-* 8 : rain
-* 9 : taruya
-* 10 : soc
+* 1 : yra
+* 2 : yse
+* 3 : yhi
+* 4 : yno
+* 5 : yca
+* 6 : ray
+* 7 : sey
+* 8 : hiy
+* 9 : noy
+* 10 : cay
 * **활용**
-* 15 : soc un yon
-* 36 : sochuur un ruan
+* 15 : cay un yca
+* 36 : cayyhi un ray
 * 100 : hay
-* 279 : hayhin un socsa un taruya
+* 279 : hayyse un caysey un noy
 * 10000 : hayron
 * 1000000 : haytaren
 ### 기초 합성어
@@ -364,7 +364,7 @@ tihayhartayahay, sanee tisihar hartarentoi, toihuurta. un, toi hartaroncuiny os 
 
 harta tisisany, tinyhartarainhay,
 ny haysa, sarin os raancos un cuicottoor haycot.
-harta os haysa un socyon un ta. hartasaneeruun. isan, tihayhartayahay os coroenterain yon.
+harta os haysey un cayyca un yra. hartasaneeruun. isan, tihayhartayahay os coroenterain yon.
 Tihay, nytoirentiny un, harta sisany rin soosrainrin titoitaru.
 
 'Rencuirennany!' nai nysirinhaysi.

@@ -321,30 +321,46 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 - In tisirintini on coroenterain yonya orun, conaniteruun eca tisirintitoi os toiya. isan, titoi tani, SS sataraan nirontisi.
 ---
 **2번 예문**
-Nihi, sirin nisisani, siruan nitarutarin. hartatarainni tisaneeta un, harta sisaraan titaru. tihoerrain os nahi tisisatahoerrain.
+Nihi, sirin nisisani, siruan tinitarutarin. hartatarainni tisaneeta un, harta sisaraan titaru. tihoerrain os nani tisisatahoerrain.
+
+어느날, 어떤 지성체들이 내부자들을 지배하는 장소, 그 장소가 외부인들을 공격하는 기관이 있다. 하르타들이 사는 곳을 그것들이 침략했고, 그들은 하르타들을 지배할 자격이 있는 자들을 죽였다. 그 이유는 그들이 그 곳을 가지고 싶기 때문이었다.
 
 "Hitoi hinasisaraan" nai tisirinharta.
-harta sisani sita. un, hisoos tisisatanee.
-tihoerrain os in rencui hartata orun hi hartatarurin
+harta tisisani tisita. un, hisoos tisisatanee.
+tihoerrain os in rencui hartata orun hitoi hartatarurin
+
+"모든 나(우리)는 모든 것을 지배할 자격이 있다!" 그들이 하르타들에게 말했다.
+그들은 그들이 하르타들을 지배하는 곳을 만들었고, 그들은 모든 금속을 빼앗았다. 그 이유는 만약 하르타들이 '번개'를 만든다면, 하르타들이 모든 것을 없앨 수 있기 때문이다.
 
 Nihici, soos os sataru hartarinni os cuirinsa rin hartataruyani.
+Tihi, harta tisisa, sanee hisihar tisironni os hartatarainni.
 
-Tihi, harta sisa, sanee hisihar sironni os hartatarainni.
+다른날, 하르타들이 버려진 금속을 숨긴 곳은 그들이 과일을 모으는 곳이었다.
+그 때, 하르타들을 지배하는 자, 노예를 감시하는 모든 자들을 그자가 보낸 곳은 하르타들이 사는 곳이었다.
 
 tuh, sanee nisihar, 'ti hisa rees coscuiren' nisisataruni os soos hartarinni os cuirinsa rin hartataruyani.
-
 costarainci un, tini tirincos.
 
-sanee tisihar nihartarinnee. tihoerrain os tisisataru eca cos.
+그런데, 어떤 노예 감시자, '그것을 사용하는 모든 것을 오염시키는 불 나무'를 그가 버린 곳은 하르타들이 금속을 숨긴 곳인 그들이 과일을 모으는 곳이었다. 불이 다시 살아났고, 그것이 그 건물을 불태웠다.
 
+sanee tisihar nihartarinnee. tihoerrain os tisisataru eca cos.
 tuh, hisirin sisa, tiharta sitaru un, sanee tisihar siruanni os hisataru sirinneeni.
 
-tihihartayahi, sanee tisihar hartarentoi, toihuurta. un, toi hartaroncuini os hirincoshi. un, rencui hartatata.
+어떤 하르타들이 그 노예 감시자를 가두었다. 그 이유는 그 자가 불에 대하여 범죄를 저질렀기 때문이었다. 그런데, 모든 내부인들을 지배하는 자, 그 자가 그 하르타들을 죽였고, 그가 그 노예 감시자를 풀어준 곳은 모든 범죄자들을 지성체들이 가두는 곳이었다. 
+
+tihihartayahi, sanee tisihar hartaroncuitoi, titoihuurta. un, toi hartaroncuini os hirincoshi. un, rencui hartatata.
+
+그 시간이 자신을 비추지 않는 때, 그 노예 감시자를 무언가에 박았다, 그 무언가는 기둥이다. 그리고, 하르타들이 그것을 박은 곳은 모든 것이 자신을 불태우는 곳이었다. 그리고, 하르타들은 번개를 만들려고 시도했다.
 
 harta tisisani, tinihartarainhi,
-nitoi hisa, sarin os raancos un cuirinsatoor hirinsa.
+nitoi hisa, sarin os raancos un cuirinsatoor tirinsa.
 harta os hisey un cayyca un yra. hartasaneeruun. isan, tihihartayahi os coroenterain yon.
 Tihi, nitoirentini un, harta sisani rin soosrainrin titoitaru.
 
+그 자들이 하르타들을 지배하는 건물, 그 건물이 자신을 비춘 잔상이 남은 시간,
+어떤 것을 지배하는 모든 것들, 내장이 구워진 것 그리고 과일즙을 모든 것들이 그것들이 먹었다. 하르타는 751명이었다. 하르타들은 자신들을 강제로 노동시켜야했다. 하지만, 그 때의 밤은 앞부터 뒤까지가 큰 것이었다(길었다). 그 때, 어떤 것이 그 곳에 날았다(그곳을 향해 날았다) 그리고, 하르타들을 지성체들이 지배하는 건물의 금속으로 이루어진 가죽(철장갑)을 그것이 없앴다.
+
 'Rencuirennani!' nai nisirinhisi.
 toi sitaruta, nitoi hisa sirainta. isan, rencuirencitini.
+'번개가 이곳에 난다!(번개가 이곳을 향해 날아온다!)' 어떤 자가 모두에게 말했다.
+무언가를 공격하는 자, 어떤 것을 지배하는 모든 자들을 그들이 보호하려 시도했다. 하지만, 번개가 그곳을 향해 다시 날았다.

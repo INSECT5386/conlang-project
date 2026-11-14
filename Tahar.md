@@ -321,8 +321,7 @@
 * toorrees os raancos : 진흙이 불탄 것이다. 벽돌
 * soossai : 비행기, 비행물체
 * coroenterain : 길이
-### 스토리
-#### 배경, 사고 방식
+#### 예문
 Nytoi tisisata isan, In titoi tisisaya orun, 'tisi os titoi sisa' Harta(os nysitarainrees)reunruya.
 Isan, In titoi tisisa orun, 'tisi os titoi sisata' Hartareun.
 
@@ -342,30 +341,4 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 - In titoi tany (tisinonru, tisitaciru) orun, conanyteruun ot tisirintitoi os yonya.
 - In tisirintiny on coroenterain yonya orun, conanyteruun ot tisirintitoi os toiya. isan, titoi tany, SS sataraan nyrontisi.
 ---
-Nyhay, sirin nysisany, siruan nytarutarin. hartatarainny tisaneeta un, harta sisaraan titaru. titoes os nahay tisisatatoes.
 
-"Hay haynasisaraan" nai tisirinharta.
-harta sisany sita. un, haysoos tisisatanee.
-titoes os in rencui hartata orun hay hartatarurin
-
-Nyhayci, soos os sataru hartarinny os cuicot rin hartataruyany.
-
-Tihay, harta sisa, sanee haysihar sironny os hartatarainny.
-
-tuh, sanee nysihar, 'ti haysa coscuinon' nysisataruny os soos hartarinny os cuicot rin hartataruyany.
-
-costarainci un, tiny tirincos.
-
-sanee tisihar nyhartarinnee. titoes os tisisataru ot cos.
-
-tuh, haysirin sisa, tiharta sitaru un, sanee tisihar siruanny os haysataru sirinneeny.
-
-tihayhartayahay, sanee tisihar hartarentoi, toihuurta. un, toi hartaroncuiny os hayrincoshay. un, rencui hartatata.
-
-harta tisisany, tinyhartarainhay,
-ny haysa, sarin os raancos un cuicottoor haycot.
-harta os haysey un cayyca un yra. hartasaneeruun. isan, tihayhartayahay os coroenterain yon.
-Tihay, nytoirentiny un, harta sisany rin soosrainrin titoitaru.
-
-'Rencuirennany!' nai nysirinhaysi.
-toi sitaruta, ny haysa sirainta. isan, rencuirencitiny.

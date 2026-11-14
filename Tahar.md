@@ -155,7 +155,7 @@
   * honta : 자르다, 베다
     * hontaru : 봉합하다, 용접하다
     * huanta : 긁다, 갈다, 할퀴다
-    *hinta : 뚫다, 열다
+    * hinta : 뚫다, 열다
 * **soc**: 꺾다, 부러뜨리다, 접다, 이기다
   * 규칙1 : 꺾인 것, 부러진 것
   * socta : 구부리다, 도전하다
@@ -261,7 +261,7 @@
   * tis : 소속감을 느끼다
   * tuas : 배척감을 느끼다
   * tes : 행복하다
-  * taas :  우월감을 느끼다
+  * taas : 우월감을 느끼다
   * tuus : 열등감을 느끼다
   * toes : 열정적이다
     * 접미사형 : ~하고 싶다
@@ -322,6 +322,7 @@
 ## 스토리
 ### 배경, 사고 방식
 'Harta' os nysitarainrees.
+'SS(Sarin Saicotrin) os Nytoi' haysitaci.
 
 Nytoi tisisata isan, In titoi tisisaya orun, 'tisi os titoi sisa' Hartareunruya.
 Isan, In tinoi tisisa orun, 'tisi os titoi sisata' Hartareun.
@@ -332,7 +333,15 @@ Isan, nytoi nasisata. tuh, in titoi nasisaya orun, nasi os sisa.
 
 In nasi os sisa nasitarain orun, titoi nasisataruan.
 
-1. 물리적 소유물을 화폐로 바꾸어 축적하는 것은 가능하지만, 가지고 있는 화폐는 사용 기간이 정해져있으며 그 이후까지 사용하지 않으면 가치가 인정되지 않는다.
+
+1. 
+Sata os Soos
+In nytoi sataraan nysironsi orun, titoi sisaruun.
+In titoi sisaya orun, titoi haysata.
+
+
+1. 물리적 소유물을 화폐로 바꾸어 축적하는 것은 가능하지만, 가지고 있는 화폐는 사용 기간이 정해져있으며 그 이후까지 사
+
 1-1 : 돈을 다시 물리적인 소유물로 전환한다면, 해당 소유물은 3개월간 직접 관리해야하며, 그러하지 못한다면 공공 재산으로 귀속된다.
 2. 어떤 것에 기여하는 자는 기여한 만큼의 소유권을 인정받지만, 기여의 정도는 아래와 같이 판별한다.
 2-1 : 해당 시스템 내부에서 만들어내고자 하는 목표에 직접적으로 참여한 경우와 해당 목표를 직접 만들어낸 경우, 가장 높은 기여도

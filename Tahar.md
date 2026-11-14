@@ -341,4 +341,3 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 - In titoi tany (tisinonru, tisitaciru) orun, conanyteruun ot tisirintitoi os yonya.
 - In tisirintiny on coroenterain yonya orun, conanyteruun ot tisirintitoi os toiya. isan, titoi tany, SS sataraan nyrontisi.
 ---
-

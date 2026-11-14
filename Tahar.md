@@ -39,7 +39,7 @@
 5. 외래어는 음차하지 않는다. 무조건 번역한다.
 * **1번 활용, 'os'**
 1. 'A' os 'B' : A는 B이다
-* 1. titoes os ~ : 그 이유는 ~이다
+* 1. tihoerrain os ~ : 그 이유는 ~이다
 * 2. tisa os ~ : 그 방법은 ~이다, ~처럼
 * **시제의 부재와 대체 요소**
 * 별도의 시제는 존재하지 않으며, 문맥으로 시간을 구분하고, ron 계열과 tos 계열의 접사들로 대체됨.
@@ -236,39 +236,34 @@
   * huur : 올려다보다, 존경하다
     * huurta : 세우다
       * 규칙2 : 서다
+  * harrain : 느끼다
+    * hirrain : 소속감을 느끼다
+    * huarrain : 배척감을 느끼다
+    * herrain : 행복하다
+    * haarrain : 우월감을 느끼다
+    * huurrain : 열등감을 느끼다
+    * hoerrain : 열정적이다, 흥미롭다
+      * 접미사형 : ~하고 싶다
+    * hairrain : 지루하다, 무기력하다
+      * 접미사형 : ~하기 싫다
+    * heurrain : 외롭다
+    * sata harrain : 충족감을 느끼다, 만족감을 느끼다
+    * sataru harrain : 상실감을 느끼다
+    * sataya harrain : 불만족하다
+    * satanee harrain : 박탈감을 느끼다
+    * sataci harrain : 안도하다
+    * hi nitaru harrain : 무서워하다
+    * harrainru : 냉정하다
+    * harrainya : 무감각하다
+    * harrainci : 회상하다
+    * taruta harrain : 트라우마가 있다
+    * ni reunru harrain : 궁금해하다
   * harni : 보는 건물
   * yonya toihar : 사물이 작은 것을 보다, 현미경
   * ni os ti toihar : 사물이 어떤 것을 본다 어떤 것은 멀다, 망원경
   * ni os na toihar : 사물이 어떤 것을 본다 어떤 것은 가깝다, 돋보기
   * nai har : 듣다
   * rio har : 맡다
-* **tos** : 느끼다
-  * tis : 소속감을 느끼다
-  * tuas : 배척감을 느끼다
-  * tes : 행복하다
-  * taas : 우월감을 느끼다
-  * tuus : 열등감을 느끼다
-  * toes : 열정적이다
-    * 접미사형 : ~하고 싶다
-  * tais : 나태하다, 무기력하다
-    * 접미사형 : ~하기 싫다
-  * teus : 외롭다
-  * sata tos : 충족감을 느끼다, 만족감을 느끼다
-  * sataru tos : 상실감을 느끼다
-  * sataya tos : 불만족하다
-  * satanee tos : 박탈감을 느끼다
-  * sataci tos : 안도하다
-  * hi nitaru tos : 무서워하다
-  * soc tos : 패배에 대해 슬프다
-  * ni soc tos : 승리에 대해 기쁘다
-  * tosru : 냉정하다
-  * tosya : 무감각하다
-  * tosci : 회상하다, 여운
-  * hon tos : 고립감을 느끼다
-  * taruta tos : 트라우마가 있다
-  * ni reunru tos : 궁금해하다
-  * haar tos : 내려다 보이는 감정, 무력감
-  * huur tos : 올려다 보이는 감정, 타인에 의한 우월감
 ---
 ### 숫자
 * **한 손의 손가락 5개와 그것 사이의 공간 4개 그리고 손바닥 하나까지 총 10개 사용하며, 10개를 전부 사용할 때마다 반대쪽 손의 손가락 5개, 그것 사이의 공각 4개 그리고 손바닥 하나에 하나씩 배치한다.**
@@ -293,7 +288,7 @@
 ### 기초 합성어
 * nici : 다시 어떤 것, 다른 것
 * nasi : 나
-* nitoes : 어떤 이유
+* nihoerrain : 어떤 이유
 * nisa : 어떤 방법
 * niha : 어떤 시간, 어떤 곳
 * rencui : 번개
@@ -321,7 +316,7 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 - In nitoi sataraan nisironsi orun, titoi sisaruun. in titoi sisaya orun, titoi hisata.
 
 2. hisirinnitoi, titoi sisataraan. isan, in conaniteruun eca tisirintitoi os nici orun, titoi sisataraan os nici.
-- In 'nisa' un 'nitoes' tisita orun, conaniteruun eca tisirintitoi os yon.
+- In 'nisa' un 'nihoerrain' tisita orun, conaniteruun eca tisirintitoi os yon.
 - In titoi tisita orun, conaniteruun eca tisirintitoi os yon.
 - In titoi tani (toor tisiren, tisitaciru) orun, conaniteruun eca tisirintitoi os yonya.
 - In tisirintini on coroenterain yonya orun, conaniteruun eca tisirintitoi os toiya. isan, titoi tani, SS sataraan nirontisi.

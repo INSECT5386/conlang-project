@@ -304,7 +304,7 @@
 **1번 예문**
 
 Nitoi tisisata isan, In titoi tisisaya orun, 'tisi os titoi sisa' nasireunruya.
-Isan, In titoi tisisa orun, 'tisi os titoi sisata' nasireun.
+Isan, In titoi tisisa orun, 'tisi os titoi sisata' nasireunru.
 
 In nitoi nasisata orun titoi nasisaruun. un nasi os titoi sisata.
 

@@ -87,8 +87,8 @@
 | | rio | 냄새, 공기 |
 | | na | 이것, 가깝다 |
 | | ti | 그것, 저것, 멀다 |
-| | hay | 접미사형 : 배경, 시공간 / 접두사형 : 모든 것, 전체 |
-| | ny | 접미사형 : 건물 / 접두사형 : 어떤 것 |
+| | hi | 접미사형 : 시간 / 접두사형 : 모든 것, 전체 |
+| | ny | 접미사형 : 공간 / 접두사형 : 어떤 것 |
 | | toi | 사물 |
 | | si | 적응체 또는 지성체 |
 | | soe | 너 |
@@ -123,7 +123,7 @@
     * 규칙2 : 살다, 살아있다, 조건(기생하다)
     * tarainny : 살리는/지속시키는 건물
       * 규칙2 : 거주하는 건물
-    * tarainhay : 살리는/지속시키는 시간
+    * tarainhi : 살리는/지속시키는 시간
       * 규칙2 : ~의 수명
     * tarainci : 부활시키다, 되살리다
       * 규칙2 : 부활하다, 되살아나다
@@ -137,14 +137,14 @@
       * rin taru : 퍼뜨리다, 분산시키다
         * rin taruya : 모으다, 누적시키다
         * rin taruyany : 모으는 건물, 보관하는 건물
-        * rin taruyahay : 사냥하는/채집하는 시공간
+        * rin taruyahi : 사냥하는/채집하는 시간
         * taruyaci : 부활시키다, 되살리다
           * 규칙2 : 부활하다, 되살아나다
 * **sa**: 휘두르다, 흔들다, 지배하다, 사용하다, 노동시키다
   * 규칙1 : 신체
   * 규칙2 : 노동하다, 일하다
   * sany : 운영하는 건물
-  * sahay : 운영하는 시간
+  * sahi : 운영하는 시간
   * saru : 해고하다, 해임하다
   * sata : 잡다, 쥐다, 가지다
     * 활용2 : X는 Y를 잡을 수 있는 기관이 있다
@@ -230,7 +230,7 @@
     * 활용2 : X는 Y를 보호할 수 있는 기관이 있다
       * -- rin -rainrin : -의 --로 이루어진 피부, 가죽
     * rainny : 보호하는/숨기는 건물
-    * rainhay : 보호하는/숨기는 기간
+    * rainhi : 보호하는/숨기는 기간
   * reun : 묻다, 잊다, 모르다
     * 규칙2 : 기억, 자아를 잃다
     * reunru : 파다, 연구하다, 배우다, 생각하다
@@ -246,7 +246,7 @@
     * 규칙1 : 밝은 것, 흰 것, 비추어진 것
     * 규칙2 : 빛나다
     * hartany : 비추는 건물
-    * hartahay : 비추는 시간, -의 낮
+    * hartahi : 비추는 시간, -의 낮
   * her : 내려다보다. 무시하다
     * herta : 앉히다, 눕히다
       * 규칙2 : 앉다, 눕다
@@ -306,10 +306,10 @@
 * **활용**
 * 15 : cay un yca
 * 36 : cayyhi un ray
-* 100 : hay
-* 279 : hayyse un caysey un noy
-* 10000 : hayron
-* 1000000 : haytaren
+* 100 : hi
+* 279 : hiyse un caysey un noy
+* 10000 : hiron
+* 1000000 : hitaren
 ### 기초 합성어
 * nyci : 다시 어떤 것, 다른 것
 * nasi : 나
@@ -336,18 +336,18 @@ Isan, nytoi nasisata. tuh, in titoi nasisaya orun, nasi os sisa.
 
 In nasi os sisa nasitarain orun, titoi nasisataruan.
 
-1. Sata os SS('Sarin Saicotrin' os Nytoi' hayhartataci) sitacirin. isan, titarainhay os cayyhi un yra. in tihaytaru orun, SS sisaya.
-- In nytoi sataraan nysiron ot si orun, titoi sisaruun. in titoi sisaya orun, titoi haysata.
+1. Sata os SS('Sarin Saicotrin' os Nytoi' hisitaci) sitacirin. isan, titarainhi os cayyhi un yra. in tihitaru orun, SS sisaya.
+- In nytoi sataraan nysiron ot si orun, titoi sisaruun. in titoi sisaya orun, titoi hisata.
 
-2. haysirinnytoi, titoi sisataraan. isan, in conanyteruun eca tisirin ot titoi os nyci orun, titoi sisataraan os nyci.
+2. hisirin ot nytoi, titoi sisataraan. isan, in conanyteruun eca tisirin ot titoi os nyci orun, titoi sisataraan os nyci.
 - In 'nysa' un 'nytoes' tisita orun, conanyteruun eca tisirin ot titoi os yon.
 - In titoi tisita orun, conanyteruun eca tisirin ot titoi os yon.
 - In titoi tany (tisinonru, tisitaciru) orun, conanyteruun eca tisirin ot titoi os yonya.
 - In tisirintiny on coroenterain yonya orun, conanyteruun eca tisirin ot titoi os toiya. isan, titoi tany, SS sataraan nyrontisi.
 ---
-In ti haysa soosnyraan nysisaruun on nyhartayahay orun, ti soesaruun on rin os soosnysata soeharruunhay.
+In ti hisa soosnyraan nysisaruun on nyhartayahi orun, ti soesaruun on rin os soosnysata soeharruunhay.
 
-harta os hartaya taci nycisiharrin on tihay.
+harta os hartaya taci nycisiharrin on tihi.
 
 In, tiny toiharta, toisaya on soeruan ot soosny orun, soeruanyaruun.
 

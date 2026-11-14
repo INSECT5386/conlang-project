@@ -274,7 +274,7 @@
 * 5 : yca
 * 6 : ray
 * 7 : sey
-* 8 : hay
+* 8 : hi
 * 9 : noy
 * 10 : cay
 * **활용**
@@ -320,30 +320,30 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 - In titoi tani (toor tisiren, tisitaciru) orun, conaniteruun eca tisirintitoi os yonya.
 - In tisirintini on coroenterain yonya orun, conaniteruun eca tisirintitoi os toiya. isan, titoi tani, SS sataraan nirontisi.
 ---
-Nyhay, sirin nysisany, siruan nytarutarin. hartatarainny tisaneeta un, harta sisaraan titaru. titoes os nahay tisisatatoes.
+Nihi, sirin nisisani, siruan nitarutarin. hartatarainni tisaneeta un, harta sisaraan titaru. titoes os nahi tisisatatoes.
 
-"Hay haynasisaraan" nai tisirinharta.
-harta sisany sita. un, haysoos tisisatanee.
-titoes os in rencui hartata orun hay hartatarurin
+"Hay hinasisaraan" nai tisirinharta.
+harta sisani sita. un, hisoos tisisatanee.
+titoes os in rencui hartata orun hi hartatarurin
 
-Nyhayci, soos os sataru hartarinny os cuicot rin hartataruyany.
+Nihici, soos os sataru hartarinni os cuicot rin hartataruyani.
 
-Tihay, harta sisa, sanee haysihar sironny os hartatarainny.
+Tihi, harta sisa, sanee hisihar sironni os hartatarainni.
 
-tuh, sanee nysihar, 'ti haysa coscuinon' nysisataruny os soos hartarinny os cuicot rin hartataruyany.
+tuh, sanee nisihar, 'ti hisa coscuinon' nisisataruni os soos hartarinni os cuicot rin hartataruyani.
 
-costarainci un, tiny tirincos.
+costarainci un, tini tirincos.
 
-sanee tisihar nyhartarinnee. titoes os tisisataru ot cos.
+sanee tisihar nihartarinnee. titoes os tisisataru ot cos.
 
-tuh, haysirin sisa, tiharta sitaru un, sanee tisihar siruanny os haysataru sirinneeny.
+tuh, hisirin sisa, tiharta sitaru un, sanee tisihar siruanni os hisataru sirinneeni.
 
-tihayhartayahay, sanee tisihar hartarentoi, toihuurta. un, toi hartaroncuiny os hayrincoshay. un, rencui hartatata.
+tihihartayahi, sanee tisihar hartarentoi, toihuurta. un, toi hartaroncuini os hirincoshi. un, rencui hartatata.
 
-harta tisisany, tinyhartarainhay,
-ny haysa, sarin os raancos un cuicottoor haycot.
-harta os haysey un cayyca un yra. hartasaneeruun. isan, tihayhartayahay os coroenterain yon.
-Tihay, nytoirentiny un, harta sisany rin soosrainrin titoitaru.
+harta tisisani, tinihartarainhi,
+nitoi hisa, sarin os raancos un cuicottoor hicot.
+harta os hisey un cayyca un yra. hartasaneeruun. isan, tihihartayahi os coroenterain yon.
+Tihi, nitoirentini un, harta sisani rin soosrainrin titoitaru.
 
-'Rencuirennany!' nai nysirinhaysi.
-toi sitaruta, ny haysa sirainta. isan, rencuirencitiny.
+'Rencuirennani!' nai nisirinhisi.
+toi sitaruta, nitoi hisa sirainta. isan, rencuirencitini.

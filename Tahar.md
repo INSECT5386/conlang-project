@@ -321,10 +321,7 @@
 * coroenterain : 길이
 ## 스토리
 ### 배경, 사고 방식
-'Harta' os nysitarainrees.
-'SS(Sarin Saicotrin) os Nytoi' haysitaci.
-
-Nytoi tisisata isan, In titoi tisisaya orun, 'tisi os titoi sisa' Hartareunruya.
+Nytoi tisisata isan, In titoi tisisaya orun, 'tisi os titoi sisa' Harta(os nysitarainrees)reunruya.
 Isan, In tinoi tisisa orun, 'tisi os titoi sisata' Hartareun.
 
 In nytoi nasisata orun titoi nasisaruun. un nasi os titoi sisata.
@@ -334,7 +331,7 @@ Isan, nytoi nasisata. tuh, in titoi nasisaya orun, nasi os sisa.
 In nasi os sisa nasitarain orun, titoi nasisataruan.
 
 
-1. Sata os SS sitacirin. isan, titarainhay os sochuur un ta. in tihaytaru orun, SS sisaya.
+1. Sata os SS('Sarin Saicotrin' os Nytoi' hayhartataci) sitacirin. isan, titarainhay os sochuur un ta. in tihaytaru orun, SS sisaya.
 - In nytoi sataraan nysironsi orun, titoi sisaruun. in titoi sisaya orun, titoi haysata.
 
 

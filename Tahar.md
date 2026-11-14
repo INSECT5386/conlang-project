@@ -76,7 +76,7 @@
 | | -eu- | 지하에, 지하에서 |
 | 범용사 | toor | 물 |
 | | cos | 불, 뜨겁다 |
-| | rees | (건조한) 흙, 먼지 |
+| | rees | 흙, 땅, 지구 |
 | | sor | 얼음, 차갑다 |
 | | cui | 나무 |
 | | roo | 산 |
@@ -98,7 +98,7 @@
 | 전치사 | ot | 에 대하여, 에 대한 |
 | | co | ~으로부터, ~에서부터 (출발) |
 | | te | ~까지 (도착) |
-| 접속사 | un | 그리고, 추가적으로 |
+| 접속사, 접속 부사 | un | 그리고, 추가적으로 |
 | | isan | 그러나, 하지만 |
 | | in - orun, | 만약 - 이라면, -라는 조건하에 |
 | | tuh | 그런데 |
@@ -319,60 +319,28 @@
 * toorrees os raancos : 진흙이 불탄 것이다. 벽돌
 * soossai : 비행기, 비행물체
 * coroenterain : 길이
-### 스토리
-Nyhay, sirin nysisany, siruan nytarutarin. hartatarainny tisaneeta un, harta sisaraan titaru. titoes os nahay tisisatatoes.
+## 스토리
+### 배경, 사고 방식
+'Harta' os nysitarainrees.
 
-어느날, 내부자를 지배하는 건물, 그것의 외부자를 공격하는 기관이 하르타들이 사는 어떤 곳을 침략했고, 그들은 하르타들을 지배할 자격을 가진 자를 죽였다.
-그 이유는 그들이 이 땅을 가지고 싶기 때문이었다.
+Nytoi tisisata isan, In titoi tisisaya orun, 'tisi os titoi sisa' Hartareunruya.
+Isan, In tinoi tisisa orun, 'tisi os titoi sisata' Hartareun.
 
-"Hay haynasisaraan" nai tisirinharta.
-harta sisany sita. un, haysoos tisisatanee.
-titoes os in rencui hartata orun hay hartatarurin
+In nytoi nasisata orun titoi nasisaruun. un nasi os titoi sisata.
 
-"우리는 모든 것을 지배할 자격이 있다" 그들이 말했다.
-그들은 자신들이 하르타족을 다스리는 건물을 지었고, 모든 금속을 빼앗았다.
-그 이유는 만약 하르타들이 '번개'를 만든다면 그들이 모든 것을 없앨 수 있기 때문이었다.
+Isan, nytoi nasisata. tuh, in titoi nasisaya orun, nasi os sisa.
 
-Nyhayci, soos os sataru hartarinny os cuicot rin hartataruyany.
+In nasi os sisa nasitarain orun, titoi nasisataruan.
 
-다시 어떤 날, 하르타들은 버려진 금속을 자신들이 과일을 모으는 곳에 배치했다.
-
-Tihay, harta sisa, sanee haysihar sironny os hartatarainny.
-
-그 때, 하르타들을 지배하는 자들이 노예 감시자를 하르타들이 사는 곳에 배치했다.
-
-tuh, sanee nysihar, 'ti haysa coscuinon' nysisataruny os soos hartarinny os cuicot rin hartataruyany.
-
-그런데, 어떤 노예 감시자가 '그것을 사용하는 모든 것을 오염시키는 불 나무'를 하르타들이 철을 배치한 그들이 과일을 모으는 건물에 버렸다.
-
-costarainci un, tiny tirincos.
-
-불이 되살아났고, 그것은 건물을 불태웠다.
-
-sanee tisihar nyhartarinnee. titoes os tisisataru ot cos.
-
-어떤 하르타들은 그 노예 감시자를 가두었다. 이유는 불에 대해 그가 범죄를 저지른 것이었다.
-
-tuh, haysirin sisa, tiharta sitaru un, sanee tisihar siruanny os haysataru sirinneeny.
-
-그런데, 모든 내부자를 지배하는 자가 그 하르타들을 죽이고, 범죄자를 가두는 건물에서 그 노예 감시자를 꺼냈다.
-
-tihayhartayahay, sanee tisihar hartarentoi, toihuurta. un, toi hartaroncuiny os hayrincoshay. un, rencui hartatata.
-
-
-그 때의 밤, 하르타들은 그 노예 감시자를 기둥에 매달았고 그것을 모든 것이 스스로 불타는 곳에 박았다. 그리고, 하르타들은 번개를 만들려 시도했다.
-
-harta tisisany, tinyhartarainhay,
-ny haysa, sarin os raancos un cuicottoor haycot.
-harta os haysa un socyon un ta. hartasaneeruun. isan, tihayhartayahay os coroenterain yon.
-Tihay, nytoirentiny un, harta sisany rin soosrainrin titoitaru.
-
-하르타들을 지배하는 건물에서, 그곳의 낮의 잔상이 남은 시간에
-어떤 것을 지배하는 모든 것들이 구운 내장과 과일즙을 먹었다.
-751명의 하르타들이 강제로 자신을 노동시켜야했다. 하지만, 그곳의 밤은 길었다.
-그 때, 어떤 사물이 그 건물도 날아왔다, 그 사물은 하르타들을 지배하는 건물의 철벽을 부수었다.
-
-'Rencuirennany!' nai nysirinhaysi.
-toi sitaruta, ny haysa sirainta. isan, rencuirencitiny.
-"번개가 여기로 온다!" 어떤 자가 모두에게 말했다.
-사물을 공격하는 자들이 어떤 것을 지배하는 모든 것들을 보호하려 시도했다. 하지만, 번개가 그 곳으로 다시 날아왔다.
+---
+만약 기존 지배자(서류상 주인)이 소유권을 잃거나 주인(sisata)가 개인적인 문제로 더이상 영향력을 행사하지 못하는 상황이 온다면, 전자에 경우엔 실질적 주인(관리자, 운영자)를 우대하고 분산된 주인(빌려 쓰던 자)에게도 자신이 영향력을 끼치던 실질적 구역까지는 소유권을 넘겨받음.
+후자에 경우엔 유족에게 상속되거나 유언에 따라 기부, 분배, 제 3의 인물에게 상속이 가능함.
+---
+1. 물리적 소유물을 화폐로 바꾸어 축적하는 것은 가능하지만, 가지고 있는 화폐는 사용 기간이 정해져있으며 그 이후까지 사용하지 않으면 가치가 인정되지 않는다.
+1-1 : 돈을 다시 물리적인 소유물로 전환한다면, 해당 소유물은 3개월간 직접 관리해야하며, 그러하지 못한다면 공공 재산으로 귀속된다.
+2. 어떤 것에 기여하는 자는 기여한 만큼의 소유권을 인정받지만, 기여의 정도는 아래와 같이 판별한다.
+2-1 : 해당 시스템 내부에서 만들어내고자 하는 목표에 직접적으로 참여한 경우와 해당 목표를 직접 만들어낸 경우, 가장 높은 기여도
+2-2 : 해당 시스템 내부에서 만들어내고자 하는 목표를 위해 일한 자, 높은 기여도
+2-2 : 해당 시스템 내부에서 만들어내고자 하는 목표와는 상관 없이 시설 수리, 유지, 청소 등의 역할을 수행한 경우, 낮은 기여도
+2-2-1 : 단, 관련 업종(공사, 인테리어, 청소 업체 등등)의 경우에는 2-3에 따라 처리함.
+2-3 : 해당 시스템에 지속적으로 영향을 끼치지 않고 일시적으로 개입한 경우, 매우 낮은 기여도이며 정해진 임금을 지급함.

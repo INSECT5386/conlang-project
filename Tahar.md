@@ -320,3 +320,30 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 - In titoi tani (toor tisiren, tisitaciru) orun, conaniteruun eca tisirintitoi os yonya.
 - In tisirintini on coroenterain yonya orun, conaniteruun eca tisirintitoi os toiya. isan, titoi tani, SS sataraan nirontisi.
 ---
+Nyhay, sirin nysisany, siruan nytarutarin. hartatarainny tisaneeta un, harta sisaraan titaru. titoes os nahay tisisatatoes.
+
+"Hay haynasisaraan" nai tisirinharta.
+harta sisany sita. un, haysoos tisisatanee.
+titoes os in rencui hartata orun hay hartatarurin
+
+Nyhayci, soos os sataru hartarinny os cuicot rin hartataruyany.
+
+Tihay, harta sisa, sanee haysihar sironny os hartatarainny.
+
+tuh, sanee nysihar, 'ti haysa coscuinon' nysisataruny os soos hartarinny os cuicot rin hartataruyany.
+
+costarainci un, tiny tirincos.
+
+sanee tisihar nyhartarinnee. titoes os tisisataru ot cos.
+
+tuh, haysirin sisa, tiharta sitaru un, sanee tisihar siruanny os haysataru sirinneeny.
+
+tihayhartayahay, sanee tisihar hartarentoi, toihuurta. un, toi hartaroncuiny os hayrincoshay. un, rencui hartatata.
+
+harta tisisany, tinyhartarainhay,
+ny haysa, sarin os raancos un cuicottoor haycot.
+harta os haysey un cayyca un yra. hartasaneeruun. isan, tihayhartayahay os coroenterain yon.
+Tihay, nytoirentiny un, harta sisany rin soosrainrin titoitaru.
+
+'Rencuirennany!' nai nysirinhaysi.
+toi sitaruta, ny haysa sirainta. isan, rencuirencitiny.

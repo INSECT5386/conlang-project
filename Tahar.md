@@ -322,8 +322,8 @@
 * soossai : 비행기, 비행물체
 * coroenterain : 길이
 #### 예문
-Nytoi tisisata isan, In titoi tisisaya orun, 'tisi os titoi sisa' Harta(os nysitarainrees)reunruya.
-Isan, In titoi tisisa orun, 'tisi os titoi sisata' Hartareun.
+Nytoi tisisata isan, In titoi tisisaya orun, 'tisi os titoi sisa' nasireunruya.
+Isan, In titoi tisisa orun, 'tisi os titoi sisata' nasireun.
 
 In nytoi nasisata orun titoi nasisaruun. un nasi os titoi sisata.
 

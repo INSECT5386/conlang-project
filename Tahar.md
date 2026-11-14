@@ -58,8 +58,8 @@
 * O SVhay
 * * S가 O를 V하는 시간, 장소
   * S가 hay에/에서 O를 V하다
-* O SV(-aa-, -uu-, -ua-, -i-, -e-, -oe-, -ai-)~
-* S가 ~의 ()에/에서 O를 V하다
+* O SV(-aa-, -uu-, -ua-, -i-, -e-, -oe-, -ai-)
+* * S가 ()에/에서 O를 V하다
 * **상황 정정**
 * 품사 구분 없나? -> 없다.
 * 내부 접사는 모음 교체인가? -> 그렇다
@@ -96,9 +96,10 @@
 | | -ci | 다시 |
 | | -ya | 을 하지 않다 |
 | | -ru | 을 되돌리다 |
-| 전치사 | ot | 에 대하여, 에 대한 |
+| 전치사 | eca | 에 대하여, 에 대한 |
 | | co | ~으로부터, ~에서부터 (출발) |
 | | te | ~까지 (도착) |
+| | ot | ~에, ~에서 |
 | | on | ~동안 |
 | 접속사, 접속 부사 | un | 그리고, 추가적으로 |
 | | isan | 그러나, 하지만 |
@@ -185,29 +186,29 @@
   * nonru : 씻기다, 닦다
     * 규칙1 : 깨끗한 것
 * **ron**: 배치하다
+  * ron ot cos : 불태우다
   * roncui : 고정하다, 박다 / 약속하다
     * roncicui : 다시 고정하다, 다시 박다 / 약속을 수정하다
     * ronrucui : 고정된 것을 빼내다, 뽑다 / 약속을 없애다
-  * -- sataraan -ron~ : -가 ~에게 -- 를 주다
+  * -- sataraan -ron ot ~ : -가 ~에게 -- 를 주다
   * rin : 넣다, 참여시키다
     * 접미사형 : 기능을 추가하다, 할 수 있다
     * 규칙1 : 내부의 것
     * 규칙2 : 영향을 주다, 개입하다
     * sarin : 신체가 자신을 내부에 두다, 내장
     * rinnee : 가두다, 격리하다, 제한하다
-    * reunya rin~ : ~에게 가르치다
-    * nai rin~ : ~에게 말하다
+    * reunya rin ot ~ : ~에게 가르치다
+    * nai rin ot ~ : ~에게 말하다
       * 활용2 : X는 말할 수 있는 기관이 있다
-    * rincos : 불태우다
   * ruan : 꺼내다, 퇴출시키다
     * 접미사형 : 기능을 제거하다, 할 수 없다, 장애
     * 규칙1 : 외부의 것
   * raan : 올려놓다
     * 접미사형 : ~할 권한/자격이 있다
     * 규칙1 : 높은 것, 위쪽의 것
-    * reunya raan~ : ~에 기록하다
-    * nai raan~ : ~에 녹음하다
-    * raancos : 굽다
+    * reunya raan ot ~ : ~에 기록하다
+    * nai raan ot ~ : ~에 녹음하다
+    * raan ot cos : 굽다
   * ruun : 내려놓다
     * 접미사형 : ~해야 하는 상태이다
     * 규칙1 : 낮은 것, 아래쪽의 것
@@ -335,22 +336,22 @@ Isan, nytoi nasisata. tuh, in titoi nasisaya orun, nasi os sisa.
 
 In nasi os sisa nasitarain orun, titoi nasisataruan.
 
-1. Sata os SS('Sarin Saicotrin' os Nytoi' hayhartataci) sitacirin. isan, titarainhay os sochuur un ta. in tihaytaru orun, SS sisaya.
-- In nytoi sataraan nysironsi orun, titoi sisaruun. in titoi sisaya orun, titoi haysata.
+1. Sata os SS('Sarin Saicotrin' os Nytoi' hayhartataci) sitacirin. isan, titarainhay os cayyhi un yra. in tihaytaru orun, SS sisaya.
+- In nytoi sataraan nysiron ot si orun, titoi sisaruun. in titoi sisaya orun, titoi haysata.
 
-2. haysirinnytoi, titoi sisataraan. isan, in conanyteruun ot tisirintitoi os nyci orun, titoi sisataraan os nyci.
-- In 'nysa' un 'nytoes' tisita orun, conanyteruun ot tisirintitoi os yon.
-- In titoi tisita orun, conanyteruun ot tisirintitoi os yon.
-- In titoi tany (tisinonru, tisitaciru) orun, conanyteruun ot tisirintitoi os yonya.
-- In tisirintiny on coroenterain yonya orun, conanyteruun ot tisirintitoi os toiya. isan, titoi tany, SS sataraan nyrontisi.
+2. haysirinnytoi, titoi sisataraan. isan, in conanyteruun eca tisirin ot titoi os nyci orun, titoi sisataraan os nyci.
+- In 'nysa' un 'nytoes' tisita orun, conanyteruun eca tisirin ot titoi os yon.
+- In titoi tisita orun, conanyteruun eca tisirin ot titoi os yon.
+- In titoi tany (tisinonru, tisitaciru) orun, conanyteruun eca tisirin ot titoi os yonya.
+- In tisirintiny on coroenterain yonya orun, conanyteruun eca tisirin ot titoi os toiya. isan, titoi tany, SS sataraan nyrontisi.
 ---
 In ti haysa soosnyraan nysisaruun on nyhartayahay orun, ti soesaruun on rin os soosnysata soeharruunhay.
 
 harta os hartaya taci nycisiharrin on tihay.
 
-In, tiny toiharta, toisaya on soeruansoosny orun, soeruanyaruun.
+In, tiny toiharta, toisaya on soeruan ot soosny orun, soeruanyaruun.
 
-In soerinnany orun, soerinruunnany on nany toiharta toisaya.
+In soerin ot nany orun, soerinruun ot nany on nany toiharta toisaya.
 
 In nynai har isan hay harya orun, tirinny.
 

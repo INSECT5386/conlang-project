@@ -323,7 +323,7 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 **2번 예문**
 Nihi, sirin nisisani, siruan nitarutarin. hartatarainni tisaneeta un, harta sisaraan titaru. tihoerrain os nahi tisisatahoerrain.
 
-"Hay hinasisaraan" nai tisirinharta.
+"Hitoi hinasisaraan" nai tisirinharta.
 harta sisani sita. un, hisoos tisisatanee.
 tihoerrain os in rencui hartata orun hi hartatarurin
 

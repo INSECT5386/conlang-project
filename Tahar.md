@@ -341,7 +341,7 @@ Tihay, harta sisa, sanee haysihar sironny os hartaraintany.
 
 그 때, 하르타들을 지배하는 자들이 노예 감시자를 하르타들이 사는 곳에 배치했다.
 
-tuh, sanee nysihar, 'ti haysa coscuinonta' nysisataruny os soos hartarinny os cuicot rin hartataruyany.
+tuh, sanee nysihar, 'ti haysa coscuinon' nysisataruny os soos hartarinny os cuicot rin hartataruyany.
 
 그런데, 어떤 노예 감시자가 '그것을 사용하는 모든 것을 오염시키는 불 나무'를 하르타들이 철을 배치한 그들이 과일을 모으는 건물에 버렸다.
 

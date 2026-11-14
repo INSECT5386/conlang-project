@@ -44,9 +44,9 @@
 * **시제의 부재와 대체 요소**
 * 별도의 시제는 존재하지 않으며, 문맥으로 시간을 구분하고, ron 계열과 tos 계열의 접사들로 대체됨.
 * **문장 구조**
-* O SVny
+* O SVni
 * * S가 O를 V하는 건물
-  * S가 ny에/에서 O를 V하다
+  * S가 ni에/에서 O를 V하다
 * O SVhi
 * * S가 O를 V하는 시간, 장소
   * S가 hi에/에서 O를 V하다
@@ -80,7 +80,7 @@
 | | na | 이것, 가깝다 |
 | | ti | 그것, 저것, 멀다 |
 | | hi | 접미사형 : 시간 / 접두사형 : 모든, 전체의 |
-| | ny | 접미사형 : 공간 / 접두사형 : 어떤 |
+| | ni | 접미사형 : 공간 / 접두사형 : 어떤 |
 | | toi | 무언가 |
 | | si | 적응체 또는 지성체 |
 | | soe | 너 |
@@ -108,12 +108,12 @@
     * A os B taci : A를 B로 수정하다, 대체하다, 변환하다
       * 규칙1 : A와 B가 서로 변환된 것
     * taciru : 복원하다, 복구하다
-      * taciruny : 복구하는/복원하는 건물
+      * taciruni : 복구하는/복원하는 건물
   * tarain : 살려두다, 지속시키다, ~에 거주시키다
     * 조건, ~가 공간이 아닌 사물이라면 : 감염시키다
     * 규칙1 : 살아온 것, 지속된 것, 조건(감염된 것, 숙주)
     * 규칙2 : 살다, 살아있다, 조건(기생하다)
-    * tarainny : 살리는/지속시키는 건물
+    * tarainni : 살리는/지속시키는 건물
       * 규칙2 : 거주하는 건물
     * tarainhi : 살리는/지속시키는 시간
       * 규칙2 : ~의 수명
@@ -128,14 +128,14 @@
         * 규칙2 : 자해하다
       * rin taru : 퍼뜨리다, 분산시키다
         * rin taruya : 모으다, 누적시키다
-        * rin taruyany : 모으는 건물, 보관하는 건물
+        * rin taruyani : 모으는 건물, 보관하는 건물
         * rin taruyahi : 사냥하는/채집하는 시간
         * taruyaci : 부활시키다, 되살리다
           * 규칙2 : 부활하다, 되살아나다
 * **sa**: 휘두르다, 흔들다, 지배하다, 사용하다, 노동시키다
   * 규칙1 : 신체
   * 규칙2 : 노동하다, 일하다
-  * sany : 운영하는 건물
+  * sani : 운영하는 건물
   * sahi : 운영하는 시간
   * saru : 해고하다, 해임하다
   * sata : 잡다, 쥐다, 가지다
@@ -215,7 +215,7 @@
     * 규칙1 : 뒤쪽의 것
     * 활용2 : X는 Y를 보호할 수 있는 기관이 있다
       * -- rin -rainrin : -의 --로 이루어진 피부, 가죽
-    * rainny : 보호하는/숨기는 건물
+    * rainni : 보호하는/숨기는 건물
     * rainhi : 보호하는/숨기는 기간
   * reun : 묻다, 잊다, 모르다
     * 규칙2 : 기억, 자아를 잃다
@@ -230,7 +230,7 @@
   * harta : 비추다, 밝히다
     * 규칙1 : 밝은 것, 흰 것, 비추어진 것
     * 규칙2 : 빛나다
-    * hartany : 비추는 건물
+    * hartani : 비추는 건물
     * hartahi : 비추는 시간, -의 낮
   * her : 내려다보다. 무시하다
     * herta : 앉히다, 눕히다
@@ -238,10 +238,10 @@
   * huur : 올려다보다, 존경하다
     * huurta : 세우다
       * 규칙2 : 서다
-  * harny : 보는 건물
+  * harni : 보는 건물
   * yonya toihar : 사물이 작은 것을 보다, 현미경
-  * ny os ti toihar : 사물이 어떤 것을 본다 어떤 것은 멀다, 망원경
-  * ny os na toihar : 사물이 어떤 것을 본다 어떤 것은 가깝다, 돋보기
+  * ni os ti toihar : 사물이 어떤 것을 본다 어떤 것은 멀다, 망원경
+  * ni os na toihar : 사물이 어떤 것을 본다 어떤 것은 가깝다, 돋보기
   * nai har : 듣다
   * rio har : 맡다
 * **tos** : 느끼다
@@ -260,15 +260,15 @@
   * sataya tos : 불만족하다
   * satanee tos : 박탈감을 느끼다
   * sataci tos : 안도하다
-  * hi nytaru tos : 무서워하다
+  * hi nitaru tos : 무서워하다
   * soc tos : 패배에 대해 슬프다
-  * ny soc tos : 승리에 대해 기쁘다
+  * ni soc tos : 승리에 대해 기쁘다
   * tosru : 냉정하다
   * tosya : 무감각하다
   * tosci : 회상하다, 여운
   * hon tos : 고립감을 느끼다
   * non tos : 트라우마가 있다
-  * ny reunru tos : 궁금해하다
+  * ni reunru tos : 궁금해하다
   * her tos : 내려다 보이는 감정, 무력감
   * huur tos : 올려다 보이는 감정, 타인에 의한 우월감
 ---
@@ -293,15 +293,15 @@
 * 10000 : hiron
 * 1000000 : hitaren
 ### 기초 합성어
-* nyci : 다시 어떤 것, 다른 것
+* nici : 다시 어떤 것, 다른 것
 * nasi : 나
-* nytoes : 어떤 이유
-* nysa : 어떤 방법
-* nyha : 어떤 시간, 어떤 곳
+* nitoes : 어떤 이유
+* nisa : 어떤 방법
+* niha : 어떤 시간, 어떤 곳
 * rencui : 번개
 * cuicot : 열매
-* cuiny : 목제 건물
-* reesny : 흙집
+* cuini : 목제 건물
+* reesni : 흙집
 * toi os rin : 가구, 실내 사물
 * toorrees : 진흙
 * toorrees os raancos : 진흙이 불탄 것이다. 벽돌
@@ -313,18 +313,18 @@
 Nytoi tisisata isan, In titoi tisisaya orun, 'tisi os titoi sisa' nasireunruya.
 Isan, In titoi tisisa orun, 'tisi os titoi sisata' nasireun.
 
-In nytoi nasisata orun titoi nasisaruun. un nasi os titoi sisata.
+In nitoi nasisata orun titoi nasisaruun. un nasi os titoi sisata.
 
-Isan, nytoi nasisata. tuh, in titoi nasisaya orun, nasi os sisa.
+Isan, nitoi nasisata. tuh, in titoi nasisaya orun, nasi os sisa.
 
 In nasi os sisa nasitarain orun, titoi nasisataruan.
 
 1. Sata os SS('Sarin Saicanrin' os Nytoi' hisitaci) sitacirin. isan, titarainhi os cayyha un yra. in tihitaru orun, SS sisaya.
-- In nytoi sataraan nysiron ansi orun, titoi sisaruun. in titoi sisaya orun, titoi hisata.
+- In nitoi sataraan nisiron ansi orun, titoi sisaruun. in titoi sisaya orun, titoi hisata.
 
-2. hisirin annytoi, titoi sisataraan. isan, in conanyteruun eca tisirin antitoi os nyci orun, titoi sisataraan os nyci.
-- In 'nysa' un 'nytoes' tisita orun, conanyteruun eca tisirin antitoi os yon.
-- In titoi tisita orun, conanyteruun eca tisirin antitoi os yon.
-- In titoi tany (tisinonru, tisitaciru) orun, conanyteruun eca tisirin antitoi os yonya.
-- In tisirintiny on coroenterain yonya orun, conanyteruun eca tisirin antitoi os toiya. isan, titoi tany, SS sataraan nyrontisi.
+2. hisirin annitoi, titoi sisataraan. isan, in conaniteruun eca tisirin antitoi os nici orun, titoi sisataraan os nici.
+- In 'nisa' un 'nitoes' tisita orun, conaniteruun eca tisirin antitoi os yon.
+- In titoi tisita orun, conaniteruun eca tisirin antitoi os yon.
+- In titoi tani (tisinonru, tisitaciru) orun, conaniteruun eca tisirin antitoi os yonya.
+- In tisirintini on coroenterain yonya orun, conaniteruun eca tisirin antitoi os toiya. isan, titoi tani, SS sataraan nirontisi.
 ---

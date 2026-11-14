@@ -335,7 +335,7 @@ tuh, sanee nisihar, 'ti hisa rees coscuiren' nisisataruni os soos hartarinni os 
 
 costarainci un, tini tirincos.
 
-sanee tisihar nihartarinnee. tihoerrain os tisisataru ot cos.
+sanee tisihar nihartarinnee. tihoerrain os tisisataru eca cos.
 
 tuh, hisirin sisa, tiharta sitaru un, sanee tisihar siruanni os hisataru sirinneeni.
 

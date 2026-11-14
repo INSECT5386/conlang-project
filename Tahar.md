@@ -336,10 +336,9 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 - In nytoi sataraan nysironsi orun, titoi sisaruun. in titoi sisaya orun, titoi haysata.
 
 2. haysirinnytoi, titoi sisataraan. isan, in conanyteruun ot tisirintitoi os nyci orun, titoi sisataraan os nyci.
-
-2. 어떤 것에 기여하는 자는 기여한 만큼의 소유권을 인정받지만, 기여의 정도는 아래와 같이 판별한다.
-2-1 : 해당 시스템 내부에서 만들어내고자 하는 목표에 직접적으로 참여한 경우와 해당 목표를 직접 만들어낸 경우, 가장 높은 기여도
-2-2 : 해당 시스템 내부에서 만들어내고자 하는 목표를 위해 일한 자, 높은 기여도
+- In 'nysa' un 'nytoes' tisita orun, conanyteruun ot tisirintitoi os yon.
+- In titoi tisita orun, conanyteruun ot tisirintitoi os yon.
+- In titoi tany (tisinonru, tisitaciru) orun, conanyteruun ot tisirintitoi os yonya.
 2-2 : 해당 시스템 내부에서 만들어내고자 하는 목표와는 상관 없이 시설 수리, 유지, 청소 등의 역할을 수행한 경우, 낮은 기여도
 2-2-1 : 단, 관련 업종(공사, 인테리어, 청소 업체 등등)의 경우에는 2-3에 따라 처리함.
 2-3 : 해당 시스템에 지속적으로 영향을 끼치지 않고 일시적으로 개입한 경우, 매우 낮은 기여도이며 정해진 임금을 지급함.

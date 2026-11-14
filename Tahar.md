@@ -98,6 +98,7 @@
 | 전치사 | ot | 에 대하여, 에 대한 |
 | | co | ~으로부터, ~에서부터 (출발) |
 | | te | ~까지 (도착) |
+| | on | ~동안 |
 | 접속사, 접속 부사 | un | 그리고, 추가적으로 |
 | | isan | 그러나, 하지만 |
 | | in - orun, | 만약 - 이라면, -라는 조건하에 |
@@ -339,6 +340,4 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 - In 'nysa' un 'nytoes' tisita orun, conanyteruun ot tisirintitoi os yon.
 - In titoi tisita orun, conanyteruun ot tisirintitoi os yon.
 - In titoi tany (tisinonru, tisitaciru) orun, conanyteruun ot tisirintitoi os yonya.
-2-2 : 해당 시스템 내부에서 만들어내고자 하는 목표와는 상관 없이 시설 수리, 유지, 청소 등의 역할을 수행한 경우, 낮은 기여도
-2-2-1 : 단, 관련 업종(공사, 인테리어, 청소 업체 등등)의 경우에는 2-3에 따라 처리함.
-2-3 : 해당 시스템에 지속적으로 영향을 끼치지 않고 일시적으로 개입한 경우, 매우 낮은 기여도이며 정해진 임금을 지급함.
+- In tisirintiny on coroenterain yonya orun, conanyteruun ot tisirintitoi os toiya. isan, titoi tany, SS sataraan nyrontisi.

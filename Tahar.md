@@ -179,25 +179,25 @@
   * roncui : 고정하다, 박다 / 약속하다
     * roncicui : 다시 고정하다, 다시 박다 / 약속을 수정하다
     * ronrucui : 고정된 것을 빼내다, 뽑다 / 약속을 없애다
-  * -- sataraan -ron an ~ : -가 ~에게 -- 를 주다
+  * -- sataraan -ron an~ : -가 ~에게 -- 를 주다
   * rin : 넣다, 참여시키다
     * 접미사형 : 할 수 있다, 할 수 있는 기관이 있다 
     * 규칙1 : 내부의 것
     * 규칙2 : 영향을 주다, 개입하다
     * sarin : 신체가 자신을 내부에 두다, 내장
     * rinnee : 가두다, 격리하다, 제한하다
-    * reunya rin an ~ : ~에게 가르치다
-    * nai rin an ~ : ~에게 말하다
-    * rin an cos : 불태우다
+    * reunya rin an~ : ~에게 가르치다
+    * nai rin an~ : ~에게 말하다
+    * rin ancos : 불태우다
   * ruan : 꺼내다, 퇴출시키다
     * 접미사형 : 할 수 없다, 할 수 있는 기관이 없다, 장애
     * 규칙1 : 외부의 것
   * raan : 올려놓다
     * 접미사형 : ~할 권한/자격이 있다
     * 규칙1 : 높은 것, 위쪽의 것
-    * reunya raan an ~ : ~에 기록하다
-    * nai raan an ~ : ~에 녹음하다
-    * raan an cos : 굽다
+    * reunya raan an~ : ~에 기록하다
+    * nai raan an~ : ~에 녹음하다
+    * raan ancos : 굽다
   * ruun : 내려놓다
     * 접미사형 : ~해야 하는 상태이다
     * 규칙1 : 낮은 것, 아래쪽의 것
@@ -320,11 +320,11 @@ Isan, nytoi nasisata. tuh, in titoi nasisaya orun, nasi os sisa.
 In nasi os sisa nasitarain orun, titoi nasisataruan.
 
 1. Sata os SS('Sarin Saicanrin' os Nytoi' hisitaci) sitacirin. isan, titarainhi os cayyha un yra. in tihitaru orun, SS sisaya.
-- In nytoi sataraan nysiron an si orun, titoi sisaruun. in titoi sisaya orun, titoi hisata.
+- In nytoi sataraan nysiron ansi orun, titoi sisaruun. in titoi sisaya orun, titoi hisata.
 
-2. hisirin an nytoi, titoi sisataraan. isan, in conanyteruun eca tisirin an titoi os nyci orun, titoi sisataraan os nyci.
-- In 'nysa' un 'nytoes' tisita orun, conanyteruun eca tisirin an titoi os yon.
-- In titoi tisita orun, conanyteruun eca tisirin an titoi os yon.
-- In titoi tany (tisinonru, tisitaciru) orun, conanyteruun eca tisirin an titoi os yonya.
-- In tisirintiny on coroenterain yonya orun, conanyteruun eca tisirin an titoi os toiya. isan, titoi tany, SS sataraan nyrontisi.
+2. hisirin annytoi, titoi sisataraan. isan, in conanyteruun eca tisirin antitoi os nyci orun, titoi sisataraan os nyci.
+- In 'nysa' un 'nytoes' tisita orun, conanyteruun eca tisirin antitoi os yon.
+- In titoi tisita orun, conanyteruun eca tisirin antitoi os yon.
+- In titoi tany (tisinonru, tisitaciru) orun, conanyteruun eca tisirin antitoi os yonya.
+- In tisirintiny on coroenterain yonya orun, conanyteruun eca tisirin antitoi os toiya. isan, titoi tany, SS sataraan nyrontisi.
 ---

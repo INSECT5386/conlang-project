@@ -326,11 +326,11 @@ Nihi, sirin nisisani, siruan nitarutarin. hartatarainni tisaneeta un, harta sisa
 harta sisani sita. un, hisoos tisisatanee.
 titoes os in rencui hartata orun hi hartatarurin
 
-Nihici, soos os sataru hartarinni os cuicot rin hartataruyani.
+Nihici, soos os sataru hartarinni os cuirinsa rin hartataruyani.
 
 Tihi, harta sisa, sanee hisihar sironni os hartatarainni.
 
-tuh, sanee nisihar, 'ti hisa coscuinon' nisisataruni os soos hartarinni os cuicot rin hartataruyani.
+tuh, sanee nisihar, 'ti hisa rees coscuiren' nisisataruni os soos hartarinni os cuirinsa rin hartataruyani.
 
 costarainci un, tini tirincos.
 
@@ -341,7 +341,7 @@ tuh, hisirin sisa, tiharta sitaru un, sanee tisihar siruanni os hisataru sirinne
 tihihartayahi, sanee tisihar hartarentoi, toihuurta. un, toi hartaroncuini os hirincoshi. un, rencui hartatata.
 
 harta tisisani, tinihartarainhi,
-nitoi hisa, sarin os raancos un cuicottoor hicot.
+nitoi hisa, sarin os raancos un cuirinsatoor hirinsa.
 harta os hisey un cayyca un yra. hartasaneeruun. isan, tihihartayahi os coroenterain yon.
 Tihi, nitoirentini un, harta sisani rin soosrainrin titoitaru.
 

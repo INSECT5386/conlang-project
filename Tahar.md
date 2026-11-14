@@ -322,6 +322,7 @@
 * soossai : 비행기, 비행물체
 * coroenterain : 길이
 #### 예문
+---
 Nytoi tisisata isan, In titoi tisisaya orun, 'tisi os titoi sisa' nasireunruya.
 Isan, In titoi tisisa orun, 'tisi os titoi sisata' nasireun.
 

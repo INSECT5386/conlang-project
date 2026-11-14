@@ -331,7 +331,6 @@ Isan, nytoi nasisata. tuh, in titoi nasisaya orun, nasi os sisa.
 
 In nasi os sisa nasitarain orun, titoi nasisataruan.
 
-
 1. Sata os SS('Sarin Saicotrin' os Nytoi' hayhartataci) sitacirin. isan, titarainhay os sochuur un ta. in tihaytaru orun, SS sisaya.
 - In nytoi sataraan nysironsi orun, titoi sisaruun. in titoi sisaya orun, titoi haysata.
 

@@ -333,8 +333,7 @@ Isan, nytoi nasisata. tuh, in titoi nasisaya orun, nasi os sisa.
 
 In nasi os sisa nasitarain orun, titoi nasisataruan.
 
-
-1. 
+**Sata**
 Sata os SS sitacirin. isan, titarainhay os sochuur un ta. in tihaytaru orun, SS sisaya.
 In nytoi sataraan nysironsi orun, titoi sisaruun.
 In titoi sisaya orun, titoi haysata.

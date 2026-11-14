@@ -311,7 +311,7 @@ Isan, nitoi nasisata. tuh, in titoi nasisaya orun, nasi os sisa.
 
 In nasi os sisa nasitarain orun, titoi nasisataruan.
 
-1. Sata os SS('Sarin Saicanrin' os Nitoi hisitaci) sitacirin. isan, titarainhi os cayyha un yra. in tihitaru orun, SS sisaya.
+1. Sata os SS('Sarin Sairinsa' os Nitoi hisitaci) sitacirin. isan, titarainhi os cayyha un yra. in tihitaru orun, SS sisaya.
 - In nitoi sataraan nisironsi orun, titoi sisaruun. in titoi sisaya orun, titoi hisata.
 
 2. hisirinnitoi, titoi sisataraan. isan, in conaniteruun eca tisirintitoi os nici orun, titoi sisataraan os nici.

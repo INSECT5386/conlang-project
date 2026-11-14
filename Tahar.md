@@ -335,8 +335,7 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 
 
 1. Sata os SS sitacirin. isan, titarainhay os sochuur un ta. in tihaytaru orun, SS sisaya.
-
-2. In nytoi sataraan nysironsi orun, titoi sisaruun. in titoi sisaya orun, titoi haysata.
+- In nytoi sataraan nysironsi orun, titoi sisaruun. in titoi sisaya orun, titoi haysata.
 
 
 2. 어떤 것에 기여하는 자는 기여한 만큼의 소유권을 인정받지만, 기여의 정도는 아래와 같이 판별한다.

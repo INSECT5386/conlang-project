@@ -289,7 +289,7 @@
 * nasi : 나
 * nihoerrain : 어떤 이유
 * nisa : 어떤 방법
-* niha : 어떤 시간, 어떤 곳
+* nihi : 어떤 시간
 * rencui : 번개
 * cuirinsa : 열매
 * cuini : 목제 건물

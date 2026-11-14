@@ -315,8 +315,9 @@
 * toorrees os raancos : 진흙이 불탄 것이다. 벽돌
 * soossai : 비행기, 비행물체
 * coroenterain : 길이
-#### 예문
 ---
+**1번 예문**
+
 Nytoi tisisata isan, In titoi tisisaya orun, 'tisi os titoi sisa' nasireunruya.
 Isan, In titoi tisisa orun, 'tisi os titoi sisata' nasireun.
 
@@ -335,16 +336,3 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 - In titoi tany (tisinonru, tisitaciru) orun, conanyteruun eca tisirin ot titoi os yonya.
 - In tisirintiny on coroenterain yonya orun, conanyteruun eca tisirin ot titoi os toiya. isan, titoi tany, SS sataraan nyrontisi.
 ---
-In ti hisa soosnyraan nysisaruun on nyhartayahi orun, ti soesaruun on rin os soosnysata soeharruunhi.
-
-harta os hartaya taci nycisiharrin on tihi.
-
-In, tiny toiharta, toisaya on soeruan ot soosny orun, soeruanyaruun.
-
-In soerin ot nany orun, soerinruun ot nany on nany toiharta toisaya.
-
-In nynai har isan hi harya orun, tirinny.
-
-In nynai har os na orun, nai os yon soetaruun.
-
-yon os yonya taci nai tisihar.

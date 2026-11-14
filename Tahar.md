@@ -353,7 +353,7 @@ In, tiny toiharta, toisaya on soeruan ot soosny orun, soeruanyaruun.
 
 In soerin ot nany orun, soerinruun ot nany on nany toiharta toisaya.
 
-In nynai har isan hay harya orun, tirinny.
+In nynai har isan hi harya orun, tirinny.
 
 In nynai har os na orun, nai os yon soetaruun.
 

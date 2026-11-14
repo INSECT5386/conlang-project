@@ -50,8 +50,8 @@
 * O SVhi
 * * S가 O를 V하는 시간, 장소
   * S가 hi에/에서 O를 V하다
-* O SV(-aa-, -uu-, -ua-, -i-, -e-, -oe-, -ai-)
-* * S가 ()에/에서 O를 V하다
+* O SV(-aa-, -uu-, -ua-, -i-, -e-, -oe-, -ai-)~
+* * S가 ()에 O를 V하다
 * **상황 정정**
 * 품사 구분 없나? -> 없다.
 * 내부 접사는 모음 교체인가? -> 그렇다
@@ -91,7 +91,6 @@
 | 전치사 | eca | 에 대하여, 에 대한 |
 | | co | ~에서, ~에서부터 |
 | | te | ~까지 (도착) |
-| | an | ~에 |
 | | on | ~동안 |
 | 접속사, 접속 부사 | un | 그리고, 추가적으로 |
 | | isan | 그러나, 하지만 |
@@ -179,25 +178,26 @@
   * roncui : 고정하다, 박다 / 약속하다
     * roncicui : 다시 고정하다, 다시 박다 / 약속을 수정하다
     * ronrucui : 고정된 것을 빼내다, 뽑다 / 약속을 없애다
-  * -- sataraan -ron an~ : -가 ~에게 -- 를 주다
+  * -- sataraan -ron~ : -가 ~에게 -- 를 주다
   * rin : 넣다, 참여시키다
     * 접미사형 : 할 수 있다, 할 수 있는 기관이 있다 
     * 규칙1 : 내부의 것
     * 규칙2 : 영향을 주다, 개입하다
     * sarin : 신체가 자신을 내부에 두다, 내장
     * rinnee : 가두다, 격리하다, 제한하다
-    * reunya rin an~ : ~에게 가르치다
-    * nai rin an~ : ~에게 말하다
-    * rin ancos : 불태우다
+    * reunya rin~ : ~에게 가르치다
+    * nai rin~ : ~에게 말하다
+    * rincos : 불태우다
+    * rinsa : 먹다
   * ruan : 꺼내다, 퇴출시키다
     * 접미사형 : 할 수 없다, 할 수 있는 기관이 없다, 장애
     * 규칙1 : 외부의 것
   * raan : 올려놓다
     * 접미사형 : ~할 권한/자격이 있다
     * 규칙1 : 높은 것, 위쪽의 것
-    * reunya raan an~ : ~에 기록하다
-    * nai raan an~ : ~에 녹음하다
-    * raan ancos : 굽다
+    * reunya raan~ : ~에 기록하다
+    * nai raan~ : ~에 녹음하다
+    * raancos : 굽다
   * ruun : 내려놓다
     * 접미사형 : ~해야 하는 상태이다
     * 규칙1 : 낮은 것, 아래쪽의 것
@@ -320,11 +320,11 @@ Isan, nitoi nasisata. tuh, in titoi nasisaya orun, nasi os sisa.
 In nasi os sisa nasitarain orun, titoi nasisataruan.
 
 1. Sata os SS('Sarin Saicanrin' os Nitoi' hisitaci) sitacirin. isan, titarainhi os cayyha un yra. in tihitaru orun, SS sisaya.
-- In nitoi sataraan nisiron ansi orun, titoi sisaruun. in titoi sisaya orun, titoi hisata.
+- In nitoi sataraan nisironsi orun, titoi sisaruun. in titoi sisaya orun, titoi hisata.
 
-2. hisirin annitoi, titoi sisataraan. isan, in conaniteruun eca tisirin antitoi os nici orun, titoi sisataraan os nici.
-- In 'nisa' un 'nitoes' tisita orun, conaniteruun eca tisirin antitoi os yon.
-- In titoi tisita orun, conaniteruun eca tisirin antitoi os yon.
-- In titoi tani (tisinonru, tisitaciru) orun, conaniteruun eca tisirin antitoi os yonya.
-- In tisirintini on coroenterain yonya orun, conaniteruun eca tisirin antitoi os toiya. isan, titoi tani, SS sataraan nirontisi.
+2. hisirinnitoi, titoi sisataraan. isan, in conaniteruun eca tisirintitoi os nici orun, titoi sisataraan os nici.
+- In 'nisa' un 'nitoes' tisita orun, conaniteruun eca tisirintitoi os yon.
+- In titoi tisita orun, conaniteruun eca tisirintitoi os yon.
+- In titoi tani (tisinonru, tisitaciru) orun, conaniteruun eca tisirintitoi os yonya.
+- In tisirintini on coroenterain yonya orun, conaniteruun eca tisirintitoi os toiya. isan, titoi tani, SS sataraan nirontisi.
 ---

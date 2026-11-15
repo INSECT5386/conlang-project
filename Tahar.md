@@ -297,7 +297,7 @@
 * cuirinsa : 열매
 * cuini : 목제 건물
 * reesni : 흙집
-* toi os rin : 가구, 실내 사물
+* toirin : 무언가가 안에 있다, 가구, 실내 사물
 * toorrees : 진흙
 * soossai : 비행기, 비행물체
 * coroenterain : 길이

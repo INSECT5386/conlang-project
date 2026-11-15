@@ -246,6 +246,7 @@
     * huurrain : 열등감을 느끼다
     * hoerrain : 열정적이다, 흥미롭다
       * 접미사형 : ~하고 싶다
+      * reunruhoerrain : 궁금해하다
     * hairrain : 지루하다, 무기력하다
       * 접미사형 : ~하기 싫다
     * heurrain : 외롭다
@@ -254,12 +255,11 @@
     * sataya harrain : 불만족하다
     * satanee harrain : 박탈감을 느끼다
     * sataci harrain : 안도하다
-    * hi nitaru harrain : 무서워하다
+    * hi nitaru, ti harrain : 무서워하다
     * harrainru : 냉정하다
     * harrainya : 무감각하다
     * harrainci : 회상하다
     * taruta harrain : 트라우마가 있다
-    * ni reunru harrain : 궁금해하다
   * harni : 보는 건물
   * yonya toihar : 사물이 작은 것을 보다, 현미경
   * ni os ti toihar : 사물이 어떤 것을 본다 어떤 것은 멀다, 망원경

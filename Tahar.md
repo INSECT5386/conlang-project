@@ -258,7 +258,7 @@
     * heurrain : 외롭다
     * -rin- -harrain : 충족감을 느끼다, 만족감을 느끼다
     * niruan- -harrain : 상실감을 느끼다
-    * sataya harrain : 불만족하다
+    * -rinya- -harrain : 불만족하다
     * niruan- -harrain : 박탈감을 느끼다
     * -rinci- -harrain : 안도하다
     * hi nitaru, ti harrain : 무서워하다
@@ -317,27 +317,27 @@ Yonya toihar on nitoi titoiharta. titoi nasisa. tihoerrain os nisitarainsi. tiri
 ---
 **2번 예문**
 
-Nitoi tisisata isan, In titoi tisisaya orun, 'titoi tisisa' nasireunruya.
-Isan, In titoi tisisa orun, 'titoi sisata' nasireunru.
+Nitoi tisirintisi isan, In titoi tisisaya orun, 'titoi tisisa' nasireunruya.
+Isan, In titoi tisisa orun, 'titoi sirintisi' nasireunru.
 
-In nitoi nasisata orun titoi nasisaruun.
+In nitoi nasirinnasi orun titoi nasisaruun.
 
-Isan, nitoi nasisata. tuh, in titoi nasisaya orun, titoi nasisataya.
+Isan, nitoi nasirinnasi. tuh, in titoi nasisaya orun, titoi nasirinyanasi.
 
-In titoi nasisataya. ti nasitarain orun, titoi nasisataruan.
+In titoi nasirinyanasi. ti nasitarain orun, titoi nasirinruannasi.
 
 1. Sata os SSS('Sarin. Sa Sairinsa' os Nitoi hisitaci) sitacirin. isan, titarainhi os cayyha un yra. in tihitaru orun, SSS sisaya.
-- In nitoi sataraan nisironsi orun, titoi tisisaruun. in titoi tisisaya orun, titoi hisata.
+- In nitoi nisirinsi orun, titoi tisisaruun. in titoi tisisaya orun, titoi hirinhi.
 
-2. hisirinnitoi, titoi sisataraan. isan, in conaniteruun eca tisirintitoi os nici orun, titoi sisataraan os nici.
+2. hisirinnitoi, titoi sirinsiraan. isan, in conaniteruun eca tisirintitoi os nici orun, titoi sirinsiraan os nici.
 - In 'nisa' un 'nihoerrain' ti tisita orun, conaniteruun eca tisirintitoi os yon.
 - In titoi tisita orun, conaniteruun eca tisirintitoi os yon.
 - In titoi tani (toor tisiren, tisitaciru) orun, conaniteruun eca tisirintitoi os yonya.
-- In tisirintini on coroenterain yonya orun, conaniteruun eca tisirintitoi os toiya. isan, titoi tani, SSS sataraan nirontisi.
+- In tisirintini on coroenterain yonya orun, conaniteruun eca tisirintitoi os toiya. isan, titoi tani, SSS nirintisi.
 ---
 **3번 예문**
 
-Nihi, sirin. tisi nisisani. siruan. tisi tinitarutarin. hartatarainni. tini tisaneeta un, harta sisaraan. tisi titaru. tihoerrain os tini tisisatahoerrain.
+Nihi, sirin. tisi nisisani. siruan. tisi tinitarutarin. hartatarainni. tini tisaneeta un, harta sisaraan. tisi titaru. tihoerrain os tini tisirinhoerraintisi.
 
 어느날, 어떤 지성체들이 내부자들을 지배하는 장소, 그 장소가 외부인들을 공격하는 기관이 있다. 하르타들이 사는 곳을 그것들이 침략했고, 그들은 하르타들을 지배할 자격이 있는 자들을 죽였다. 그 이유는 그들이 그 곳을 가지고 싶기 때문이었다.
 
@@ -354,7 +354,7 @@ Tihi, harta tisisa. sanee hisihar. hisi tisironni os hartatarainni.
 다른날, 하르타들이 버려진 금속을 숨긴 곳은 그들이 과일을 모으는 곳이었다.
 그 때, 하르타들을 지배하는 자, 노예를 감시하는 모든 자들을 그자가 보낸 곳은 하르타들이 사는 곳이었다.
 
-tuh, sanee nisihar. ti hisa rees coscuirenhi. ticoscui nisisataruni os soos hartarinni os cuirinsa rin hartataruyani.
+tuh, sanee nisihar. ti hisa rees coscuirenhi. ticoscui nisiruannisini os soos hartarinni os cuirinsa rin hartataruyani.
 costarainci un, tini tirincos.
 
 그런데, 어떤 노예 감시자, 불나무가 그것을 사용하는 모든 것에게 흙을 던진다(오염시킨다). 그 불나무를 그가 버린 곳은 하르타들이 금속을 숨긴 곳인 그들이 과일을 모으는 곳이었다. 불이 다시 살아났고, 그것이 그 건물을 불태웠다.

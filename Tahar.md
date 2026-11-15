@@ -327,6 +327,7 @@ In nasi os sisa nasitarain orun, titoi nasisataruan.
 - In tisirintini on coroenterain yonya orun, conaniteruun eca tisirintitoi os toiya. isan, titoi tani, SS sataraan nirontisi.
 ---
 **2번 예문**
+
 Nihi, sirin nisisani, siruan tinitarutarin. hartatarainni tisaneeta un, harta sisaraan titaru. tihoerrain os nani tisisatahoerrain.
 
 어느날, 어떤 지성체들이 내부자들을 지배하는 장소, 그 장소가 외부인들을 공격하는 기관이 있다. 하르타들이 사는 곳을 그것들이 침략했고, 그들은 하르타들을 지배할 자격이 있는 자들을 죽였다. 그 이유는 그들이 그 곳을 가지고 싶기 때문이었다.

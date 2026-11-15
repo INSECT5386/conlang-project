@@ -257,9 +257,8 @@
       * 접미사형 : ~하기 싫다
     * heurrain : 외롭다
     * -rin- -harrain : 충족감을 느끼다, 만족감을 느끼다
-    * niruan- -harrain : 상실감을 느끼다
+    * niruan- -harrain : 상실감을 느끼다, 박탈감을 느끼다
     * -rinya- -harrain : 불만족하다
-    * niruan- -harrain : 박탈감을 느끼다
     * -rinci- -harrain : 안도하다
     * hi nitaru, ti harrain : 무서워하다
     * harrainru : 냉정하다

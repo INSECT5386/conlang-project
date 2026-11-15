@@ -299,7 +299,6 @@
 * reesni : 흙집
 * toi os rin : 가구, 실내 사물
 * toorrees : 진흙
-* toorrees os raancos : 진흙이 불탄 것이다. 벽돌
 * soossai : 비행기, 비행물체
 * coroenterain : 길이
 ---

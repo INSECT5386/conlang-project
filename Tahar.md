@@ -317,7 +317,7 @@ In titoi nasinasisataya. ti nasitarain orun, titoi nasisataruan.
 - In nitoi sataraan nisironsi orun, titoi tisisaruun. in titoi tisisaya orun, titoi hisata.
 
 2. hisirinnitoi, titoi sisataraan. isan, in conaniteruun eca tisirintitoi os nici orun, titoi sisataraan os nici.
-- In 'nisa' un 'nihoerrain' tisita orun, conaniteruun eca tisirintitoi os yon.
+- In 'nisa' un 'nihoerrain' ti tisita orun, conaniteruun eca tisirintitoi os yon.
 - In titoi tisita orun, conaniteruun eca tisirintitoi os yon.
 - In titoi tani (toor tisiren, tisitaciru) orun, conaniteruun eca tisirintitoi os yonya.
 - In tisirintini on coroenterain yonya orun, conaniteruun eca tisirintitoi os toiya. isan, titoi tani, SSS sataraan nirontisi.

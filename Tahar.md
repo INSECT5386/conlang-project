@@ -136,12 +136,6 @@
   * 규칙2 : 노동하다, 일하다
   * sani : 운영하는 건물
   * sahi : 운영하는 시간
-  * sata : 잡다, 쥐다, 가지다
-    * sataru : 버리다, 놓다
-      * 규칙1 : 쓰레기
-      * 규칙2 : 범죄를 저지르다
-    * sataci : 되찾다, 회수하다
-    * satanee : 훔치다, 빼앗다, 납치하다
   * sanee : (노예, 식민지로) 만들다, 착취하다
     * saneeta : (권리, 권력을) 빼앗으려하다, 침략하다
 * **soc**: 꺾다, 부러뜨리다, 접다, 이기다
@@ -160,11 +154,14 @@
   * roncui : 고정하다, 박다, 매달다 / 약속하다
     * roncicui : 다시 고정하다, 다시 박다 / 약속을 수정하다
     * ronrucui : 고정된 것을 빼내다, 뽑다 / 약속을 없애다
-  * -- sataraan -ron~ : -가 ~에게 -- 를 주다
   * rin : 넣다, 참여시키다, ~에 합치다
+    * 조건-1, 만약 ~가 어떤 존재라면 : 주다
+    * 조건-2, 만약 주어와 ~가 같다면 : 잡다, 쥐다, 가지다
     * 접미사형 : 할 수 있다, 할 수 있는 기관이 있다 
     * 규칙1 : 내부의 것
     * 규칙2 : 영향을 주다, 개입하다
+    * rinci : 다시 넣다, 재참여시키다
+      * 조건2(되찾다, 회수하다)
     * sarin : 신체가 자신을 내부에 두다, 내장
     * rinnee : 가두다, 격리하다, 제한하다
     * reunya rin~ : ~에게 가르치다
@@ -184,6 +181,10 @@
     * 조건-4, 만약 주어가 외부자이고 목적어가 내부자이라면 : 주어가 내분을 일으키다
     * 조건-5, 만약 목적어와 주어가 사회적으로 같은 계층이지만 주어가 약간 우세하다면 : 주어가 무시하다, 따돌리다 (Haar 와 달리 수평적인 관계의 문제)
     * 조건-6, 만약 목적어와 주어가 사회적으로 같은 계층이지만 주어가 약간 열세하다면 : 주어가 반발하다, 욕하다
+    * 조건-7, 만약 ~가 어떤 존재라면 : 빼앗다, 훔치다
+    * 조건-8, 만약 주어와 ~가 같다면 : 버리다
+      * 규칙1 : 쓰레기
+      * 규칙2 : 범죄를 저지르다
     * 접미사형 : 할 수 없다, 할 수 있는 기관이 없다, 장애
     * 규칙1 : 외부의 것
     * ruanta : 자르다, 끊다
@@ -255,11 +256,11 @@
     * hairrain : 지루하다, 무기력하다
       * 접미사형 : ~하기 싫다
     * heurrain : 외롭다
-    * sata harrain : 충족감을 느끼다, 만족감을 느끼다
-    * sataru harrain : 상실감을 느끼다
+    * -rin- -harrain : 충족감을 느끼다, 만족감을 느끼다
+    * niruan- -harrain : 상실감을 느끼다
     * sataya harrain : 불만족하다
-    * satanee harrain : 박탈감을 느끼다
-    * sataci harrain : 안도하다
+    * niruan- -harrain : 박탈감을 느끼다
+    * -rinci- -harrain : 안도하다
     * hi nitaru, ti harrain : 무서워하다
     * harrainru : 냉정하다
     * harrainya : 무감각하다
@@ -341,13 +342,13 @@ Nihi, sirin. tisi nisisani. siruan. tisi tinitarutarin. hartatarainni. tini tisa
 어느날, 어떤 지성체들이 내부자들을 지배하는 장소, 그 장소가 외부인들을 공격하는 기관이 있다. 하르타들이 사는 곳을 그것들이 침략했고, 그들은 하르타들을 지배할 자격이 있는 자들을 죽였다. 그 이유는 그들이 그 곳을 가지고 싶기 때문이었다.
 
 "Hitoi hinasisaraan!" ti nai tisirinharta.
-harta tisisani. tini tisita. un, hisoos tisisatanee.
+harta tisisani. tini tisita. un, hisoos tisiruanharta.
 tihoerrain os in rencui hartata orun hitoi hartatarurin.
 
 "모든 나(우리)는 모든 것을 지배할 자격이 있다!" 그들이 하르타들에게 말했다.
 그들은 그들이 하르타들을 지배하는 곳을 만들었고, 그들은 모든 금속을 빼앗았다. 그 이유는 만약 하르타들이 '번개'를 만든다면, 하르타들이 모든 것을 없앨 수 있기 때문이다.
 
-Nihici, soos nisisataru. tisoos hartarinni os cuirinsa rin hartataruyani.
+Nihici, soos nisiruannisi. tisoos hartarinni os cuirinsa rin hartataruyani.
 Tihi, harta tisisa. sanee hisihar. hisi tisironni os hartatarainni.
 
 다른날, 하르타들이 버려진 금속을 숨긴 곳은 그들이 과일을 모으는 곳이었다.
@@ -358,8 +359,8 @@ costarainci un, tini tirincos.
 
 그런데, 어떤 노예 감시자, 불나무가 그것을 사용하는 모든 것에게 흙을 던진다(오염시킨다). 그 불나무를 그가 버린 곳은 하르타들이 금속을 숨긴 곳인 그들이 과일을 모으는 곳이었다. 불이 다시 살아났고, 그것이 그 건물을 불태웠다.
 
-sanee tisihar. tisi nihartarinnee. tihoerrain os tisisataru eca cos.
-tuh, hisirin sisa. tiharta sitaru un, sanee tisihar. tisi siruanni os hisataru. hisi sirinneeni.
+sanee tisihar. tisi nihartarinnee. tihoerrain os tisiruantisi eca cos.
+tuh, hisirin sisa. tiharta sitaru un, sanee tisihar. tisi siruanni os hiruanhi. hisi sirinneeni.
 
 어떤 하르타들이 그 노예 감시자를 가두었다. 그 이유는 그 자가 불에 대하여 범죄를 저질렀기 때문이었다. 그런데, 모든 내부인들을 지배하는 자, 그 자가 그 하르타들을 죽였고, 그가 그 노예 감시자를 풀어준 곳은 모든 범죄자들을 지성체들이 가두는 곳이었다. 
 

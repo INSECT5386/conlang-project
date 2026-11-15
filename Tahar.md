@@ -304,23 +304,23 @@
 ---
 **1번 예문**
 
-Nitoi tisisata isan, In titoi tisisaya orun, 'tisi os titoi sisa' nasireunruya.
-Isan, In titoi tisisa orun, 'tisi os titoi sisata' nasireunru.
+Nitoi tisisata isan, In titoi tisisaya orun, 'titoi tisisa' nasireunruya.
+Isan, In titoi tisisa orun, 'titoi sisata' nasireunru.
 
-In nitoi nasisata orun titoi nasisaruun. un nasi os titoi sisata.
+In nitoi nasisata orun titoi nasisaruun.
 
-Isan, nitoi nasisata. tuh, in titoi nasisaya orun, nasi os sisa.
+Isan, nitoi nasisata. tuh, in titoi nasisaya orun, titoi nasisataya.
 
-In nasi os sisa nasitarain orun, titoi nasisataruan.
+In titoi nasinasisataya. ti nasitarain orun, titoi nasisataruan.
 
-1. Sata os SS('Sarin Sairinsa' os Nitoi hisitaci) sitacirin. isan, titarainhi os cayyha un yra. in tihitaru orun, SS sisaya.
-- In nitoi sataraan nisironsi orun, titoi sisaruun. in titoi sisaya orun, titoi hisata.
+1. Sata os SSS('Sarin. Sa Sairinsa' os Nitoi hisitaci) sitacirin. isan, titarainhi os cayyha un yra. in tihitaru orun, SSS sisaya.
+- In nitoi sataraan nisironsi orun, titoi tisisaruun. in titoi tisisaya orun, titoi hisata.
 
 2. hisirinnitoi, titoi sisataraan. isan, in conaniteruun eca tisirintitoi os nici orun, titoi sisataraan os nici.
 - In 'nisa' un 'nihoerrain' tisita orun, conaniteruun eca tisirintitoi os yon.
 - In titoi tisita orun, conaniteruun eca tisirintitoi os yon.
 - In titoi tani (toor tisiren, tisitaciru) orun, conaniteruun eca tisirintitoi os yonya.
-- In tisirintini on coroenterain yonya orun, conaniteruun eca tisirintitoi os toiya. isan, titoi tani, SS sataraan nirontisi.
+- In tisirintini on coroenterain yonya orun, conaniteruun eca tisirintitoi os toiya. isan, titoi tani, SSS sataraan nirontisi.
 ---
 **2번 예문**
 

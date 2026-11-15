@@ -37,7 +37,7 @@
 * **1번 활용, 'os'**
 1. 'A' os 'B' : A는 B이다
 * 1. tihoerrain os ~ : 그 이유는 ~이다
-* 2. tisa os ~ : 그 방법은 ~이다, ~처럼
+* 2. tiraanrinrain os ~ : 그 방법은 ~이다, ~처럼
 * **2번 활용**
 1. 문장 요소 받아오기.
 * 1. arii nasitaruta, tiarii sairinsa. : 내가 공격한 물고기를 새가 먹었다.
@@ -87,6 +87,7 @@
 | | toi | 무언가 |
 | | si | 적응체 또는 지성체 |
 | | soe | 너 |
+| | sa | 신체 |
 | 접미사 | -nee | 몰래, 강제로 |
 | | -ci | 다시 |
 | | -ya | 을 하지 않다 |
@@ -131,19 +132,6 @@
         * rin taruya : 모으다, 누적시키다
         * rin taruyani : 모으는 건물, 보관하는 건물
         * rin taruyahi : 사냥하는/채집하는 시간
-* **sa**: 휘두르다, 흔들다, 지배하다, 사용하다, 노동시키다
-  * 규칙1 : 신체
-  * 규칙2 : 노동하다, 일하다
-  * sani : 운영하는 건물
-  * sahi : 운영하는 시간
-  * sata : 잡다, 쥐다, 가지다
-    * sataru : 버리다, 놓다
-      * 규칙1 : 쓰레기
-      * 규칙2 : 범죄를 저지르다
-    * sataci : 되찾다, 회수하다
-    * satanee : 훔치다, 빼앗다, 납치하다
-  * sanee : (노예, 식민지로) 만들다, 착취하다
-    * saneeta : (권리, 권력을) 빼앗으려하다, 침략하다
 * **soc**: 꺾다, 부러뜨리다, 접다, 이기다
   * 규칙1 : 꺾인 것, 부러진 것
   * socta : 구부리다, 도전하다
@@ -160,8 +148,9 @@
   * roncui : 고정하다, 박다, 매달다 / 약속하다
     * roncicui : 다시 고정하다, 다시 박다 / 약속을 수정하다
     * ronrucui : 고정된 것을 빼내다, 뽑다 / 약속을 없애다
-  * -- sataraan -ron~ : -가 ~에게 -- 를 주다
+  * -- ~rin~raan -ron~ : -가 ~에게 -- 를 주다
   * rin : 넣다, 참여시키다, ~에 합치다
+    * 조건, 만약 ~가 'si'이라면 : 잡다, 쥐다, 가지다
     * 접미사형 : 할 수 있다, 할 수 있는 기관이 있다 
     * 규칙1 : 내부의 것
     * 규칙2 : 영향을 주다, 개입하다
@@ -177,6 +166,8 @@
       * rio rinsa : 숨 쉬다
       * ruan rinsa : 핥다
     * rinta : 묶다, 꿰매다, 붙이다
+    * rinci : 다시 넣다, 재참여시키다
+      * 조건(되찾다, 회수하다)
   * ruan : 꺼내다, 퇴출시키다, ~으로부터 분리하다
     * 조건-1, 만약 목적어가 주어보다 높은 사회적 지위와 관련있다면 : 주어가 반란을 일으키다
     * 조건-2, 만약 목적어가 주어보다 낮은 사회적 지위와 관련있다면 : 주어가 탄압하다
@@ -184,6 +175,10 @@
     * 조건-4, 만약 주어가 외부자이고 목적어가 내부자이라면 : 주어가 내분을 일으키다
     * 조건-5, 만약 목적어와 주어가 사회적으로 같은 계층이지만 주어가 약간 우세하다면 : 주어가 무시하다, 따돌리다 (Haar 와 달리 수평적인 관계의 문제)
     * 조건-6, 만약 목적어와 주어가 사회적으로 같은 계층이지만 주어가 약간 열세하다면 : 주어가 반발하다, 욕하다
+    * 조건-7, 만약 ~가 'si'이라면 : 빼앗다, 훔치다
+    * 조건-8, 만약 주어와 ~가 같다면 : 버리다, 폐기하다
+      * 규칙1 : 쓰레기
+      * 규칙2 : 범죄를 저지르다
     * 접미사형 : 할 수 없다, 할 수 있는 기관이 없다, 장애
     * 규칙1 : 외부의 것
     * ruanta : 자르다, 끊다
@@ -191,6 +186,13 @@
   * raan : 올려놓다
     * 접미사형 : ~할 권한/자격이 있다
     * 규칙1 : 높은 것, 위쪽의 것
+    * raanrin : 집권시키다, 리더로 만들다, 내부의 위에 배치하다
+      * raanrinrain : 지배하다, 사용하다, 노동시키다
+        * 규칙2 : 노동하다, 일하다
+        * raanrinrainni : 운영하는 곳, 지배하는 곳
+        * raanrinrainhi : 운영하는 시간, 지배하는 시간
+        * raanrinrainnee : (노예, 식민지로) 만들다, 착취하다
+        * raanrinrainneeta : (권리, 권력을) 빼앗으려하다, 침략하다
     * reunya raan~ : ~에 기록하다
     * nai raan~ : ~에 녹음하다
     * raancos : 굽다
@@ -255,11 +257,11 @@
     * hairrain : 지루하다, 무기력하다
       * 접미사형 : ~하기 싫다
     * heurrain : 외롭다
-    * sata harrain : 충족감을 느끼다, 만족감을 느끼다
-    * sataru harrain : 상실감을 느끼다
-    * sataya harrain : 불만족하다
-    * satanee harrain : 박탈감을 느끼다
-    * sataci harrain : 안도하다
+    * -rin- -harrain : 충족감을 느끼다, 만족감을 느끼다
+    * niruan-. ti -harrain : 상실감을 느끼다
+    * -rinya- -harrain : 불만족하다
+    * niruan- -harrain : 박탈감을 느끼다
+    * -rinci- -harrain : 안도하다
     * hi nitaru, ti harrain : 무서워하다
     * harrainru : 냉정하다
     * harrainya : 무감각하다
@@ -296,7 +298,7 @@
 * nici : 다시 어떤 것, 다른 것
 * nasi : 나
 * nihoerrain : 어떤 이유
-* nisa : 어떤 방법
+* niraanrinrain : 어떤 방법
 * nihi : 어떤 시간
 * rencui : 번개
 * cuirinsa : 열매
@@ -309,73 +311,53 @@
 ---
 **1번 예문**
 
-Yonya toihar on nitoi titoiharta. titoi nasisa. tihoerrain os nisitarainsi. tirintoor. hisi titarurin. ti nasiharruun.
+Yonya toihar on nitoi titoiharta. titoi nasiraanrinrain. tihoerrain os nisitarainsi. tirintoor. hisi titarurin. ti nasiharruun.
 
 사물이 작은 것을 본다. 그 사물이 어떤 것을 비추는 동안. 내가 그 사물을 사용한다. 그 이유는 어떤 적응체가 [지성체 또는 적응체]에서 산다. 그것이 물에 들어있다. 그것은 모든 [지성체 또는 적응체]를 죽일 수 있다. 나는 그것을 보아야한다.
 
 ---
 **2번 예문**
 
-Nitoi tisisata isan, In titoi tisisaya orun, 'titoi tisisa' nasireunruya.
-Isan, In titoi tisisa orun, 'titoi sisata' nasireunru.
-
-In nitoi nasisata orun titoi nasisaruun.
-
-Isan, nitoi nasisata. tuh, in titoi nasisaya orun, titoi nasisataya.
-
-In titoi nasisataya. ti nasitarain orun, titoi nasisataruan.
-
-1. Sata os SSS('Sarin. Sa Sairinsa' os Nitoi hisitaci) sitacirin. isan, titarainhi os cayyha un yra. in tihitaru orun, SSS sisaya.
-- In nitoi sataraan nisironsi orun, titoi tisisaruun. in titoi tisisaya orun, titoi hisata.
-
-2. hisirinnitoi, titoi sisataraan. isan, in conaniteruun eca tisirintitoi os nici orun, titoi sisataraan os nici.
-- In 'nisa' un 'nihoerrain' ti tisita orun, conaniteruun eca tisirintitoi os yon.
-- In titoi tisita orun, conaniteruun eca tisirintitoi os yon.
-- In titoi tani (toor tisiren, tisitaciru) orun, conaniteruun eca tisirintitoi os yonya.
-- In tisirintini on coroenterain yonya orun, conaniteruun eca tisirintitoi os toiya. isan, titoi tani, SSS sataraan nirontisi.
----
-**3번 예문**
-
-Nihi, sirin. tisi nisisani. siruan. tisi tinitarutarin. hartatarainni. tini tisaneeta un, harta sisaraan. tisi titaru. tihoerrain os tini tisisatahoerrain.
+Nihi, sirin. tisi nisiraanrinrainni. siruan. tisi tinitarutarin. hartatarainni. tini tiraanrinrainneeta un, harta siraanrinrainraan. tisi titaru. tihoerrain os tini tisirintisihoerrain.
 
 어느날, 어떤 지성체들이 내부자들을 지배하는 장소, 그 장소가 외부인들을 공격하는 기관이 있다. 하르타들이 사는 곳을 그것들이 침략했고, 그들은 하르타들을 지배할 자격이 있는 자들을 죽였다. 그 이유는 그들이 그 곳을 가지고 싶기 때문이었다.
 
-"Hitoi hinasisaraan!" ti nai tisirinharta.
-harta tisisani. tini tisita. un, hisoos tisisatanee.
+"Hitoi hinasiraanrinrainraan!" ti nai tisirinharta.
+harta tisiraanrinrainni. tini tisita. un, hisoos tisiruanharta.
 tihoerrain os in rencui hartata orun hitoi hartatarurin.
 
 "모든 나(우리)는 모든 것을 지배할 자격이 있다!" 그들이 하르타들에게 말했다.
 그들은 그들이 하르타들을 지배하는 곳을 만들었고, 그들은 모든 금속을 빼앗았다. 그 이유는 만약 하르타들이 '번개'를 만든다면, 하르타들이 모든 것을 없앨 수 있기 때문이다.
 
-Nihici, soos nisisataru. tisoos hartarinni os cuirinsa rin hartataruyani.
-Tihi, harta tisisa. sanee hisihar. hisi tisironni os hartatarainni.
+Nihici, soos nisiruannisi. tisoos hartarinni os cuirinsa rin hartataruyani.
+Tihi, harta tisiraanrinrain. raanrinrainnee hisihar. hisi tisironni os hartatarainni.
 
 다른날, 하르타들이 버려진 금속을 숨긴 곳은 그들이 과일을 모으는 곳이었다.
 그 때, 하르타들을 지배하는 자, 노예를 감시하는 모든 자들을 그자가 보낸 곳은 하르타들이 사는 곳이었다.
 
-tuh, sanee nisihar. ti hisa rees coscuirenhi. ticoscui nisisataruni os soos hartarinni os cuirinsa rin hartataruyani.
+tuh, raanrinrainnee nisihar. ti hiraanrinrain rees coscuirenhi. ticoscui nisiruanni os soos hartarinni os cuirinsa rin hartataruyani.
 costarainci un, tini tirincos.
 
 그런데, 어떤 노예 감시자, 불나무가 그것을 사용하는 모든 것에게 흙을 던진다(오염시킨다). 그 불나무를 그가 버린 곳은 하르타들이 금속을 숨긴 곳인 그들이 과일을 모으는 곳이었다. 불이 다시 살아났고, 그것이 그 건물을 불태웠다.
 
-sanee tisihar. tisi nihartarinnee. tihoerrain os tisisataru eca cos.
-tuh, hisirin sisa. tiharta sitaru un, sanee tisihar. tisi siruanni os hisataru. hisi sirinneeni.
+raanrinrainnee tisihar. tisi nihartarinnee. tihoerrain os tisiruantisi eca cos.
+tuh, hisirin siraanrinrain. tiharta sitaru un, raanrinrainnee tisihar. tisi siruanni os hiruanhi. hisi sirinneeni.
 
 어떤 하르타들이 그 노예 감시자를 가두었다. 그 이유는 그 자가 불에 대하여 범죄를 저질렀기 때문이었다. 그런데, 모든 내부인들을 지배하는 자, 그 자가 그 하르타들을 죽였고, 그가 그 노예 감시자를 풀어준 곳은 모든 범죄자들을 지성체들이 가두는 곳이었다. 
 
-tihihartayahi, sanee tisihar. tisi hartaroncuitoi. titoihuurta. un, toi hartaroncuini os hirincoshi. un, rencui hartatata.
+tihihartayahi, raanrinrainnee tisihar. tisi hartaroncuitoi. titoihuurta. un, toi hartaroncuini os hirincoshi. un, rencui hartatata.
 
 그 시간이 자신을 비추지 않는 때, 그 노예 감시자를 무언가에 박았다, 그 무언가는 기둥이다. 그리고, 하르타들이 그것을 박은 곳은 모든 것이 자신을 불태우는 곳이었다. 그리고, 하르타들은 번개를 만들려고 시도했다.
 
-harta tisisani, tinihartarainhi,
-nitoi hisa. sarin. sa niraancos un, cuirinsatoor. tihi tirinsa.
-harta os hisey un cayyca un yra. hartasaneeruun. isan, tihihartayahi os coroenterain yon.
-Tihi, nitoirentini un, harta sisani. tini rin soosrainrin. tisoos titoitaru.
+harta tisiraanrinrainni, tinihartarainhi,
+nitoi hiraanrinrain. sarin. sa niraancos un, cuirinsatoor. tihi tirinsa.
+harta os hisey un cayyca un yra. hartaraanrinrainneeruun. isan, tihihartayahi os coroenterain yon.
+Tihi, nitoirentini un, harta siraanrinrainni. tini rin soosrainrin. tisoos titoitaru.
 
 그 자들이 하르타들을 지배하는 건물, 그 건물이 자신을 비춘 잔상이 남은 시간,
 어떤 것을 지배하는 모든 것들, 내장이 구워진 것 그리고 과일즙을 모든 것들이 그것들이 먹었다. 하르타는 751명이었다. 하르타들은 자신들을 강제로 노동시켜야했다. 하지만, 그 때의 밤은 앞부터 뒤까지가 큰 것이었다(길었다). 그 때, 어떤 것이 그 곳에 날았다(그곳을 향해 날았다) 그리고, 하르타들을 지성체들이 지배하는 건물의 금속으로 이루어진 가죽(철장갑)을 그것이 없앴다.
 
 'Rencuirennani!' ti nai nisirinhisi.
-toi sitaruta. nitoi hisa. tihi tisirainta. isan, rencuirencitini.
+toi sitaruta. nitoi hiraanrinrain. tihi tisirainta. isan, rencuirencitini.
 '번개가 이곳에 난다!(번개가 이곳을 향해 날아온다!)' 어떤 자가 모두에게 말했다.
 무언가를 공격하는 자, 어떤 것을 지배하는 모든 자들을 그들이 보호하려 시도했다. 하지만, 번개가 그곳을 향해 다시 날았다.

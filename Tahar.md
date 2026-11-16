@@ -113,7 +113,7 @@
       * 규칙2 : 거주하는 건물
     * tarainhi : 살리는/지속시키는 시간
       * 규칙2 : ~의 수명
-    * tarainci : 환생시키다, 수정하다, 대체하다, 변환하다
+    * tarainruru : 환생시키다, 수정하다, 대체하다, 변환하다
       * A os B : A를 B로 수정하다, 대체하다, 변환하다
   * taru : 끝내다, 없애다, ~에서 죽게 하다
     * 조건, 만약 ~가 공간이 아닌 사물이라면 : (질병) 치료하다
@@ -144,7 +144,7 @@
     * 규칙1 : 넓은 것
 * **ron**: 배치하다
   * roncui : 고정하다, 박다, 매달다 / 약속하다
-    * roncicui : 다시 고정하다, 다시 박다 / 약속을 수정하다
+    * ronrurucui : 다시 고정하다, 다시 박다 / 약속을 수정하다
     * ronrucui : 고정된 것을 빼내다, 뽑다 / 약속을 없애다
   * rin : 넣다, 참여시키다, ~에 합치다
     * 조건-1, 만약 ~가 어떤 존재라면 : 주다
@@ -152,7 +152,7 @@
     * 접미사형 : 할 수 있다, 할 수 있는 기관이 있다 
     * 규칙1 : 내부의 것
     * 규칙2 : 영향을 주다, 개입하다
-    * rinci : 다시 넣다, 재참여시키다
+    * rinruru : 다시 넣다, 재참여시키다
       * 조건2(되찾다, 회수하다)
     * sarin : 신체가 자신을 내부에 두다, 내장
     * rinnee : 가두다, 격리하다, 제한하다
@@ -256,11 +256,11 @@
     * -rin- -harron : 충족감을 느끼다, 만족감을 느끼다
     * niruan- -harron : 상실감을 느끼다, 박탈감을 느끼다
     * -rinya- -harron : 불만족하다
-    * -rinci- -harron : 안도하다
+    * -rinruru- -harron : 안도하다
     * hi nitaru, ti harron : 무서워하다
     * harronru : 냉정하다
     * harronya : 무감각하다
-    * harronci : 회상하다
+    * harronruru : 회상하다
     * taruta harron : 트라우마가 있다
   * harni : 보는 건물
   * yonya toihar : 사물이 작은 것을 보다, 현미경
@@ -290,7 +290,8 @@
 * 10000 : hiron
 * 1000000 : hitaren
 ### 기초 합성어
-* nici : 다시 어떤 것, 다른 것
+* ruru : 다시
+* niruru : 다시 어떤 것, 다른 것
 * nasi : 나
 * niharroen : 어떤 이유
 * niruunrin : 어떤 방법
@@ -320,13 +321,13 @@ Isan, nitoi nasirinnasi. tuh, in titoi nasiruunrinya orun, titoi nasirinyanasi.
 
 In titoi nasirinyanasi. ti nasitarain orun, titoi nasirinruannasi.
 
-1. Sata os SSS('Sarin. Sa Sairinsa' os Nitoi hisitaci) sitacirin. isan, titarainhi os cayyha un yra. in tihitaru orun, SSS siruunrinya.
+1. Sata os SSS('Sarin. Sa Sairinsa' os Nitoi hisitarainruru) sitarainrururin. isan, titarainhi os cayyha un yra. in tihitaru orun, SSS siruunrinya.
 - In nitoi nisirinsi orun, titoi tisiruunrinruun. in titoi tisiruunrinya orun, titoi hirinhi.
 
-2. hisirinnitoi, titoi sirinsiraan. isan, in conaniteruun eca tisirintitoi os nici orun, titoi sirinsiraan os nici.
+2. hisirinnitoi, titoi sirinsiraan. isan, in conaniteruun eca tisirintitoi os niruru orun, titoi sirinsiraan os niruru.
 - In 'niruunrin' un 'niharroen' ti tisita orun, conaniteruun eca tisirintitoi os yon.
 - In titoi tisita orun, conaniteruun eca tisirintitoi os yon.
-- In titoi tani (toor tisiren, tisitaciru) orun, conaniteruun eca tisirintitoi os yonya.
+- In titoi tani (toor tisiren, tisitaruru) orun, conaniteruun eca tisirintitoi os yonya.
 - In tisirintini on coroenterain yonya orun, conaniteruun eca tisirintitoi os toiya. isan, titoi tani, SSS nirintisi.
 
 **3번 예문**
@@ -342,14 +343,14 @@ tiharroen os in rencui hartata orun hitoi hartatarurin.
 "모든 나(우리)는 모든 것을 지배할 자격이 있다!" 그들이 하르타들에게 말했다.
 그들은 그들이 하르타들을 지배하는 곳을 만들었고, 그들은 모든 금속을 빼앗았다. 그 이유는 만약 하르타들이 '번개'를 만든다면, 하르타들이 모든 것을 없앨 수 있기 때문이다.
 
-Nihici, soos nisiruannisi. tisoos hartarinni os cuirinsa rin hartataruyani.
+Nihiruru, soos nisiruannisi. tisoos hartarinni os cuirinsa rin hartataruyani.
 Tihi, harta tisiruunrin. ruunrinnee hisihar. hisi tisironni os hartatarainni.
 
 다른날, 하르타들이 버려진 금속을 숨긴 곳은 그들이 과일을 모으는 곳이었다.
 그 때, 하르타들을 지배하는 자, 노예를 감시하는 모든 자들을 그자가 보낸 곳은 하르타들이 사는 곳이었다.
 
 tuh, ruunrinnee nisihar. ti hiruunrin rees coscuirenhi. ticoscui nisiruannisini os soos hartarinni os cuirinsa rin hartataruyani.
-costarainci un, tini tirincos.
+costaruru un, tini tirincos.
 
 그런데, 어떤 노예 감시자, 불나무가 그것을 사용하는 모든 것에게 흙을 던진다(오염시킨다). 그 불나무를 그가 버린 곳은 하르타들이 금속을 숨긴 곳인 그들이 과일을 모으는 곳이었다. 불이 다시 살아났고, 그것이 그 건물을 불태웠다.
 
@@ -371,6 +372,6 @@ Tihi, nitoirentini un, harta siruunrinni. tini rin soosrainrin. tisoos titoitaru
 어떤 것을 지배하는 모든 것들, 내장이 구워진 것 그리고 과일즙을 모든 것들이 그것들이 먹었다. 하르타는 751명이었다. 하르타들은 자신들을 강제로 노동시켜야했다. 하지만, 그 때의 밤은 앞부터 뒤까지가 큰 것이었다(길었다). 그 때, 어떤 것이 그 곳에 날았다(그곳을 향해 날았다) 그리고, 하르타들을 지성체들이 지배하는 건물의 금속으로 이루어진 가죽(철장갑)을 그것이 없앴다.
 
 'Rencuirennani!' ti nai nisirinhisi.
-toi sitaruta. nitoi hiruunrin. tihi tisirainta. isan, rencuirencitini.
+toi sitaruta. nitoi hiruunrin. tihi tisirainta. isan, rencuirenrurutini.
 '번개가 이곳에 난다!(번개가 이곳을 향해 날아온다!)' 어떤 자가 모두에게 말했다.
 무언가를 공격하는 자, 어떤 것을 지배하는 모든 자들을 그들이 보호하려 시도했다. 하지만, 번개가 그곳을 향해 다시 날았다.

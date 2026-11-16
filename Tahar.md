@@ -309,26 +309,26 @@
 * coroenterain : 길이
 **1번 예문**
 
-Yonya toihar on nitoi titoiharta. titoi nasisa. tihoerrain os nisitarainsi. tirintoor. hisi titarurin. ti nasiharruun.
+Yonya toihar on nitoi titoiharta. titoi nasiruunrin. tiharroen os nisitarainsi. tirintoor. hisi titarurin. ti nasiharruun.
 
 사물이 작은 것을 본다. 그 사물이 어떤 것을 비추는 동안. 내가 그 사물을 사용한다. 그 이유는 어떤 적응체가 [지성체 또는 적응체]에서 산다. 그것이 물에 들어있다. 그것은 모든 [지성체 또는 적응체]를 죽일 수 있다. 나는 그것을 보아야한다.
 
 **2번 예문**
 
-Nitoi tisirintisi isan, In titoi tisisaya orun, 'titoi tisisa' nasireunruya.
-Isan, In titoi tisisa orun, 'titoi sirintisi' nasireunru.
+Nitoi tisirintisi isan, In titoi tisiruunrinya orun, 'titoi tisiruunrin' nasireunruya.
+Isan, In titoi tisiruunrin orun, 'titoi sirintisi' nasireunru.
 
-In nitoi nasirinnasi orun titoi nasisaruun.
+In nitoi nasirinnasi orun titoi nasiruunrinruun.
 
-Isan, nitoi nasirinnasi. tuh, in titoi nasisaya orun, titoi nasirinyanasi.
+Isan, nitoi nasirinnasi. tuh, in titoi nasiruunrinya orun, titoi nasirinyanasi.
 
 In titoi nasirinyanasi. ti nasitarain orun, titoi nasirinruannasi.
 
-1. Sata os SSS('Sarin. Sa Sairinsa' os Nitoi hisitaci) sitacirin. isan, titarainhi os cayyha un yra. in tihitaru orun, SSS sisaya.
-- In nitoi nisirinsi orun, titoi tisisaruun. in titoi tisisaya orun, titoi hirinhi.
+1. Sata os SSS('Sarin. Sa Sairinsa' os Nitoi hisitaci) sitacirin. isan, titarainhi os cayyha un yra. in tihitaru orun, SSS siruunrinya.
+- In nitoi nisirinsi orun, titoi tisiruunrinruun. in titoi tisiruunrinya orun, titoi hirinhi.
 
 2. hisirinnitoi, titoi sirinsiraan. isan, in conaniteruun eca tisirintitoi os nici orun, titoi sirinsiraan os nici.
-- In 'nisa' un 'nihoerrain' ti tisita orun, conaniteruun eca tisirintitoi os yon.
+- In 'niruunrin' un 'niharroen' ti tisita orun, conaniteruun eca tisirintitoi os yon.
 - In titoi tisita orun, conaniteruun eca tisirintitoi os yon.
 - In titoi tani (toor tisiren, tisitaciru) orun, conaniteruun eca tisirintitoi os yonya.
 - In tisirintini on coroenterain yonya orun, conaniteruun eca tisirintitoi os toiya. isan, titoi tani, SSS nirintisi.

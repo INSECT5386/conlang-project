@@ -249,23 +249,23 @@
       * harraanta : 앉히다, 눕히다
         * 규칙2 : 앉다, 눕다
     * harruun : 열등감을 느끼다, 올려다보다
-      * harruunra : 세우다
+      * harruunta : 세우다
         * 규칙2 : 서다
-    * hoerrain : 열정적이다, 흥미롭다
+    * harroen : 열정적이다, 흥미롭다
       * 접미사형 : ~하고 싶다
-      * reunruhoerrain : 궁금해하다
-    * hairrain : 지루하다, 무기력하다
+      * reunruharroen : 궁금해하다
+    * harrain : 지루하다, 무기력하다
       * 접미사형 : ~하기 싫다
-    * heurrain : 외롭다
-    * -rin- -harrain : 충족감을 느끼다, 만족감을 느끼다
-    * niruan- -harrain : 상실감을 느끼다, 박탈감을 느끼다
-    * -rinya- -harrain : 불만족하다
-    * -rinci- -harrain : 안도하다
-    * hi nitaru, ti harrain : 무서워하다
-    * harrainru : 냉정하다
-    * harrainya : 무감각하다
-    * harrainci : 회상하다
-    * taruta harrain : 트라우마가 있다
+    * harreun : 외롭다
+    * -rin- -harron : 충족감을 느끼다, 만족감을 느끼다
+    * niruan- -harron : 상실감을 느끼다, 박탈감을 느끼다
+    * -rinya- -harron : 불만족하다
+    * -rinci- -harron : 안도하다
+    * hi nitaru, ti harron : 무서워하다
+    * harronru : 냉정하다
+    * harronya : 무감각하다
+    * harronci : 회상하다
+    * taruta harron : 트라우마가 있다
   * harni : 보는 건물
   * yonya toihar : 사물이 작은 것을 보다, 현미경
   * ni os ti toihar : 사물이 어떤 것을 본다 어떤 것은 멀다, 망원경
@@ -296,8 +296,8 @@
 ### 기초 합성어
 * nici : 다시 어떤 것, 다른 것
 * nasi : 나
-* nihoerrain : 어떤 이유
-* nisa : 어떤 방법
+* niharroen : 어떤 이유
+* niruunrin : 어떤 방법
 * nihi : 어떤 시간
 * rencui : 번개
 * cuirinsa : 열매

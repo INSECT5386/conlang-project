@@ -53,7 +53,7 @@
 * * S가 해당 시간에 O를 V하다
 * O Sron(-aa-, -uu-, -ua-, -i-, -e-, -oe-, -ai-)~
 * * S가 ~의 ()에 O를 배치하다
-* O SV(-aa-, -uu-, -ua-, -i-, -e-, -oe-, -ai-)~
+* O SV(ron, rin, ren, raan, ruun, roen, rain, reun)~
 * * S가 ~의 ()에서 O를 V하다
 * **상황 정정**
 * 내부 접사는 모음 교체인가? -> 그렇다

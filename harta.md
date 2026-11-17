@@ -306,13 +306,8 @@
 * toorrees : 진흙
 * soossai : 비행기, 비행물체
 * coroenterain : 길이
+
 **1번 예문**
-
-Nitoi titoiharta. ticon nasitarain. orun, yonya titoihar. titoi nasiruunrin. tiharroen os nisitarainsi. tirintoor. hisi titarurin. ti nasiharruun.
-
-사물이 작은 것을 본다. 그 사물이 어떤 것을 비추는 동안. 내가 그 사물을 사용한다. 그 이유는 어떤 적응체가 [지성체 또는 적응체]에서 산다. 그것이 물에 들어있다. 그것은 모든 [지성체 또는 적응체]를 죽일 수 있다. 나는 그것을 보아야한다.
-
-**2번 예문**
 
 Nitoi tisirintisi isan, Titoi tisiruunrinya orun, 'titoi tisiruunrin' ti nasiruunrinya.
 Isan, Titoi tisiruunrin orun, 'titoi sirintisi' nasireunru.
@@ -330,7 +325,7 @@ Isan, titoi nasiruunrinya orun, titoi nasirinyanasi. ticon nasitarain orun, tito
 - Titoi tani (toor tisiren, tisitaruru) orun, siruunrin os yonya.
 - Siruunrinhi os coroenterain yonya orun, siruunrin os toiya. isan, titoi tani, SSS nirintisi.
 
-**3번 예문**
+**2번 예문**
 
 Nihi, sirin. tisi nisiruunrinni. siruan. tisi tinitarutarin. hartatarainni. tini tiruunrinneeta un, harta siruunrinraan. tisi titaru. tiharroen os tini tisirinharroentisi.
 

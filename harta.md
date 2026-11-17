@@ -323,7 +323,7 @@ Isan, titoi nasiruunrinya orun, titoi nasirinyanasi. ticon nasitarain orun, tito
 - 'niruunrin' un 'niharroen' ti tisita orun, siruunrin os yon.
 - Titoi tisita orun, siruunrin os yon.
 - Titoi tani (toor tisiren, tisitaruru) orun, siruunrin os yonya.
-- Siruunrinhi os coroenterain yonya orun, siruunrin os toiya. isan, titoi tani, SSS nirintisi.
+- Siruunrinhi os yonya orun, siruunrin os toiya. isan, titoi tani, SSS nirintisi.
 
 **2번 예문**
 

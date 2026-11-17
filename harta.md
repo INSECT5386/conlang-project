@@ -319,11 +319,11 @@ Isan, titoi nasiruunrinya orun, titoi nasirinyanasi. ticon nasitarain orun, tito
 1.Tirinti os SSS('Sarin. Sa Sairinsa' os Nitoi hisitarainruru) sitarainrururin. isan, titarainhi os cayyha un yra. Tihitaru orun, SSS siruunrinya.
 - Nitoi nisirinsi orun, titoi tisiruunrinruun. Titoi tisiruunrinya orun, titoi hirinhi.
 
-2. Nitoi sita. Sirinticon. Orun, SSS sirinraansi. isan, siruunrin os niruru orun, titoi sirinsiraan os niruru.
+2. Nitoi sita. Sirinticon. Orun, SSS sirinraansi. isan, siruunrin os niruru orun, titoi sirinraansi os niruru.
 - 'niruunrin' un 'niharroen' ti tisita orun, siruunrin os yon.
 - Titoi tisita orun, siruunrin os yon.
 - Titoi tani (toor tisiren, tisitaruru) orun, siruunrin os yonya.
-- Siruunrinhi os yonya orun, siruunrin os toiya. isan, titoi tani, SSS nirintisi.
+- Siruunrinhi os yonya orun, siruunrin os toiya. isan, titoi sitani, SSS nirintisi.
 
 **2번 예문**
 
@@ -338,13 +338,13 @@ tiharroen os rencui hartata orun hitoi hartatarurin.
 "모든 나(우리)는 모든 것을 지배할 자격이 있다!" 그들이 하르타들에게 말했다.
 그들은 그들이 하르타들을 지배하는 곳을 만들었고, 그들은 모든 금속을 빼앗았다. 그 이유는 만약 하르타들이 '번개'를 만든다면, 하르타들이 모든 것을 없앨 수 있기 때문이다.
 
-Nihiruru, soos nisiruannisi. tisoos hartarinni os cuirinsa rin hartataruyani.
+Niruruhi, soos nisiruannisi. tisoos hartarinni os cuirinsa rin hartataruyani.
 Tihi, harta tisiruunrin. ruunrinnee hisihar. hisi tisironni os hartatarainni.
 
 다른날, 하르타들이 버려진 금속을 숨긴 곳은 그들이 과일을 모으는 곳이었다.
 그 때, 하르타들을 지배하는 자, 노예를 감시하는 모든 자들을 그자가 보낸 곳은 하르타들이 사는 곳이었다.
 
-ruunrinnee nisihar. ti hiruunrin rees coscuirentihi. ticoscui nisiruannisini os soos hartarinni os cuirinsa rin hartataruyani.
+ruunrinnee nisihar. ti hiruunrin rees coscuirenhitoi. ticoscui nisiruannisini os soos hartarinni os cuirinsa rin hartataruyani.
 costaruru un, tini tirincos.
 
 어떤 노예 감시자, 불나무가 그것을 사용하는 모든 것에게 흙을 던진다(오염시킨다). 그 불나무를 그가 버린 곳은 하르타들이 금속을 숨긴 곳인 그들이 과일을 모으는 곳이었다. 불이 다시 살아났고, 그것이 그 건물을 불태웠다.

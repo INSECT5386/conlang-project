@@ -233,7 +233,7 @@ roin A un B : A와 B사이에 배치하다
     * harroin : 비교하다, 저울질하다
       * A un B harroin : A와 B를 비교하다, 저울질하다
     * -rin- -harron : 충족감을 느끼다, 만족감을 느끼다
-    * niruan- -harron : 상실감을 느끼다, 박탈감을 느끼다
+    * -ruan- -harron : 상실감을 느끼다, 박탈감을 느끼다
     * -rinya- -harron : 불만족하다
     * -rinruru- -harron : 안도하다
     * hi nitaru, ti harron : 무서워하다
@@ -328,6 +328,14 @@ Niruruhi, hisoos tinisiruanharta.
 이 행동을 그 어떤 자는 생각했다.
 '번개를 하르타들이 사용한다면, 나를 하르타들이 죽일 수 있다.'
 다른 날, 모든 금속을 그 어떤 자가 하르타에게서 빼앗았다.
+
+Nitoi nisiruannasi. Ti hartaharron.
+Tihi, Soos Nisiruannisi. Tisoos hartareunrees.
+Soos rin hartataruya. ticon hartataruyahi os nanihartayahi os Hinoy un caysey un yno.
+
+어떤 자가 어떤 것을 나에게서 빼앗는다. 그것을 하르타들은 느꼈다.
+그때, 금속을 어떤 자가 버렸다. 그 금속을 하르타들은 땅에 묻었다.
+금속을 하르타들이 모았다. 그 행동을 하르타들이 지속시킨 시간은 밤이고 974번이었다.
 
 Niruruhi, soos nisiruannisi. tisoos hartarinni os cuirinsa rin hartataruyani.
 Tihi, harta tisiruunrin. ruunrinnee hisihar. hisi tisironni os hartatarainni.

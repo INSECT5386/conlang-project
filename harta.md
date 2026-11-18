@@ -306,6 +306,8 @@
 * tasain : 조상, 선조
 * sainyon : 화자보다 나이가 많은 형제, 자매
 * sainyonya : 동생
+* saintoi : 유전자
+* saintoor : 피, 혈액
 * toirin : 무언가가 안에 있다, 가구, 실내 사물
 * toorrees : 진흙
 * soossai : 비행기, 비행물체

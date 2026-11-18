@@ -285,7 +285,7 @@
 * toirin : 무언가가 안에 있다, 가구, 실내 사물
 * toorrees : 진흙
 * soossai : 비행기, 비행물체
-* naniroin roen un rain : 어떤 공간이 앞과 뒤 사이에 있다. 길이
+* naniroin roen un rain : 어떤 공간이 앞과 뒤 사이에 있다. 길이(length)
 
 **1번 예문**
 

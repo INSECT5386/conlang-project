@@ -92,7 +92,6 @@
 | | -ru | 을 되돌리다 |
 | 전치사 | eca | 에 대하여, 에 대한 |
 | 접속사, 접속 부사 | un | 그리고, 추가적으로 |
-| | isan | 그러나, 하지만 |
 | | orun | 그렇다는 조건하에, 그러면 |
 | | tuh | 그런데 |
 ---
@@ -296,10 +295,10 @@ Nitoi nasirinnasi orun titoi nasiruunrinruun.
 
 Titoi nasiruunrinya orun, titoi nasirinyanasi. ticon nasitarain orun, titoi nasirinruannasi.
 
-1.Tirinti os SSS('Sarin. Sa Sairinsa' os Nitoi hisitarainruru) sitarainrururin. isan, titarainhi os cayyha un yra. Tihitaru orun, SSS siruunrinya.
+1.Tirinti os SSS('Sarin. Sa Sairinsa' os Nitoi hisitarainruru) sitarainrururin. 'SSS'tarainhi os cayyha un yra. Tihitaru orun, SSS siruunrinya.
 - Nitoi nisirinsi orun, titoi tisiruunrinruun. Titoi tisiruunrinya orun, titoi hirinhi.
 
-2. Nitoi sita. Sirinticon. Orun, SSS sirinraansi. isan, siruunrin os niruru orun, titoi sirinraansi os niruru.
+2. Nitoi sita. Sirinticon. Orun, SSS sirinraansi. siruunrin os niruru orun, titoi sirinraansi os niruru.
 - 'niruunrin' un 'niharroen' ti tisita orun, siruunrin os yon.
 - Titoi tisita orun, siruunrin os yon.
 - Titoi tani (toor tisiren, tisitaruru) orun, siruunrin os yonya.

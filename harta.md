@@ -34,8 +34,7 @@
 * 2. harron sireunrurin. hi tireunya -> 지성체가 + 감정을 생각하다 + 할 수 있는 기관이 있다, 모든 것 + 그것이 + 기억하다 -> 지성체의 뇌가 모든 것을 기억한다.
 * **1번 활용, 'os'**
 1. 'A' os 'B' : A는 B이다
-* 1. tiharroen os ~ : 그 이유는 ~이다
-* 2. tiruunrin os ~ : 그 방법은 ~이다, ~처럼
+* 1. tiruunrin os ~ : 그 방법은 ~이다, ~처럼
 * **2번 활용**
 1. 문장 요소 받아오기.
 * 1. arii nasitaruta, tiarii sairinsa. : 내가 공격한 물고기를 새가 먹었다.
@@ -273,8 +272,8 @@ roin A un B : A와 B사이에 배치하다
 * ruru : 다시
 * niruru : 다시 어떤 것, 다른 것
 * nasi : 나
-* niharroen : 어떤 이유
-* niruunrin : 어떤 방법
+* niharroen : 어떤 이유, 왜
+* niruunrin : 어떤 방법, 어떻게
 * nihi : 어떤 시간
 * rencui : 번개
 * cuirinsa : 열매

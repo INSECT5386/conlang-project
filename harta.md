@@ -343,17 +343,16 @@ Tihihartayahi, 'hisi nisiruunrinnee. tihisi nirurusihar. tinirurusi nasironni os
 하르타들이 일한다. 그 행동을 그 어떤 자가 보았다.
 그때의 밤, '모든 자를 어떤 자가 강제 노동시킨다. 그 모든 자를 다른 자가 본다. 그 다른 자를 내가 보내는 곳은 하르타가 사는 곳이다' 그 행동을 그 어떤 자가 생각했다.
 
-Niruruhi, Hisi sihar. tisironni os Hartatarainni.
+Niruruhi, Hisi sihar. Tisi tinisironni os Hartatarainni.
 Harta tisiharruun. Harta tisiharya. Niruruhi tisiroin yra nihi un yse nihi.
 Yra nihi os Harta tisiharruunhi.
 Yse nihi os Nitoi tisirinsahi.
-Niruruhi os 'Titoi siruunrin. Rees coscuirentisi.' Coscui tisiruunrinhi.
+Tiniruruhi os 'Titoi siruunrin. Rees coscuirentisi.' Ticoscui tisiruunrinhi.
 
-ruunrinnee tisihar. tisiruantisi eca cos.
-tisi nihartarinnee. tisi nirurusirinneeru. tiharta tinirurusitaru.
-
-그 노예 감시자. 그가 불에 대한 범죄를 저질렀다.
-어떤 하르타들이 그를 가두었다. 다른 자가 그를 구출했다. 그 다른 자가 그 하르타들을 죽였다.
+다른 날, 모든 자를 지성체가 감시한다. 그(그 지성체)를 그 어떤 자가 배치한 곳은 하르타들이 사는 곳이었다. 하르타들을 그는 감시해야했다. 하르타들을 그는 감시하지 않았다. 다른 시간을 그가 1 어떤 시간과 2 어떤 시간 사이에 끼워넣었다.
+1 어떤 시간은 하르타들을 그가 감시해야하는 시간이다.
+2 어떤 시간은 어떤 것을 그가 먹는 시간이다.
+그 다른 시간은 '그것을 지성체가 사용한다. 불나무가 그 지성체를 오염시킨다.' 그 불나무를 그가 사용하는 시간이다.
 
 tihihartayahi, ruunrinnee tisihar. tisi hartaroncuitoi. titoiharruunta. un, toi hartaroncuini os hirincoshi. un, rencui hartatata.
 

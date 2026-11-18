@@ -74,9 +74,7 @@
 | 범용사 | toor | 물 |
 | | cos | 불, 뜨겁다 |
 | | rees | 흙, 땅, 지구 |
-| | sor | 얼음, 차갑다 |
 | | cui | 나무 |
-| | roo | 산 |
 | | soos | 금속 |
 | | sai | 조류, 새 |
 | | arii | 어류, 물고기 |
@@ -89,7 +87,6 @@
 | | toi | 무언가 |
 | | con | 행동 |
 | | si | 적응체 또는 지성체 |
-| | soe | 너 |
 | 접미사 | -nee | 몰래, 강제로 |
 | | -ya | 을 하지 않다 |
 | | -ru | 을 되돌리다 |
@@ -274,13 +271,14 @@
 * ruru : 다시
 * niruru : 다시 어떤 것, 다른 것
 * nasi : 나
+* siroen : 너
 * niharroen : 어떤 이유, 왜
 * niruunrin : 어떤 방법, 어떻게
 * nihi : 어떤 시간
 * rencui : 번개
 * cuirinsa : 열매
-* cuini : 목제 건물
-* reesni : 흙집
+* cosru : 얼음, 차갑다
+* rees yon : 산
 * toirin : 무언가가 안에 있다, 가구, 실내 사물
 * toorrees : 진흙
 * soossai : 비행기, 비행물체

@@ -357,7 +357,6 @@ Tisiruunrinya. Soos rin hartataruyarinhi. Tihiyon.
 그 다른 시간은 '그것을 지성체가 사용한다. 불나무가 그 지성체를 오염시킨다.' 그 불나무를 그가 사용하는 시간이다.
 그가 일하지 않았다. 금속을 하르타들이 모을 수 있는 시간. 그 시간이 컸다.
 
-그 시간이 자신을 비추지 않는 때, 그 노예 감시자를 무언가에 박았다, 그 무언가는 기둥이다. 그리고, 하르타들이 그것을 박은 곳은 모든 것이 자신을 불태우는 곳이었다. 그리고, 하르타들은 번개를 만들려고 시도했다.
 
 harta tisiruunrinni, tinihartarainhi,
 nitoi hiruunrin. sarin. sa niraancos un, cuirinsatoor. tihi tirinsa.

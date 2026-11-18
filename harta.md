@@ -67,6 +67,7 @@
 | | -oe- | 앞 |
 | | -ai- | 뒤 |
 | | -eu- | 지하 |
+| | -oi- | 사이 |
 | 범용사 | toor | 물 |
 | | cos | 불, 뜨겁다 |
 | | rees | 흙, 땅, 지구 |
@@ -206,6 +207,13 @@
       * rin reunya : 이해하다, 파악하다
       * ruan reunya : 아는 척하다
       * sareunya : 습관
+  * roin : 끼워넣다, 사이에 배치하다
+    * 규칙2 : 가로막다, 사이에 있다
+    * roin A un B : A와 B 사이에 배치하다
+      * 규칙2 : A와 B 사이에 있다
+    * roinni : 경계, 틈
+    * roinhi : 공백기간, 쉬는 시간
+roin A un B : A와 B사이에 배치하다
 * **har**: 보다
   * harta : 비추다, 밝히다
     * 규칙2 : 빛나다
@@ -227,6 +235,9 @@
     * harrain : 지루하다, 무기력하다
       * 접미사형 : ~하기 싫다
     * harreun : 외롭다
+    * harroin : 비교하다, 저울질하다
+      * 규칙2 : 고민하다
+      * harroin A un B : A와 B를 비교하다, 저울질하다
     * -rin- -harron : 충족감을 느끼다, 만족감을 느끼다
     * niruan- -harron : 상실감을 느끼다, 박탈감을 느끼다
     * -rinya- -harron : 불만족하다

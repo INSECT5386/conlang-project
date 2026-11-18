@@ -328,10 +328,11 @@ costaruru un, tini tirincos.
 
 어떤 노예 감시자, 불나무가 그것을 사용하는 모든 것에게 흙을 던진다(오염시킨다). 그 불나무를 그가 버린 곳은 하르타들이 금속을 숨긴 곳인 그들이 과일을 모으는 곳이었다. 불이 다시 살아났고, 그것이 그 건물을 불태웠다.
 
-ruunrinnee tisihar. tisi nihartarinnee. tiharroen os tisiruantisi eca cos.
-tuh, hisirin siruunrin. tiharta sitaru un, ruunrinnee tisihar. tisi siruanni os hiruanhi. hisi sirinneeni.
+ruunrinnee tisihar. tisiruantisi eca cos.
+tisi nihartarinnee. tisi nirurusirinneeru. tiharta tinirurusitaru.
 
-어떤 하르타들이 그 노예 감시자를 가두었다. 그 이유는 그 자가 불에 대하여 범죄를 저질렀기 때문이었다. 그런데, 모든 내부인들을 지배하는 자, 그 자가 그 하르타들을 죽였고, 그가 그 노예 감시자를 풀어준 곳은 모든 범죄자들을 지성체들이 가두는 곳이었다. 
+그 노예 감시자. 그가 불에 대한 범죄를 저질렀다.
+어떤 하르타들이 그를 가두었다. 다른 자가 그를 구출했다. 그 다른 자가 그 하르타들을 죽였다.
 
 tihihartayahi, ruunrinnee tisihar. tisi hartaroncuitoi. titoiharruunta. un, toi hartaroncuini os hirincoshi. un, rencui hartatata.
 

@@ -236,7 +236,6 @@ roin A un B : A와 B사이에 배치하다
       * 접미사형 : ~하기 싫다
     * harreun : 외롭다
     * harroin : 비교하다, 저울질하다
-      * 규칙2 : 고민하다
       * harroin A un B : A와 B를 비교하다, 저울질하다
     * -rin- -harron : 충족감을 느끼다, 만족감을 느끼다
     * niruan- -harron : 상실감을 느끼다, 박탈감을 느끼다

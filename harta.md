@@ -158,6 +158,9 @@
       * ruantaruan : 긁다, 갈다, 할퀴다, 밖에서 자르다
     * raan ruannee : 반란을 일으키다, 자리에서 물러나게 하다
     * ruun ruannee : 탄압하다
+    * ruan ruannee : 차별하다, 소외시키다
+    * roen ruannee : 욕하다, 반발하다
+    * rain ruannee : 무시하다, 따돌리다 (harraan 와 달리 수평적인 관계의 문제)
   * raan : 올려놓다 / 위쪽의 것
     * 접미사형 : ~할 권한/자격이 있다
     * reunya raan~ : ~에 기록하다

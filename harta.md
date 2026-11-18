@@ -319,7 +319,7 @@ Rencui tinisireunya.
 Yra niruunrin un yse niruunrin tinisiharroin.
 yra niruunrin os Hisoos tinisiruanharta.
 yse niruunrin os Rencui Hartataruun. Tirencui Hartarinruunnasi. Ti nai tinisirinharta.
-Nicon tinisireunru.
+Nacon tinisireunru.
 'Rencui hartaruunrin orun Nasi hartatarurin.'
 Niruruhi, hisoos tinisiruanharta.
 

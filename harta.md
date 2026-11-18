@@ -239,7 +239,6 @@
     * -ruan- -harron : 상실감을 느끼다, 박탈감을 느끼다
     * -rinya- -harron : 불만족하다
     * -rinruru- -harron : 안도하다
-    * hi nitaru, ti harron : 무서워하다
     * harronru : 냉정하다
     * harronya : 무감각하다
     * harronruru : 회상하다

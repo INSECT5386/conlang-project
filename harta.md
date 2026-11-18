@@ -286,11 +286,7 @@
 * soossai : 비행기, 비행물체
 * naniroin roen un rain : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)
 
-**1번 예문**
-
-
-
-**2번 예문**
+**예문**
 
 Nihi, Sirin. Tinisi nisiruunrinni. Hitoi Tinisirinharroentinisi. Nini Tinisiruunrinneeta. Hartataraintinini. Harta siruunrinraan. Tisi tinisitaru.
 

@@ -309,9 +309,15 @@ Nihi, Sirin. Tisi nisiruunrinni. Siruan. Tisi tinitarutarin. Hitoi Tinisirinharr
 
 어느날, 내부자. 그들을 어떤 자가 다스리는 곳. 외부자. 그들을 그곳이 공격하는 기관이 있다. 모든 것을 그 어떤 자는 가지고 싶었다. 어떤 땅을 그 어떤 자가 어떤 곳을 침략했다. 그 어떤 땅에 하르타들이 살았다. 하르타들을 지성체가 다스릴 자격이 있다. 그 어떤 자가 그 지성체를 죽였다.
 
-"Hitoi nasiruunrinraan!" ti nai tisirinharta.
-harta tisiruunrinni. tini tisita. un, hisoos tisiruanharta.
-tiharroen os rencui hartata orun hitoi hartatarurin.
+Soos hartarinharta orun, rencui hartatarin.
+Rencui hartaruunrin orun, hitoi hartatarurin.
+Rencui tinisireunya.
+Tinisiharroin yra niruunrin un yse niruunrin.
+yra niruunrin os Hisoos tinisiruanharta.
+yse niruunrin os Rencui Hartataruun. Tirencui Hartarinnasi. Ti nai tinisirinharta.
+'Rencui hartaruunrin orun Nasi hartataru.' ticon tinireunru.
+Hisoos tinisiruanharta.
+
 
 "나는 모든 것을 지배할 자격이 있다!" 그가 하르타들에게 말했다.
 그가 하르타들을 지배하는 곳을 만들었고, 그는 모든 금속을 빼앗았다. 그 이유는 만약 하르타들이 '번개'를 만든다면, 하르타들이 모든 것을 없앨 수 있기 때문이다.

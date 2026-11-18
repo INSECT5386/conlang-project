@@ -333,12 +333,12 @@ Nitoi nisiruannasi. Ti hartaharron.
 Tihi, Soos Nisiruannisi. Tisoos hartareunrees.
 Soos rin hartataruya. ticon hartataruyahi os nanihartayahi os Hinoy un caysey un yno.
 
+Hartaruunrin. Ticon tinisihar.
+Tihihartayahi, 'hisi nisiruunrinnee. tihisi nirurusihar. tinirurusi nasironni os hartatarainni.' ticon tinisireunru.
+
 어떤 자가 어떤 것을 나에게서 빼앗는다. 그것을 하르타들은 느꼈다.
 그때, 금속을 어떤 자가 버렸다. 그 금속을 하르타들은 땅에 묻었다.
 금속을 하르타들이 모았다. 그 행동을 하르타들이 지속시킨 시간은 밤이고 974번이었다.
-
-Hartaruunrin. Ticon tinisihar.
-Tihihartayahi, 'hisi nisiruunrinnee. tihisi nirurusihar. tinirurusi nasironni os hartatarainni.' ticon tinisireunru.
 
 하르타들이 일한다. 그 행동을 그 어떤 자가 보았다.
 그때의 밤, '모든 자를 어떤 자가 강제 노동시킨다. 그 모든 자를 다른 자가 본다. 그 다른 자를 내가 보내는 곳은 하르타가 사는 곳이다' 그 행동을 그 어떤 자가 생각했다.

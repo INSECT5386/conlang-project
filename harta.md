@@ -81,7 +81,7 @@
 | | nor | 짐승, 육상 동물 |
 | | nai | 소리, 파동 |
 | | rio | 냄새, 공기 |
-| | nen | 맛 |
+| | tes | 맛 |
 | | sain | 가족, 혈연 |
 | | han | 이름, 상징 |
 | | na | 이것, 가깝다 |
@@ -236,6 +236,7 @@
     * harronruru : 회상하다
     * taruta harron : 트라우마가 있다
     * nen harron : 맛 보다
+    * ner harron : 만지다
   * harni : 보는 건물
   * yonya toihar : 사물이 작은 것을 보다, 현미경
   * ni os ti toihar : 사물이 어떤 것을 본다 어떤 것은 멀다, 망원경
@@ -251,7 +252,8 @@
       * soctaru ~raan : ~가 평평한 것을 올려놓다, ~의 천장
 * **yon**: 키우다, 성장시키다 / 크다
   * soctaru yon : 넓히다 / 넓다
-* **cor**: 섞다, 돌리다, 순환하다
+* **cor**: 굴리다, 돌리다 / 구르다, 돌다, 둥글다
+  * toi cor. toi : 굴려진 사물, 원, 공, 구
 * **ner**: 녹이다 / 부드럽다
   * nerya : 굳히다 / 굳다, 단단하다, 딱딱하다
   * cuiner : 천, 직물, 종이
@@ -284,6 +286,8 @@
 * siroen : 너
 * niharroen : 어떤 이유, 왜
 * niruunrin : 어떤 방법, 어떻게
+* nicorhi : 가끔, 때때로
+* reunrucor : 아마도
 * nihi : 어떤 시간
 * rencui : 번개
 * cuirinsa : 열매
@@ -292,9 +296,9 @@
 * noryon : 대형 포유류
 * norsaya : 팔다리가 없는 동물
 * raynor : 곤충
-* cosnen : 맵다
-* toorreesnen : 짜다, 소금
-* harrennen : 달콤하다
+* costes : 맵다
+* toorreestes : 짜다, 소금
+* harrentes : 달콤하다
 * A Bta. A : B의 자식 A
 * A Bta. B : A의 부모 B
 * tasain : 조상, 선조

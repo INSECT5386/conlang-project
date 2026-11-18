@@ -294,7 +294,7 @@
 * rencui : 번개
 * cuirinsa : 열매
 * cosru : 얼음, 차갑다
-* rees yon : 산
+* reesyon : 산
 * noryon : 대형 포유류
 * norsaya : 팔다리가 없는 동물
 * raynor : 곤충

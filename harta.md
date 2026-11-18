@@ -339,11 +339,11 @@ tihihartayahi, ruunrinnee tisihar. tisi hartaroncuitoi. titoiharruunta. un, toi 
 
 harta tisiruunrinni, tinihartarainhi,
 nitoi hiruunrin. sarin. sa niraancos un, cuirinsatoor. tihi tirinsa.
-harta os hisey un cayyca un yra. hartaruunrinneeruun. isan, tihihartayahi os nahiroin roen un rain. nahiyon. 
+harta os hisey un cayyca un yra. hartaruunrinneeruun. tihihartayahi os nahiroin roen un rain. nahiyon. 
 Tihi, nitoirentini un, harta siruunrinni. tini rin soosrainrin. tisoos titoitaru.
 
 그 자들이 하르타들을 지배하는 건물, 그 건물이 자신을 비춘 잔상이 남은 시간,
-어떤 것을 지배하는 모든 것들, 내장이 구워진 것 그리고 과일즙을 모든 것들이 그것들이 먹었다. 하르타는 751명이었다. 하르타들은 자신들을 강제로 노동시켜야했다. 하지만, 그 때의 밤은 앞과 뒤 사이에 있는 시간이 컸다. 그 때, 어떤 것이 그 곳에 날았다(그곳을 향해 날았다) 그리고, 하르타들을 지성체들이 지배하는 건물의 금속으로 이루어진 가죽(철장갑)을 그것이 없앴다.
+어떤 것을 지배하는 모든 것들, 내장이 구워진 것 그리고 과일즙을 모든 것들이 그것들이 먹었다. 하르타는 751명이었다. 하르타들은 자신들을 강제로 노동시켜야했다. 그 때의 밤은 앞과 뒤 사이에 있는 시간이 컸다. 그 때, 어떤 것이 그 곳에 날았다(그곳을 향해 날았다) 그리고, 하르타들을 지성체들이 지배하는 건물의 금속으로 이루어진 가죽(철장갑)을 그것이 없앴다.
 
 'Rencuirennani!' ti nai nisirinhisi.
 toi sitaruta. nitoi hiruunrin. tihi tisirainta. tihi, rencuirenrurutini.

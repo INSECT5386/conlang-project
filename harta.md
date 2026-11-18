@@ -286,18 +286,9 @@
 * soossai : 비행기, 비행물체
 * naniroin roen un rain : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)
 
-**1번 예문**
-1.Tirinti os SSS('Sarin. Sa Sairinsa' os Nitoi hisitarainruru) sitarainrururin. 'SSS'tarainhi os cayyha un yra. Tihitaru orun, SSS siruunrinya.
-- Nitoi nisirinsi orun, titoi tisiruunrinruun. Titoi tisiruunrinya orun, titoi hirinhi.
-
-2. Nitoi sita. Sirinticon. Orun, SSS sirinraansi. siruunrin os niruru orun, titoi sirinraansi os niruru.
-- 'niruunrin' un 'niharroen' ti tisita orun, siruunrin os yon.
-- Titoi tisita orun, siruunrin os yon.
-- Titoi tani (toor tisiren, tisitaruru) orun, siruunrin os yonya.
-- Siruunrinhi os yonya orun, titoi sitani, SSS nirintisi.
+* **1번 예문**
 
 **2번 예문**
-
 
 Nihi, Sirin. Tisi nisiruunrinni. Siruan. Tisi tinitarutarin. Hitoi Tinisirinharroentinisi. Nini Tinisiruunrinneeta. Hartataraintinini. Harta siruunrinraan. Tisi tinisitaru.
 

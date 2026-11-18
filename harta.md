@@ -36,10 +36,10 @@
 1. 'A' os 'B' : A는 B이다
 * **2번 활용**
 1. 문장 요소 받아오기.
-* 1. arii nasitaruta, tiarii sairinsa. : 내가 공격한 물고기를 새가 먹었다.
-* 2. arii nasitaruta, nisai nasirinsa. : 물고기를 공격한 내가 어떤 새를 먹었다.
-* 3. titarainsi, ti~ : 그것이 지성체에 기생한다, 그것이~ -> 지성체에 기생하는 그것이 ~
-* 4. titarainsi, si~ : 그것이 지성체에 기생한다, 지성체가~ -> 그것이 기생하는 지성체가 ~
+* 1. arii nasitaruta. tiarii sairinsa. : 내가 공격한 물고기를 새가 먹었다.
+* 2. arii nasitaruta. nisai nasirinsa. : 물고기를 공격한 내가 어떤 새를 먹었다.
+* 3. titarainsi. ti~ : 그것이 지성체에 기생한다, 그것이~ -> 지성체에 기생하는 그것이 ~
+* 4. titarainsi. si~ : 그것이 지성체에 기생한다, 지성체가~ -> 그것이 기생하는 지성체가 ~
 * **시제의 부재와 대체 요소**
 * 별도의 시제는 존재하지 않으며, 문맥으로 시간을 구분하고, ron 계열과 har 계열의 접사들로 대체됨.
 * **3번 활용**
@@ -235,7 +235,7 @@
     * harronya : 무감각하다
     * harronruru : 회상하다
     * taruta harron : 트라우마가 있다
-    * nen harron : 맛 보다
+    * tes harron : 맛 보다
     * ner harron : 만지다
   * harni : 보는 건물
   * yonya toihar : 사물이 작은 것을 보다, 현미경

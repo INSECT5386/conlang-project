@@ -144,6 +144,7 @@
       * rio rinsa : 숨 쉬다
       * ruan rinsa : 핥다
     * rinta : 묶다, 꿰매다, 붙이다
+    * han rin~ : ~에게 이름을 주다
   * ruan : 꺼내다, 퇴출시키다, ~으로부터 분리하다 / 외부의 것
     * 조건-1, 만약 ~가 어떤 존재라면 : 빼앗다, 훔치다
     * 조건-2, 만약 주어와 ~가 같다면 : 버리다
@@ -234,6 +235,7 @@
     * harronya : 무감각하다
     * harronruru : 회상하다
     * taruta harron : 트라우마가 있다
+    * nen harron : 맛 보다
   * harni : 보는 건물
   * yonya toihar : 사물이 작은 것을 보다, 현미경
   * ni os ti toihar : 사물이 어떤 것을 본다 어떤 것은 멀다, 망원경
@@ -250,7 +252,10 @@
 * **yon**: 키우다, 성장시키다 / 크다
   * soctaru yon : 넓히다 / 넓다
 * **cor**: 섞다, 돌리다, 순환하다
-* **ner**: 녹이다
+* **ner**: 녹이다 / 부드럽다
+  * nerya : 굳히다 / 굳다, 단단하다, 딱딱하다
+  * cuiner : 천, 직물, 종이
+  * rees cosner : 모래를 불이 녹이다, 유리
 ---
 ### 숫자
 * **한 손의 손가락 5개와 그것 사이의 공간 4개 그리고 손바닥 하나까지 총 10개 사용하며, 10개를 전부 사용할 때마다 반대쪽 손의 손가락 5개, 그것 사이의 공간 4개 그리고 손바닥 하나에 하나씩 배치한다.**
@@ -284,6 +289,17 @@
 * cuirinsa : 열매
 * cosru : 얼음, 차갑다
 * rees yon : 산
+* noryon : 대형 포유류
+* norsaya : 팔다리가 없는 동물
+* raynor : 곤충
+* cosnen : 맵다
+* toorreesnen : 짜다, 소금
+* harrennen : 달콤하다
+* A Bta. A : B의 자식 A
+* A Bta. B : A의 부모 B
+* tasain : 조상, 선조
+* sainyon : 화자보다 나이가 많은 형제, 자매
+* sainyonya : 동생
 * toirin : 무언가가 안에 있다, 가구, 실내 사물
 * toorrees : 진흙
 * soossai : 비행기, 비행물체

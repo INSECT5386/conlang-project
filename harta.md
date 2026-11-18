@@ -287,14 +287,6 @@
 * naniroin roen un rain : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)
 
 **1번 예문**
-
-Nitoi tisirintisi. Titoi tisiruunrinya orun, 'titoi tisiruunrin' ti nasiruunrinya.
-Titoi tisiruunrin orun, 'titoi sirintisi' nasireunru.
-
-Nitoi nasirinnasi orun titoi nasiruunrinruun.
-
-Titoi nasiruunrinya orun, titoi nasirinyanasi. ticon nasitarain orun, titoi nasirinruannasi.
-
 1.Tirinti os SSS('Sarin. Sa Sairinsa' os Nitoi hisitarainruru) sitarainrururin. 'SSS'tarainhi os cayyha un yra. Tihitaru orun, SSS siruunrinya.
 - Nitoi nisirinsi orun, titoi tisiruunrinruun. Titoi tisiruunrinya orun, titoi hirinhi.
 

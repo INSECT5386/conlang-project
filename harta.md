@@ -127,8 +127,8 @@
     * soctaru : 곧게 펴다, 직선으로 만들다, 돕다
       * soctaru ~ruun : ~가 평평한 것을 내려놓다, ~의 바닥
       * soctaru ~raan : ~가 평평한 것을 올려놓다, ~의 천장
-* **yon**: 키우다, 성장시키다
-  * soctaru yon : 넓히다
+* **yon**: 키우다, 성장시키다 / 크다
+  * soctaru yon : 넓히다 / 넓다
 * **ron**: 배치하다
   * roncui : 고정하다, 박다, 매달다, 약속하다
     * ronrurucui : 다시 고정하다, 다시 박다, 약속을 수정하다

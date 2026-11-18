@@ -289,12 +289,12 @@ roin A un B : A와 B사이에 배치하다
 
 **1번 예문**
 
-Nitoi tisirintisi isan, Titoi tisiruunrinya orun, 'titoi tisiruunrin' ti nasiruunrinya.
-Isan, Titoi tisiruunrin orun, 'titoi sirintisi' nasireunru.
+Nitoi tisirintisi. Titoi tisiruunrinya orun, 'titoi tisiruunrin' ti nasiruunrinya.
+Titoi tisiruunrin orun, 'titoi sirintisi' nasireunru.
 
 Nitoi nasirinnasi orun titoi nasiruunrinruun.
 
-Isan, titoi nasiruunrinya orun, titoi nasirinyanasi. ticon nasitarain orun, titoi nasirinruannasi.
+Titoi nasiruunrinya orun, titoi nasirinyanasi. ticon nasitarain orun, titoi nasirinruannasi.
 
 1.Tirinti os SSS('Sarin. Sa Sairinsa' os Nitoi hisitarainruru) sitarainrururin. isan, titarainhi os cayyha un yra. Tihitaru orun, SSS siruunrinya.
 - Nitoi nisirinsi orun, titoi tisiruunrinruun. Titoi tisiruunrinya orun, titoi hirinhi.

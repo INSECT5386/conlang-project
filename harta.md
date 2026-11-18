@@ -343,10 +343,11 @@ Tihihartayahi, 'hisi nisiruunrinnee. tihisi nirurusihar. tinirurusi nasironni os
 하르타들이 일한다. 그 행동을 그 어떤 자가 보았다.
 그때의 밤, '모든 자를 어떤 자가 강제 노동시킨다. 그 모든 자를 다른 자가 본다. 그 다른 자를 내가 보내는 곳은 하르타가 사는 곳이다' 그 행동을 그 어떤 자가 생각했다.
 
-ruunrinnee nisihar. ti hiruunrin rees coscuirenhitoi. ticoscui nisiruannisini os soos hartarinni os cuirinsa rin hartataruyani.
-costaruru un, tini tirincos.
-
-어떤 노예 감시자, 불나무가 그것을 사용하는 모든 것에게 흙을 던진다(오염시킨다). 그 불나무를 그가 버린 곳은 하르타들이 금속을 숨긴 곳인 그들이 과일을 모으는 곳이었다. 불이 다시 살아났고, 그것이 그 건물을 불태웠다.
+Niruruhi, Hisi sihar. tisironni os Hartatarainni.
+Harta tisiharruun. Harta tisiharya. Niruruhi tisiroin yra nihi un yse nihi.
+Yra nihi os Harta tisiharruunhi.
+Yse nihi os Nitoi tisirinsahi.
+Niruruhi os 'Titoi siruunrin. Rees coscuirentisi.' Coscui tisiruunrinhi.
 
 ruunrinnee tisihar. tisiruantisi eca cos.
 tisi nihartarinnee. tisi nirurusirinneeru. tiharta tinirurusitaru.

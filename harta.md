@@ -231,7 +231,7 @@ roin A un B : A와 B사이에 배치하다
       * 접미사형 : ~하기 싫다
     * harreun : 외롭다
     * harroin : 비교하다, 저울질하다
-      * harroin A un B : A와 B를 비교하다, 저울질하다
+      * A un B harroin : A와 B를 비교하다, 저울질하다
     * -rin- -harron : 충족감을 느끼다, 만족감을 느끼다
     * niruan- -harron : 상실감을 느끼다, 박탈감을 느끼다
     * -rinya- -harron : 불만족하다
@@ -312,15 +312,22 @@ Nihi, Sirin. Tisi nisiruunrinni. Siruan. Tisi tinitarutarin. Hitoi Tinisirinharr
 Soos hartarinharta orun, rencui hartatarin.
 Rencui hartaruunrin orun, hitoi hartatarurin.
 Rencui tinisireunya.
-Tinisiharroin yra niruunrin un yse niruunrin.
+Yra niruunrin un yse niruunrin tinisiharroin.
 yra niruunrin os Hisoos tinisiruanharta.
-yse niruunrin os Rencui Hartataruun. Tirencui Hartarinnasi. Ti nai tinisirinharta.
-'Rencui hartaruunrin orun Nasi hartataru.' ticon tinireunru.
-Hisoos tinisiruanharta.
+yse niruunrin os Rencui Hartataruun. Tirencui Hartarinruunnasi. Ti nai tinisirinharta.
+Nicon tinisireunru.
+'Rencui hartaruunrin orun Nasi hartatarurin.'
+Niruruhi, hisoos tinisiruanharta.
 
-
-"나는 모든 것을 지배할 자격이 있다!" 그가 하르타들에게 말했다.
-그가 하르타들을 지배하는 곳을 만들었고, 그는 모든 금속을 빼앗았다. 그 이유는 만약 하르타들이 '번개'를 만든다면, 하르타들이 모든 것을 없앨 수 있기 때문이다.
+금속을 하르타들이 가지면, 하르타들은 번개를 만들 수 있다.
+번개을 하르타들이 사용하면, 모든 것을 하르타들이 부술 수 있다.
+번개를 그 어떤 자는 알고 있었다.
+1 방법과 2 방법을 그 어떤 자가 비교했다.
+1 방법은 그 어떤 자가 모든 금속을 하르타에게서 빼앗는 것이다.
+2 방법은 번개를 하르타들이 만들어야한다. 그 번개를 하르타들이 나에게 주어야한다. 그것을 그 어떤 자가 하르타들에게 말한다(명령한다).
+이 행동을 그 어떤 자는 생각했다.
+'번개를 하르타들이 사용한다면, 나를 하르타들이 죽일 수 있다.'
+다른 날, 모든 금속을 그 어떤 자가 하르타에게서 빼앗았다.
 
 Niruruhi, soos nisiruannisi. tisoos hartarinni os cuirinsa rin hartataruyani.
 Tihi, harta tisiruunrin. ruunrinnee hisihar. hisi tisironni os hartatarainni.

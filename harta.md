@@ -354,7 +354,6 @@ Yse nihi os Nitoi tisirinsahi.
 Tiniruruhi os 'Titoi siruunrin. Rees coscuirentisi.' Ticoscui tisiruunrinhi.
 Tisiruunrinya. Soos rin hartataruyarinhi. Tihiyon.
 
-
 다른 날, 모든 자를 지성체가 감시한다. 그(그 지성체)를 그 어떤 자가 배치한 곳은 하르타들이 사는 곳이었다. 하르타들을 그는 감시해야했다. 하르타들을 그는 감시하지 않았다. 다른 시간을 그가 1 어떤 시간과 2 어떤 시간 사이에 끼워넣었다.
 1 어떤 시간은 하르타들을 그가 감시해야하는 시간이다.
 2 어떤 시간은 어떤 것을 그가 먹는 시간이다.

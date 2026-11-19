@@ -34,10 +34,10 @@
 1. 'A' os 'B' : A는 B이다
 * **2번 활용**
 1. 문장 요소 받아오기.
-* 1. arii nasitaruta. oniarii sainesa. : 내가 공격한 물고기를 새가 먹었다.
+* 1. arii nasitaruta. natiarii sainesa. : 내가 공격한 물고기를 새가 먹었다.
 * 2. arii nasitaruta. nisai nasinesa. : 물고기를 공격한 내가 어떤 새를 먹었다.
-* 3. titahusi. ti~ : 그것이 지성체에 기생한다, 그것이~ -> 지성체에 기생하는 그것이 ~
-* 4. titahusi. si~ : 그것이 지성체에 기생한다, 지성체가~ -> 그것이 기생하는 지성체가 ~
+* 3. natitahusi. nati~ : 그것이 지성체에 기생한다, 그것이~ -> 지성체에 기생하는 그것이 ~
+* 4. natitahusi. si~ : 그것이 지성체에 기생한다, 지성체가~ -> 그것이 기생하는 지성체가 ~
 * **시제의 부재와 대체 요소**
 * 별도의 시제는 존재하지 않으며, 문맥으로 시간을 구분하고, 배치 계열과 Har 계열 접사로 대체됨.
 * **3번 활용**
@@ -48,8 +48,8 @@
 * **4번 활용, 조어**
 1. 범용사만 사용하거나 일부 서술 어근 + 범용사의 조합으로 보이는 모습대로 명사를 만들거나 비슷해 보이는 모양에 은유한다.
 2. 서술 어근의 조합 또는 서술 어근 + 극히 일부적인 범용사의 조합으로 대상의 기능, 실체, 용도, 원리 등을 문장형으로 표현한다.
-* 1. Nitoi Hisicorya. Onitoi Nisitarutahatini. : 어떤 것을 모두가 약속했다. 그것을 어떤 자들이 해당 장소에서 공격할 권리를 가진다. -> 헌법 재판소
-* 2. Nitoi Sineoya orun, Nirurutoi Onisineruhacisi. : 지성체가 어떤 것을 가진다. 그렇다는 조건하에 그 지성체는 다른 것을 버려야한다. -> 기회비용
+* 1. Nitoi Hisicorya. Natitoi Nisitarutahatini. : 어떤 것을 모두가 약속했다. 그것을 어떤 자들이 해당 장소에서 공격할 권리를 가진다. -> 헌법 재판소
+* 2. Nitoi Sinenaya orun, Nirurutoi Natisineruhacisi. : 지성체가 어떤 것을 가진다. 그렇다는 조건하에 그 지성체는 다른 것을 버려야한다. -> 기회비용
 * **문장 구조**
 * O SVni
 * * S가 해당 장소에서 O를 V하다
@@ -299,7 +299,7 @@
 * saintoi : 유전자
 * sainsascira : 피, 혈액
 * sascirarees : 진흙
-* naniron huru un hu : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)
+* niniron huru un hu : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)
 
 **예문**
 

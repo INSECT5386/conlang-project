@@ -202,6 +202,7 @@
     * hatine : 집권시키다, 지도자로 만들다
   * hatira : 공중에 배치하다, 던지다 / 공중의 것, 하늘의 것
     * 규칙2 : 날다
+      * cuihatira : 번개
     * rees hatira~ : ~을 오염시키다, 더럽게 만들다
     * sascira hatira~ : ~을 씻기다, 깨끗하게 만들다
     * hatirata : 밀다, 밀어내다
@@ -292,7 +293,6 @@
 * 100000000 : hihatira
 * 279 : hiyse un caysey un noy
 ### 기초 합성어
-* cui hatira : 번개
 * toi cuita : 무언가를 나무가 만든다, 열매
 * niniron huru un hu : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)
 

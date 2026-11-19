@@ -145,11 +145,11 @@
     * 조건-1, 만약 배경이 땅이나 바닥이라면 : 파다
     * 조건-2, 만약 목적어가 높이가 있는 무언가라면 : 뚫다
     * 조건-3, 만약 목적어가 공간이라면 : 목적어의 문을 열다, 목적어를 개방하다
-  * rinruya : 묻지 않다, 알다, 기억하다
+  * rinruyarees : 묻지 않다, 알다, 기억하다
     * 규칙2 : ~의 자아
-    * tirin rinruya : 이해하다, 파악하다
-    * tiruan rinruya : 아는 척하다
-    * sarinruya : 습관
+    * tirin rinruyarees : 이해하다, 파악하다
+    * tiruan rinruyarees : 아는 척하다
+    * sarinruyarees : 습관
 * **ruan** : 꺼내다, 퇴출시키다, ~으로부터 분리하다 / 외부의 것
   * 조건-1, 만약 ~가 어떤 존재라면 : 빼앗다, 훔치다
   * 조건-2, 만약 주어와 ~가 같다면 : 버리다
@@ -211,7 +211,7 @@
         * 규칙2 : 서다
     * harroen : 열정적이다, 흥미롭다
       * 접미사형 : ~하고 싶다
-      * reunruharroen : 궁금해하다
+      * rinrureesharroen : 궁금해하다
     * harrain : 지루하다, 무기력하다
       * 접미사형 : ~하기 싫다
     * harreun : 외롭다

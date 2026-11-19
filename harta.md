@@ -320,9 +320,9 @@
 
 **예문**
 
-Nihi, Sirin. Tinisi nisiruunrinni. Hitoi Tinisirinharroentinisi. Nini Tinisiruunrinneeta. Hartataraintinini. Harta siruunrinraan. Tisi tinisitaru.
+Nihi, Hitoi Tinisirinharroentinisi. Nini Tinisiruunrinneeta. Hartataraintinini. Harta siruunrinraan. Tisi tinisitaru.
 
-어느날, 내부자. 그 어떤 자가 다스리는 곳. 모든 것을 그 어떤 자는 가지고 싶었다. 어떤 땅을 그 어떤 자가 어떤 곳을 침략했다. 그 어떤 땅에 하르타들이 살았다. 하르타들을 지성체가 다스릴 자격이 있다. 그 어떤 자가 그 지성체를 죽였다.
+어느날, 모든 것을 그 어떤 자는 가지고 싶었다. 어떤 땅을 그 어떤 자가 어떤 곳을 침략했다. 그 어떤 땅에 하르타들이 살았다. 하르타들을 지성체가 다스릴 자격이 있다. 그 어떤 자가 그 지성체를 죽였다.
 
 Soos hartarinharta orun, rencui hartatarin.
 Rencui hartaruunrin orun, hitoi hartatarurin.

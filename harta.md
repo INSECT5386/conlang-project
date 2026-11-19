@@ -32,12 +32,13 @@
 1. 'A' os 'B' : A는 B이다
 * **2번 활용**
 1. 문장 요소 받아오기.
-* 1. arii nasitaruta. natiarii sainesa. : 내가 공격한 물고기를 새가 먹었다.
-* 2. arii nasitaruta. nisai nasinesa. : 물고기를 공격한 내가 어떤 새를 먹었다.
+* 1. arii nayataruta. natiarii sainesa. : 내가 공격한 물고기를 새가 먹었다.
+* 2. arii nayataruta. nisai nayanesa. : 물고기를 공격한 내가 어떤 새를 먹었다.
 * 3. natitahusi. nati~ : 그것이 지성체에 기생한다, 그것이~ -> 지성체에 기생하는 그것이 ~
 * 4. natitahusi. si~ : 그것이 지성체에 기생한다, 지성체가~ -> 그것이 기생하는 지성체가 ~
 * 5. A Bta. A : B의 자식 A
 * 6. A Bta. B : A의 부모/조상 B
+* 7. Natisai Natisitaru. Naticon os Nicon? : 그 새를 그가 죽였다. 그 행동은 어떤 행동인가? (그가 새를 죽인 것에 대해 어떻게 생각하는가?)
 * **시제의 부재와 대체 요소**
 * 별도의 시제는 존재하지 않으며, 문맥으로 시간을 구분하고, 배치 계열과 Har 계열 접사로 대체됨.
 * **3번 활용**

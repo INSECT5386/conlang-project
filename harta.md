@@ -318,8 +318,6 @@ NH(Natinitoi Harhatitahuhi) toiya. Nahi os Hitoitahi.
 
 NH[그 어떤 것을 하르하트가 살려두는 시간] 0. 이 시간이 모든 것이 시작하는 시간이었다.
 
-----
-
 NH Hihatiracayyca un Hihatisey, Harhatitahuhi. Natihitaru.
 
 Harhatineyarees. Ne Natitaru. Nati os Nisi Natitahururu. Han Natinisinenaya os Harta.

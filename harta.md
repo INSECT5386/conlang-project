@@ -242,7 +242,7 @@
   * coryaruru : 다시 고정하다, 다시 박다, 약속을 수정하다
   * toicorrin. toi : 원, 구, 둥글다
   * corrin : 섞다, 휘젓다
-  * corhi : 계절
+  * hicor : 계절
 * **ner**: 녹이다, 부드럽게 만들다
   * nerru : 굳히다, 단단하게 만들다, 딱딱하게 만들다
   * cuiner : 천, 직물, 종이

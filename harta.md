@@ -333,4 +333,6 @@ TH(Tinitoi Harraantarainhi) Toiya. Nahi os Hitoitahi
 하르라안을 모든 공간이 죽이기 직전이었다. 어떤 것을 하르라안이 만들었다. TH(그것을 하르라안이 만든 잔상이 남은 시간) O. 이 시간이 모든 것이 시작하는 시간이었다.
 ----
 TH Cayhitaren.
-TH 1000만. (약 )
+TH 1000만. (우주 탄생 후 약 90억년)
+
+[이후 스토리 구상 중]

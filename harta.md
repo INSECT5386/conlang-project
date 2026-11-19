@@ -307,7 +307,7 @@ Nihi, Nitatoiya. Han Natinenaya. Han os Harhati
 
 Harhatitahutoiya. Hicon Harhatiharhu.
 
-Harhatiharhacita. Hini os Ticon Naticontahururu. Harhati Hinineruharhati.
+Harhatiharhacita. Hini os Tini Naticontahururu. Harhati Hinineruharhati.
 
 Harhati Hinitaruhuru. Nitoi Harhatita. 
 

@@ -163,7 +163,7 @@
   * tiruunrin raan~ : ~에 기록하다
   * tinai raan~ : ~에 녹음하다
   * raancos : 굽다
-  * raanrin : 집권시키다, 지도자로 만들  
+  * raanrin : 집권시키다, 지도자로 만들다
 * **ruun** : 내려놓다 / 아래쪽의 것
   * 접미사형 : ~해야 하는 상태이다
   * ruunnee : 반란을 일으키다, 자리에서 물러나게 하다

@@ -341,13 +341,13 @@ Han Natininenaya os Hiconni.
 
 NH Hihatiracayyca un Hihatisey un yse, Hiconni Yrasihacineerata
 
-Cossai un Soosraynor Yrasihacine.
-Cossai Catirata. Hitoi Cossainecatine.
+Catisai un Soosraynor Yrasihacine.
+Catisai Catirata. Hitoi Catisainecatine.
 
 Soosraynor sascirareesta. Hitoi Soosraynornesa orun, Sitahuhi. Tihi Soosraynornesi.
 
 Cuihatira Hartahacine.
-Cuihatira Hartahata. Hitoi Cuicuntarune.
+Cuihatira Hartahata. Hitoi Cuihatiratarune.
 
 NH 50억 700만, 하르하트의 수명. 그 시간이 죽었다.
 (어떤 것이 빛난다). 그 어떤 것(앞 문장)을 하르하트가 가지고 있다.

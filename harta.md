@@ -296,7 +296,7 @@
 * nicorhi : 가끔, 때때로
 * reunrucor : 아마도
 * nihi : 어떤 시간
-* rencui : 번개
+* cuiren : 번개
 * toi cuicor : 무언가를 나무가 굴리다, 열매
 * cosru : 얼음, 차갑다
 * reesyon : 산

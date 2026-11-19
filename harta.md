@@ -157,11 +157,10 @@
   * haci : 내려놓다, 아래쪽의 것
     * 접미사형 : ~해야 하는 상태이다
     * hacinee : 반란을 일으키다, 자리에서 물러나게 하다
-    * hacine : 지배하다, 노동시키다, 사용하다
-      * hacineni : 운영하는 곳
-      * hacinehi : 운영하는 시간
-      * hacinenee : (노예, 식민지로) 만들다, 착취하다
-        * hacineneeta : (권리, 권력을) 빼앗으려하다, 침략하다
+    * hacine : 노동시키다, 사용하다
+      * hacinera : 지배하다
+        * hacineranee : (노예, 식민지로) 만들다, 착취하다
+          * hacineneerata : (권리, 권력을) 빼앗으려하다, 침략하다
   * hati : 올려놓다 / 위쪽의 것
     * 접미사형 : ~할 권한/자격이 있다
     * onihacine hati~ : ~에 기록하다
@@ -284,7 +283,7 @@
 * hioyasi : 우리
 * sineru : 너
 * niharneru : 어떤 이유, 왜
-* nihane : 어떤 방법, 어떻게
+* nihacine : 어떤 방법, 어떻게
 * nicorhi : 가끔, 때때로
 * nerureescor : 아마도
 * nihi : 어떤 시간

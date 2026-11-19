@@ -322,59 +322,15 @@
 Nihi, Nitatoiya. Han Tinirintini os Harraan.
 Harraantaraintoiya. Hicon Harraanharrain.
 Nitoi Sarinsa. Tisa Harraansa.
-Hiniyon. Harran Tihiniruanta.
-
-Nitoitarainnarees. Hisi Tinitoita.
+Hiniyon. Harran Hiniruanta.
+Harraan Hinitaruroen. Nitoi Harraanta.
+TH(Tinitoi Harraantarainhi) Toiya. Nahi os Hitoitahi
 
 어느날, 어떤 것이 0에서 태어났다. 그것의 이름은 하르라안이다.
 하르라안은 0에서 살았다. 모든 행동을 하르라안이 지겨워했다.
 어떤 것을 신체가 잡는다. 그 신체를 하르라안이 휘둘렀다.
-모든 공간이 스스로 커졌다. 하르라안을 그 공간이 끊었다.
-
-
-Soos hartarinharta orun, rencui hartatarin.
-Rencui hartaruunrin orun, hitoi hartatarurin.
-Rencui tinisireunya.
-Yra niruunrin un yse niruunrin tinisiharroin.
-yra niruunrin os Hisoos tinisiruanharta.
-yse niruunrin os Rencui Hartataruun. Tirencui Hartarinruunnasi. Ti nai tinisirinharta.
-Nacon tinisireunru.
-'Rencui hartaruunrin orun Nasi hartatarurin.'
-Niruruhi, hisoos tinisiruanharta.
-
-금속을 하르타들이 가지면, 하르타들은 번개를 만들 수 있다.
-번개을 하르타들이 사용하면, 모든 것을 하르타들이 부술 수 있다.
-번개를 그 어떤 자는 알고 있었다.
-1 방법과 2 방법을 그 어떤 자가 비교했다.
-1 방법은 그 어떤 자가 모든 금속을 하르타에게서 빼앗는 것이다.
-2 방법은 번개를 하르타들이 만들어야한다. 그 번개를 하르타들이 나에게 주어야한다. 그것을 그 어떤 자가 하르타들에게 말한다(명령한다).
-이 행동을 그 어떤 자는 생각했다.
-'번개를 하르타들이 사용한다면, 나를 하르타들이 죽일 수 있다.'
-다른 날, 모든 금속을 그 어떤 자가 하르타에게서 빼앗았다.
-
-Nitoi nisiruannasi. Ti hartaharron.
-Tihi, Soos Nisiruannisi. Tisoos hartareunrees.
-Soos rin hartataruya. ticon hartataruyahi os nanihartayahi os Hinoy un caysey un yno.
-
-Hartaruunrin. Ticon tinisihar.
-Tihihartayahi, 'hisi nisiruunrinnee. tihisi nirurusihar. tinirurusi nasironni os hartatarainni.' ticon tinisireunru.
-
-어떤 자가 어떤 것을 나에게서 빼앗는다. 그것을 하르타들은 느꼈다.
-그때, 금속을 어떤 자가 버렸다. 그 금속을 하르타들은 땅에 묻었다.
-금속을 하르타들이 모았다. 그 행동을 하르타들이 지속시킨 시간은 밤이고 974번이었다.
-
-하르타들이 일한다. 그 행동을 그 어떤 자가 보았다.
-그때의 밤, '모든 자를 어떤 자가 강제 노동시킨다. 그 모든 자를 다른 자가 본다. 그 다른 자를 내가 보내는 곳은 하르타가 사는 곳이다' 그 행동을 그 어떤 자가 생각했다.
-
-Niruruhi, Hisi sihar. Tisi tinisironni os Hartatarainni.
-Harta tisiharruun. Harta tisiharya. Niruruhi tisiroin yra nihi un yse nihi.
-Yra nihi os Harta tisiharruunhi.
-Yse nihi os Nitoi tisirinsahi.
-Tiniruruhi os 'Titoi siruunrin. Rees coscuirentisi.' Ticoscui tisiruunrinhi.
-Tisiruunrinya. Soos rin hartataruyarinhi. Tihiyon.
-
-다른 날, 모든 자를 지성체가 감시한다. 그(그 지성체)를 그 어떤 자가 배치한 곳은 하르타들이 사는 곳이었다. 하르타들을 그는 감시해야했다. 하르타들을 그는 감시하지 않았다. 다른 시간을 그가 1 어떤 시간과 2 어떤 시간 사이에 끼워넣었다.
-1 어떤 시간은 하르타들을 그가 감시해야하는 시간이다.
-2 어떤 시간은 어떤 것을 그가 먹는 시간이다.
-그 다른 시간은 '그것을 지성체가 사용한다. 불나무가 그 지성체를 오염시킨다.' 그 불나무를 그가 사용하는 시간이다.
-그가 일하지 않았다. 금속을 하르타들이 모을 수 있는 시간. 그 시간이 컸다.
+모든 공간이 스스로 커졌다. 하르라안을 그 공간이 잘랐다.
+하르라안을 모든 공간이 죽이기 직전이었다. 어떤 것을 하르라안이 만들었다. TH(그것을 하르라안이 만든 잔상이 남은 시간) O. 이 시간이 모든 것이 시작하는 시간이었다.
+----
+TH Cayhitaren.
+TH 1000만. (약 )

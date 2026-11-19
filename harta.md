@@ -256,7 +256,7 @@
   * taruta har : 트라우마가 있다
   * sasya har : 만지다
   * harni : 보는 건물
-  * citoi toihar : 현미경
+  * toici toihar : 현미경
   * natitoi toihar : 망원경
   * nacitoi toihar : 돋보기
   * nai har : 듣다

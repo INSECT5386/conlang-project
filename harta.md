@@ -265,6 +265,14 @@
 * oci : 근처에, 가까운
 * ocira : 지금 여기
 * ociya : 먼 곳에, 먼
+* caci : 시원하다
+* cacira : 차갑다, 얼음
+* caciya : 따뜻하다
+* caciyara : 뜨겁다, 불
+* rinya : 곧다, 직선
+* rinci : 완만한 곡선, 조금 굽은
+* rinciya : 가파른 곡선, 많이 굽은
+* rincira : 각, 꺾인
 * ruru : 다시
 * niruru : 다시 어떤 것, 다른 것
 * nasi : 나

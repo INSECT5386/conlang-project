@@ -193,34 +193,33 @@
     * 규칙2 : 빛나다
     * hartani : 비추는 건물
     * hartahi : 비추는 시간, -의 낮
-  * harron : 느끼다
-    * harrin : 소속감을 느끼다
-    * harruan : 배척감을 느끼다
-    * harren : 행복하다
-    * harraan : 우월감을 느끼다, 내려다보다
-      * harraanta : 앉히다, 눕히다
-        * 규칙2 : 앉다, 눕다
-    * harruun : 열등감을 느끼다, 올려다보다
-      * harruunta : 세우다
-        * 규칙2 : 서다
-    * harroen : 열정적이다, 흥미롭다
-      * 접미사형 : ~하고 싶다
-      * rinrureesharroen : 궁금해하다
-    * harrain : 지루하다, 무기력하다
-      * 접미사형 : ~하기 싫다
-    * harreun : 외롭다
-    * harroin : 비교하다, 저울질하다
-      * A un B harroin : A와 B를 비교하다, 저울질하다
-    * -rin- -harron : 충족감을 느끼다, 만족감을 느끼다
-    * -ruan- -harron : 상실감을 느끼다, 박탈감을 느끼다
-    * -rinya- -harron : 불만족하다
-    * -rinruru- -harron : 안도하다
-    * harronru : 냉정하다
-    * harronya : 무감각하다
-    * harronruru : 회상하다
-    * taruta harron : 트라우마가 있다
-    * tes harron : 맛 보다
-    * ner harron : 만지다
+  * harrin : 소속감을 느끼다
+  * harruan : 배척감을 느끼다
+  * harren : 행복하다
+  * harraan : 우월감을 느끼다, 내려다보다
+    * harraanta : 앉히다, 눕히다
+      * 규칙2 : 앉다, 눕다
+  * harruun : 열등감을 느끼다, 올려다보다
+    * harruunta : 세우다
+      * 규칙2 : 서다
+  * harroen : 열정적이다, 흥미롭다
+    * 접미사형 : ~하고 싶다
+    * rinrureesharroen : 궁금해하다
+  * harrain : 지루하다, 무기력하다
+    * 접미사형 : ~하기 싫다
+  * harreun : 외롭다
+  * harroin : 비교하다, 저울질하다
+    * A un B harroin : A와 B를 비교하다, 저울질하다
+  * -rin- -harron : 충족감을 느끼다, 만족감을 느끼다
+  * -ruan- -harron : 상실감을 느끼다, 박탈감을 느끼다
+  * -rinya- -harron : 불만족하다
+  * -rinruru- -harron : 안도하다
+  * harronru : 냉정하다
+  * harronya : 무감각하다
+  * harronruru : 회상하다
+  * taruta harron : 트라우마가 있다
+  * tes harron : 맛 보다
+  * ner harron : 만지다
   * harni : 보는 건물
   * yonya toihar : 사물이 작은 것을 보다, 현미경
   * ni os ti toihar : 사물이 어떤 것을 본다 어떤 것은 멀다, 망원경

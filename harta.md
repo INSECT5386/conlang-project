@@ -254,8 +254,8 @@
 * 36 : cayyha un ray
 * 100 : hi
 * 10000 : hiyon
-* 1000000 : hiharu
-* 100000000 : hicun
+* 1000000 : hihati
+* 100000000 : hihatira
 * 279 : hiyse un caysey un noy
 ### 기초 합성어
 * oya : 자기자신
@@ -287,7 +287,7 @@
 * nicorhi : 가끔, 때때로
 * nerureescor : 아마도
 * nihi : 어떤 시간
-* cuicun : 번개
+* cuihatira : 번개
 * toi cuicor : 무언가를 나무가 굴리다, 열매
 * reesti : 산
 * norti : 대형 포유류
@@ -328,31 +328,31 @@ TH[그 어떤 것을 하르하트가 살려두는 시간] 0. 이 시간이 모�
 
 ----
 
-TH Hicuncayyca un Hiharusey, Harharutahuhi. Tihitaru.
+TH Hihatiracayyca un Hihatisey, Harhatitahuhi. Onihitaru.
 
-Harharuneyarees. Ne Titaru. Ti os Nisi Titahururu. Han Tinisineci os Harta.
+Harhatineyarees. Ne Onitaru. Oni os Nisi Onitahururu. Han Oninisineci os Harta.
 
-Harta Harharuta. Harta Nirurusiharha.
+Harta Harhatita. Harta Nirurusiharhaci.
 Harta Yrasiharharhu.
 
-Nicon Yrasinerurees. "Hiharta Hinasihane orun, Hinasi Hisiharha."
+Nicon Yrasinerurees. "Hiharta Hinasihacinera orun, Hinasi Hisiharhaci."
 
-Tiniharta. Hartatahutini.
-Hicon Nisiharne. Tinisinetini.
-Han Tinineci os Hiconni.
+Oniniharta. Hartatahuonini.
+Hicon Nisiharne. Onisineonini.
+Han Oninineci os Hiconni.
 
-TH Hicuncayyca un Hiharusey un yse, Hiconni Yrasihaneeta
+TH Hihatiracayyca un Hihatisey un yse, Hiconni Yrasihacineerata
 
-Cossai un Soosraynor Yrasihane.
-Cossai Coscunta. Hitoi Cossainecosne.
+Cossai un Soosraynor Yrasihacine.
+Cossai Catirata. Hitoi Cossainecatine.
 
-Soosraynor Toorreesta. Hitoi Soosraynornesa orun, Sitahuhi. Tihi Soosraynornesi.
+Soosraynor sascirareesta. Hitoi Soosraynornesa orun, Sitahuhi. Tihi Soosraynornesi.
 
-Cuicun Hartahane.
-Cuicun Hartahata. Hitoi Cuicuntarurin.
+Cuihatira Hartahacine.
+Cuihatira Hartahata. Hitoi Cuicuntarune.
 
-TH 50억 700만, 하르하루의 수명. 그 시간이 죽었다.
-(어떤 것이 빛난다). 그 어떤 것(앞 문장)을 하르하루가 가지고 있다.
+TH 50억 700만, 하르하트의 수명. 그 시간이 죽었다.
+(어떤 것이 빛난다). 그 어떤 것(앞 문장)을 하르하트가 가지고 있다.
 
 (하르하루의 정신). (그것(앞 문장)이 흩어졌다). (그것(앞 문장)을 어떤 지성체로 그 것(앞 문장)들이 환생시켰다[그것들이 모든 지성체로 환생했다]). 그 어떤 지성체(앞 문장)의 이름은 하르타였다.
 

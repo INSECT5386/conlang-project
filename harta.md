@@ -294,7 +294,6 @@
 * 279 : hiyse un caysey un noy
 ### 기초 합성어
 * toi cuita : 무언가를 나무가 만든다, 열매
-* niniron huru un hu : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)
 
 **예문**
 

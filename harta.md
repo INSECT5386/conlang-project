@@ -258,8 +258,9 @@
 ### 기초 합성어
 * oya : 자기자신
 * oci : 근처에, 가까운
-* ocira : 지금 여기
+* ocira : 지금 여기 이것
 * ociya : 먼 곳에, 먼
+* ona : 그것
 * caci : 시원하다
 * cacira : 차갑다, 얼음
 * caciya : 따뜻하다

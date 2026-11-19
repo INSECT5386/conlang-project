@@ -261,7 +261,7 @@
 * oya : 자기자신
 * oci : 근처에, 가까운
 * ocira : 지금 여기 이것
-* oti : 먼 곳에, 먼
+* oti : 먼 곳에, 먼, 저것
 * oni : 그것
 * caci : 시원하다, 차갑다, 얼음
 * cacira : 가장 차갑다
@@ -305,11 +305,11 @@
 
 **예문**
 
-Nihi, Nitatoiya. Han Tineoya. Tihan os Harhati
+Nihi, Nitatoiya. Han Onineoya. Han os Harhati
 
 Harhatitahutoiya. Hicon Harhatiharhu.
 
-Harhatiharhacita. Hini os Ticon Onicontahururu. Harhati Tinineruharhati.
+Harhatiharhacita. Hini os Ticon Onicontahururu. Harhati Onineruharhati.
 
 Harhati Hinitaruhuru. Nitoi Harhatita. 
 

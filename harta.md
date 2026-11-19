@@ -203,7 +203,7 @@
     * 접미사형 : ~하기 싫다
   * harhuru : 열정적이다, 흥미롭다
     * 접미사형 : ~하고 싶다
-    * nerureesharten : 궁금해하다
+    * nerureesharhuru : 궁금해하다
   * harnerees : 외롭다
   * harron : 비교하다, 저울질하다
     * A un B harron : A와 B를 비교하다, 저울질하다

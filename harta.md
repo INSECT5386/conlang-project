@@ -192,7 +192,7 @@
     * hartani : 비추는 건물
     * hartahi : 비추는 시간, -의 낮
   * harne : 소속감을 느끼다
-  * harneru : 배척감을 느끼다, 점
+  * harneru : 배척감을 느끼다, 고립된 점이다
   * harcun : 행복하다
   * harha : 열등감을 느끼다, 올려다보다
     * harhata : 세우다

@@ -36,6 +36,8 @@
 * 2. arii nasitaruta. nisai nasinesa. : 물고기를 공격한 내가 어떤 새를 먹었다.
 * 3. natitahusi. nati~ : 그것이 지성체에 기생한다, 그것이~ -> 지성체에 기생하는 그것이 ~
 * 4. natitahusi. si~ : 그것이 지성체에 기생한다, 지성체가~ -> 그것이 기생하는 지성체가 ~
+* 5. A Bta. A : B의 자식 A
+* 6. A Bta. B : A의 부모/조상 B
 * **시제의 부재와 대체 요소**
 * 별도의 시제는 존재하지 않으며, 문맥으로 시간을 구분하고, 배치 계열과 Har 계열 접사로 대체됨.
 * **3번 활용**
@@ -293,8 +295,6 @@
 * nihi : 어떤 시간
 * cui hatira : 번개
 * toi cuicor : 무언가를 나무가 굴리다, 열매
-* A Bta. A : B의 자식 A
-* A Bta. B : A의 부모/조상 B
 * niniron huru un hu : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)
 
 **예문**

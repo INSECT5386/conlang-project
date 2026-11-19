@@ -139,8 +139,8 @@
       * 조건2(되찾다, 회수하다)
     * sarin : 신체가 자신을 내부에 두다, 내장
     * rinnee : 가두다, 격리하다, 제한하다
-    * reunya rin~ : ~에게 가르치다
-    * nai rin~ : ~에게 말하다
+    * tiruunrin rin~ : ~에게 가르치다
+    * tinai rin~ : ~에게 말하다
     * rincos : 불태우다
     * rinsa : 먹다, 삼키다
       * 규칙2 : 자가포식하다
@@ -163,8 +163,8 @@
     * rain ruannee : 무시하다, 따돌리다 (harraan 와 달리 수평적인 관계의 문제)
   * raan : 올려놓다 / 위쪽의 것
     * 접미사형 : ~할 권한/자격이 있다
-    * reunya raan~ : ~에 기록하다
-    * nai raan~ : ~에 녹음하다
+    * tiruunrin raan~ : ~에 기록하다
+    * tinai raan~ : ~에 녹음하다
     * raancos : 굽다
     * raanrin : 집권시키다, 지도자로 만들다
   * ruun : 내려놓다 / 아래쪽의 것

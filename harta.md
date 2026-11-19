@@ -295,12 +295,15 @@
 **예문**
 
 Nihi, Nitatoiya. Han Tineti. Tihan os Harharu
+Harharutahutoiya. Hicon Harharuharhu.
+Harharuharhata. Hiniyon. Harharu Tinineruharharu.
+Harharu Hinitaruhuru. Nitoi Harharuta. TH(Tinitoi Harharutahuhi) toiya. Nahi os Hitoitahi.
 
 어느날, 어떤 것이 0에서 태어났다. 그것의 이름은 하르하루이다.
-하르하루는 0에서 살았다. 모든 행동을 하르하루가 지겨워했다.
+하르하루는 0에서 살았다. 모든 행동을 하르하루가 지루해했다.
 하르하루가 일어섰다.
 모든 공간이 스스로 커졌다. 하르하루를 그 공간이 잘랐다.
-하르하루를 모든 공간이 죽이기 직전이었다. 어떤 것을 하르하루가 만들었다. TH(그 어떤 것을 하르하루가 살려둔 시간) 0. 이 시간이 모든 것이 시작하는 시간이었다.
+하르하루를 모든 공간이 죽이기 직전이었다. 어떤 것을 하르하루가 만들었다. TH(그 어떤 것을 하르하루가 살려두는 시간) 0. 이 시간이 모든 것이 시작하는 시간이었다.
 ----
 TH Cayhitaren.
 

@@ -233,10 +233,6 @@
   * toicorne. toi : 원, 구, 둥글다
   * corne : 섞다, 휘젓다
   * hicor : 계절
-
-
-  * cuiner : 천, 직물, 종이
-  * rees cosner : 모래를 불이 녹이다, 유리
 ---
 ### 숫자
 * **한 손의 손가락 5개와 그것 사이의 공간 4개 그리고 손바닥 하나까지 총 10개 사용하며, 10개를 전부 사용할 때마다 반대쪽 손의 손가락 5개, 그것 사이의 공간 4개 그리고 손바닥 하나에 하나씩 배치한다.**
@@ -274,7 +270,9 @@
 * rincira : 각, 꺾인
 * sasya : 딱딱하다, 단단하다, 고체
 * sasciya : 부드럽다
-* sascira : 액체
+* cuisasciya : 나무 섬유, 종이
+* sascira : 흐르다, 액체
+* reessascira : 유리
 * rees os sascira taruru
 * ruru : 다시
 * niruru : 다시 어떤 것, 다른 것

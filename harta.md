@@ -65,7 +65,9 @@
 * **rees** : 흙, 땅
   * reesti : 산
   * sascirarees : 진흙
+  * reessascira : 유리
 * **cui** : 나무
+  * cuisasti : 나무 섬유, 종이
 * **soos** : 금속
 * **sai** : 조류, 새
 * **arii** : 어류, 물고기
@@ -79,12 +81,26 @@
   * catites : 맵다
   * sascirareestes : 짜다, 소금
   * harhatirates : 달콤하다
-| | tes | 맛 |
-| | sain | 가족, 혈연 |
-| | han | 이름, 상징 |
-| | na | 거리 |
-| | rin | 선이 구부러진 정도 |
-| | sas | 부드러운 정도 |
+* **sain** : 가족
+  * sainti : 화자보다 나이가 많은 형제, 자매
+  * sainci : 동생
+  * saintoi : 유전자
+* **han** : 이름, 상징
+* **na** : 거리
+  * naya : 자기자신
+    * hinaya : 우리
+  * naci : 근처에, 가까운
+    * nacira : 지금 여기 이것
+  * nati : 먼 곳에, 먼, 저것, 그것
+* **rin** : 선이 구부러진 정도
+  * rinya : 곧다, 직선
+  * rinci : 완만한 곡선, 조금 굽은
+    * rincira : 각, 꺾인
+  * rinti : 가파른 곡선, 많이 굽은
+* **sas** : 부드러운 정도
+  * sasya : 딱딱하다, 단단하다, 고체
+  * sasti : 부드럽다
+  * sascira : 흐르다, 액체
 | | hi | 접미사형 : 시간 / 접두사형 : 모든, 전체의 |
 | | ni | 접미사형 : 공간 / 접두사형 : 어떤 |
 | | toi | 무언가 |
@@ -267,20 +283,6 @@
 * 100000000 : hihatira
 * 279 : hiyse un caysey un noy
 ### 기초 합성어
-* naya : 자기자신
-* hinaya : 우리
-* naci : 근처에, 가까운
-* nacira : 지금 여기 이것
-* nati : 먼 곳에, 먼, 저것, 그것
-* rinya : 곧다, 직선
-* rinci : 완만한 곡선, 조금 굽은
-* rinti : 가파른 곡선, 많이 굽은
-* rincira : 각, 꺾인
-* sasya : 딱딱하다, 단단하다, 고체
-* sasti : 부드럽다
-* cuisasti : 나무 섬유, 종이
-* sascira : 흐르다, 액체
-* reessascira : 유리
 * ruru : 다시
 * niruru : 다시 어떤 것, 다른 것
 * sineru : 너
@@ -293,9 +295,6 @@
 * toi cuicor : 무언가를 나무가 굴리다, 열매
 * A Bta. A : B의 자식 A
 * A Bta. B : A의 부모/조상 B
-* sainti : 화자보다 나이가 많은 형제, 자매
-* sainci : 동생
-* saintoi : 유전자
 * sainsascira : 피, 혈액
 * niniron huru un hu : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)
 

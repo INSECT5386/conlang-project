@@ -327,6 +327,11 @@ Han Tinineci os Hiconni.
 
 TH Hicuncayyca un Hiharusey un yse, Hiconni Yrasihaneeta
 
+Cossai un Soosraynor Yrasihane.
+Cossai Coscunta. Hitoi Cossainecosne.
+
+Soosraynor Toorreesta. Hitoi Soosraynornesa orun, Sitahuhi. Tihi Soosraynornesi.
+
 TH 50억 700만, 하르하루의 수명. 그 시간이 죽었다.
 (어떤 것이 빛난다). 그 어떤 것(앞 문장)을 하르하루가 가지고 있다.
 
@@ -340,5 +345,8 @@ TH 50억 700만, 하르하루의 수명. 그 시간이 죽었다.
 (모든 행동을 어떤 자들이 볼 수 있다). 그 어떤 자들(앞 문장)이 그곳에 참여한다. 그 장소의 이름은 모든 행동의 장소였다.
 
 TH 50억 700만 2, 모든 행동의 장소를 첫 번째 지성체들이 침략했다.
+불새와 금속 곤충을 첫 번째 지성체들은 사용했다.
+(불새를 항성이 만들었다). 모든 것을 불새(앞 문장)는 불태울 수 있었다.
+(금속 곤충을 진흙이 만들었다). 모든 것을 금속 곤충(앞 문장)이 먹는 조건하에, (지성체의 수명). 그 시간(앞 문장)을 금속 곤충이 지성체에게 주었다.
 
 [이후 스토리 구상 중]

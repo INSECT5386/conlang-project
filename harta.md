@@ -304,7 +304,9 @@ Harharu Hinitaruhuru. Nitoi Harharuta. TH(Tinitoi Harharutahuhi) toiya. Nahi os 
 하르하루가 일어섰다.
 모든 공간이 스스로 커졌다. 하르하루를 그 공간이 잘랐다.
 하르하루를 모든 공간이 죽이기 직전이었다. 어떤 것을 하르하루가 만들었다. TH(그 어떤 것을 하르하루가 살려두는 시간) 0. 이 시간이 모든 것이 시작하는 시간이었다.
+
 ----
-TH Cayhitaren.
+
+
 
 [이후 스토리 구상 중]

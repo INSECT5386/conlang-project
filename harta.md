@@ -160,7 +160,7 @@
     * hacine : 노동시키다, 사용하다
       * hacinera : 지배하다
         * hacineranee : (노예, 식민지로) 만들다, 착취하다
-          * hacineneerata : (권리, 권력을) 빼앗으려하다, 침략하다
+          * hacineraneeta : (권리, 권력을) 빼앗으려하다, 침략하다
   * hati : 올려놓다 / 위쪽의 것
     * 접미사형 : ~할 권한/자격이 있다
     * natihacine hati~ : ~에 기록하다
@@ -339,7 +339,7 @@ Natiniharta. Hartatahunatini.
 Hicon Nisiharne. Natisinenatini.
 Han Natininenaya os Hiconni.
 
-NH Hihatiracayyca un Hihatisey un yse, Hiconni Yrasihacineerata
+NH Hihatiracayyca un Hihatisey un yse, Hiconni Yrasihacineraneeta
 
 Catisai un Soosraynor Yrasihacine.
 Catisai Catirata. Hitoi Catisainecatine.

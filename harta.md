@@ -332,6 +332,9 @@ Cossai Coscunta. Hitoi Cossainecosne.
 
 Soosraynor Toorreesta. Hitoi Soosraynornesa orun, Sitahuhi. Tihi Soosraynornesi.
 
+Cuicun Hartahane.
+Cuicun Hartahata. Hitoi Cuicuntarurin.
+
 TH 50억 700만, 하르하루의 수명. 그 시간이 죽었다.
 (어떤 것이 빛난다). 그 어떤 것(앞 문장)을 하르하루가 가지고 있다.
 
@@ -348,5 +351,8 @@ TH 50억 700만 2, 모든 행동의 장소를 첫 번째 지성체들이 침략�
 불새와 금속 곤충을 첫 번째 지성체들은 사용했다.
 (불새를 항성이 만들었다). 모든 것을 불새(앞 문장)는 불태울 수 있었다.
 (금속 곤충을 진흙이 만들었다). 모든 것을 금속 곤충(앞 문장)이 먹는 조건하에, (지성체의 수명). 그 시간(앞 문장)을 금속 곤충이 지성체에게 주었다.
+
+번개를 하르타들은 사용했다.
+(번개를 하르타들이 만들었다). 모든 것을 번개(앞 문장)가 부술 수 있다.
 
 [이후 스토리 구상 중]

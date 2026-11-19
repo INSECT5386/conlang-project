@@ -278,8 +278,8 @@
 * rees os sascira taruru
 * ruru : 다시
 * niruru : 다시 어떤 것, 다른 것
-* nasi : 나
-* hinasi : 우리
+* oyasi : 나
+* hioyasi : 우리
 * sineru : 너
 * niharneru : 어떤 이유, 왜
 * nihane : 어떤 방법, 어떻게

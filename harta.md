@@ -59,7 +59,7 @@
 * * S가 해당 시간에 O를 V하다
 * O Sron(-aa-, -uu-, -ua-, -i-, -e-, -oe-, -ai-)~
 * * S가 ~의 ()에 O를 배치하다
-* O SV(ron, rin, ruan, ren, raan, ruun, roen, rain, reun, roin)~
+* O SV(ron, rin, ruan, ren, raan, ruun, roen, rain, rinrees, roin)~
 * * S가 ~의 ()에서 O를 V하다
 ## 품사별 단어
 | 분류 | 형태 | 뜻 |

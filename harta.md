@@ -72,7 +72,7 @@
 | | tes | 맛 |
 | | sain | 가족, 혈연 |
 | | han | 이름, 상징 |
-| | o | 거리 |
+| | na | 거리 |
 | | rin | 선이 구부러진 정도 |
 | | sas | 부드러운 정도 |
 | | hi | 접미사형 : 시간 / 접두사형 : 모든, 전체의 |
@@ -258,11 +258,11 @@
 * 100000000 : hihatira
 * 279 : hiyse un caysey un noy
 ### 기초 합성어
-* oya : 자기자신
-* oci : 근처에, 가까운
-* ocira : 지금 여기 이것
-* oti : 먼 곳에, 먼, 저것
-* oni : 그것
+* naya : 나
+* hinaya : 우리
+* naci : 근처에, 가까운
+* nacira : 지금 여기 이것
+* nati : 먼 곳에, 먼, 저것, 그것
 * caci : 시원하다, 차갑다, 얼음
 * cacira : 가장 차갑다
 * cati : 따뜻하다, 뜨겁다, 불
@@ -279,8 +279,6 @@
 * reessascira : 유리
 * ruru : 다시
 * niruru : 다시 어떤 것, 다른 것
-* oyasi : 나
-* hioyasi : 우리
 * sineru : 너
 * niharneru : 어떤 이유, 왜
 * nihacine : 어떤 방법, 어떻게

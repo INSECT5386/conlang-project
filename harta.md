@@ -195,12 +195,13 @@
     * hartahi : 비추는 시간, -의 낮
   * harne : 소속감을 느끼다
   * harneru : 배척감을 느끼다, 고립된 점이다
-  * harcun : 행복하다
-  * harha : 열등감을 느끼다, 올려다보다
-    * harhata : 세우다
+  * harhatira : 행복하다
+    * harhatirates : 달콤하다
+  * harhaci : 열등감을 느끼다, 올려다보다
+    * harhacita : 세우다
       * 규칙2 : 서다
-  * harharu : 우월감을 느끼다, 내려다보다
-    * harharuta : 앉히다, 눕히다
+  * harhati : 우월감을 느끼다, 내려다보다
+    * harhatita : 앉히다, 눕히다
       * 규칙2 : 앉다, 눕다
   * harhu : 지루하다, 무기력하다
     * 접미사형 : ~하기 싫다
@@ -265,6 +266,7 @@
 * caci : 시원하다, 차갑다, 얼음
 * cacira : 가장 차갑다
 * cati : 따뜻하다, 뜨겁다, 불
+* catites : 맵다
 * catira : 항성
 * rinya : 곧다, 직선
 * rinci : 완만한 곡선, 조금 굽은
@@ -291,9 +293,7 @@
 * norti : 대형 포유류
 * norsaya : 팔다리가 없는 동물
 * raynor : 곤충
-* catites : 맵다
 * sascirareestes : 짜다, 소금
-* harcuntes : 달콤하다
 * A Bta. A : B의 자식 A
 * A Bta. B : A의 부모/조상 B
 * sainti : 화자보다 나이가 많은 형제, 자매

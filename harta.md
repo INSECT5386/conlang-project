@@ -265,8 +265,8 @@
 * ruru : 다시
 * niruru : 다시 어떤 것, 다른 것
 * nasi : 나
-* siten : 너
-* niharten : 어떤 이유, 왜
+* sineru : 너
+* niharneru : 어떤 이유, 왜
 * nihane : 어떤 방법, 어떻게
 * nicorhi : 가끔, 때때로
 * nerureescor : 아마도

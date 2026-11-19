@@ -303,15 +303,15 @@
 
 **예문**
 
-Nihi, Nitatoiya. Han Onineoya. Han os Harhati
+Nihi, Nitatoiya. Han Natinenaya. Han os Harhati
 
 Harhatitahutoiya. Hicon Harhatiharhu.
 
-Harhatiharhacita. Hini os Ticon Onicontahururu. Harhati Onineruharhati.
+Harhatiharhacita. Hini os Ticon Naticontahururu. Harhati Onineruharhati.
 
 Harhati Hinitaruhuru. Nitoi Harhatita. 
 
-TH(Tinitoi Harhatitahuhi) toiya. Nahi os Hitoitahi.
+NH(Natinitoi Harhatitahuhi) toiya. Nahi os Hitoitahi.
 
 어느날, 어떤 것이 0에서 태어났다. 그것의 이름은 하르하트이다.
 
@@ -322,11 +322,11 @@ TH(Tinitoi Harhatitahuhi) toiya. Nahi os Hitoitahi.
 
 하르하트를 모든 공간이 죽이기 직전이었다. 어떤 것을 하르하트가 만들었다. 
 
-TH[그 어떤 것을 하르하트가 살려두는 시간] 0. 이 시간이 모든 것이 시작하는 시간이었다.
+NH[그 어떤 것을 하르하트가 살려두는 시간] 0. 이 시간이 모든 것이 시작하는 시간이었다.
 
 ----
 
-TH Hihatiracayyca un Hihatisey, Harhatitahuhi. Onihitaru.
+NH Hihatiracayyca un Hihatisey, Harhatitahuhi. Onihitaru.
 
 Harhatineyarees. Ne Onitaru. Oni os Nisi Onitahururu. Han Oninisineci os Harta.
 
@@ -339,7 +339,7 @@ Oniniharta. Hartatahuonini.
 Hicon Nisiharne. Onisineonini.
 Han Oninineci os Hiconni.
 
-TH Hihatiracayyca un Hihatisey un yse, Hiconni Yrasihacineerata
+NH Hihatiracayyca un Hihatisey un yse, Hiconni Yrasihacineerata
 
 Cossai un Soosraynor Yrasihacine.
 Cossai Catirata. Hitoi Cossainecatine.
@@ -349,7 +349,7 @@ Soosraynor sascirareesta. Hitoi Soosraynornesa orun, Sitahuhi. Tihi Soosraynorne
 Cuihatira Hartahacine.
 Cuihatira Hartahata. Hitoi Cuicuntarune.
 
-TH 50억 700만, 하르하트의 수명. 그 시간이 죽었다.
+NH 50억 700만, 하르하트의 수명. 그 시간이 죽었다.
 (어떤 것이 빛난다). 그 어떤 것(앞 문장)을 하르하트가 가지고 있다.
 
 (하르하루의 정신). (그것(앞 문장)이 흩어졌다). (그것(앞 문장)을 어떤 지성체로 그 것(앞 문장)들이 환생시켰다[그것들이 모든 지성체로 환생했다]). 그 어떤 지성체(앞 문장)의 이름은 하르타였다.
@@ -361,7 +361,7 @@ TH 50억 700만, 하르하트의 수명. 그 시간이 죽었다.
 (그 곳은 빛난다). 하르타들이 그곳(앞 문장)에서 살았다.
 (모든 행동을 어떤 자들이 볼 수 있다). 그 어떤 자들(앞 문장)이 그곳에 참여한다. 그 장소의 이름은 모든 행동의 장소였다.
 
-TH 50억 700만 2, 모든 행동의 장소를 첫 번째 지성체들이 침략했다.
+NH 50억 700만 2, 모든 행동의 장소를 첫 번째 지성체들이 침략했다.
 불새와 금속 곤충을 첫 번째 지성체들은 사용했다.
 (불새를 항성이 만들었다). 모든 것을 불새(앞 문장)는 불태울 수 있었다.
 (금속 곤충을 진흙이 만들었다). 모든 것을 금속 곤충(앞 문장)이 먹는 조건하에, (지성체의 수명). 그 시간(앞 문장)을 금속 곤충이 지성체에게 주었다.

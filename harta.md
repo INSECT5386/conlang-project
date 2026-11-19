@@ -299,7 +299,7 @@
 
 **예문**
 
-Nihi, Nitatoiya. Han Tineti. Tihan os Harharu
+Nihi, Nitatoiya. Han Tineci. Tihan os Harharu
 Harharutahutoiya. Hicon Harharuharhu.
 Harharuharhata. Hiniyon. Harharu Tinineruharharu.
 Harharu Hinitaruhuru. Nitoi Harharuta. TH(Tinitoi Harharutahuhi) toiya. Nahi os Hitoitahi.

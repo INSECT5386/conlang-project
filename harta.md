@@ -307,7 +307,7 @@ Nihi, Nitatoiya. Han Natinenaya. Han os Harhati
 
 Harhatitahutoiya. Hicon Harhatiharhu.
 
-Harhatiharhacita. Hini os Ticon Naticontahururu. Harhati Onineruharhati.
+Harhatiharhacita. Hini os Ticon Naticontahururu. Harhati Hinineruharhati.
 
 Harhati Hinitaruhuru. Nitoi Harhatita. 
 
@@ -344,7 +344,7 @@ NH Hihatiracayyca un Hihatisey un yse, Hiconni Yrasihacineerata
 Catisai un Soosraynor Yrasihacine.
 Catisai Catirata. Hitoi Catisainecatine.
 
-Soosraynor sascirareesta. Hitoi Soosraynornesa orun, Sitahuhi. Tihi Soosraynornesi.
+Soosraynor sascirareesta. Hitoi Soosraynornesa orun, Sitahuhi. Natihi Soosraynornesi.
 
 Cuihatira Hartahacine.
 Cuihatira Hartahata. Hitoi Cuihatiratarune.

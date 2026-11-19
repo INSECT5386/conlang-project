@@ -85,11 +85,12 @@
   * sainti : 화자보다 나이가 많은 형제, 자매
   * sainci : 동생
   * saintoi : 유전자
+  * sainsascira : 피, 혈액
 * **han** : 이름, 상징
 * **na** : 거리
   * naya : 자기자신
     * hinaya : 우리
-  * naci : 근처에, 가까운
+  * naci : 근처에, 가까운, 너
     * nacira : 지금 여기 이것
   * nati : 먼 곳에, 먼, 저것, 그것
 * **rin** : 선이 구부러진 정도
@@ -285,7 +286,6 @@
 ### 기초 합성어
 * ruru : 다시
 * niruru : 다시 어떤 것, 다른 것
-* sineru : 너
 * niharneru : 어떤 이유, 왜
 * nihacine : 어떤 방법, 어떻게
 * nicorhi : 가끔, 때때로
@@ -295,7 +295,6 @@
 * toi cuicor : 무언가를 나무가 굴리다, 열매
 * A Bta. A : B의 자식 A
 * A Bta. B : A의 부모/조상 B
-* sainsascira : 피, 혈액
 * niniron huru un hu : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)
 
 **예문**

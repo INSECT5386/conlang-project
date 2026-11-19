@@ -81,6 +81,7 @@
 | | con | 행동, 상황, 상태 |
 | | si | 적응체 또는 지성체 |
 | | ci | 작은 |
+| | ti | 큰 |
 | 접미사 | -nee | 몰래, 강제로 |
 | | -ya | 을 하지 않다 |
 | | -ru | 을 되돌리다 |
@@ -123,7 +124,7 @@
   * nenee : 가두다, 격리하다, 제한하다
   * tihane ne~ : ~에게 가르치다
   * tinai ne~ : ~에게 말하다
-  * necos : 불태우다
+  * necatira : 불태우다
   * nesa : 먹다, 삼키다
     * 규칙2 : 자가포식하다
     * netasa : 씹다, 깨물다
@@ -163,7 +164,7 @@
     * 접미사형 : ~할 권한/자격이 있다
     * tihane haru~ : ~에 기록하다
     * tinai haru~ : ~에 녹음하다
-    * harucos : 굽다
+    * harucatira : 굽다
     * harune : 집권시키다, 지도자로 만들다
 * **cun** : 공중에 배치하다, 던지다 / 공중의 것, 하늘의 것
   * 규칙2 : 날다
@@ -171,7 +172,7 @@
   * toor cun~ : ~을 씻기다, 깨끗하게 만들다
   * cunta : 밀다, 밀어내다
     * 규칙2 : 뛰다, 도약하다
-  * coscun : 항성, 별
+  * catiracun : 항성, 별
 * **hu** : 뒤에 놓다, 숨기다, 보호하다 / 뒤쪽의 것
   * 접미사형 : ~한 결과를 보존하다, ~한 잔상이 남아있다
   * 활용2 : X는 Y를 보호할 수 있는 기관이 있다
@@ -219,9 +220,9 @@
   * taruta har : 트라우마가 있다
   * ner har : 만지다
   * harni : 보는 건물
-  * yonya toihar : 사물이 작은 것을 보다, 현미경
-  * ni os ti toihar : 사물이 어떤 것을 본다 어떤 것은 멀다, 망원경
-  * ni os na toihar : 사물이 어떤 것을 본다 어떤 것은 가깝다, 돋보기
+  * citoi toihar : 현미경
+  * ociyatoi toihar : 망원경
+  * ocitoi toihar : 돋보기
   * nai har : 듣다
   * rio har : 맡다
 * **sa**: 휘두르다, 흔들다 / 신체
@@ -259,19 +260,19 @@
 * oya : 자기자신
 * oci : 근처에, 가까운
 * ocira : 지금 여기 이것
-* ociya : 먼 곳에, 먼
+* oti : 먼 곳에, 먼
 * oni : 그것
 * caci : 시원하다
 * cacira : 차갑다, 얼음
-* caciya : 따뜻하다
-* caciyara : 뜨겁다, 불
+* cati : 따뜻하다
+* catira : 뜨겁다, 불
 * rinya : 곧다, 직선
 * rinci : 완만한 곡선, 조금 굽은
-* rinciya : 가파른 곡선, 많이 굽은
+* rinti : 가파른 곡선, 많이 굽은
 * rincira : 각, 꺾인
 * sasya : 딱딱하다, 단단하다, 고체
-* sasciya : 부드럽다
-* cuisasciya : 나무 섬유, 종이
+* sasti : 부드럽다
+* cuisasti : 나무 섬유, 종이
 * sascira : 흐르다, 액체
 * reessascira : 유리
 * rees os sascira taruru
@@ -287,17 +288,17 @@
 * nihi : 어떤 시간
 * cuicun : 번개
 * toi cuicor : 무언가를 나무가 굴리다, 열매
-* reesyon : 산
-* noryon : 대형 포유류
+* reesti : 산
+* norti : 대형 포유류
 * norsaya : 팔다리가 없는 동물
 * raynor : 곤충
-* caciyates : 맵다
+* catites : 맵다
 * toorreestes : 짜다, 소금
 * harcuntes : 달콤하다
 * A Bta. A : B의 자식 A
 * A Bta. B : A의 부모/조상 B
-* sainyon : 화자보다 나이가 많은 형제, 자매
-* sainyonya : 동생
+* sainti : 화자보다 나이가 많은 형제, 자매
+* sainci : 동생
 * saintoi : 유전자
 * saintoor : 피, 혈액
 * toine : 무언가가 안에 있다, 가구, 실내 사물

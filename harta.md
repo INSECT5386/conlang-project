@@ -157,7 +157,7 @@
     * haneni : 운영하는 곳
     * hanehi : 운영하는 시간
     * hanenee : (노예, 식민지로) 만들다, 착취하다
-      * haneneeta : (권리, 권력을) 빼앗다, 침략하다
+      * haneneeta : (권리, 권력을) 빼앗으려하다, 침략하다
   * haru : 올려놓다 / 위쪽의 것
     * 접미사형 : ~할 권한/자격이 있다
     * tihane haru~ : ~에 기록하다
@@ -321,6 +321,12 @@ Harta Yrasiharharhu.
 
 Nicon Yrasinerurees. "Hiharta Hinasihane orun, Hinasi Hisiharha."
 
+Tiniharta. Hartatahutini.
+Hicon Nisiharne. Tinisinetini.
+Han Tinineci os Hiconni.
+
+ Yrasihaneeta
+
 TH 50억 700만, 하르하루의 수명. 그 시간이 죽었다.
 (어떤 것이 빛난다). 그 어떤 것(앞 문장)을 하르하루가 가지고 있다.
 
@@ -329,5 +335,8 @@ TH 50억 700만, 하르하루의 수명. 그 시간이 죽었다.
 (하르타들을 하르하루가 만들었다). 하르타(앞 문장)들을 다른 지성체들이 올려다보았다. 하지만, 하르타들을 첫 번째 지성체들은 보기 싫었다.
 
 어떤 행동을 첫 번째 지성체들이 생각했다. "모든 하르타들을 우리가 지배한다면, 우리를 모든 지성체가 올려다본다."
+
+(그 곳은 빛난다). 하르타들이 그곳(앞 문장)에서 살았다.
+(모든 행동을 어떤 자들이 볼 수 있다). 그 어떤 자들(앞 문장)이 그곳에 참여한다. 그 장소의 이름은 모든 행동의 장소였다.
 
 [이후 스토리 구상 중]

@@ -236,11 +236,11 @@
       * soctaru ~raan : ~가 평평한 것을 올려놓다, ~의 천장
 * **yon**: 키우다, 성장시키다 / 크다
   * soctaru yon : 넓히다 / 넓다
-* **cor**: 굴리다, 돌리다, 둥글게 만들다
+* **cor**: 굴리다
   * corya : 고정하다, 박다, 약속하다
   * coryaru : 뽑아내다, 약속을 없애다
   * coryaruru : 다시 고정하다, 다시 박다, 약속을 수정하다
-  * toi cor. toi : 굴려진 사물, 원, 공, 구
+  * toicorrin. toi : 원, 구, 둥글다
   * corrin : 섞다, 휘젓다
   * corhi : 계절
 * **ner**: 녹이다, 부드럽게 만들다

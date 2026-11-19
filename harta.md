@@ -303,7 +303,7 @@
 * harrentes : 달콤하다
 * A Bta. A : B의 자식 A
 * A Bta. B : A의 부모 B
-* tasain : 조상, 선조
+* sain Ata : 혈연을 시작한 A, 조상인 A
 * sainyon : 화자보다 나이가 많은 형제, 자매
 * sainyonya : 동생
 * saintoi : 유전자

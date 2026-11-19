@@ -75,6 +75,7 @@
   * reessascira : 유리
 * **cui** : 나무
   * cuisasti : 나무 섬유, 종이
+  * toi cuita : 과일, 열매
 * **soos** : 금속
 * **sai** : 조류, 새
 * **arii** : 어류, 물고기
@@ -292,9 +293,6 @@
 * 1000000 : hihati
 * 100000000 : hihatira
 * 279 : hiyse un caysey un noy
-### 기초 합성어
-* toi cuita : 무언가를 나무가 만든다, 열매
-
 ## 예문
 
 Nihi, Nitatoiya. Han Natinenaya. Han os Harhati

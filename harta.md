@@ -121,6 +121,7 @@
   * neruru : 다시 넣다, 재참여시키다
     * 조건2(되찾다, 회수하다)
   * sane : 신체가 자신을 내부에 두다, 내장
+  * toine : 가구, 실내 사물
   * nenee : 가두다, 격리하다, 제한하다
   * onihane ne~ : ~에게 가르치다
   * oninai ne~ : ~에게 말하다
@@ -300,7 +301,6 @@
 * sainci : 동생
 * saintoi : 유전자
 * sainsascira : 피, 혈액
-* toine : 무언가가 안에 있다, 가구, 실내 사물
 * sascirarees : 진흙
 * naniron huru un hu : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)
 

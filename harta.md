@@ -307,8 +307,7 @@
 * toorreestes : 짜다, 소금
 * harrentes : 달콤하다
 * A Bta. A : B의 자식 A
-* A Bta. B : A의 부모 B
-* sain Ata : 혈연을 시작한 A, 조상인 A
+* A Bta. B : A의 부모/조상 B
 * sainyon : 화자보다 나이가 많은 형제, 자매
 * sainyonya : 동생
 * saintoi : 유전자
@@ -320,6 +319,17 @@
 
 **예문**
 
+Nihi, Nitatoiya. Han Tinirintini os Harraan.
+Harraantaraintoiya. Hicon Harraanharrain.
+Nitoi Sarinsa. Tisa Harraansa.
+Hiniyon. Harran Tihiniruanta.
+
+Nitoitarainnarees. Hisi Tinitoita.
+
+어느날, 어떤 것이 0에서 태어났다. 그것의 이름은 하르라안이다.
+하르라안은 0에서 살았다. 모든 행동을 하르라안이 지겨워했다.
+어떤 것을 신체가 잡는다. 그 신체를 하르라안이 휘둘렀다.
+모든 공간이 스스로 커졌다. 하르라안을 그 공간이 끊었다.
 
 
 Soos hartarinharta orun, rencui hartatarin.

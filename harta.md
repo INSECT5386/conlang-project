@@ -57,18 +57,30 @@
 * * S가 해당 시간에 O를 V하다
 * O SV(ne, neru, haci, hati, hatira, hu, huru, nerees, ron)~
 * * S가 ~의 ()에서 O를 V하다
-## 품사별 단어
-| 분류 | 형태 | 뜻 |
-| --- | ---| --- |
-| 범용사 | ca | 열 |
-| | rees | 흙, 땅, 지구 |
-| | cui | 나무 |
-| | soos | 금속 |
-| | sai | 조류, 새 |
-| | arii | 어류, 물고기 |
-| | nor | 짐승, 육상 동물 |
-| | nai | 소리, 파동 |
-| | rio | 냄새, 공기 |
+
+## 사전
+**ca** : 열
+  * caci : 시원하다, 차갑다, 얼음
+    * cacira : 가장 차갑다
+  * cati : 따뜻하다, 뜨겁다, 불
+    * catira : 항성
+* **rees** : 흙, 땅
+  * reesti : 산
+  * sascirarees : 진흙
+* **cui** : 나무
+* **soos** : 금속
+* **sai** : 조류, 새
+* **arii** : 어류, 물고기
+* **nor** : 짐승, 육상 동물
+  * norti : 대형 포유류
+  * norsaya : 팔다리가 없는 동물
+  * raynor : 곤충
+* **nai** : 소리, 파동
+* **rio** : 냄새, 공기
+* **tes** : 맛
+  * catites : 맵다
+  * sascirareestes : 짜다, 소금
+  * harhatirates : 달콤하다
 | | tes | 맛 |
 | | sain | 가족, 혈연 |
 | | han | 이름, 상징 |
@@ -90,7 +102,7 @@
 | 접속사, 접속 부사 | un | 그리고, 추가적으로 |
 | | orun | 그렇다는 조건하에, 그러면 |
 ---
-## 사전
+
 * **ta** : 시작하다, 탄생시키다
   * 접미사형 : 을 하려고 시도하다
   * 규칙2 : 자연적으로 발생하다
@@ -196,7 +208,6 @@
   * harne : 소속감을 느끼다
   * harneru : 배척감을 느끼다, 고립된 점이다
   * harhatira : 행복하다
-    * harhatirates : 달콤하다
   * harhaci : 열등감을 느끼다, 올려다보다
     * harhacita : 세우다
       * 규칙2 : 서다
@@ -263,11 +274,6 @@
 * naci : 근처에, 가까운
 * nacira : 지금 여기 이것
 * nati : 먼 곳에, 먼, 저것, 그것
-* caci : 시원하다, 차갑다, 얼음
-* cacira : 가장 차갑다
-* cati : 따뜻하다, 뜨겁다, 불
-* catites : 맵다
-* catira : 항성
 * rinya : 곧다, 직선
 * rinci : 완만한 곡선, 조금 굽은
 * rinti : 가파른 곡선, 많이 굽은
@@ -285,20 +291,14 @@
 * nicorhi : 가끔, 때때로
 * nerureescor : 아마도
 * nihi : 어떤 시간
-* cuihatira : 번개
+* cui hatira : 번개
 * toi cuicor : 무언가를 나무가 굴리다, 열매
-* reesti : 산
-* norti : 대형 포유류
-* norsaya : 팔다리가 없는 동물
-* raynor : 곤충
-* sascirareestes : 짜다, 소금
 * A Bta. A : B의 자식 A
 * A Bta. B : A의 부모/조상 B
 * sainti : 화자보다 나이가 많은 형제, 자매
 * sainci : 동생
 * saintoi : 유전자
 * sainsascira : 피, 혈액
-* sascirarees : 진흙
 * niniron huru un hu : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)
 
 **예문**

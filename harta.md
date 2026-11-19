@@ -102,8 +102,8 @@
       * 규칙2 : 거주하는 건물
     * tahuhi : 살리는/지속시키는 시간
       * 규칙2 : ~의 수명
-    * -- -ne~. onicon tahu : --를 -가 ~에 넣는/참여시키는 행동을 지속시킨다, 모으다, 누적시키다
-      * -- -neta~. onicon tahu : 사냥하다, 채집하다
+    * -- -ne~. naticon tahu : --를 -가 ~에 넣는/참여시키는 행동을 지속시킨다, 모으다, 누적시키다
+      * -- -neta~. naticon tahu : 사냥하다, 채집하다
     * tahururu : 환생시키다, 수정하다, 대체하다, 변환하다
       * A os B taruru : A를 B로 수정하다, 대체하다, 변환하다
   * taru : 끝내다, 없애다, ~에서 죽게 하다
@@ -123,8 +123,8 @@
   * sane : 신체가 자신을 내부에 두다, 내장
   * toine : 가구, 실내 사물
   * nenee : 가두다, 격리하다, 제한하다
-  * onihane ne~ : ~에게 가르치다
-  * oninai ne~ : ~에게 말하다
+  * natihacine ne~ : ~에게 가르치다
+  * natinai ne~ : ~에게 말하다
   * necati : 불태우다
   * nesa : 먹다, 삼키다
     * 규칙2 : 자가포식하다
@@ -139,8 +139,8 @@
     * 규칙2 : 기억, 자아를 잃다
       * neyarees : 묻지 않다, 알다, 기억하다
         * 규칙2 : ~의 자아
-        * onine neyarees : 이해하다, 파악하다
-        * onineru neyarees : 아는 척하다
+        * natine neyarees : 이해하다, 파악하다
+        * natineru neyarees : 아는 척하다
         * saneyarees : 습관
   * neru : 꺼내다, 퇴출시키다, ~으로부터 분리하다, 끊다 / 외부의 것
     * 조건-1, 만약 ~가 어떤 존재라면 : 빼앗다, 훔치다
@@ -163,8 +163,8 @@
           * hacineneerata : (권리, 권력을) 빼앗으려하다, 침략하다
   * hati : 올려놓다 / 위쪽의 것
     * 접미사형 : ~할 권한/자격이 있다
-    * onihacine hati~ : ~에 기록하다
-    * oninai hati~ : ~에 녹음하다
+    * natihacine hati~ : ~에 기록하다
+    * natinai hati~ : ~에 녹음하다
     * haticati : 굽다
     * hatine : 집권시키다, 지도자로 만들다
   * hatira : 공중에 배치하다, 던지다 / 공중의 것, 하늘의 것
@@ -222,8 +222,8 @@
   * ner har : 만지다
   * harni : 보는 건물
   * citoi toihar : 현미경
-  * otitoi toihar : 망원경
-  * ocitoi toihar : 돋보기
+  * natitoi toihar : 망원경
+  * nacitoi toihar : 돋보기
   * nai har : 듣다
   * rio har : 맡다
 * **sa**: 휘두르다, 흔들다 / 신체
@@ -258,7 +258,7 @@
 * 100000000 : hihatira
 * 279 : hiyse un caysey un noy
 ### 기초 합성어
-* naya : 나
+* naya : 자기자신
 * hinaya : 우리
 * naci : 근처에, 가까운
 * nacira : 지금 여기 이것

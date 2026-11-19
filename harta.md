@@ -188,7 +188,7 @@
     * 규칙2 : A와 B 사이에 있다
   * roinni : 경계, 틈
   * roinhi : 공백기간, 쉬는 시간
-* **har**: 보다
+* **har**: 보다, 인식하다
   * harta : 비추다, 밝히다
     * 규칙2 : 빛나다
     * hartani : 비추는 건물
@@ -210,16 +210,15 @@
   * harreun : 외롭다
   * harroin : 비교하다, 저울질하다
     * A un B harroin : A와 B를 비교하다, 저울질하다
-  * -rin- -harron : 충족감을 느끼다, 만족감을 느끼다
-  * -ruan- -harron : 상실감을 느끼다, 박탈감을 느끼다
-  * -rinya- -harron : 불만족하다
-  * -rinruru- -harron : 안도하다
-  * harronru : 냉정하다
-  * harronya : 무감각하다
-  * harronruru : 회상하다
-  * taruta harron : 트라우마가 있다
-  * tes harron : 맛 보다
-  * ner harron : 만지다
+  * -rin- -har : 충족감을 느끼다, 만족감을 느끼다
+  * -ruan- -har : 상실감을 느끼다, 박탈감을 느끼다
+  * -rinya- -har : 불만족하다
+  * -rinruru- -har : 안도하다
+  * harru : 냉정하다
+  * harya : 무감각하다
+  * harruru : 회상하다
+  * taruta har : 트라우마가 있다
+  * ner har : 만지다
   * harni : 보는 건물
   * yonya toihar : 사물이 작은 것을 보다, 현미경
   * ni os ti toihar : 사물이 어떤 것을 본다 어떤 것은 멀다, 망원경

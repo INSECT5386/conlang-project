@@ -268,6 +268,8 @@
 * 9 : noy
 * 10 : cay
 * **활용**
+* A un B un B : A + B + C
+* ABC : A * B * C
 * 15 : cay un yca
 * 36 : cayyha un ray
 * 100 : hi

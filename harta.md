@@ -326,18 +326,18 @@ NH[그 어떤 것을 하르하트가 살려두는 시간] 0. 이 시간이 모�
 
 ----
 
-NH Hihatiracayyca un Hihatisey, Harhatitahuhi. Onihitaru.
+NH Hihatiracayyca un Hihatisey, Harhatitahuhi. Natihitaru.
 
-Harhatineyarees. Ne Onitaru. Oni os Nisi Onitahururu. Han Oninisineci os Harta.
+Harhatineyarees. Ne Natitaru. Nati os Nisi Natitahururu. Han Natinisinenaya os Harta.
 
 Harta Harhatita. Harta Nirurusiharhaci.
 Harta Yrasiharharhu.
 
-Nicon Yrasinerurees. "Hiharta Hinasihacinera orun, Hinasi Hisiharhaci."
+Nicon Yrasinerurees. "Hiharta Hinayahacinera orun, Hinaya Hisiharhaci."
 
-Oniniharta. Hartatahuonini.
-Hicon Nisiharne. Onisineonini.
-Han Oninineci os Hiconni.
+Natiniharta. Hartatahunatini.
+Hicon Nisiharne. Natisinenatini.
+Han Natininenaya os Hiconni.
 
 NH Hihatiracayyca un Hihatisey un yse, Hiconni Yrasihacineerata
 

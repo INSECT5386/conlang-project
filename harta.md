@@ -295,7 +295,7 @@
 ### 기초 합성어
 * toi cuita : 무언가를 나무가 만든다, 열매
 
-**예문**
+## 예문
 
 Nihi, Nitatoiya. Han Natinenaya. Han os Harhati
 

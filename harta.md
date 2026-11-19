@@ -103,8 +103,8 @@
       * 규칙2 : ~의 수명
     * -- -ne~. ticon tahu : --를 -가 ~에 넣는/참여시키는 행동을 지속시킨다, 모으다, 누적시키다
       * -- -neta~. ticon tahu : 사냥하다, 채집하다
-  * taruru : 환생시키다, 수정하다, 대체하다, 변환하다
-    * A os B taruru : A를 B로 수정하다, 대체하다, 변환하다
+    * tahururu : 환생시키다, 수정하다, 대체하다, 변환하다
+      * A os B taruru : A를 B로 수정하다, 대체하다, 변환하다
   * taru : 끝내다, 없애다, ~에서 죽게 하다
     * 조건, 만약 ~가 공간이 아닌 사물이라면 : (질병) 치료하다, 건강하게 만들다
     * 규칙2 : 자멸하다, 조건(자연치유되다)
@@ -321,7 +321,7 @@ Harharu Hinitaruhuru. Nitoi Harharuta. TH(Tinitoi Harharutahuhi) toiya. Nahi os 
 
 TH Hicuncayyca un Hiharusey, Harharutahuhi. Tihitaru.
 
-Harharuneyarees. Ne Titaru. Ti os Nisi Titaruru. Han Tinisineci os Harta.
+Harharuneyarees. Ne Titaru. Ti os Nisi Titahururu. Han Tinisineci os Harta.
 
 Harta Harharuta. Harta Nirurusiharha.
 Harta Yrasiharharhu.

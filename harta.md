@@ -261,9 +261,7 @@
 * 15 : cay un yca
 * 36 : cayyha un ray
 * 100 : hi
-* 279 : hise un caysey un noy
-* 10000 : hiron
-* 1000000 : hitaren
+* 279 : hiyse un caysey un noy
 ### 기초 합성어
 * ruru : 다시
 * niruru : 다시 어떤 것, 다른 것
@@ -272,7 +270,7 @@
 * niharten : 어떤 이유, 왜
 * nihane : 어떤 방법, 어떻게
 * nicorhi : 가끔, 때때로
-* reunrucor : 아마도
+* nerureescor : 아마도
 * nihi : 어떤 시간
 * cuicun : 번개
 * toi cuicor : 무언가를 나무가 굴리다, 열매
@@ -283,7 +281,7 @@
 * raynor : 곤충
 * costes : 맵다
 * toorreestes : 짜다, 소금
-* harrentes : 달콤하다
+* harcuntes : 달콤하다
 * A Bta. A : B의 자식 A
 * A Bta. B : A의 부모/조상 B
 * sainyon : 화자보다 나이가 많은 형제, 자매
@@ -293,5 +291,5 @@
 * toirin : 무언가가 안에 있다, 가구, 실내 사물
 * toorrees : 진흙
 * soossai : 비행기, 비행물체
-* naniroin roen un rain : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)
+* naniron ten un hu : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)
 

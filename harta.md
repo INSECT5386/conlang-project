@@ -287,8 +287,8 @@
 * sainyonya : 동생
 * saintoi : 유전자
 * saintoor : 피, 혈액
-* toirin : 무언가가 안에 있다, 가구, 실내 사물
+* toine : 무언가가 안에 있다, 가구, 실내 사물
 * toorrees : 진흙
 * soossai : 비행기, 비행물체
-* naniron ten un hu : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)
+* naniron huru un hu : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)
 

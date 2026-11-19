@@ -140,7 +140,7 @@
       * neruyarees : 묻지 않다, 알다, 기억하다
         * 규칙2 : ~의 자아
         * tine neruyarees : 이해하다, 파악하다
-        * tiruan neruyarees : 아는 척하다
+        * tici neruyarees : 아는 척하다
         * saneruyarees : 습관
 * **ci** : 꺼내다, 퇴출시키다, ~으로부터 분리하다 / 외부의 것
   * 조건-1, 만약 ~가 어떤 존재라면 : 빼앗다, 훔치다

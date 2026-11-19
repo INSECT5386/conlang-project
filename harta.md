@@ -266,7 +266,7 @@
   * corya : 고정하다, 박다, 약속하다
   * coryaru : 뽑아내다, 약속을 없애다
   * coryaruru : 다시 고정하다, 다시 박다, 약속을 수정하다
-  * toicorne. toi : 원, 구, 둥글다
+  * toicorne : 원, 구체, 둥글다
   * corne : 섞다, 휘젓다
   * hicor : 계절
   * nicorhi : 가끔, 때때로

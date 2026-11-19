@@ -325,7 +325,8 @@ Tiniharta. Hartatahutini.
 Hicon Nisiharne. Tinisinetini.
 Han Tinineci os Hiconni.
 
- Yrasihaneeta
+
+TH Hicuncayyca un Hiharusey un yse, Hiconni Yrasihaneeta
 
 TH 50억 700만, 하르하루의 수명. 그 시간이 죽었다.
 (어떤 것이 빛난다). 그 어떤 것(앞 문장)을 하르하루가 가지고 있다.
@@ -338,5 +339,7 @@ TH 50억 700만, 하르하루의 수명. 그 시간이 죽었다.
 
 (그 곳은 빛난다). 하르타들이 그곳(앞 문장)에서 살았다.
 (모든 행동을 어떤 자들이 볼 수 있다). 그 어떤 자들(앞 문장)이 그곳에 참여한다. 그 장소의 이름은 모든 행동의 장소였다.
+
+TH 50억 700만 2, 모든 행동의 장소를 첫 번째 지성체들이 침략했다.
 
 [이후 스토리 구상 중]

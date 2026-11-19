@@ -310,6 +310,7 @@ Harharu Hinitaruhuru. Nitoi Harharuta. TH(Tinitoi Harharutahuhi) toiya. Nahi os 
 
 ----
 
-
+TH Hicuncayyca un Hiharusey.
+TH 50억 700만.
 
 [이후 스토리 구상 중]

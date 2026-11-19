@@ -260,6 +260,9 @@
 * 15 : cay un yca
 * 36 : cayyha un ray
 * 100 : hi
+* 10000 : hiyon
+* 1000000 : hiharu
+* 100000000 : hicun
 * 279 : hiyse un caysey un noy
 ### 기초 합성어
 * ruru : 다시

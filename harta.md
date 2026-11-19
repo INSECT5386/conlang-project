@@ -314,7 +314,7 @@ Harharu Hinitaruhuru. Nitoi Harharuta. TH(Tinitoi Harharutahuhi) toiya. Nahi os 
 
 TH Hicuncayyca un Hiharusey, Harharutahuhi. Tihitaru.
 
-Harharuneyarees. Ne Titaru. Ti os Hisi Titahururu. Han Tihisirinci os Harta.
+Harharuneyarees. Ne Titaru. Ti os Nisi Titahururu. Han Tinisirinci os Harta.
 
 Harta Harharuta. Harta Nirurusiharha.
 Harta Yrasiharharhu.
@@ -324,7 +324,7 @@ Nicon Yrasinerurees. "Hiharta Hinasihane orun, Hinasi Hisiharha."
 TH 50억 700만, 하르하루의 수명. 그 시간이 죽었다.
 (어떤 것이 빛난다). 그 어떤 것(앞 문장)을 하르하루가 가지고 있다.
 
-(하르하루의 정신). (그것(앞 문장)이 흩어졌다). (그것(앞 문장)을 모든 지성체로 그 것(앞 문장)들이 환생시켰다[그것들이 모든 지성체로 환생했다]). 그 모든 지성체(앞 문장)의 이름은 하르타였다.
+(하르하루의 정신). (그것(앞 문장)이 흩어졌다). (그것(앞 문장)을 어떤 지성체로 그 것(앞 문장)들이 환생시켰다[그것들이 모든 지성체로 환생했다]). 그 어떤 지성체(앞 문장)의 이름은 하르타였다.
 
 (하르타들을 하르하루가 만들었다). 하르타(앞 문장)들을 다른 지성체들이 올려다보았다. 하지만, 하르타들을 첫 번째 지성체들은 보기 싫었다.
 

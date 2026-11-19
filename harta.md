@@ -126,7 +126,7 @@
     * 규칙2 : 자가포식하다
     * netasa : 씹다, 깨물다
     * rio nesa : 숨 쉬다
-    * ci nesa : 핥다
+    * neru nesa : 핥다
   * neta : 묶다, 꿰매다, 붙이다
   * han ne~ : ~에게 이름을 주다
   * nerees : 잊다, 모르다 / 지하의 것
@@ -140,7 +140,7 @@
       * neruyarees : 묻지 않다, 알다, 기억하다
         * 규칙2 : ~의 자아
         * tine neruyarees : 이해하다, 파악하다
-        * tici neruyarees : 아는 척하다
+        * tineru neruyarees : 아는 척하다
         * saneruyarees : 습관
   * neru : 꺼내다, 퇴출시키다, ~으로부터 분리하다, 끊다 / 외부의 것
     * 조건-1, 만약 ~가 어떤 존재라면 : 빼앗다, 훔치다
@@ -148,7 +148,7 @@
       * 규칙2 : 범죄를 저지르다
     * 접미사형 : 할 수 없다, 할 수 있는 기관이 없다, 장애
     * neruta : 긁다, 갈다, 할퀴다
-    * cinee : 차별하다, 소외시키다
+    * nerunee : 차별하다, 소외시키다
 * **ra** : 올려놓다 / 위쪽의 것
   * 접미사형 : ~할 권한/자격이 있다
   * tihane ra~ : ~에 기록하다
@@ -191,7 +191,7 @@
     * hartani : 비추는 건물
     * hartahi : 비추는 시간, -의 낮
   * harne : 소속감을 느끼다
-  * harci : 배척감을 느끼다
+  * harneru : 배척감을 느끼다
   * harcun : 행복하다
   * harra : 우월감을 느끼다, 내려다보다
     * harrata : 앉히다, 눕히다

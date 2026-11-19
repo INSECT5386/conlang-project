@@ -341,8 +341,8 @@ Catisai Catirata. Hitoi Catisainecatine.
 
 Soosraynor sascirareesta. Hitoi Soosraynornesa orun, Sitahuhi. Natihi Soosraynornesi.
 
-Cuihatira Hartahacine.
-Cuihatira Hartata. Hitoi Cuihatiratarune.
+Cuihatira. Naticui Hartahacine.
+Cuihatira. Naticui Hartata. Hitoi Naticuitarune.
 
 NH 50억 700만, 하르하트의 수명. 그 시간이 죽었다.
 (어떤 것이 빛난다). 그 어떤 것(앞 문장)을 하르하트가 가지고 있다.

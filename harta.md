@@ -111,6 +111,8 @@
   * sascira : 흐르다, 액체
 * **hi** : 접미사형 : 시간 / 접두사형 : 모든, 전체의
 * **ni** : 접미사형 : 공간 / 접두사형 : 어떤
+  * niruru : 다시 어떤 것, 다른 것
+  * nihi : 언제, 어떤 시간
 * **toi** : 무언가
 * **con** : 행동, 상황, 상태
 * **si** : 적응체 또는 지성체
@@ -188,6 +190,7 @@
     * 접미사형 : ~해야 하는 상태이다
     * hacinee : 반란을 일으키다, 자리에서 물러나게 하다
     * hacine : 노동시키다, 사용하다
+      * nihacine : 어떤 방법, 어떻게
       * hacinera : 지배하다
         * hacineranee : (노예, 식민지로) 만들다, 착취하다
           * hacineraneeta : (권리, 권력을) 빼앗으려하다, 침략하다
@@ -237,6 +240,7 @@
   * harhuru : 열정적이다, 흥미롭다
     * 접미사형 : ~하고 싶다
     * nerureesharhuru : 궁금해하다
+    * niharneru : 어떤 이유, 왜
   * harnerees : 외롭다
   * harron : 비교하다, 저울질하다
     * A un B harron : A와 B를 비교하다, 저울질하다
@@ -264,6 +268,7 @@
   * toicorne. toi : 원, 구, 둥글다
   * corne : 섞다, 휘젓다
   * hicor : 계절
+  * nicorhi : 가끔, 때때로
 ---
 ### 숫자
 * **한 손의 손가락 5개와 그것 사이의 공간 4개 그리고 손바닥 하나까지 총 10개 사용하며, 10개를 전부 사용할 때마다 반대쪽 손의 손가락 5개, 그것 사이의 공간 4개 그리고 손바닥 하나에 하나씩 배치한다.**
@@ -287,11 +292,6 @@
 * 100000000 : hihatira
 * 279 : hiyse un caysey un noy
 ### 기초 합성어
-* niruru : 다시 어떤 것, 다른 것
-* niharneru : 어떤 이유, 왜
-* nihacine : 어떤 방법, 어떻게
-* nicorhi : 가끔, 때때로
-* nihi : 언제, 어떤 시간
 * cui hatira : 번개
 * toi cuicor : 무언가를 나무가 굴리다, 열매
 * niniron huru un hu : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)

@@ -325,7 +325,6 @@ Tiniharta. Hartatahutini.
 Hicon Nisiharne. Tinisinetini.
 Han Tinineci os Hiconni.
 
-
 TH Hicuncayyca un Hiharusey un yse, Hiconni Yrasihaneeta
 
 TH 50억 700만, 하르하루의 수명. 그 시간이 죽었다.

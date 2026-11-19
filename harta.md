@@ -321,14 +321,14 @@
 
 Nihi, Nitatoiya. Han Tinirintini os Harraan.
 Harraantaraintoiya. Hicon Harraanharrain.
-Nitoi Sarinsa. Tisa Harraansa.
+Harraanharuun.
 Hiniyon. Harran Hiniruanta.
 Harraan Hinitaruroen. Nitoi Harraanta.
 TH(Tinitoi Harraantarainhi) Toiya. Nahi os Hitoitahi
 
 어느날, 어떤 것이 0에서 태어났다. 그것의 이름은 하르라안이다.
 하르라안은 0에서 살았다. 모든 행동을 하르라안이 지겨워했다.
-어떤 것을 신체가 잡는다. 그 신체를 하르라안이 휘둘렀다.
+하르라안이 일어섰다.
 모든 공간이 스스로 커졌다. 하르라안을 그 공간이 잘랐다.
 하르라안을 모든 공간이 죽이기 직전이었다. 어떤 것을 하르라안이 만들었다. TH(그것을 하르라안이 만든 잔상이 남은 시간) O. 이 시간이 모든 것이 시작하는 시간이었다.
 ----

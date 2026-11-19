@@ -313,13 +313,13 @@ Harharu Hinitaruhuru. Nitoi Harharuta. TH(Tinitoi Harharutahuhi) toiya. Nahi os 
 
 TH Hicuncayyca un Hiharusey, Harharutahuhi. Tihitaru.
 
-Harharuneyarees. Ne Titaru. Ti os Si Titahururu.
+Harharuneyarees. Ne Titaru. Ti os Hisi Titahururu.
 
 
 
 TH 50억 700만, 하르하루의 수명. 그 시간이 죽었다.
 (어떤 것이 빛난다). 그 어떤 것(앞 문장)을 하르하루가 가지고 있다.
 
-(하르하루의 정신). (그것(앞 문장)이 흩어졌다). 그것(앞 문장)을 지성체로 그 것(앞 문장)들이 환생시켰다[그것들이 지성체로 환생했다].
+(하르하루의 정신). (그것(앞 문장)이 흩어졌다). 그것(앞 문장)을 모든 지성체로 그 것(앞 문장)들이 환생시켰다[그것들이 모든 지성체로 환생했다].
 
 [이후 스토리 구상 중]

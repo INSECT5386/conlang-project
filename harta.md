@@ -269,6 +269,7 @@
 * ruru : 다시
 * niruru : 다시 어떤 것, 다른 것
 * nasi : 나
+* hinasi : 우리
 * sineru : 너
 * niharneru : 어떤 이유, 왜
 * nihane : 어떤 방법, 어떻게
@@ -316,7 +317,9 @@ TH Hicuncayyca un Hiharusey, Harharutahuhi. Tihitaru.
 Harharuneyarees. Ne Titaru. Ti os Hisi Titahururu. Han Tihisirinci os Harta.
 
 Harta Harharuta. Harta Nirurusiharha.
-Harta Yrasiharharhu
+Harta Yrasiharharhu.
+
+Nicon Yrasinerurees. "Hiharta Hinasihane orun, Hinasi Hisiharha."
 
 TH 50억 700만, 하르하루의 수명. 그 시간이 죽었다.
 (어떤 것이 빛난다). 그 어떤 것(앞 문장)을 하르하루가 가지고 있다.
@@ -324,5 +327,7 @@ TH 50억 700만, 하르하루의 수명. 그 시간이 죽었다.
 (하르하루의 정신). (그것(앞 문장)이 흩어졌다). (그것(앞 문장)을 모든 지성체로 그 것(앞 문장)들이 환생시켰다[그것들이 모든 지성체로 환생했다]). 그 모든 지성체(앞 문장)의 이름은 하르타였다.
 
 (하르타들을 하르하루가 만들었다). 하르타(앞 문장)들을 다른 지성체들이 올려다보았다. 하지만, 하르타들을 첫 번째 지성체들은 보기 싫었다.
+
+어떤 행동을 첫 번째 지성체들이 생각했다. "모든 하르타들을 우리가 지배한다면, 우리를 모든 지성체가 올려다본다."
 
 [이후 스토리 구상 중]

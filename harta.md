@@ -261,6 +261,10 @@
 * 100000000 : hicun
 * 279 : hiyse un caysey un noy
 ### 기초 합성어
+* oya : 자기자신
+* oci : 근처에, 가까운
+* ocira : 지금 여기
+* ociya : 먼 곳에, 먼
 * ruru : 다시
 * niruru : 다시 어떤 것, 다른 것
 * nasi : 나

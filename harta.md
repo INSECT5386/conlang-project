@@ -309,7 +309,7 @@ Nihi, Nitatoiya. Han Tineoya. Tihan os Harhati
 
 Harhatitahutoiya. Hicon Harhatiharhu.
 
-Harhatiharhacita. Hini os Ticon Oyatahururu. Harhati Tinineruharhati.
+Harhatiharhacita. Hini os Ticon Onicontahururu. Harhati Tinineruharhati.
 
 Harhati Hinitaruhuru. Nitoi Harhatita. 
 
@@ -320,7 +320,7 @@ TH(Tinitoi Harhatitahuhi) toiya. Nahi os Hitoitahi.
 하르하트는 0에서 살았다. 모든 행동을 하르하트가 지루해했다.
 하르하루가 일어섰다.
 
-모든 공간이 스스로 커졌다. 하르하트를 그 공간이 잘랐다.
+모든 공간을 그 행동이 크게 만들었다. 하르하트를 그 공간이 잘랐다.
 
 하르하트를 모든 공간이 죽이기 직전이었다. 어떤 것을 하르하트가 만들었다. 
 

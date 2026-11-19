@@ -321,7 +321,7 @@
 
 Nihi, Nitatoiya. Han Tinirintini os Harraan.
 Harraantaraintoiya. Hicon Harraanharrain.
-Harraanharruun.
+Harraanharruunta.
 Hiniyon. Harraan Hiniruanta.
 Harraan Hinitaruroen. Nitoi Harraanta.
 TH(Tinitoi Harraantarainhi) Toiya. Nahi os Hitoitahi

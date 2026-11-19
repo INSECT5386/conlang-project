@@ -102,8 +102,8 @@
       * 규칙2 : 거주하는 건물
     * tahuhi : 살리는/지속시키는 시간
       * 규칙2 : ~의 수명
-    * -- -ne~. ticon tahu : --를 -가 ~에 넣는/참여시키는 행동을 지속시킨다, 모으다, 누적시키다
-      * -- -neta~. ticon tahu : 사냥하다, 채집하다
+    * -- -ne~. onicon tahu : --를 -가 ~에 넣는/참여시키는 행동을 지속시킨다, 모으다, 누적시키다
+      * -- -neta~. onicon tahu : 사냥하다, 채집하다
     * tahururu : 환생시키다, 수정하다, 대체하다, 변환하다
       * A os B taruru : A를 B로 수정하다, 대체하다, 변환하다
   * taru : 끝내다, 없애다, ~에서 죽게 하다
@@ -122,8 +122,8 @@
     * 조건2(되찾다, 회수하다)
   * sane : 신체가 자신을 내부에 두다, 내장
   * nenee : 가두다, 격리하다, 제한하다
-  * tihane ne~ : ~에게 가르치다
-  * tinai ne~ : ~에게 말하다
+  * onihane ne~ : ~에게 가르치다
+  * oninai ne~ : ~에게 말하다
   * necatira : 불태우다
   * nesa : 먹다, 삼키다
     * 규칙2 : 자가포식하다
@@ -138,8 +138,8 @@
     * 규칙2 : 기억, 자아를 잃다
       * neyarees : 묻지 않다, 알다, 기억하다
         * 규칙2 : ~의 자아
-        * tine neyarees : 이해하다, 파악하다
-        * tineru neyarees : 아는 척하다
+        * onine neyarees : 이해하다, 파악하다
+        * onineru neyarees : 아는 척하다
         * saneyarees : 습관
   * neru : 꺼내다, 퇴출시키다, ~으로부터 분리하다, 끊다 / 외부의 것
     * 조건-1, 만약 ~가 어떤 존재라면 : 빼앗다, 훔치다
@@ -162,14 +162,14 @@
       * haneneeta : (권리, 권력을) 빼앗으려하다, 침략하다
   * haru : 올려놓다 / 위쪽의 것
     * 접미사형 : ~할 권한/자격이 있다
-    * tihane haru~ : ~에 기록하다
-    * tinai haru~ : ~에 녹음하다
+    * onihane haru~ : ~에 기록하다
+    * oninai haru~ : ~에 녹음하다
     * harucatira : 굽다
     * harune : 집권시키다, 지도자로 만들다
 * **cun** : 공중에 배치하다, 던지다 / 공중의 것, 하늘의 것
   * 규칙2 : 날다
   * rees cun~ : ~을 오염시키다, 더럽게 만들다
-  * toor cun~ : ~을 씻기다, 깨끗하게 만들다
+  * sascira cun~ : ~을 씻기다, 깨끗하게 만들다
   * cunta : 밀다, 밀어내다
     * 규칙2 : 뛰다, 도약하다
   * catiracun : 항성, 별
@@ -221,7 +221,7 @@
   * ner har : 만지다
   * harni : 보는 건물
   * citoi toihar : 현미경
-  * ociyatoi toihar : 망원경
+  * otitoi toihar : 망원경
   * ocitoi toihar : 돋보기
   * nai har : 듣다
   * rio har : 맡다
@@ -293,16 +293,16 @@
 * norsaya : 팔다리가 없는 동물
 * raynor : 곤충
 * catites : 맵다
-* toorreestes : 짜다, 소금
+* sascirareestes : 짜다, 소금
 * harcuntes : 달콤하다
 * A Bta. A : B의 자식 A
 * A Bta. B : A의 부모/조상 B
 * sainti : 화자보다 나이가 많은 형제, 자매
 * sainci : 동생
 * saintoi : 유전자
-* saintoor : 피, 혈액
+* sainsascira : 피, 혈액
 * toine : 무언가가 안에 있다, 가구, 실내 사물
-* toorrees : 진흙
+* sascirarees : 진흙
 * naniron huru un hu : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)
 
 **예문**

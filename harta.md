@@ -104,13 +104,13 @@
   * sasya : 딱딱하다, 단단하다, 고체
   * sasti : 부드럽다
   * sascira : 흐르다, 액체
-| | hi | 접미사형 : 시간 / 접두사형 : 모든, 전체의 |
-| | ni | 접미사형 : 공간 / 접두사형 : 어떤 |
-| | toi | 무언가 |
-| | con | 행동, 상황, 상태 |
-| | si | 적응체 또는 지성체 |
-| | ci | 작은 |
-| | ti | 큰 |
+* **hi** : 접미사형 : 시간 / 접두사형 : 모든, 전체의
+* **ni** : 접미사형 : 공간 / 접두사형 : 어떤
+* **toi** : 무언가
+* **con** : 행동, 상황, 상태
+* **si** : 적응체 또는 지성체
+* **ci** : 작다, 접미사형 : 작은
+* **ti** : 크다, 접미사형 : 큰
 | 접미사 | -nee | 몰래, 강제로 |
 | | -ya | 을 하지 않다 |
 | | -ru | 을 되돌리다 |
@@ -302,7 +302,7 @@ Nihi, Nitatoiya. Han Natinenaya. Han os Harhati
 
 Harhatitahutoiya. Hicon Harhatiharhu.
 
-Harhatiharhacita. Hini os Tini Naticontahururu. Harhati Hinineruharhati.
+Harhatiharhacita. Hini os Hiniti Naticontahururu. Harhati Hinineruharhati.
 
 Harhati Hinitaruhuru. Nitoi Harhatita. 
 

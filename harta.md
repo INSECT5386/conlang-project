@@ -292,7 +292,7 @@
 * nihacine : 어떤 방법, 어떻게
 * nicorhi : 가끔, 때때로
 * nerureescor : 아마도
-* nihi : 어떤 시간
+* nihi : 언제, 어떤 시간
 * cui hatira : 번개
 * toi cuicor : 무언가를 나무가 굴리다, 열매
 * niniron huru un hu : 어떤 공간이 앞과 뒤 사이에 있다. 길이(Distance)

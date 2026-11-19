@@ -275,7 +275,6 @@
 * cuisasti : 나무 섬유, 종이
 * sascira : 흐르다, 액체
 * reessascira : 유리
-* rees os sascira taruru
 * ruru : 다시
 * niruru : 다시 어떤 것, 다른 것
 * oyasi : 나

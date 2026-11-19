@@ -34,7 +34,7 @@
 1. 'A' os 'B' : A는 B이다
 * **2번 활용**
 1. 문장 요소 받아오기.
-* 1. arii nasitaruta. tiarii sainesa. : 내가 공격한 물고기를 새가 먹었다.
+* 1. arii nasitaruta. oniarii sainesa. : 내가 공격한 물고기를 새가 먹었다.
 * 2. arii nasitaruta. nisai nasinesa. : 물고기를 공격한 내가 어떤 새를 먹었다.
 * 3. titahusi. ti~ : 그것이 지성체에 기생한다, 그것이~ -> 지성체에 기생하는 그것이 ~
 * 4. titahusi. si~ : 그것이 지성체에 기생한다, 지성체가~ -> 그것이 기생하는 지성체가 ~
@@ -48,14 +48,14 @@
 * **4번 활용, 조어**
 1. 범용사만 사용하거나 일부 서술 어근 + 범용사의 조합으로 보이는 모습대로 명사를 만들거나 비슷해 보이는 모양에 은유한다.
 2. 서술 어근의 조합 또는 서술 어근 + 극히 일부적인 범용사의 조합으로 대상의 기능, 실체, 용도, 원리 등을 문장형으로 표현한다.
-* 1. Nitoi Hisicorya. Titoi Nisitarutaharuni. : 어떤 것을 모두가 약속했다. 그것을 어떤 자들이 해당 장소에서 공격할 권리를 가진다. -> 헌법 재판소
-* 2. Nitoi Sinesi orun, Nirurutoi Tisineruhasi. : 지성체가 어떤 것을 가진다. 그렇다는 조건하에 그 지성체는 다른 것을 버려야한다. -> 기회비용
+* 1. Nitoi Hisicorya. Onitoi Nisitarutahatini. : 어떤 것을 모두가 약속했다. 그것을 어떤 자들이 해당 장소에서 공격할 권리를 가진다. -> 헌법 재판소
+* 2. Nitoi Sineoya orun, Nirurutoi Onisineruhacisi. : 지성체가 어떤 것을 가진다. 그렇다는 조건하에 그 지성체는 다른 것을 버려야한다. -> 기회비용
 * **문장 구조**
 * O SVni
 * * S가 해당 장소에서 O를 V하다
 * O SVhi
 * * S가 해당 시간에 O를 V하다
-* O SV(ne, neru, cun, ha, haru, hu, huru, nerees, ron)~
+* O SV(ne, neru, haci, hati, hatira, hu, huru, nerees, ron)~
 * * S가 ~의 ()에서 O를 V하다
 ## 품사별 단어
 | 분류 | 형태 | 뜻 |

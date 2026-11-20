@@ -269,11 +269,11 @@
 * 279 : hiyse un caysey un noy
 ## 예문
 
-Nihi, Nitatoiya. Han Natinenaya. Han os Harhati
+Nareesra, Natanaya. Han Nanena. Han os Harhati
 
-Harhatitahutoiya. Hicon Harhatiharhu.
+Harhatitahunayarees. Naracon Harhatiharhu.
 
-Harhatiharhacita. Hini os Hiniti Naticontahururu. Harhati Hinineruharhati.
+Harhatiharhacita. Narareesti Naconta. Harhati Hinineruharhati.
 
 Harhati Hinitaruhuru. Nitoi Harhatita. 
 
@@ -284,7 +284,7 @@ NH(Natinitoi Harhatitahuhi) toiya. Nahi os Hitoitahi.
 하르하트는 0에서 살았다. 모든 행동을 하르하트가 지루해했다.
 하르하트가 일어섰다.
 
-모든 공간을 그 행동이 크게 만들었다. 하르하트를 그 공간이 잘랐다.
+모든 공간을 그 행동이 큰 공간을 만들었다. 하르하트를 그 공간이 잘랐다.
 
 하르하트를 모든 공간이 죽이기 직전이었다. 어떤 것을 하르하트가 만들었다. 
 

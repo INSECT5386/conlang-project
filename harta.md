@@ -129,10 +129,10 @@
   * neruru : 다시 넣다, 재참여시키다
     * 조건2(되찾다, 회수하다)
   * sane : 신체가 자신을 내부에 두다, 내장
-  * toine : 가구, 실내 사물
+  * nane : 가구, 실내 사물
   * nenee : 가두다, 격리하다, 제한하다
-  * natihacine ne~ : ~에게 가르치다
-  * natinai ne~ : ~에게 말하다
+  * nasa ne~ : ~에게 가르치다
+  * nanai ne~ : ~에게 말하다
   * necati : 불태우다
   * nesa : 먹다, 삼키다
     * 규칙2 : 자가포식하다
@@ -147,8 +147,8 @@
     * 규칙2 : 기억, 자아를 잃다
       * neyarees : 묻지 않다, 알다, 기억하다
         * 규칙2 : ~의 자아
-        * natine neyarees : 이해하다, 파악하다
-        * natineru neyarees : 아는 척하다
+        * nane neyarees : 이해하다, 파악하다
+        * naneru neyarees : 아는 척하다
         * saneyarees : 습관
   * neru : 꺼내다, 퇴출시키다, ~으로부터 분리하다(잘라내다, 떼어내다, 끊어내다) / 외부의 것
     * 조건-1, 만약 ~가 어떤 존재라면 : 빼앗다, 훔치다
@@ -168,8 +168,8 @@
       * hacineeta : (권리, 권력을) 빼앗으려하다, 침략하다
   * hati : 올려놓다, 집권시키다, 지도자로 만들다 / 위쪽의 것
     * 접미사형 : ~할 권한/자격이 있다
-    * natihacine hati~ : ~에 기록하다
-    * natinai hati~ : ~에 녹음하다
+    * nasa hati~ : ~에 기록하다
+    * nanai hati~ : ~에 녹음하다
     * haticati : 굽다
   * hatira : 공중에 배치하다, 던지다 / 공중의 것, 하늘의 것
     * 규칙2 : 날다
@@ -226,9 +226,8 @@
   * taruta har : 트라우마가 있다
   * sasya har : 만지다
   * harni : 보는 건물
-  * toici toihar : 현미경
-  * natitoi toihar : 망원경
-  * nacitoi toihar : 돋보기
+  * nati nahar : 망원경
+  * naci nahar : 돋보기, 현미경
   * nai har : 듣다
   * rio har : 맡다
 * **sa**: 휘두르다, 흔들다, 노동시키다, 사용하다 / 신체
@@ -238,7 +237,7 @@
   * corya : 고정하다, 박다, 약속하다
   * coryaru : 뽑아내다, 약속을 없애다
   * coryaruru : 다시 고정하다, 다시 박다, 약속을 수정하다
-  * toicorne : 원, 구체, 둥글다
+  * nacorne : 원, 구체, 둥글다
   * corne : 섞다, 휘젓다
   * hicor : 계절
   * nicorhi : 가끔, 때때로

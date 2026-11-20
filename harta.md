@@ -44,6 +44,10 @@
   * cati : 따뜻하다, 뜨겁다, 불
     * catira : 항성
 * **rees** : 흙, 땅
+  * 접미사형 : 장소, 공간
+  * O SVrees : S가 해당 장소에서 O를 V하다
+    * reesra : 시간
+      * O SVreesra :  해당 시간에 O를 V하다
   * reesti : 산
   * sascirarees : 진흙
   * reessascira : 유리
@@ -69,12 +73,14 @@
   * saintoi : 유전자
   * sainsascira : 피, 혈액
 * **han** : 이름, 상징
-* **na** : 거리
+* **na** : 거리, 그것
+  * naruru : 다른 것
   * naya : 자기자신
     * hinaya : 우리
-  * naci : 근처에, 가까운, 너
-    * nacira : 지금 여기 이것
-  * nati : 먼 곳에, 먼, 저것, 그것
+  * nara : 모든, 전체
+    * naraya : 어떤, 일부
+  * naci : 근처에, 가까운, 이것
+  * nati : 먼 곳에, 먼, 저것
 * **rin** : 선이 구부러진 정도
   * rinya : 곧다, 직선
   * rinci : 완만한 곡선, 조금 굽은
@@ -84,13 +90,6 @@
   * sasya : 딱딱하다, 단단하다, 고체
   * sasti : 부드럽다
   * sascira : 흐르다, 액체
-* **hi** : 접미사형 : 시간 / 접두사형 : 모든, 전체의
-  * O SVhi : S가 해당 시간에 O를 V하다
-* **ni** : 접미사형 : 공간 / 접두사형 : 어떤
-  * O SVni : S가 해당 장소에서 O를 V하다
-  * niruru : 다시 어떤 것, 다른 것
-  * nihi : 언제, 어떤 시간
-* **toi** : 무언가
 * **con** : 행동, 상황, 상태
 * **si** : 적응체 또는 지성체
 * **ci** : 작다, 접미사형 : 작은

@@ -275,9 +275,9 @@ Harhatitahunayarees. Naracon Harhatiharhu.
 
 Harhatiharhacita. Narareesti Naconta. Harhati Hinineruharhati.
 
-Harhati Hinitaruhuru. Nitoi Harhatita. 
+Harhati Hinitaruhuru. Na Harhatita. 
 
-NH(Natinitoi Harhatitahuhi) toiya. Nahi os Hitoitahi.
+NH(Na Harhatitahureesra) naya. Nareesra os Naratareesra.
 
 어느날, 어떤 것이 0에서 태어났다. 그것의 이름은 하르하트이다.
 

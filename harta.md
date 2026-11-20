@@ -74,8 +74,8 @@
   * hurutes : 흥미롭다
     * 접미사형 : ~하고 싶다
     * nahurutes : 어떤 이유, 왜
-  * hatires : 우월감을 느끼다
-  * hacires : 열등감을 느끼다
+  * hatites : 우월감을 느끼다
+  * hacites : 열등감을 느끼다
   * harates : 달콤하다, 행복하다
   * nereestes : 외롭다
   * tesru : 냉정하다

@@ -58,6 +58,7 @@
   * reessasra : 유리
 * **cui** : 나무
   * cuisasti : 나무 섬유, 종이
+  * cuihara : 번개
   * na cuita : 과일, 열매
 * **soos** : 금속
 * **sai** : 조류, 새
@@ -174,7 +175,6 @@
       * 규칙2 : 서다
   * hara : 공중에 배치하다, 던지다 / 공중의 것, 하늘의 것
     * 규칙2 : 날다
-      * cuihara : 번개
     * rees hara~ : ~을 오염시키다, 더럽게 만들다
     * sascira hara~ : ~을 씻기다, 깨끗하게 만들다
     * harata : 밀다, 밀어내다

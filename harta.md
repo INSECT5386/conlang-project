@@ -229,8 +229,8 @@
   * hurutes : 흥미로움
     * 접미사형 : ~하고 싶다
     * nahurutes : 어떤 이유, 왜
-  * hatites : 우월감
-  * hacites : 열등감
+  * hatites : 우월감, 무시하다
+  * hacites : 열등감, 존경하다
   * harates : 달콤함, 행복
   * nereestes : 외로움
   * tesru : 냉정함
@@ -286,10 +286,10 @@ NH Naraharacayyca un Narahatisey, Harhatitahureesra. Nareesrataru.
 
 Harhatineyarees. Ne Nataru. Na os Nasi Natahururu. Han Nasinesi os Harta.
 
-Harta Harhatita. Harta Narurusiharhaci.
+Harta Harhatita. Harta Narurusihacites.
 Harta Yrasiharhutes.
 
-Nacon Yrasinerurees. "Naraharta Nayarahacinera orun, Nayara Narasiharhaci."
+Nacon Yrasinerurees. "Naraharta Nayarahacinera orun, Nayara Narasihacites."
 
 Nareesharta. Hartatahunarees.
 Naracon Nasiharne. Nasinenarees.

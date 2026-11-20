@@ -292,26 +292,26 @@ NH[그 어떤 것을 하르하트가 살려두는 시간] 0. 이 시간이 모�
 
 NH Naraharacayyca un Narahatisey, Harhatitahureesra. Nareesrataru.
 
-Harhatineyarees. Ne Nataru. Na os Nasi Natahururu. Han Natinisinenaya os Harta.
+Harhatineyarees. Ne Nataru. Na os Nasi Natahururu. Han Nasinesi os Harta.
 
-Harta Harhatita. Harta Nirurusiharhaci.
+Harta Harhatita. Harta Narurusiharhaci.
 Harta Yrasiharharhu.
 
-Nicon Yrasinerurees. "Hiharta Hinayahacinera orun, Hinaya Hisiharhaci."
+Nacon Yrasinerurees. "Naraharta Nayarahacinera orun, Nayara Narasiharhaci."
 
-Natiniharta. Hartatahunatini.
-Hicon Nisiharne. Natisinenatini.
-Han Natininenaya os Hiconni.
+Nareesharta. Hartatahunarees.
+Naracon Nasiharne. Nasinenarees.
+Han Nareesnerees os Naraconrees.
 
-NH Hihatiracayyca un Hihatisey un yse, Hiconni Yrasihacineraneeta
+NH Naraharacayyca un Narahatisey un yse, Naraconrees Yrasihacineeta
 
-Catisai un Soosraynor Yrasihacine.
-Catisai Catirata. Hitoi Catisainecatine.
+Catisai un Soosraynor Yrasisa.
+Catisai Carata. Nara Catisainecatine.
 
-Soosraynor sascirareesta. Hitoi Soosraynornesa orun, Sitahuhi. Natihi Soosraynornesi.
+Soosraynor Sasrareesta. Nara Soosraynornesa orun, Sitahureesra. Nareesra Soosraynornesi.
 
-Cuihatira. Naticui Hartahacine.
-Cuihatira. Naticui Hartata. Hitoi Naticuitarune.
+Cuihara. Nacui Hartasa.
+Cuihara. Nacui Hartata. Nara Nacuitarune.
 
 NH 50억 700만, 하르하트의 수명. 그 시간이 죽었다.
 (어떤 것이 빛난다). 그 어떤 것(앞 문장)을 하르하트가 가지고 있다.

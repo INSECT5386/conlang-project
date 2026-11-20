@@ -266,7 +266,7 @@
 * 10000 : narati
 * 1000000 : narahati
 * 100000000 : narahara
-* 279 : hiyse un caysey un noy
+* 279 : narayse un caysey un noy
 ## 예문
 
 Nareesra, Natanaya. Han Nanena. Han os Harhati

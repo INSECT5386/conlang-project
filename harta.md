@@ -62,10 +62,18 @@
   * raynor : 곤충
 * **nai** : 소리, 파동
 * **rio** : 냄새, 공기
-* **tes** : 맛
-  * catites : 맵다
-  * sasrareestes : 짜다, 소금
-  * harharates : 달콤하다
+* **tes** : 맛, 감정
+  * netes : 소속감을 느끼다
+  * nerutes : 배척감을 느끼다, 고립된 점이다
+  * catites : 맵다, 화나다
+  * hutes : 지루하다
+    * 접미사형 : ~하기 싫다
+  * hurutes : 흥미롭다
+    * 접미사형 : ~하고 싶다
+      * nerureeshurutes : 궁금해하다
+      * nahurutes : 어떤 이유, 왜
+  * harates : 달콤하다, 행복하다
+
 * **sain** : 가족
   * sainti : 화자보다 나이가 많은 형제, 자매
   * sainci : 동생
@@ -141,11 +149,10 @@
     * 조건-1, 만약 배경이 땅이나 바닥이라면 : ~에 묻다
     * 조건-2, 만약 목적어가 어떤 공간이라면 : 목적어의 문을 닫다, 목적어를 폐쇄하다
     * 규칙2 : 기억, 자아를 잃다
-      * neyarees : 묻지 않다, 알다, 기억하다
+      * neyarees : 묻지 않다, 기억하다, 알다
         * 규칙2 : ~의 자아
-        * nane neyarees : 이해하다, 파악하다
-        * naneru neyarees : 아는 척하다
         * saneyarees : 습관
+        * nane neyarees : 이해하다, 파악하다
   * neru : 꺼내다, 퇴출시키다, ~으로부터 분리하다(잘라내다, 떼어내다, 끊어내다) / 외부의 것
     * 조건-1, 만약 ~가 어떤 존재라면 : 빼앗다, 훔치다
     * 조건-2, 만약 주어와 ~가 같다면 : 버리다
@@ -194,21 +201,12 @@
     * 규칙2 : 빛나다
     * hartarees : 비추는 건물
     * hartareesra : 비추는 시간, -의 낮
-  * harne : 소속감을 느끼다
-  * harneru : 배척감을 느끼다, 고립된 점이다
-  * harhara : 행복하다
   * harhaci : 열등감을 느끼다, 올려다보다
     * harhacita : 세우다
       * 규칙2 : 서다
   * harhati : 우월감을 느끼다, 내려다보다
     * harhatita : 앉히다, 눕히다
       * 규칙2 : 앉다, 눕다
-  * harhu : 지루하다, 무기력하다
-    * 접미사형 : ~하기 싫다
-  * harhuru : 열정적이다, 흥미롭다
-    * 접미사형 : ~하고 싶다
-    * nerureesharhuru : 궁금해하다
-    * naharhuru : 어떤 이유, 왜
   * harnerees : 외롭다
   * harron : 비교하다, 저울질하다
     * A un B harron : A와 B를 비교하다, 저울질하다

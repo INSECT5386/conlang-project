@@ -206,6 +206,7 @@
   * naci nahar : 돋보기, 현미경
   * nai har : 듣다
   * rio har : 맡다
+  * harruru : 회상하다
 * **sa**: 휘두르다, 흔들다, 노동시키다, 사용하다 / 신체
   * 규칙2 : 파닥거리다, 진동하다, 떨다
   * nasa : 어떤 방법, 어떻게
@@ -217,24 +218,23 @@
   * corne : 섞다, 휘젓다
   * reesracor : 계절, 주기적이다
 * **tes** : 맛, 감정
-  * netes : 소속감을 느끼다
-  * nanenates : 충족감을 느끼다, 만족감을 느끼다
-  * nerutes : 배척감을 느끼다
-  * nanerunates : 상실감을 느끼다, 박탈감을 느끼다
-  * naneyanates : 불만족하다
-  * catites : 맵다, 화나다
-  * hutes : 지루하다
+  * netes : 소속감
+  * nanenates : 충족감, 만족감
+  * nerutes : 배척감
+  * nanerunates : 상실감, 박탈감
+  * naneyanates : 불만족
+  * catites : 매운 맛, 화남
+  * hutes : 지루함
     * 접미사형 : ~하기 싫다
-  * hurutes : 흥미롭다
+  * hurutes : 흥미로움
     * 접미사형 : ~하고 싶다
     * nahurutes : 어떤 이유, 왜
-  * hatites : 우월감을 느끼다
-  * hacites : 열등감을 느끼다
-  * harates : 달콤하다, 행복하다
-  * nereestes : 외롭다
-  * tesru : 냉정하다
-  * tesya : 무감각하다
-  * tesruru : 회상하다
+  * hatites : 우월감
+  * hacites : 열등감
+  * harates : 달콤함, 행복
+  * nereestes : 외로움
+  * tesru : 냉정함
+  * tesya : 무감각
 ---
 ### 숫자
 * **한 손의 손가락 5개와 그것 사이의 공간 4개 그리고 손바닥 하나까지 총 10개 사용하며, 10개를 전부 사용할 때마다 반대쪽 손의 손가락 5개, 그것 사이의 공간 4개 그리고 손바닥 하나에 하나씩 배치한다.**

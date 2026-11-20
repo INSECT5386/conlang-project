@@ -249,7 +249,7 @@
 ---
 ### 숫자
 * **한 손의 손가락 5개와 그것 사이의 공간 4개 그리고 손바닥 하나까지 총 10개 사용하며, 10개를 전부 사용할 때마다 반대쪽 손의 손가락 5개, 그것 사이의 공간 4개 그리고 손바닥 하나에 하나씩 배치한다.**
-* 0: toiya
+* 0: naya
 * 1 : yra
 * 2 : yse
 * 3 : yha
@@ -265,10 +265,10 @@
 * ABC : A * B * C
 * 15 : cay un yca
 * 36 : cayyha un ray
-* 100 : hi
-* 10000 : hiti
-* 1000000 : hihati
-* 100000000 : hihatira
+* 100 : nara
+* 10000 : narati
+* 1000000 : narahati
+* 100000000 : narahatira
 * 279 : hiyse un caysey un noy
 ## 예문
 

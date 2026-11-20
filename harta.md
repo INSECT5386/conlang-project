@@ -53,7 +53,7 @@
   * reessascira : 유리
 * **cui** : 나무
   * cuisasti : 나무 섬유, 종이
-  * toi cuita : 과일, 열매
+  * na cuita : 과일, 열매
 * **soos** : 금속
 * **sai** : 조류, 새
 * **arii** : 어류, 물고기
@@ -110,8 +110,8 @@
       * 규칙2 : 거주하는 건물
     * tahuhi : 살리는/지속시키는 시간
       * 규칙2 : ~의 수명
-    * -- -ne~. naticon tahu : --를 -가 ~에 넣는/참여시키는 행동을 지속시킨다, 모으다, 누적시키다
-      * -- -neta~. naticon tahu : 사냥하다, 채집하다
+    * -- -ne~. nacon tahu : --를 -가 ~에 넣는/참여시키는 행동을 지속시킨다, 모으다, 누적시키다
+      * -- -neta~. nacon tahu : 사냥하다, 채집하다
     * tahururu : 환생시키다, 수정하다, 대체하다, 변환하다
       * A os B tahururu : A를 B로 수정하다, 대체하다, 변환하다
   * taru : 끝내다, 없애다, ~에서 죽게 하다
@@ -212,7 +212,7 @@
   * harhuru : 열정적이다, 흥미롭다
     * 접미사형 : ~하고 싶다
     * nerureesharhuru : 궁금해하다
-    * niharneru : 어떤 이유, 왜
+    * narayaharhuru : 어떤 이유, 왜
   * harnerees : 외롭다
   * harron : 비교하다, 저울질하다
     * A un B harron : A와 B를 비교하다, 저울질하다
@@ -240,7 +240,7 @@
   * nacorne : 원, 구체, 둥글다
   * corne : 섞다, 휘젓다
   * hicor : 계절
-  * nicorhi : 가끔, 때때로
+  * narayacorhi : 가끔, 때때로
 * **특수 어휘**
   * **접속사, 접속 부사**
     * un : 그리고, 추가적으로

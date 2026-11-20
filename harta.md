@@ -216,7 +216,7 @@
   * nacorne : 원, 구체, 둥글다
   * corne : 섞다, 휘젓다
   * reesracor : 계절, 주기적이다
-* **tes** : 느끼다
+* **tes** : 맛, 감정
   * netes : 소속감을 느끼다
   * nanenates : 충족감을 느끼다, 만족감을 느끼다
   * nerutes : 배척감을 느끼다

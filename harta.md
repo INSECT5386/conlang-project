@@ -287,7 +287,7 @@ NH Naraharacayyca un Narahatisey, Harhatitahureesra. Nareesrataru.
 Harhatineyarees. Ne Nataru. Na os Nasi Natahururu. Han Nasinesi os Harta.
 
 Harta Harhatita. Harta Narurusiharhaci.
-Harta Yrasiharharhu.
+Harta Yrasiharhutes.
 
 Nacon Yrasinerurees. "Naraharta Nayarahacinera orun, Nayara Narasiharhaci."
 

@@ -73,12 +73,11 @@
   * saintoi : 유전자
   * sainsascira : 피, 혈액
 * **han** : 이름, 상징
-* **na** : 거리, 그것
+* **na** : 거리, 그 어떤 것
   * naruru : 다른 것
   * naya : 나, 0
     * hinaya : 우리
   * nara : 모든, 전체
-    * naraya : 어떤, 일부
   * naci : 근처에, 가까운, 이것
   * nati : 먼 곳에, 먼, 저것
 * **rin** : 선이 구부러진 정도

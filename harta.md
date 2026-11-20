@@ -275,7 +275,7 @@ Harhatitahunayarees. Naracon Harhatiharhu.
 
 Harhatiharhacita. Narareesti Naconta. Harhati Hinineruharhati.
 
-Harhati Hinitaruhuru. Na Harhatita. 
+Harhati Narareestaruhuru. Na Harhatita. 
 
 NH(Na Harhatitahureesra) naya. Nareesra os Naratareesra.
 

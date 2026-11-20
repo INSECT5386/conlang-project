@@ -208,7 +208,7 @@
   * harhuru : 열정적이다, 흥미롭다
     * 접미사형 : ~하고 싶다
     * nerureesharhuru : 궁금해하다
-    * narayaharhuru : 어떤 이유, 왜
+    * naharhuru : 어떤 이유, 왜
   * harnerees : 외롭다
   * harron : 비교하다, 저울질하다
     * A un B harron : A와 B를 비교하다, 저울질하다

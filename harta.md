@@ -263,7 +263,7 @@
 
 Nareesra, Natanaya. Han Nanena. Han os Harhati
 
-Harhatitahunayarees. Naracon Harhatiharhu.
+Harhatitahunayarees. Naracon Harhatihutes.
 
 Harhatiharhacita. Narareesti Naconta. Harhati Narareesneruharhati.
 

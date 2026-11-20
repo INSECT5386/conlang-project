@@ -21,17 +21,17 @@
 * **1번 활용, 조어**
 1. 어떤 것을 보이는 모습대로 서술하거나 비슷해 보이는 모양에 은유한다.
 2. 표현하고자 하는 대상의 기능, 실체, 용도, 원리 등을 문장형으로 표현한다.
-* 1. Nitoi Hisicorya. Natitoi Nisitarutahatini. : 어떤 것을 모두가 약속했다. 그것을 어떤 자들이 해당 장소에서 공격할 권리를 가진다. -> 헌법 재판소
-* 2. Nitoi Sinenaya orun, Nirurutoi Natisineruhacisi. : 지성체가 어떤 것을 가진다. 그렇다는 조건하에 그 지성체는 다른 것을 버려야한다. -> 기회비용
+* 1. Na Naracorya. Na Nasitarutahatirees. : 그 어떤 것을 모두가 약속했다. 그것을 어떤 자들이 해당 장소에서 공격할 권리를 가진다. -> 헌법 재판소
+* 2. Na Sinesi orun, Naruru Nasineruhacisi. : 지성체가 그 어떤 것을 가진다. 그렇다는 조건하에 그 지성체는 다른 것을 버려야한다. -> 기회비용
 * **2번 활용**
 1. 문장 요소 받아오기.
-* 1. arii nayataruta. natiarii sainesa. : 내가 공격한 물고기를 새가 먹었다.
-* 2. arii nayataruta. nisai nayanesa. : 물고기를 공격한 내가 어떤 새를 먹었다.
-* 3. natitahusi. nati : 그것이 지성체에 기생한다, 그것 ~ -> 지성체에 기생하는 그것 ~
-* 4. natitahusi. si : 그것이 지성체에 기생한다, 지성체 ~ -> 그것이 기생하는 지성체 ~
+* 1. arii nayataruta. naarii sainesa. : 내가 공격한 물고기를 새가 먹었다.
+* 2. arii nayataruta. nasai nayanesa. : 물고기를 공격한 내가 그 어떤 새를 먹었다.
+* 3. natahusi. na : 그것이 지성체에 기생한다, 그것 ~ -> 지성체에 기생하는 그것 ~
+* 4. natahusi. si : 그것이 지성체에 기생한다, 지성체 ~ -> 그것이 기생하는 지성체 ~
 * 5. A Bta. A : B의 자식 A
 * 6. A Bta. B : A의 부모/조상 B
-* 7. Natisai Natisitaru. Naticon os Nicon? : 그 새를 그가 죽였다. 그 행동은 어떤 행동인가? (그가 새를 죽인 것에 대해 어떻게 생각하는가?)
+* 7. Nasai Nasitaru. Nacicon os Na? : 그 새를 그가 죽였다. 이 행동은 그 어떤 것인가? (그가 새를 죽인 것에 대해 어떻게 생각하는가?)
 * **3번 활용**
 * 1. 해야하는 것, 원하는 것, 할 수 있는 것 등이 서로 반대이거나 다른 것일 때 두 문장 사이에 '하지만' 이 있다고 해석한다.
 * 2. 해야하는 것, 할 수 있는 것, 원하는 것이 무엇인지 앞 문장에서 서술했는데, 그 다음에 완전 다른 행동을 했다면 두 문장 사이에 '하지만' 이 있다고 해석한다.

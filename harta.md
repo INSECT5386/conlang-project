@@ -75,7 +75,7 @@
 * **han** : 이름, 상징
 * **na** : 거리, 그것
   * naruru : 다른 것
-  * naya : 자기자신
+  * naya : 나, 0
     * hinaya : 우리
   * nara : 모든, 전체
     * naraya : 어떤, 일부

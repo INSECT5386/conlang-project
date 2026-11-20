@@ -70,8 +70,7 @@
     * 접미사형 : ~하기 싫다
   * hurutes : 흥미롭다
     * 접미사형 : ~하고 싶다
-      * nerureeshurutes : 궁금하다
-      * nahurutes : 어떤 이유, 왜
+    * nahurutes : 어떤 이유, 왜
   * harates : 달콤하다, 행복하다
 
 * **sain** : 가족

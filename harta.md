@@ -290,9 +290,9 @@ NH(Na Harhatitahureesra) naya. Nareesra os Naratareesra.
 
 NH[그 어떤 것을 하르하트가 살려두는 시간] 0. 이 시간이 모든 것이 시작하는 시간이었다.
 
-NH Hihatiracayyca un Hihatisey, Harhatitahuhi. Natihitaru.
+NH Naraharacayyca un Narahatisey, Harhatitahureesra. Nareesrataru.
 
-Harhatineyarees. Ne Natitaru. Nati os Nisi Natitahururu. Han Natinisinenaya os Harta.
+Harhatineyarees. Ne Nataru. Na os Nasi Natahururu. Han Natinisinenaya os Harta.
 
 Harta Harhatita. Harta Nirurusiharhaci.
 Harta Yrasiharharhu.

@@ -106,9 +106,9 @@
   * tahu : 살려두다, 지속시키다, ~에 거주시키다
     * 조건, ~가 공간이 아닌 사물이라면 : 감염시키다
     * 규칙2 : 살다, 살아있다, 조건(기생하다)
-    * tahuni : 살리는/지속시키는 건물
+    * tahurees : 살리는/지속시키는 건물
       * 규칙2 : 거주하는 건물
-    * tahuhi : 살리는/지속시키는 시간
+    * tahureesra : 살리는/지속시키는 시간
       * 규칙2 : ~의 수명
     * -- -ne~. nacon tahu : --를 -가 ~에 넣는/참여시키는 행동을 지속시킨다, 모으다, 누적시키다
       * -- -neta~. nacon tahu : 사냥하다, 채집하다
@@ -191,13 +191,13 @@
   * 규칙2 : 가로막다, 사이에 있다
   * ron A un B : A와 B 사이에 배치하다
     * 규칙2 : A와 B 사이에 있다
-  * ronni : 경계, 틈
-  * ronhi : 공백기간, 쉬는 시간
+  * ronrees : 경계, 틈
+  * ronreesra : 공백기간, 쉬는 시간
 * **har**: 보다, 인식하다
   * harta : 비추다, 밝히다
     * 규칙2 : 빛나다
-    * hartani : 비추는 건물
-    * hartahi : 비추는 시간, -의 낮
+    * hartarees : 비추는 건물
+    * hartareesra : 비추는 시간, -의 낮
   * harne : 소속감을 느끼다
   * harneru : 배척감을 느끼다, 고립된 점이다
   * harhatira : 행복하다
@@ -225,7 +225,6 @@
   * harruru : 회상하다
   * taruta har : 트라우마가 있다
   * sasya har : 만지다
-  * harni : 보는 건물
   * nati nahar : 망원경
   * naci nahar : 돋보기, 현미경
   * nai har : 듣다
@@ -239,8 +238,8 @@
   * coryaruru : 다시 고정하다, 다시 박다, 약속을 수정하다
   * nacorne : 원, 구체, 둥글다
   * corne : 섞다, 휘젓다
-  * hicor : 계절
-  * narayacorhi : 가끔, 때때로
+  * reesracor : 계절
+  * narayacorreesra : 가끔, 때때로
 * **특수 어휘**
   * **접속사, 접속 부사**
     * un : 그리고, 추가적으로

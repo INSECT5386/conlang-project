@@ -62,17 +62,25 @@
   * raynor : 곤충
 * **nai** : 소리, 파동
 * **rio** : 냄새, 공기
-* **tes** : 맛, 감정
+* **tes** : (맛, 감정을) 느끼다
   * netes : 소속감을 느끼다
-  * nerutes : 배척감을 느끼다, 고립된 점이다
+  * nanenates : 충족감을 느끼다, 만족감을 느끼다
+  * nerutes : 배척감을 느끼다
+  * nanerunates : 상실감을 느끼다, 박탈감을 느끼다
+  * naneyanates : 불만족하다
   * catites : 맵다, 화나다
   * hutes : 지루하다
     * 접미사형 : ~하기 싫다
   * hurutes : 흥미롭다
     * 접미사형 : ~하고 싶다
     * nahurutes : 어떤 이유, 왜
+  * hatires : 우월감을 느끼다, 내려다보다
+  * hacires : 열등감을 느끼다, 올려다보다
   * harates : 달콤하다, 행복하다
-
+  * nereestes : 외롭다
+  * tesru : 냉정하다
+  * tesya : 무감각하다
+  * tesruru : 회상하다
 * **sain** : 가족
   * sainti : 화자보다 나이가 많은 형제, 자매
   * sainci : 동생
@@ -200,23 +208,12 @@
     * 규칙2 : 빛나다
     * hartarees : 비추는 건물
     * hartareesra : 비추는 시간, -의 낮
-  * harhaci : 열등감을 느끼다, 올려다보다
     * harhacita : 세우다
       * 규칙2 : 서다
-  * harhati : 우월감을 느끼다, 내려다보다
     * harhatita : 앉히다, 눕히다
       * 규칙2 : 앉다, 눕다
-  * harnerees : 외롭다
   * harron : 비교하다, 저울질하다
     * A un B harron : A와 B를 비교하다, 저울질하다
-  * -ne- -har : 충족감을 느끼다, 만족감을 느끼다
-  * -neru- -har : 상실감을 느끼다, 박탈감을 느끼다
-  * -neya- -har : 불만족하다
-  * -neruru- -har : 안도하다
-  * harru : 냉정하다
-  * harya : 무감각하다
-  * harruru : 회상하다
-  * taruta har : 트라우마가 있다
   * sasya har : 만지다
   * nati nahar : 망원경
   * naci nahar : 돋보기, 현미경

@@ -269,7 +269,7 @@ NH[그 어떤 것을 하르하트가 살려두는 시간] 0. 이 시간이 모�
 
 NH Naraharacayyca un Narahatisey, Harhatitahureesra. Nareesrataru.
 
-Harhatineyarees. Ne Nataru. Na os Nasi Nata. Han Nasine os Harta.
+Harhatineyarees. Nanerutahu. Na os Nasi Nata. Han Nasine os Harta.
 
 Harta Harhatita. Harta Narurusihacites.
 Harta Yrasiharhutes.

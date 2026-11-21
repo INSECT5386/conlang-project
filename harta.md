@@ -61,12 +61,22 @@
   * cuihara : 번개
   * na cuita : 과일, 열매
 * **soos** : 금속
+* **sur** : 사슴
+  * surnesa : 돼지
+  * sursa : 소
+  * surra : 말
+  * surti : 기린
 * **sai** : 조류, 새
 * **arii** : 어류, 물고기
-* **nor** : 짐승, 육상 동물
-  * norti : 대형 포유류
-  * norsaya : 팔다리가 없는 동물
+  * ariira : 양서류
+  * ariitaru : 상어
+  * ariiti : 고래
+* **nor** : 뱀
   * raynor : 곤충
+  * norci : 곤충이 아닌 작은 생물
+* **seu** : 쥐
+  * seunerees : 두더지, 땅쥐
+  * seuhara : 박쥐
 * **nai** : 소리, 파동
 * **rio** : 냄새, 공기
 * **sain** : 가족

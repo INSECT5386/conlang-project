@@ -55,6 +55,9 @@
   * reesti : 산
   * sasrarees : 진흙
   * reessasra : 유리
+  * reescon : 더러운 정도
+    * reesconti : 더럽다, 오염된
+    * reesconci : 깨끗하다, 청결한
 * **cui** : 나무
   * cuisasti : 나무 섬유, 종이
   * cuihara : 번개
@@ -208,8 +211,6 @@
     * nanai hati~ : ~에 녹음하다
     * hatita : 서다
   * hara : 공중에 배치하다, 던지다, 날리다 / 공중의 것, 하늘의 것
-    * rees hara~ : ~을 오염시키다, 더럽게 만들다
-    * sascira hara~ : ~을 씻기다, 깨끗하게 만들다
     * harata : 밀다, 밀어내다
       * 규칙2 : 뛰다, 도약하다
 * **har**: 보다

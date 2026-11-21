@@ -47,9 +47,9 @@
   * cara : 항성
 * **rees** : 흙, 땅
   * 접미사형 : 장소, 공간
-  * O SVrees : S가 해당 장소에서 O를 V하다
+  * O SV narees : O를 S가 V하다. 그 장소
     * reesra : 시간
-      * O SVreesra :  해당 시간에 O를 V하다
+      * O SV nareesra : O가 S를 V하다. 그 시간
   * reesti : 산
   * sasrarees : 진흙
   * reessasra : 유리

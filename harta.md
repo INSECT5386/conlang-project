@@ -66,6 +66,9 @@
   * sursa : 소
   * surra : 말
   * surti : 기린
+* **tei** : 개
+  * teira : 늑대
+  * teirati : 곰
 * **sai** : 조류, 새
 * **arii** : 어류, 물고기
   * ariira : 양서류

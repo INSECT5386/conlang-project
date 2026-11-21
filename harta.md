@@ -130,8 +130,6 @@
   * saneyarees : 습관
 * **cor**: 굴리다, 순환시키다
   * corya : 고정하다, 박다, 약속하다
-  * coryaru : 뽑아내다, 약속을 없애다
-  * coryaruru : 다시 고정하다, 다시 박다, 약속을 수정하다
   * nacorne : 원, 구체, 둥글다
   * corne : 섞다, 휘젓다
   * reesracor : 계절, 주기적이다
@@ -151,7 +149,6 @@
   * hacites : 열등감, 존경하다
   * harates : 달콤함, 행복
   * nereestes : 외로움
-  * tesru : 냉정함
   * tesya : 무감각
   * teites : 충성심
   * neotes : 오만함

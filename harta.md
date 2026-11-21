@@ -300,7 +300,7 @@ Nacon Yrasinerurees. "Naraharta Nayarahacinera orun, Nayara Narasihacites."
 
 Nareesharta. Hartatahunarees.
 Naracon Nasiharne. Nasinenarees.
-Han Nareesnerees os Naraconrees.
+Han Nareesne os Naraconrees.
 
 NH Naraharacayyca un Narahatisey un yse, Naraconrees Yrasihacineeta
 

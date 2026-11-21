@@ -231,8 +231,6 @@
   * harron : 비교하다, 저울질하다
     * A un B harron : A와 B를 비교하다, 저울질하다
   * sasya har : 만지다
-  * nati nahar : 망원경
-  * naci nahar : 돋보기, 현미경
   * nai har : 듣다
   * rio har : 맡다
   * harhati : 내려다보다, 위에서 보다

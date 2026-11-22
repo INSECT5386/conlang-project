@@ -48,11 +48,11 @@
 * **ror** : 밝은 정도
   * rorci : 어둡다
   * rorti : 밝다
-* **rees** : 흙, 땅
+* **to** : 흙, 땅
   * 접미사형 : 장소, 공간
-  * O SV narees : O를 S가 V하다. 그 장소
-    * reesra : 시간
-      * O SV nareesra : O가 S를 V하다. 그 시간
+  * O SV nato : O를 S가 V하다. 그 장소
+    * tora : 시간
+      * O SV natora : O가 S를 V하다. 그 시간
   * reesti : 산
   * sasrarees : 진흙
   * reessasra : 유리
@@ -111,16 +111,14 @@
   * sane : 신체가 자신을 내부에 두다, 내장
   * saneyarees : 습관
 * **cor** : 닫다, 폐쇄하다
-* **cor**: 굴리다, 순환시키다
-  * corne : 섞다, 휘젓다
-  * reesracor : 계절, 주기적이다
 * **ta** : 시작하다, 탄생시키다 
   * tahu : 살려두다, 지속시키다
     * 접미사형 : ~를 반복하다, 지속하다
+      * toratahu : 계절
     * 활용법
-      * [O] [S]tahu narees os ~ : ~에서 살리다, 수리하다
-      * 규칙2, [S]tahu narees os ~ : ~에서 살다, ~에 살아있다
-        * [S]tahu nareesra : [S]의 수명
+      * [O] [S]tahu nato os ~ : ~에서 살리다, 수리하다
+      * 규칙2, [S]tahu nato os ~ : ~에서 살다, ~에 살아있다
+        * [S]tahu natora : [S]의 수명
       * [O] [S]ta : 만들다
         * nacon [S]ta : 그 상황을 만들다, -하게 만들다
         * A os B [S]ta : A를 B로 만들다
@@ -129,13 +127,13 @@
     * 부정 접미사형, neya : 할 수 없다, 할 수 있는 기관이 없다
   * netahu : 모으다, 모집하다
   * 활용법
-    * [O] [S]ne narees os ~ : ~에 넣다, 참여시키다, ~에게 주다
-    * 규칙2, [S]ne narees os ~ : ~에 입장하다, 참여하다
+    * [O] [S]ne nato os ~ : ~에 넣다, 참여시키다, ~에게 주다
+    * 규칙2, [S]ne nato os ~ : ~에 입장하다, 참여하다
     * 규칙2-1, [O] [S]ne : 가지다
-    * nanai [S]ne narees os ~ : ~에게 말하다
-    * nasa [S]ne narees os ~ : ~에게 가르치다
+    * nanai [S]ne nato os ~ : ~에게 말하다
+    * nasa [S]ne nato os ~ : ~에게 가르치다
   * 활용 예문
-    * cui nasine narees os naya. nacon nayanee.
+    * cui nasine nato os naya. nacon nayanee.
       * 직역 : 나무를 그가 ~에게 주다. 나. 그 상황을 내가 강제하다
       * 의역 : 그의 나무를 내가 빼앗는다.
     * naya nayane. nacon nayaru.
@@ -143,25 +141,25 @@
       * 의역 : 내가 범죄를 저지르다.
 * **ron** : 끼워넣다, 사이에 배치하다
   * 활용법
-    * [O] [S]ron narees os ~ : ~에 끼워넣다, 박다
-      * nacon [S]ron narees os ~ : ~에게 약속하다
+    * [O] [S]ron nato os ~ : ~에 끼워넣다, 박다
+      * nacon [S]ron nato os ~ : ~에게 약속하다
     * [O] [S]ron A un B : A와 B 사이에 배치하다
     * 규칙2, [S]ron A un B : A와 B 사이를 가로막다
 * **ha** : 올려놓다, 자유민으로 만들다 / 위쪽의 것
   * 부정 접미사형, haya : ~할 권리가 없다, ~에 반대되는 의무가 있다
   * hatahu : 쌓다, 누적시키다
   * hara : 허공에 배치하다, 지도자로 만들다 / 공중의 것
-    * [O] [S]ha narees os ~ : ~에 올려놓다, ~의 자유민으로 만들다
-    * 규칙2, [S]ha narees os ~ : ~의 자유를 얻다
+    * [O] [S]ha nato os ~ : ~에 올려놓다, ~의 자유민으로 만들다
+    * 규칙2, [S]ha nato os ~ : ~의 자유를 얻다
     * 규칙2-1, [O] [S]ha : 들다, 지탱하다, 돕다
       * nacon [S]ha : 그 상황을 시도하다
-    * nanai [S]ha narees os ~ : ~에 녹음하다
-    * nasa [S]ha narees os ~ : ~에 기록하다
+    * nanai [S]ha nato os ~ : ~에 녹음하다
+    * nasa [S]ha nato os ~ : ~에 기록하다
   * 활용 예문
-    * nasihaya narees os nara. nacon nayanee.
+    * nasihaya nato os nara. nacon nayanee.
       * 직역 : ~의 자유를 그가 얻지 않다. 모든 것. 그 상황을 내가 강제하다.
       * 의역 : 그의 모든 자유를 내가 박탈한다. (노예화, 식민지화, 통제)
-    * nayahaya narees os nayaneya narees. nacon nasinee.
+    * nayahaya nato os nayaneya nato. nacon nasinee.
       * 직역 : ~의 자유를 내가 얻지 않다. 내가 밖에 있다. 그 상황을 모두가 강제하다.
       * 의역 : 나를 그가 가두다.
 * **hu** : 뒤에 놓다, 숨기다, 보호하다 / 뒤쪽의 것

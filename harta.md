@@ -181,7 +181,7 @@
       * 접미사형 : ~하고 싶다
       * nahuyates : 어떤 이유, 왜
   * 활용법
-    * [O] [S]tes nato os ~ : ~에서 먹다
+    * [O] [S]testo os ~ : ~에서 먹다
     * rio [S]tes : 숨 쉬다
 
 붙이다

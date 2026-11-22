@@ -74,7 +74,7 @@
 * **han** : 이름, 상징
 * **na** : 거리, 그 어떤 것
   * naruru : 다른 것
-  * naya : 나, 0
+  * naya : 나
     * nayara : 우리
   * nara : 모든, 전체
   * naci : 근처에, 가까운, 이것
@@ -117,6 +117,7 @@
       * [O] [S]ta : 만들다
         * nacon [S]ta : 그 상황을 만들다, -하게 만들다
         * A os B [S]ta : A를 B로 만들다
+          * A un B os yra [S]ta : 하나로 만들다, 합치다
 * **ne** : 넣다, 참여시키다, 주다 / 내부의 것
   * 접미사형 : 할 수 있다, 할 수 있는 기관이 있다
     * 부정 접미사형, neya : 할 수 없다, 할 수 있는 기관이 없다
@@ -206,7 +207,7 @@ harata : 밀다, 밀어내다
 ---
 ### 숫자
 * **한 손의 손가락 5개와 그것 사이의 공간 4개 그리고 손바닥 하나까지 총 10개 사용하며, 10개를 전부 사용할 때마다 반대쪽 손의 손가락 5개, 그것 사이의 공간 4개 그리고 손바닥 하나에 하나씩 배치한다.**
-* 0: naya
+* 0: ya
 * 1 : yra
 * 2 : yse
 * 3 : yha
@@ -229,19 +230,19 @@ harata : 밀다, 밀어내다
 * 279 : narayse un caysey un noy
 ## 예문
 
-Nareesra, Natanaya. Han Nanena. Han os Harhati
+natora, nata o toya. han nane o na. han os Hara
 
-Harhatitahunayarees. Naracon Harhatihutes.
+naracon Harahutes.
 
-Harhatiharhatita. Narareesti Naconta. Harhati Narareesneruharhati.
+Hara harhatita. naratoti naconta. Hara narato neruharhati.
 
 Harhati Narareestaruhuru. Na Harhatita. 
 
 NH(Na Harhatitahureesra) naya. Nareesra os Naratareesra.
 
-어느날, 어떤 것이 0에서 태어났다. 그것의 이름은 하르하트이다.
+어느날, 어떤 것이 공허에서 태어났다. 그것의 이름은 하르하트이다.
 
-하르하트는 0에서 살았다. 모든 행동을 하르하트가 지루해했다.
+모든 행동을 하르하트가 지루해했다.
 하르하트가 일어섰다.
 
 모든 공간을 그 행동이 큰 공간을 만들었다. 하르하트를 그 공간이 잘랐다.

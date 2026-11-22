@@ -104,7 +104,7 @@
 * **sa**: 휘두르다, 흔들다, 노동시키다, 사용하다 / 신체, 방법
   * nasa : 어떤 방법, 어떻게
   * sane : 신체가 자신을 내부에 두다, 내장
-  * saneyarees : 습관
+  * sasou : 습관
 * **ta** : 시작하다, 탄생시키다 
   * tahu : 살려두다, 지속시키다
     * 접미사형 : ~를 반복하다, 지속하다
@@ -251,7 +251,7 @@ Harasou. nanetahu. nacon toraru. na os nasi nata. han nasine o nasi os Rorti.
 Rorti Harata. Rorti narurusiharahuyates.
 Rorti Yrasiharhutes.
 
-nacon Yrasinerurees. "naraRortihaya o nara. nacon nayaranee. orun, nayara osruru siti ." nacon Yrasisou. nacon Yrasiha o Yrasi.
+"naraRortihaya o nara. nacon nayaranee. orun, nayara osruru siti ." nacon Yrasisou. nacon Yrasiha o Yrasi.
 
 NHON Naraharacayyca un Narahasey un yse, Rortihaya o nara. nacon Yrasinee. nacon Yrasiha o Yrasi.
 

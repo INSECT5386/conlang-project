@@ -113,7 +113,7 @@
       * [O] [S]ta : 만들다
         * nacon [S]ta : 그 상황을 만들다, -하게 만들다
         * A os B [S]ta : A를 B로 만들다
-* **sa**: 휘두르다, 흔들다, 노동시키다, 사용하다 / 신체
+* **sa**: 휘두르다, 흔들다, 노동시키다, 사용하다 / 신체, 방법
   * 규칙2 : 파닥거리다, 진동하다, 떨다
   * nasa : 어떤 방법, 어떻게
   * sane : 신체가 자신을 내부에 두다, 내장
@@ -133,6 +133,8 @@
     * [O] [S]ne narees os ~ : ~에 넣다, 참여시키다, ~에게 주다
     * 규칙2, [S]ne narees os ~ : ~에 입장하다, 참여하다
     * 규칙2-1, [O] [S]ne : 가지다
+    * nanai [S]ne narees os ~ : ~에게 말하다
+    * nasa [S]ne narees os ~ : ~에게 가르치다
   * 활용 예문
     * cui nasine narees os naya. nacon nayanee.
       * 직역 : 나무를 그가 ~에게 주다. 나. 그 상황을 내가 강제하다
@@ -154,6 +156,8 @@
     * 규칙2, [S]ha narees os ~ : ~의 자유를 얻다
     * 규칙2-1, [O] [S]ha : 들다, 지탱하다, 돕다
       * nacon [S]ha : 그 상황을 시도하다
+    * nanai [S]ha narees os ~ : ~에 녹음하다
+    * nasa [S]ha narees os ~ : ~에 기록하다
   * hara : 허공에 배치하다, 지도자로 만들다 / 공중의 것
   * 활용 예문
     * nasihaya narees os nara. nacon nayanee.
@@ -203,10 +207,6 @@
 netasa : 씹다, 깨물다
 rio nesa : 숨 쉬다
 neru nesa : 핥다
-nasa ne~ : ~에게 가르치다
-nanai ne~ : ~에게 말하다
-nasa hati~ : ~에 기록하다
-nanai hati~ : ~에 녹음하다
 harata : 밀다, 밀어내다
 규칙2 : 뛰다, 도약하다
 옆에 배치하다

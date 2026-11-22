@@ -35,8 +35,6 @@
   * **접속사, 접속 부사**
     * un : 그리고, 추가적으로
     * orun : 그렇다는 조건하에, 그러면
-  * **계사**
-    * A os B : A는 B이다
 * **ca** : 열이 높은 정도
   * caci : 시원하다, 차갑다, 얼음
   * cati : 따뜻하다, 뜨겁다, 불
@@ -44,11 +42,11 @@
 * **ror** : 밝은 정도
   * rorci : 어둡다
   * rorti : 밝다
-* **to** : 흙, 땅
+* **toos** : 흙이다, 땅이다
   * 접미사형 : 장소, 공간
-  * O SVto : O를 S가 V하다. 그 장소
+  * O SV toos : O를 S가 V하다. 그 장소이다
     * tora : 시간
-      * O SVtora : O가 S를 V하다. 그 시간
+      * O SV toosra : O가 S를 V하다. 그 시간이다
   * toti : 산
   * sasrato : 진흙
   * tosasra : 유리

@@ -149,6 +149,7 @@
     * [O] [S]ha o ~ : ~에 올려놓다, ~의 자유민으로 만들다
     * 규칙2, [S]ha o ~ : ~의 자유를 얻다
     * 규칙2-1, [O] [S]ha o [S] : 들다, 지탱하다, 돕다
+      * 규칙2, [S]ha o [S] : 서다
       * nacon [S]ha o [S] : 그 상황을 시도하다
     * nanai [S]ha o ~ : ~에 녹음하다
     * nasa [S]ha o ~ : ~에 기록하다
@@ -185,7 +186,6 @@
 
 붙이다
 잡다
-세우다
 묻다 - 파다
 뚫다
 묶다, 꿰매다
@@ -234,24 +234,20 @@ natora, nata o toya. han nane o na. han os Hara
 
 naracon Harahutes.
 
-Hara harhatita. naratoti naconta. Hara narato neruharhati.
+Haraha o Hara. naratoti naconta.
 
-Harhati Narareestaruhuru. Na Harhatita. 
+NHON(Na Haratahu O Natora) ya. natora os narata natora.
 
-NH(Na Harhatitahureesra) naya. Nareesra os Naratareesra.
+어느날, 어떤 것이 공허에서 태어났다. 그것의 이름은 하라 이다.
 
-어느날, 어떤 것이 공허에서 태어났다. 그것의 이름은 하르하트이다.
+모든 행동을 하라가 지루해했다.
+하라가 일어섰다.
 
-모든 행동을 하르하트가 지루해했다.
-하르하트가 일어섰다.
+모든 공간을 그 행동이 큰 공간을 만들었다.
 
-모든 공간을 그 행동이 큰 공간을 만들었다. 하르하트를 그 공간이 잘랐다.
+NH[그 어떤 것을 하라가 그 시간에 살려두다] 0. 이 시간이 모든 것이 시작하는 시간이었다.
 
-하르하트를 모든 공간이 죽이기 직전이었다. 어떤 것을 하르하트가 만들었다. 
-
-NH[그 어떤 것을 하르하트가 살려두는 시간] 0. 이 시간이 모든 것이 시작하는 시간이었다.
-
-NH Naraharacayyca un Narahatisey, Harhatitahureesra. Nareesrataru.
+NHON Naraharacayyca un Narahatisey, Harhatitahureesra. Nareesrataru.
 
 Harhatineyarees. Ne Nataru. Na os Nasi Natahururu. Han Nasinesi os Harta.
 
@@ -264,7 +260,7 @@ Nareesharta. Hartatahunarees.
 Naracon Nasiharne. Nasinenarees.
 Han Nareesnerees os Naraconrees.
 
-NH Naraharacayyca un Narahatisey un yse, Naraconrees Yrasihacineeta
+NHON Naraharacayyca un Narahatisey un yse, Naraconrees Yrasihacineeta
 
 Catisai un Soosraynor Yrasisa.
 Catisai Carata. Nara Catisainecatine.

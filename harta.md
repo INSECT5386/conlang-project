@@ -182,7 +182,7 @@
       * nahuyates : 어떤 이유, 왜
       * harahuyates : 존경하다
   * 활용법
-    * [O] [S]testo : 먹다
+    * [O] [S]tes : 먹다
     * rio [S]tes : 숨 쉬다
 * **cor** : 닫다, 폐쇄하다, 통제하다
 * **sou** : 기억하다, 알다

@@ -42,11 +42,11 @@
 * **ror** : 밝은 정도
   * rorci : 어둡다
   * rorti : 밝다
-* **toos** : 흙이다, 땅이다
+* **to** : 흙, 땅
   * 접미사형 : 장소, 공간
-  * O SV toos : O를 S가 V하다. 그 장소이다
+  * O SV to : O를 S가 V하다. 그 장소
     * tora : 시간
-      * O SV toosra : O가 S를 V하다. 그 시간이다
+      * O SV tora : O가 S를 V하다. 그 시간
   * toti : 산
   * sasrato : 진흙
   * tosasra : 유리

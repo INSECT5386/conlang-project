@@ -171,8 +171,6 @@
   * sasya har : 만지다
   * nai har : 듣다
   * rio har : 맡다
-  * harhati : 내려다보다, 위에서 보다
-  * harhaci : 올려다보다, 아래에서 보다
   * ~ -har. nacon --ta : ~에게 겨누다/기울이다, ~을 향해 돌리다, ~을 지목하다
 * **tes** : 맛, 감정
   * hutes : 지루함

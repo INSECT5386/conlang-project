@@ -144,6 +144,7 @@
       * 의역 : 내가 범죄를 저지르다.
 * **ha** : 올려놓다, 자유민으로 만들다 / 위쪽의 것
   * hatahu : 쌓다, 누적시키다
+  * hara : 허공에 배치하다, 지도자로 만들다 / 공중의 것
   * 활용법
     * [O] [S]ha narees os ~ : ~에 올려놓다, ~의 자유민으로 만들다
     * 규칙2, [S]ha narees os ~ : ~의 자유를 얻다
@@ -151,7 +152,6 @@
       * nacon [S]ha : 그 상황을 시도하다
     * nanai [S]ha narees os ~ : ~에 녹음하다
     * nasa [S]ha narees os ~ : ~에 기록하다
-  * hara : 허공에 배치하다, 지도자로 만들다 / 공중의 것
   * 활용 예문
     * nasihaya narees os nara. nacon nayanee.
       * 직역 : ~의 자유를 그가 얻지 않다. 모든 것. 상황을 내가 강제하다.

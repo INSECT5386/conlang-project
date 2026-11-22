@@ -88,8 +88,8 @@
   * rinci : 완만한 곡선, 조금 굽은
   * rinti : 가파른 곡선, 많이 굽은
   * rinra : 각, 꺾인
-  * rincicor : 원, 둥글다
-  * rinticor : 타원
+  * rincicorya : 원, 둥글다
+  * rinticorya : 타원
 * **sas** : 부드러운 정도
   * sasya : 딱딱하다, 단단하다, 고체
   * sasti : 부드럽다
@@ -190,10 +190,10 @@
   * 활용법
     * 규칙2, [S]sou : [S]의 자아
     * nacon [S]sou. nacon [S]ha o [S] : 연구하다, 생각하다
-* **cor** : 할퀴다, 긁다, 찢다
+* **cor** : 할퀴다, 긁다, 찢다, 열다
   * corra : 자르다, 끊다
   * 활용법
-    * [O] [S1]cor. [O] [S2]ru : (자른 것을)꿰매다, 봉합하다, 닫다
+    * [O] [S1]cor. [O] [S2]ru : (자른 것을)꿰매다, 봉합하다, (열린 것을)닫다
     * [O] [S1]corra. [O] [S2]ru : (자른 것을)붙이다, 연결하다
     * naneya. na [S]corra. : 갈다
     * nane. na [S]corra : 뚫다

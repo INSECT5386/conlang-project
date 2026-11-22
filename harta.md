@@ -47,10 +47,7 @@
   * rorci : 어둡다
   * rorti : 밝다
 * **to** : 흙, 땅
-  * 접미사형 : 장소, 공간
-  * O SV to : O를 S가 V하다. 그 장소
-    * tora : 시간
-      * O SV tora : O가 S를 V하다. 그 시간
+  * tora : 시간
   * toti : 산
   * sasrato : 진흙
   * tosasra : 유리

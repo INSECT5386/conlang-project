@@ -199,13 +199,6 @@
     * nasihaya narees os nara. nacon nayanee.
       * 직역 : ~의 자유를 그가 얻지 않다. 모든 것. 상황을 내가 강제하다.
       * 의역 : 그의 모든 자유를 내가 박탈한다. (노예화, 식민지화, 통제)
-
-  
-    * nasa hati~ : ~에 기록하다
-    * nanai hati~ : ~에 녹음하다
-    * harata : 밀다, 밀어내다
-      * 규칙2 : 뛰다, 도약하다
-
 * **har**: 보다
   * harya : 등지다
   * harta : 비추다, 밝히다

@@ -49,12 +49,12 @@
   * O SVto : O를 S가 V하다. 그 장소
     * tora : 시간
       * O SVtora : O가 S를 V하다. 그 시간
-  * reesti : 산
-  * sasrarees : 진흙
-  * reessasra : 유리
-  * reescon : 더러운 정도
-    * reesconti : 더럽다, 오염된
-    * reesconci : 깨끗하다, 청결한
+  * toti : 산
+  * sasrato : 진흙
+  * tosasra : 유리
+  * tocon : 더러운 정도
+    * toconti : 더럽다, 오염된
+    * toconci : 깨끗하다, 청결한
 * **cui** : 나무
   * cuisasti : 나무 섬유, 종이
   * cuihara : 번개

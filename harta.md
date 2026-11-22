@@ -112,7 +112,7 @@
     * 접미사형 : ~를 반복하다, 지속하다
       * toratahu : 계절
     * 활용법
-      * [O] [S]tahu nato os ~ : ~에서 살리다, 수리하다
+      * [O] [S]tahu nato os ~ : ~에 거주시키다
       * 규칙2, [S]tahu nato os ~ : ~에서 살다, ~에 살아있다
         * [S]tahu natora : [S]의 수명
       * [O] [S]ta : 만들다

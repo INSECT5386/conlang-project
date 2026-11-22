@@ -164,8 +164,12 @@
   * 접미사형 : ~한 이후이다, ~한 결과가 남아있다
     * 부정 접미사형, huya : ~하기 이전이다
 * **har**: 보다
-  * harron : 비교하다, 저울질하다
-    * A un B harron : A와 B를 비교하다, 저울질하다
+  * 활용법
+    * [O] [S]har nato os [S]ron [O] un A : [O]와 [A] 중에서 [O]를 고르다
+  * 활용 예문
+    * nato nayahar nato os nayaron nato un natito. natoti.
+      * 직역 : 그 땅과 저 땅 중에 그 땅을 고르다. 그 땅이 크다.
+      * 의역 : 그 땅이 저 땅보다 더 크다
   * sasya har : 만지다
   * nai har : 듣다
   * rio har : 맡다

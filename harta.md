@@ -168,22 +168,11 @@
   * harhaci : 올려다보다, 아래에서 보다
   * ~ -har. nacon --ta : ~에게 겨누다/기울이다, ~을 향해 돌리다, ~을 지목하다
 * **tes** : 맛, 감정
-  * netes : 소속감
-  * nanetes : 충족감, 만족감
-  * nerutes : 배척감
-  * nanerutes : 상실감, 박탈감
-  * naneyates : 불만족
-  * catites : 매운 맛, 화남
   * hutes : 지루함
     * 접미사형 : ~하기 싫다
   * hurutes : 흥미로움
     * 접미사형 : ~하고 싶다
     * nahurutes : 어떤 이유, 왜
-  * hatites : 우월감, 무시하다
-  * hacites : 열등감, 존경하다
-  * harates : 달콤함, 행복
-  * nereestes : 외로움
-  * tesya : 무감각
 
 붙이다
 먹다

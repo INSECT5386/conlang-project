@@ -191,8 +191,6 @@
   * harates : 달콤함, 행복
   * nereestes : 외로움
   * tesya : 무감각
-  * teites : 충성심
-  * neotes : 오만함
 
 붙이다
 먹다

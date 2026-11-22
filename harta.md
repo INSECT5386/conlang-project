@@ -114,8 +114,8 @@
       * toratahu : 계절
     * 활용법
       * 조건-1 : 만약 ~ 가 생물이라면
-      * [O] [S]tahuto os ~ : ~에 거주시키다, 조건-1(~를 [O]에 감염시키다)
-      * 규칙2, [S]tahuto os ~ : ~에서 살다, ~에 살아있다, 조건-1(~에 기생하다)
+      * [O] [S]tahu o ~ : ~에 거주시키다, 조건-1(~를 [O]에 감염시키다)
+      * 규칙2, [S]tahu o ~ : ~에서 살다, ~에 살아있다, 조건-1(~에 기생하다)
         * [S]tahutora : [S]의 수명
       * [O] [S]ta : 만들다
         * nacon [S]ta : 그 상황을 만들다, -하게 만들다
@@ -125,13 +125,13 @@
     * 부정 접미사형, neya : 할 수 없다, 할 수 있는 기관이 없다
   * netahu : 모으다, 모집하다
   * 활용법
-    * [O] [S]neto os ~ : ~에 넣다, 참여시키다, ~에게 주다
-    * 규칙2, [S]neto os ~ : ~에 입장하다, 참여하다
+    * [O] [S]ne o ~ : ~에 넣다, 참여시키다, ~에게 주다
+    * 규칙2, [S]ne o ~ : ~에 입장하다, 참여하다
       * [S]neto os [S] : 가지다
-    * nanai [S]neto os ~ : ~에게 말하다
-    * nasa [S]neto os ~ : ~에게 가르치다
+    * nanai [S]ne o ~ : ~에게 말하다
+    * nasa [S]ne o ~ : ~에게 가르치다
   * 활용 예문
-    * cui nasineto os naya. nacon nayanee.
+    * cui nasine o naya. nacon nayanee.
       * 직역 : 나무를 그가 ~에게 주다. 나. 그 상황을 내가 강제하다
       * 의역 : 그의 나무를 내가 빼앗는다.
     * naya nayane. nacon nayaru.
@@ -139,8 +139,8 @@
       * 의역 : 내가 범죄를 저지르다.
 * **ron** : 끼워넣다, 사이에 배치하다
   * 활용법
-    * [O] [S]ronto os ~ : ~에 끼워넣다, 박다
-      * nacon [S]ronto os ~ : ~에게 약속하다
+    * [O] [S]ron o ~ : ~에 끼워넣다, 박다
+      * nacon [S]ron o ~ : ~에게 약속하다
     * [O] [S]ron A un B : A와 B 사이에 배치하다
     * 규칙2, [S]ron A un B : A와 B 사이를 가로막다
 * **ha** : 올려놓다, 자유민으로 만들다 / 위쪽의 것
@@ -148,17 +148,17 @@
   * hatahu : 쌓다, 누적시키다
   * hara : 허공에 배치하다, 지도자로 만들다 / 공중의 것
     * 접미사형 : ~할 권한/자격이 있다
-    * [O] [S]hato os ~ : ~에 올려놓다, ~의 자유민으로 만들다
-    * 규칙2, [S]hato os ~ : ~의 자유를 얻다
-    * 규칙2-1, [O] [S]hato os [S] : 들다, 지탱하다, 돕다
-      * nacon [S]hato os [S] : 그 상황을 시도하다
-    * nanai [S]hato os ~ : ~에 녹음하다
-    * nasa [S]hato os ~ : ~에 기록하다
+    * [O] [S]ha o ~ : ~에 올려놓다, ~의 자유민으로 만들다
+    * 규칙2, [S]ha o ~ : ~의 자유를 얻다
+    * 규칙2-1, [O] [S]ha o [S] : 들다, 지탱하다, 돕다
+      * nacon [S]ha o [S] : 그 상황을 시도하다
+    * nanai [S]ha o ~ : ~에 녹음하다
+    * nasa [S]ha o ~ : ~에 기록하다
   * 활용 예문
-    * nasihayato os nara. nacon nayanee.
+    * nasihaya o nara. nacon nayanee.
       * 직역 : ~의 자유를 그가 얻지 않다. 모든 것. 그 상황을 내가 강제하다.
       * 의역 : 그의 모든 자유를 내가 박탈한다. (노예화, 식민지화, 통제)
-    * nayahayato os nayaneyato. nacon nasinee.
+    * nayahaya o nayaneya. nacon nasinee.
       * 직역 : ~의 자유를 내가 얻지 않다. 내가 밖에 있다. 그 상황을 모두가 강제하다.
       * 의역 : 나를 그가 가두다.
 * **hu** : 뒤에 놓다, 숨기다, 보호하다 / 뒤쪽의 것
@@ -166,12 +166,12 @@
     * 부정 접미사형, huya : ~하기 이전이다
 * **har**: 보다
   * 활용법
-    * [O] [S]harto os [S]ron [O] un A : [O]와 [A] 중에서 [O]를 고르다
+    * [O] [S]har o [S]ron [O] un A : [O]와 [A] 중에서 [O]를 고르다
     * [O] [S1]har. nacon [S2]ta : ~에게 겨누다/기울이다, ~을 향해 돌리다, ~을 지목하다
-    * nanai [S]harto os ~ : ~에서 듣다
-    * nario [S]harto os ~ : ~에서 맡다
+    * nanai [S]har o ~ : ~에서 듣다
+    * nario [S]har o ~ : ~에서 맡다
   * 활용 예문
-    * nato nayaharto os nayaron nato un natito. natoti.
+    * nato nayahar o nayaron nato un natito. natoti.
       * 직역 : 그 땅과 저 땅 중에 그 땅을 고르다. 그 땅이 크다.
       * 의역 : 그 땅이 저 땅보다 더 크다
 * **tes** : 먹다, 삼키다, 마시다

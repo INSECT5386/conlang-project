@@ -166,9 +166,9 @@
   * 활용법
     * [O] [S]harto os [S]ron [O] un A : [O]와 [A] 중에서 [O]를 고르다
     * [O] [S1]har. nacon [S2]ta : ~에게 겨누다/기울이다, ~을 향해 돌리다, ~을 지목하다
-    * sasya [S]har : 만지다
-    * nai [S]har : 듣다
-    * rio [S]har : 맡다
+    * nasasya [S]harto os ~ : ~에서 만지다
+    * nanai [S]harto os ~ : ~에서 듣다
+    * nario [S]harto os ~ : ~에서 맡다
   * 활용 예문
     * nato nayaharto os nayaron nato un natito. natoti.
       * 직역 : 그 땅과 저 땅 중에 그 땅을 고르다. 그 땅이 크다.

@@ -245,7 +245,7 @@ NHON(Na Haratahu O Natora) ya. natora os narata natora.
 
 모든 공간을 그 행동이 큰 공간을 만들다.
 
-NH[그 어떤 것을 하라가 그 시간에 살려두다] 0. 이 시간이 모든 것이 시작하는 시간이다.
+NHON[그 어떤 것을 하라가 그 시간에 살려두다] 0. 이 시간이 모든 것이 시작하는 시간이다.
 
 NHON Naraharacayyca un Narahasey, Haratahu natora. natoraya.
 
@@ -256,8 +256,6 @@ Rorti Yrasiharhutes.
 
 nacon Yrasinerurees. "naraRortihaya o nara. nacon nayaranee. orun, nayara osruru siti ." nacon Yrasisou. nacon Yrasiha o Yrasi.
 
-natororti. Rortitahu o nato.
-
 NHON Naraharacayyca un Narahasey un yse, Rortihaya o nara. nacon Yrasinee. nacon Yrasiha o Yrasi.
 
 Saicati un Raynorsoos Yrasisa.
@@ -265,19 +263,17 @@ Saicati Carata. nara Saicatinene o cati.
 
 Raynorsoos sasratota. nara Raynorsoostes orun, sitahu natora. natora Raynorsoosne o si.
 
-NH 50억 700만, 하르하트의 수명. 그 시간이 없다.
+NHON 50억 700만, 하라의 수명. 그 시간이 없다.
 
-(하라의 정신). (그것(앞문장)이 모이다) (그것(앞 문장)을 시간이 되돌리다). (그것(앞 문장)을 어떤 지성체로 그 것(앞 문장)들이 환생시켰다[그것들이 모든 지성체로 환생했다]). 그 어떤 지성체(앞 문장)의 이름은 하르타였다.
+(하라의 정신). (그것(앞문장)이 모이다) (그것(앞 문장)을 시간이 되돌리다). (그것(앞 문장)을 어떤 지성체로 그 것(앞 문장)들이 만들다[그것들이 모든 지성체로 바뀌다]). 그 어떤 지성체(앞 문장)의 이름은 로르트다.
 
-(하르타들을 하르하트가 만들었다). 하르타(앞 문장)들을 다른 지성체들이 존경했다. 하지만, 하르타들을 첫 번째 지성체들은 보기 싫었다.
+(로르트들을 하라가 만들다). 로르트(앞 문장)들을 다른 지성체들이 존경하다. 하지만, 로르트들을 첫 번째 지성체들은 보기 싫다.
 
-어떤 행동을 첫 번째 지성체들이 생각했다. "모든 하르타들을 우리가 지배한다면, 우리가 다시 큰 지성체다."
+어떤 행동을 첫 번째 지성체들이 생각하다. "모든 로르트들을 우리가 지배한다면, 우리가 다시 큰 지성체다."
 
-(그 곳은 빛난다). 하르타들이 그곳(앞 문장)에서 살았다.
-
-NH 50억 700만 2, 모든 행동의 장소를 첫 번째 지성체들이 침략했다.
-불새와 금속 곤충을 첫 번째 지성체들은 사용했다.
-(불새를 항성이 만들었다). 모든 것을 불새(앞 문장)는 불태울 수 있었다.
-(금속 곤충을 진흙이 만들었다). 모든 것을 금속 곤충(앞 문장)이 먹는 조건하에, (지성체의 수명). 그 시간(앞 문장)을 금속 곤충이 지성체에게 주었다.
+NHON 50억 700만 2, 로르트들을 첫 번째 지성체들이 침략하다.
+불새와 금속 곤충을 첫 번째 지성체들은 사용하다.
+(불새를 항성이 만들다). 모든 것을 불새(앞 문장)는 불태울 수 있다.
+(금속 곤충을 진흙이 만들다). 모든 것을 금속 곤충(앞 문장)이 먹는 조건하에, (지성체의 수명). 그 시간(앞 문장)을 금속 곤충이 지성체에게 주다.
 
 [이후 스토리 구상 중]

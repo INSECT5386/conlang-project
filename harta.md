@@ -225,7 +225,7 @@ harata : 밀다, 밀어내다
 * 36 : cayyha un ray
 * 100 : nara
 * 10000 : narati
-* 1000000 : narahati
+* 1000000 : naraha
 * 100000000 : narahara
 * 279 : narayse un caysey un noy
 ## 예문
@@ -247,9 +247,9 @@ NHON(Na Haratahu O Natora) ya. natora os narata natora.
 
 NH[그 어떤 것을 하라가 그 시간에 살려두다] 0. 이 시간이 모든 것이 시작하는 시간이었다.
 
-NHON Naraharacayyca un Narahatisey, Harhatitahureesra. Nareesrataru.
+NHON Naraharacayyca un Narahasey, Haratahu natora. natoraya.
 
-Harhatineyarees. Ne Nataru. Na os Nasi Natahururu. Han Nasinesi os Harta.
+Haraneyarees. Ne Nataru. Na os Nasi Natahururu. Han Nasinesi os Harta.
 
 Harta Harhatita. Harta Narurusihacites.
 Harta Yrasiharhutes.
@@ -270,8 +270,7 @@ Soosraynor Sasrareesta. Nara Soosraynornesa orun, Sitahureesra. Nareesra Soosray
 Cuihara. Nacui Hartasa.
 Cuihara. Nacui Hartata. Nara Nacuitarune.
 
-NH 50억 700만, 하르하트의 수명. 그 시간이 죽었다.
-(어떤 것이 빛난다). 그 어떤 것(앞 문장)을 하르하트가 가지고 있다.
+NH 50억 700만, 하르하트의 수명. 그 시간이 없다.
 
 (하르하트의 정신). (그것(앞 문장)이 흩어졌다). (그것(앞 문장)을 어떤 지성체로 그 것(앞 문장)들이 환생시켰다[그것들이 모든 지성체로 환생했다]). 그 어떤 지성체(앞 문장)의 이름은 하르타였다.
 

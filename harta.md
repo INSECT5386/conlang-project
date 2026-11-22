@@ -227,3 +227,70 @@ harata : 밀다, 밀어내다
 * 1000000 : narahati
 * 100000000 : narahara
 * 279 : narayse un caysey un noy
+## 예문
+
+Nareesra, Natanaya. Han Nanena. Han os Harhati
+
+Harhatitahunayarees. Naracon Harhatihutes.
+
+Harhatiharhatita. Narareesti Naconta. Harhati Narareesneruharhati.
+
+Harhati Narareestaruhuru. Na Harhatita. 
+
+NH(Na Harhatitahureesra) naya. Nareesra os Naratareesra.
+
+어느날, 어떤 것이 0에서 태어났다. 그것의 이름은 하르하트이다.
+
+하르하트는 0에서 살았다. 모든 행동을 하르하트가 지루해했다.
+하르하트가 일어섰다.
+
+모든 공간을 그 행동이 큰 공간을 만들었다. 하르하트를 그 공간이 잘랐다.
+
+하르하트를 모든 공간이 죽이기 직전이었다. 어떤 것을 하르하트가 만들었다. 
+
+NH[그 어떤 것을 하르하트가 살려두는 시간] 0. 이 시간이 모든 것이 시작하는 시간이었다.
+
+NH Naraharacayyca un Narahatisey, Harhatitahureesra. Nareesrataru.
+
+Harhatineyarees. Ne Nataru. Na os Nasi Natahururu. Han Nasinesi os Harta.
+
+Harta Harhatita. Harta Narurusihacites.
+Harta Yrasiharhutes.
+
+Nacon Yrasinerurees. "Naraharta Nayarahacinera orun, Nayara Narasihacites."
+
+Nareesharta. Hartatahunarees.
+Naracon Nasiharne. Nasinenarees.
+Han Nareesnerees os Naraconrees.
+
+NH Naraharacayyca un Narahatisey un yse, Naraconrees Yrasihacineeta
+
+Catisai un Soosraynor Yrasisa.
+Catisai Carata. Nara Catisainecatine.
+
+Soosraynor Sasrareesta. Nara Soosraynornesa orun, Sitahureesra. Nareesra Soosraynornesi.
+
+Cuihara. Nacui Hartasa.
+Cuihara. Nacui Hartata. Nara Nacuitarune.
+
+NH 50억 700만, 하르하트의 수명. 그 시간이 죽었다.
+(어떤 것이 빛난다). 그 어떤 것(앞 문장)을 하르하트가 가지고 있다.
+
+(하르하트의 정신). (그것(앞 문장)이 흩어졌다). (그것(앞 문장)을 어떤 지성체로 그 것(앞 문장)들이 환생시켰다[그것들이 모든 지성체로 환생했다]). 그 어떤 지성체(앞 문장)의 이름은 하르타였다.
+
+(하르타들을 하르하트가 만들었다). 하르타(앞 문장)들을 다른 지성체들이 존경했다. 하지만, 하르타들을 첫 번째 지성체들은 보기 싫었다.
+
+어떤 행동을 첫 번째 지성체들이 생각했다. "모든 하르타들을 우리가 지배한다면, 우리를 모든 지성체가 존경한다."
+
+(그 곳은 빛난다). 하르타들이 그곳(앞 문장)에서 살았다.
+(모든 행동을 어떤 자들이 볼 수 있다). 그 어떤 자들(앞 문장)이 그곳에 참여한다. 그 장소의 이름은 모든 행동의 장소였다.
+
+NH 50억 700만 2, 모든 행동의 장소를 첫 번째 지성체들이 침략했다.
+불새와 금속 곤충을 첫 번째 지성체들은 사용했다.
+(불새를 항성이 만들었다). 모든 것을 불새(앞 문장)는 불태울 수 있었다.
+(금속 곤충을 진흙이 만들었다). 모든 것을 금속 곤충(앞 문장)이 먹는 조건하에, (지성체의 수명). 그 시간(앞 문장)을 금속 곤충이 지성체에게 주었다.
+
+번개를 하르타들은 사용했다.
+(번개를 하르타들이 만들었다). 모든 것을 번개(앞 문장)가 부술 수 있다.
+
+[이후 스토리 구상 중]

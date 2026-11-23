@@ -42,21 +42,18 @@
   * **접미사**
     * ra : 초과
     * ya : 을 하지 않다, 아니다
-* **ca** : 열이 높은 정도
-  * caci : 시원하다, 차갑다, 얼음
-  * cati : 따뜻하다, 뜨겁다, 불
+* **ca** : 따뜻하다, 뜨겁다, 불
+  * caya : 시원하다, 차갑다, 얼음
   * cara : 항성
-* **ror** : 밝은 정도
-  * rorci : 어둡다
-  * rorti : 밝다
+* **ror** : 밝다
+  * rorya : 어둡다
 * **to** : 흙, 땅
   * tora : 시간
   * toti : 산
   * sasrato : 진흙
   * tosasra : 유리
-  * tocon : 더러운 정도
-    * toconti : 더럽다, 오염된
-    * toconci : 깨끗하다, 청결한
+  * tocon : 더럽다, 오염된
+    * toconya : 깨끗하다, 청결한
 * **cui** : 나무
   * cuisasti : 나무 섬유, 종이
   * cuihara : 번개
@@ -80,16 +77,12 @@
   * naci : 근처에, 가까운, 이것
   * nati : 먼 곳에, 먼, 저것
   * nane : 가구, 실내 사물
-* **rin** : 선이 구부러진 정도
-  * rinya : 곧다, 직선
-  * rinci : 완만한 곡선, 조금 굽은
-  * rinti : 가파른 곡선, 많이 굽은
+* **rin** : 굽은, 구부러진, 곡선
+  * rinya : 곧은, 직선
   * rinra : 각, 꺾인
-  * rincicorya : 원, 둥글다
-  * rinticorya : 타원
-* **sas** : 부드러운 정도
+  * rincorya : 원, 둥글다
+* **sas** : 부드럽다
   * sasya : 딱딱하다, 단단하다, 고체
-  * sasti : 부드럽다
   * sasra : 흐르다, 액체
 * **con** : 상황
 * **si** : 적응체 또는 지성체

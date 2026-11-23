@@ -98,7 +98,6 @@
 * **si** : 적응체 또는 지성체
 * **ci** : 작다
 * **ti** : 크다
-* **nee** : 강제하다
 * **ru** : 되돌리다, 복구하다
   * ruru : 접미사형 : 다시
 * **sa**: 휘두르다, 흔들다, 노동시키다, 사용하다 / 신체, 방법
@@ -115,7 +114,7 @@
       * 규칙2, [S]tahu o ~ : ~에서 살다, ~에 살아있다, 조건-1(~에 기생하다)
         * [S]tahu natora : [S]의 수명
       * [O] [S]ta : 만들다
-        * nacon [S]ta : 그 상황을 만들다, -하게 만들다
+        * nacon [S]ta : 그 상황을 만들다, 강제하다, -하게 만들다
         * A os B [S]ta : A를 B로 만들다
           * A un B os yra [S]ta : 하나로 만들다, 합치다, 섞다
 * **ne** : 넣다, 참여시키다, 주다 / 내부의 것
@@ -130,7 +129,7 @@
     * nanai [S]ne o ~ : ~에게 말하다
     * nasa [S]ne o ~ : ~에게 가르치다
   * 활용 예문
-    * cui nasine o naya. nacon nayanee.
+    * cui nasine o naya. nacon nayata.
       * 직역 : 나무를 그가 ~에게 주다. 나. 그 상황을 내가 강제하다
       * 의역 : 그의 나무를 내가 빼앗는다.
     * naya nayane. nacon nayaru.
@@ -155,10 +154,10 @@
     * nanai [S]ha o ~ : ~에 녹음하다
     * nasa [S]ha o ~ : ~에 기록하다
   * 활용 예문
-    * nasihaya o nara. nacon nayanee.
+    * nasihaya o nara. nacon nayata.
       * 직역 : ~의 자유를 그가 얻지 않다. 모든 것. 그 상황을 내가 강제하다.
       * 의역 : 그의 모든 자유를 내가 박탈한다. (노예화, 식민지화, 통제)
-    * nayahaya o nayaneya. nacon nasinee.
+    * nayahaya o nayaneya. nacon nasita.
       * 직역 : ~의 자유를 내가 얻지 않다. 내가 밖에 있다. 그 상황을 모두가 강제하다.
       * 의역 : 나를 그가 가두다.
 * **hu** : 뒤에 놓다, 숨기다, 보호하다 / 뒤쪽의 것

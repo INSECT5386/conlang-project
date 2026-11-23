@@ -167,7 +167,7 @@
 * **har**: 보다
   * 활용법
     * [O] [S]har o [S]ron [O] un A : [O]와 [A] 중에서 [O]를 고르다
-    * [O] [S1]har. nacon [S2]ta : ~에게 겨누다/기울이다, ~을 향해 돌리다, ~을 지목하다
+    * [O] [S1]har. nacon [S2]ta : [O]에게 겨누다/기울이다, [O]을 향해 돌리다, [O]을 지목하다
     * nanai [S]har o ~ : ~에서 듣다
     * nario [S]har o ~ : ~에서 맡다
   * 활용 예문

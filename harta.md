@@ -117,7 +117,7 @@
       * [O] [S]ta : 만들다
         * nacon [S]ta : 그 상황을 만들다, -하게 만들다
         * A os B [S]ta : A를 B로 만들다
-          * A un B os yra [S]ta : 하나로 만들다, 합치다, 묶다
+          * A un B os yra [S]ta : 하나로 만들다, 합치다, 섞다
 * **ne** : 넣다, 참여시키다, 주다 / 내부의 것
   * 접미사형 : 할 수 있다, 할 수 있는 기관이 있다
     * 부정 접미사형, neya : 할 수 없다, 할 수 있는 기관이 없다
@@ -225,52 +225,3 @@
 * 1000000 : naraha
 * 100000000 : narahara
 * 279 : narayse un caysey un noy
-## 예문
-
-natora, nata o toya. han nane o na. han os Hara
-
-naracon Harahutes.
-
-Haraha o Hara. naratoti naconta.
-
-NHON(Na Haratahu O Natora) ya. natora os narata natora.
-
-어느날, 어떤 것이 공허에서 태어나다. 그것의 이름은 하라이다.
-
-모든 행동을 하라가 지루해하다.
-하라가 일어섰다.
-
-모든 공간을 그 행동이 큰 공간을 만들다.
-
-NHON[그 어떤 것을 하라가 그 시간에 살려두다] 0. 이 시간이 모든 것이 시작하는 시간이다.
-
-NHON Naraharacayyca un Narahasey, Haratahu natora. natoraya.
-
-Harasou. nanetahu. nacon toraru. na os nasi nata. han nasine o nasi os Rorti.
-
-Rorti Harata. Rorti narurusiharahuyates.
-Rorti Yrasiharhutes.
-
-"naraRortihaya o nara. nacon nayaranee. orun, nayara osruru siti ." nacon Yrasisou. nacon Yrasiha o Yrasi.
-
-NHON Naraharacayyca un Narahasey un yse, Rortihaya o nara. nacon Yrasinee. nacon Yrasiha o Yrasi.
-
-Saicati un Raynorsoos Yrasisa.
-Saicati Carata. nara Saicatinene o cati.
-
-Raynorsoos sasratota. nara Raynorsoostes orun, sitahu natora. natora Raynorsoosne o si.
-
-NHON 50억 700만, 하라의 수명. 그 시간이 없다.
-
-(하라의 정신). (그것(앞문장)이 모이다) (그것(앞 문장)을 시간이 되돌리다). (그것(앞 문장)을 어떤 지성체로 그 것(앞 문장)들이 만들다[그것들이 모든 지성체로 바뀌다]). 그 어떤 지성체(앞 문장)의 이름은 로르트다.
-
-(로르트들을 하라가 만들다). 로르트(앞 문장)들을 다른 지성체들이 존경하다. 하지만, 로르트들을 첫 번째 지성체들은 보기 싫다.
-
-어떤 행동을 첫 번째 지성체들이 생각하다. "모든 로르트들을 우리가 지배한다면, 우리가 다시 큰 지성체다."
-
-NHON 50억 700만 2, 로르트들을 첫 번째 지성체들이 침략하다.
-불새와 금속 곤충을 첫 번째 지성체들은 사용하다.
-(불새를 항성이 만들다). 모든 것을 불새(앞 문장)는 불태울 수 있다.
-(금속 곤충을 진흙이 만들다). 모든 것을 금속 곤충(앞 문장)이 먹는 조건하에, (지성체의 수명). 그 시간(앞 문장)을 금속 곤충이 지성체에게 주다.
-
-[이후 스토리 구상 중]

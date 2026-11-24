@@ -174,10 +174,10 @@
     * rio [S]tes : 숨 쉬다
     * naneya. na [S]tes : 핥다, 겉을 먹다
     * [S]contes : [S]의 자아
-* **cor** : 할퀴다, 찢다, 열다
+* **cor** : 할퀴다, 찢다
   * corra : 자르다, 끊다
   * 활용법
-    * [O] [S1]cor. [O] [S2]ru : (자른 것을)꿰매다, 봉합하다, (열린 것을)닫다
+    * [O] [S1]cor. [O] [S2]ru : (자른 것을)꿰매다, 봉합하다
     * [O] [S1]corra. [O] [S2]ru : (자른 것을)붙이다, 연결하다
     * naneya. na [S]corra. : 갈다, 긁다, 깎다
     * nane. na [S]corra : 뚫다

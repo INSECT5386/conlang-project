@@ -222,8 +222,8 @@
 **감정표현**
 
 nasi nayacontes. nasicuun.
-con nasita ha naya. naconcuun. nacon nayahuyates.
-con nasita ha naya. naconcuunya. nacon nayahutes. cuunya nayacontes.
+con nasita huya naya. naconcuun. nacon nayahuyates.
+con nasita huya naya. naconcuunya. nacon nayahutes. cuunya nayacontes.
 
 그자를 내가 생각하다. 그자는 좋다.
 상황을 그자가 내 앞에서 만들다. 그 상황은 좋다. 그 상황을 나는 원한다.

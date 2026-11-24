@@ -174,10 +174,6 @@
     * rio [S]tes : 숨 쉬다
     * naneya. na [S]tes : 핥다, 겉을 먹다
     * [S]contes : [S]의 자아
-* **sou** : 기억하다, 알다
-  * 활용법
-    * 규칙2, [S]sou : [S]의 자아
-    * nacon [S]sou. nacon [S]ha o [S] : 연구하다, 생각하다
 * **cor** : 할퀴다, 찢다, 열다
   * corra : 자르다, 끊다
   * 활용법

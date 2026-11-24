@@ -54,7 +54,7 @@
   * tocon : 더럽다, 오염된
     * toconya : 깨끗하다, 청결한
 * **cui** : 나무
-  * cuisasti : 나무 섬유, 종이
+  * cuisas : 나무 섬유, 종이
   * cuihara : 번개
   * na cuita : 과일, 열매
 * **soos** : 금속

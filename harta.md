@@ -223,3 +223,9 @@
 nasi nayacontes. nasicuun.
 con nasita ha naya. naconcuun. nacon nayahuyates.
 con nasita ha naya. naconcuunya. nacon nayahutes. cuunya nayacontes.
+
+**일상**
+
+nara nasine cui. nacuisas. nacui narahar ne nato. 
+soos os naruru. nacon narurusita ne naruruto.
+natohu naruruto.

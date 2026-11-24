@@ -226,6 +226,10 @@ con nasita ha naya. naconcuunya. nacon nayahutes. cuunya nayacontes.
 
 **일상**
 
-nara nasine cui. nacuisas. nacui narahar ne nato. 
+nara nasine cui. nacuisas. nacui narasihar ne nato. 
 soos os naruru. nacon narurusita ne naruruto.
 natohu naruruto.
+
+모든 것을 어떤 자가 나무에 기록하다. 그 나무는 부드럽다. 그 나무를 모든 자가 그 곳에서 본다.
+금속이 다른 것이다. 그 상황을 다른 자가 다른 곳에서 만들다.
+그 곳은 그 다른 곳의 뒤에 있다.

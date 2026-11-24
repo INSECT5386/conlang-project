@@ -217,3 +217,9 @@
 * 1000000 : naraha
 * 100000000 : narahara
 * 279 : narayse un caysey un noy
+## 예문
+**감정표현**
+
+nasi nayacontes. nasicuun.
+con nasita ha naya. naconcuun. nacon nayahuyates.
+con nasita ha naya. naconcuunya. nacon nayahutes. cuunya nayacontes.

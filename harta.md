@@ -224,6 +224,10 @@ nasi nayacontes. nasicuun.
 con nasita ha naya. naconcuun. nacon nayahuyates.
 con nasita ha naya. naconcuunya. nacon nayahutes. cuunya nayacontes.
 
+그자를 내가 생각하다. 그자는 좋다.
+상황을 그자가 내 앞에서 만들다. 그 상황은 좋다. 그 상황을 나는 원한다.
+하지만, 상황을 그가 내 앞에서 만들다. 그 상황을 나쁘다. 그 상황을 나는 원하지 않다. 나쁜 것을 내가 느낀다.
+
 **일상**
 
 nara nasine cui. nacuisas. nacui narasihar ne nato. 

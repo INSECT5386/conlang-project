@@ -129,54 +129,51 @@
       * 의역 : 내가 범죄를 저지르다.
 * **ron** : 끼워넣다, 사이에 배치하다
   * 활용법
-    * [O] [S]ron o ~ : ~에 끼워넣다, 박다
-      * nacon [S]ron o ~ : ~에게 약속하다
+    * [O] [S]ron ~ : ~에 끼워넣다, 박다
+      * nacon [S]ron ~ : ~에게 약속하다
     * [O] [S]ron A un B : A와 B 사이에 배치하다
     * 규칙2, [S]ron A un B : A와 B 사이를 가로막다
-* **ha** : 올려놓다, 자유민으로 만들다 / 위쪽의 것
+* **ha** : 올려놓다, 자유민으로 만들다 / 위쪽의 것, 위에, 위에서
   * 부정 접미사형, haya : ~할 권리가 없다, ~에 반대되는 의무가 있다
   * hatahu : 쌓다, 누적시키다
   * hara : 허공에 배치하다, 지도자로 만들다 / 공중의 것
     * 접미사형 : ~할 권한/자격이 있다
-    * [O] [S]ha o ~ : ~에 올려놓다, ~의 자유민으로 만들다
-    * 규칙2, [S]ha o ~ : ~의 자유를 얻다
-    * 규칙2-1, [O] [S]ha o [S] : 들다, 지탱하다, 돕다
-      * 규칙2, [S]ha o [S] : 서다
-      * nacon [S]ha o [S] : 그 상황을 시도하다
-    * nanai [S]ha o ~ : ~에 녹음하다
-    * nasa [S]ha o ~ : ~에 기록하다
+    * [O] [S]ha ~ : ~에 올려놓다, ~의 자유민으로 만들다
+    * 규칙2, [S]ha ~ : ~의 자유를 얻다
+    * 규칙2-1, [O] [S]ha [S] : 들다, 지탱하다, 돕다
+      * 규칙2, [S]ha [S] : 서다
+      * nacon [S]ha [S] : 그 상황을 시도하다
   * 활용 예문
-    * nasihaya o nara. nacon nayata.
+    * nasihaya nara. nacon nayata.
       * 직역 : ~의 자유를 그가 얻지 않다. 모든 것. 그 상황을 내가 강제하다.
       * 의역 : 그의 모든 자유를 내가 박탈한다. (노예화, 식민지화, 통제)
-    * nayahaya o nayaneya. nacon nasita.
+    * nayahaya nayaneya. nacon nasita.
       * 직역 : ~의 자유를 내가 얻지 않다. 내가 밖에 있다. 그 상황을 모두가 강제하다.
-      * 의역 : 나를 그가 가두다.
-* **hu** : 뒤에 놓다, 숨기다, 보호하다 / 뒤쪽의 것
+      * 의역 : 나를 모두가 가두다.
+* **hu** : 뒤에 놓다, 숨기다, 보호하다 / 뒤쪽의 것, 뒤에, 뒤에서
   * 접미사형 : ~한 이후이다, ~한 결과가 남아있다
     * 부정 접미사형, huya : ~하기 이전이다
 * **har**: 보다
   * 활용법
-    * [O] [S]har o [S]ron [O] un A : [O]와 [A] 중에서 [O]를 고르다
+    * [O] [S]har ron [O] un A : [O]와 [A] 중에서 [O]를 고르다
     * [O] [S1]har. nacon [S2]ta : [O]에게 겨누다/기울이다, [O]을 향해 돌리다, [O]을 지목하다
-    * nanai [S]har o ~ : ~에서 듣다
-    * nario [S]har o ~ : ~에서 맡다
+    * nanai [S]har : (언어가 아닌 소리를) 듣다
+    * nario [S]har : 맡다
   * 활용 예문
-    * nato nayahar o nayaron nato un natito. natoti.
+    * nato nayahar ron nato un natito. natoti.
       * 직역 : 그 땅과 저 땅 중에 그 땅을 고르다. 그 땅이 크다.
       * 의역 : 그 땅이 저 땅보다 더 크다
 * **tes** : 먹다, 삼키다, 마시다
   * 접미사형 : 맛, 감정
-    * hutes : 지루함
-      * 접미사형 : ~하기 싫다
-    * huyates : 흥미로움
-      * 접미사형 : ~하고 싶다
+    * contes : 느끼다, 생각하다
+    * hutes : 원하지 않는다
+    * huyates : 원하다
       * nahuyates : 어떤 이유, 왜
-      * harahuyates : 존경하다
   * 활용법
     * [O] [S]tes : 먹다
     * rio [S]tes : 숨 쉬다
     * naneya. na [S]tes : 핥다, 겉을 먹다
+    * [S]contes : [S]의 자아
 * **sou** : 기억하다, 알다
   * 활용법
     * 규칙2, [S]sou : [S]의 자아

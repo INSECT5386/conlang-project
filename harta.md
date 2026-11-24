@@ -228,6 +228,8 @@ con nasita ha naya. naconcuunya. nacon nayahutes. cuunya nayacontes.
 상황을 그자가 내 앞에서 만들다. 그 상황은 좋다. 그 상황을 나는 원한다.
 하지만, 상황을 그가 내 앞에서 만들다. 그 상황을 나쁘다. 그 상황을 나는 원하지 않다. 나쁜 것을 내가 느낀다.
 
+(나는 너에게 실망했다)
+
 **일상**
 
 nara nasine cui. nacuisas. nacui narasihar ne nato. 
@@ -237,3 +239,5 @@ natohu naruruto.
 모든 것을 어떤 자가 나무에 기록하다. 그 나무는 부드럽다. 그 나무를 모든 자가 그 곳에서 본다.
 금속이 다른 것이다. 그 상황을 다른 자가 다른 곳에서 만들다.
 그 곳은 그 다른 곳의 뒤에 있다.
+
+(도서관은 제철소 뒤에 있다)

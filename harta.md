@@ -49,12 +49,12 @@
   * cayanoh : 어둡다
 * **to** : 흙, 땅
   * tora : 시간
-  * sasrato : 진흙
-  * tosasra : 유리
+  * tenohrato : 진흙
+  * totenohra : 유리
   * tocon : 더럽다, 오염된
     * toconya : 깨끗하다, 청결한
 * **cui** : 나무
-  * cuisas : 나무 섬유, 종이
+  * cuitenoh : 나무 섬유, 종이
   * cuihara : 번개
   * na cuita : 과일, 열매
 * **soos** : 금속
@@ -71,13 +71,13 @@
   * naci : 근처에, 가까운, 이것
   * nati : 먼 곳에, 먼, 저것
   * nane : 가구, 실내 사물
-* **rin** : 구부리다 / 곡선
-  * rinnoh : 부드럽다, 유연성
-    * rinnohra : 흐르다, 액체
-  * rinya : 곧게 펴다 / 직선
-    * rinyanoh : 딱딱하다, 단단하다, 고체
-  * rinra : 꺾다, 부러뜨리다 / 각
-    * rinranoh : 취성
+* **te** : 구부리다 / 곡선
+  * tenoh : 부드럽다, 유연성
+    * tenohra : 흐르다, 액체
+  * teya : 곧게 펴다 / 직선
+    * teyanoh : 딱딱하다, 단단하다, 고체
+  * tera : 꺾다, 부러뜨리다 / 각
+    * teranoh : 취성
 * **cuun** : 좋다
   * cuunya : 나쁘다
 * **con** : 상황
@@ -187,10 +187,10 @@
 * **yu** : 걸다, 매달다
 * **ni** : 이동시키다
   * 활용법
-    * ni ha rin : 곡선 위에서 이동시키다
-    * ni ha rinya : 직선 위에서 이동시키다
-    * ni ha sasra : 물 위에서 이동시키다
-    * ni haya sasra : 물 아래에서 이동시키다
+    * ni ha te : 곡선 위에서 이동시키다
+    * ni ha teya : 직선 위에서 이동시키다
+    * ni ha tenohra : 물 위에서 이동시키다
+    * ni haya tenohra : 물 아래에서 이동시키다
     * [O] [S]ni hu ~ : ~로 위장시키다
       * 규칙2, [S]ni hu ~ ~로 위장하다, ~인 척하다, ~를 흉내내다
 
@@ -237,7 +237,7 @@ con nasita huya naya. naconcuunya. nacon nayahutes. cuunya nayacontes.
 
 **일상**
 
-nara nasine cui. nacuisas. nacui narasihar ne nato. 
+nara nasine cui. nacuitenoh. nacui narasihar ne nato. 
 soos os naruru. nacon narurusita ne naruruto.
 natohu naruruto.
 

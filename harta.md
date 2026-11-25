@@ -48,7 +48,6 @@
   * rorya : 어둡다
 * **to** : 흙, 땅
   * tora : 시간
-  * toti : 산
   * sasrato : 진흙
   * tosasra : 유리
   * tocon : 더럽다, 오염된

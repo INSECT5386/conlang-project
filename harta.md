@@ -71,13 +71,13 @@
   * naci : 근처에, 가까운, 이것
   * nati : 먼 곳에, 먼, 저것
   * nane : 가구, 실내 사물
-* **rin** : 굽은, 구부러진, 곡선
-  * rinya : 곧은, 직선
-  * rinra : 각, 꺾인
-  * rincorya : 원, 둥글다
-* **sas** : 부드럽다
-  * sasya : 딱딱하다, 단단하다, 고체
-  * sasra : 흐르다, 액체
+* **rin** : 구부리다 / 곡선
+  * rinnoh : 부드럽다, 유연성
+    * rinnohra : 흐르다, 액체
+  * rinya : 곧게 펴다 / 직선
+    * rinyanoh : 딱딱하다, 단단하다, 고체
+  * rinra : 꺾다, 부러뜨리다 / 각
+    * rinranoh : 취성
 * **cuun** : 좋다
   * cuunya : 나쁘다
 * **con** : 상황

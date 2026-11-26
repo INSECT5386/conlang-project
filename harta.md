@@ -213,7 +213,7 @@
 **감정 표현**
 
 nayatorates. nasicoon.
-nayasaoyates. nasita saoya naya. toracoon.
+nayahuyates. nasita saoya naya. toracoon.
 nasita huya naya. toracoonya.
 coonya nayatorates.
 

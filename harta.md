@@ -217,6 +217,11 @@ nayasaoyates. nasita saoya naya. toracoon.
 nasita huya naya. toracoonya.
 coonya nayatorates.
 
+내가 생각하다. 그는 좋다. (그는 좋은 사람이다)
+나는 원하다. 그가 나의 앞에 만들다. 상황이 좋다. (나는 그가 좋은 상황을 만들어주길 원하다)
+그는 나의 앞에 만들다. 상황이 나쁘다. (하지만, 그는 나쁜 상황을 만들다)
+나쁜 것을 내가 느끼다. (나는 기분이 나쁘다)
+
 **일상**
 
 nara nasine coi. nacoitenoi.

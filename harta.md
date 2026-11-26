@@ -198,3 +198,17 @@
 열다-닫다
 / 누르다
 묶다
+
+**감정 표현**
+
+nayatorates. nasicoon.
+nayasaoyates. nasita saoya naya. toracoon.
+nasita huya naya. toracoonya.
+coonya nayatorayes.
+
+**일상**
+
+nara nasine coi. nacoitenoi.
+nacoi narahar ne nato.
+nayayasita ne nayayato. soos os nayaya.
+natohu nayayato.

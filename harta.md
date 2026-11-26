@@ -188,10 +188,10 @@
 * **yu** : 걸다, 매달다
 * **ni** : 이동시키다
   * 활용법
-    * ni ha te : 곡선 위에서 이동시키다
-    * ni ha teya : 직선 위에서 이동시키다
-    * ni ha tenoira : 물 위에서 이동시키다
-    * ni haya tenoira : 물 아래에서 이동시키다
+    * ni sao te : 곡선 위에서 이동시키다
+    * ni sao teya : 직선 위에서 이동시키다
+    * ni sao tenoira : 물 위에서 이동시키다
+    * ni saoya tenoira : 물 아래에서 이동시키다
     * [O] [S]ni hu ~ : ~로 위장시키다
       * 규칙2, [S]ni hu ~ ~로 위장하다, ~인 척하다, ~를 흉내내다
 

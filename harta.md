@@ -63,7 +63,7 @@
 * **rio** : 냄새, 공기
 * **na** : 거리, 그 어떤 것
   * nayaya : 다른 것
-    * A un B os nayaya : A와 B는 서로 다르다
+    * A on B os nayaya : A와 B는 서로 다르다
   * naya : 나
     * nayara : 우리
   * nara : 모든, 전체
@@ -106,7 +106,7 @@
     * [O] [S]ta : 만들다
       * [S]ta. ~ : 그 상황을 만들다, 강제하다, -하게 만들다
       * [S]ta. A os B : A를 B로 만들다
-        * [S]ta. A un B os yno : 하나로 만들다, 합치다, 섞다
+        * [S]ta. A on B os yno : 하나로 만들다, 합치다, 섞다
   * 활용 예문
     * naya on naci nasita.
       * 직역 : 나와 이자를 그자가 만들다
@@ -135,8 +135,8 @@
   * 활용법
     * [O] [S]ron ~ : ~에 끼워넣다, 박다, 찌르다
       * natora [S]ron ~ : ~에게 약속하다
-    * [O] [S]ron A un B : A와 B 사이에 배치하다
-    * 규칙2, [S]ron A un B : A와 B 사이를 가로막다
+    * [O] [S]ron A on B : A와 B 사이에 배치하다
+    * 규칙2, [S]ron A on B : A와 B 사이를 가로막다
 * **sao** : 올려놓다, 자유민으로 만들다 / 위쪽의 것, 위에, 위에서
   * 부정 접미사형, saoya : ~할 권리가 없다, ~에 반대되는 의무가 있다
   * saosi : 쌓다, 누적시키다
@@ -156,12 +156,12 @@
     * 부정 접미사형, huya : ~하기 이전이다
 * **har**: 보다
   * 활용법
-    * [O] [S]har ron [O] un A : [O]와 [A] 중에서 [O]를 고르다
+    * [O] [S]har ron [O] on A : [O]와 [A] 중에서 [O]를 고르다
     * [S1]ta. [O] [S2]har : [O]에게 겨누다/기울이다, [O]을 향해 돌리다, [O]을 지목하다
     * nanai [S]har : (언어가 아닌 소리를) 듣다
     * nario [S]har : 맡다
   * 활용 예문
-    * nato nayahar ron nato un natito. natoti.
+    * nato nayahar ron nato on natito. natoti.
       * 직역 : 그 땅과 저 땅 중에 그 땅을 고르다. 그 땅이 크다.
       * 의역 : 그 땅이 저 땅보다 더 크다
 * **tes** : 먹다, 삼키다, 마시다

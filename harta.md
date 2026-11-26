@@ -215,7 +215,7 @@
 nayatorates. nasicoon.
 nayasaoyates. nasita saoya naya. toracoon.
 nasita huya naya. toracoonya.
-coonya nayatorayes.
+coonya nayatorates.
 
 **일상**
 

@@ -207,9 +207,9 @@
 
 **감정 표현**
 
-nayatorates. nasicoon.
-nayahuyates. nasita saoya naya. toracoon.
-nasita huya naya. toracoonya.
+nacoon. nayatorates.
+toracoon. nasita. nayahuyates.
+toracoonya. nasita.
 coonya nayatorates.
 
 내가 생각하다. 그는 좋다. (그는 좋은 사람이다)
@@ -218,17 +218,3 @@ coonya nayatorates.
 나쁜 것을 내가 느끼다. (나는 기분이 나쁘다)
 
 (나는 너에게 실망했다)
-
-**일상**
-
-nara nasine coi. nacoitenoi.
-nacoi narahar ne nato.
-nayayasita ne nayayato. soos os nayaya.
-natohu nayayato.
-
-모든 것을 그가 나무에 기록하다. 그 나무는 부드럽다. (모든 것을 그가 종이에 기록하다)
-그 나무를 모든 것이 그 곳에서 본다. (그 종이를 모든 것이 그곳에서 보다)
-다른 자가 다른 곳에서 만들다. 금속이 다른 것이다. (다른 자가 다른 곳에서 철을 다른 것으로 만들다)
-그 곳은 그 다른 곳 뒤에 있다. (그곳은 그 다른 곳 뒤에 있다)
-
-(도서관은 제철소 뒤에 있다)

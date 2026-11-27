@@ -207,14 +207,9 @@
 
 **감정 표현**
 
-nacoon. nayatorates.
-toracoon. nasita. nayahuyates.
-toracoonya. nasita.
-coonya nayatorates.
+nacoon. nayatorates. (그가 좋다. 내가 생각하다.)
+toracoon. nata. nayahuyates. (상황이 좋다. 그가 만들다. 내가 원하다.)
+toracoonya. nata. (상황이 나쁘다. 그가 만들다)
+coonya nayatorates. (나쁜 것을 내가 느끼다)
 
-내가 생각하다. 그는 좋다. (그는 좋은 사람이다)
-나는 원하다. 그가 나의 앞에 만들다. 상황이 좋다. (나는 그가 좋은 상황을 만들어주길 원하다)
-그는 나의 앞에 만들다. 상황이 나쁘다. (하지만, 그는 나쁜 상황을 만들다)
-나쁜 것을 내가 느끼다. (나는 기분이 나쁘다)
-
-(나는 너에게 실망했다)
+(나는 그에게 실망하다)

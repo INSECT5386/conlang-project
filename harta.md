@@ -134,9 +134,9 @@
     * [O] [S]sao ~ : ~에 올려놓다, ~의 자유민으로 만들다
     * 규칙2, [S]sao ~ : ~의 자유를 얻다
     * [O] [S]sao [S] : 들다, 지탱하다, 돕다
-      * 규칙2, [S]sao [S] : 서다
+      * yha [S]sao yha : 서다
   * 활용 예문
-    * nayata. Nasisaoya nara
+    * nasaoya nara. nayata.
       * 직역 : ~의 자유를 그가 얻지 않다. 모든 것. 그 상황을 내가 강제하다.
       * 의역 : 그의 모든 자유를 내가 박탈한다. (노예화, 식민지화, 통제)
 * **hu** : 뒤에 놓다, 숨기다, 보호하다 / 뒤쪽의 것, 뒤에, 뒤에서
@@ -157,12 +157,12 @@
     * torates : 느끼다, 생각하다
     * hutes : 원하지 않는다
     * huyates : 원하다
-      * nahuyates : 어떤 이유, 왜
+      * huyatesnoi : 어떤 이유, 왜
   * 활용법
     * [O] [S]tes : 먹다
     * rio [S]tes : 숨 쉬다
     * naneya. na [S]tes : 핥다, 겉을 먹다
-    * [S]torates : [S]의 자아
+    * yha [S]torates : [S]의 자아
 * **cor** : 할퀴다, 찢다
   * corra : 자르다, 끊다
   * 활용법

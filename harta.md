@@ -50,13 +50,11 @@
 * **ti** : 크다
 * **to** : 흙, 땅
   * tora : 시간, 상황
-  * tenoirato : 진흙
-  * totenoira : 유리
   * totora : 더럽다, 오염된
     * totoraya : 깨끗하다, 청결한
 * **coi** : 나무
-  * coitenoi : 나무 섬유, 종이
-  * coisaora : 번개
+  * na coitenoi : 나무 섬유, 종이
+  * ha yha coisaora : 번개
   * na coita : 과일, 열매
 * **soos** : 금속
 * **sai** : 조류, 새
@@ -64,7 +62,7 @@
 * **nai** : 소리, 파동
 * **rio** : 냄새, 공기
 * **ha** : (1번 조어론을 따르는, -하는 것처럼 보이는) 그 어떤 것
-* **na** : (2번 조어론을 따르거나 그 자체로 이미 명사인) 그 어떤 것
+* **na** : (2번 조어론을 따르거나 그 자체로 이미 명사인, -하는) 그 어떤 것
   * nayaya : 다른 것
     * A on B os nayaya : A와 B는 서로 다르다
   * naya : 나

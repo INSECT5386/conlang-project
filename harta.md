@@ -124,7 +124,7 @@
   * 활용법
     * [O] [S]sao ~ : ~에 올려놓다, ~의 자유민으로 만들다
       * yha [S]sao ~ : ~의 자유를 얻다
-    * [O] [S]sao [S] : 들다, 지탱하다, 돕다
+    * [O] [S]sao yha : 들다, 지탱하다, 돕다
       * yha [S]sao yha : 서다
   * 활용 예문
     * yha nasaoya nara. nayata.
